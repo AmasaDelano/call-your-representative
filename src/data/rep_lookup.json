@@ -140,7 +140,7 @@
         "last_name": "Alsobrooks",
         "rep_type": "sen",
         "state": "MD",
-        "website": "https://www.alsobrooks.senate.gov"
+        "website": "https://alsobrooks.senate.gov/"
     },
     "B000490": {
         "contact_file": "sanford-bishop-rep-GA",
@@ -205,7 +205,7 @@
         "last_name": "Baldwin",
         "rep_type": "sen",
         "state": "WI",
-        "website": "https://www.baldwin.senate.gov"
+        "website": "https://www.baldwin.senate.gov/feedback"
     },
     "B001236": {
         "contact_file": "john-boozman-sen-AR",
@@ -218,7 +218,7 @@
         "last_name": "Boozman",
         "rep_type": "sen",
         "state": "AR",
-        "website": "https://www.boozman.senate.gov/public"
+        "website": "https://www.boozman.senate.gov/public/index.cfm/contact"
     },
     "B001243": {
         "contact_file": "marsha-blackburn-sen-TN",
@@ -231,7 +231,7 @@
         "last_name": "Blackburn",
         "rep_type": "sen",
         "state": "TN",
-        "website": "https://www.blackburn.senate.gov"
+        "website": "https://www.blackburn.senate.gov/email-me"
     },
     "B001257": {
         "contact_file": "gus-bilirakis-rep-FL",
@@ -270,7 +270,7 @@
         "last_name": "Barrasso",
         "rep_type": "sen",
         "state": "WY",
-        "website": "https://www.barrasso.senate.gov"
+        "website": "https://www.barrasso.senate.gov/public/index.cfm/contact-form"
     },
     "B001267": {
         "contact_file": "michael-bennet-sen-CO",
@@ -283,7 +283,7 @@
         "last_name": "Bennet",
         "rep_type": "sen",
         "state": "CO",
-        "website": "https://www.bennet.senate.gov"
+        "website": "https://www.bennet.senate.gov/public/index.cfm/contact"
     },
     "B001277": {
         "contact_file": "richard-blumenthal-sen-CT",
@@ -296,7 +296,7 @@
         "last_name": "Blumenthal",
         "rep_type": "sen",
         "state": "CT",
-        "website": "https://www.blumenthal.senate.gov"
+        "website": "https://www.blumenthal.senate.gov/contact/"
     },
     "B001278": {
         "contact_file": "suzanne-bonamici-rep-OR",
@@ -374,7 +374,7 @@
         "last_name": "Booker",
         "rep_type": "sen",
         "state": "NJ",
-        "website": "https://www.booker.senate.gov"
+        "website": "https://www.booker.senate.gov/?p=contact"
     },
     "B001291": {
         "contact_file": "brian-babin-rep-TX",
@@ -517,7 +517,7 @@
         "last_name": "Budd",
         "rep_type": "sen",
         "state": "NC",
-        "website": "https://www.budd.senate.gov"
+        "website": "https://www.budd.senate.gov/contact/"
     },
     "B001306": {
         "contact_file": "troy-balderson-rep-OH",
@@ -647,7 +647,7 @@
         "last_name": "Britt",
         "rep_type": "sen",
         "state": "AL",
-        "website": "https://www.britt.senate.gov"
+        "website": "https://www.britt.senate.gov/contact/"
     },
     "B001321": {
         "contact_file": "tom-barrett-rep-MI",
@@ -764,7 +764,7 @@
         "last_name": "Cantwell",
         "rep_type": "sen",
         "state": "WA",
-        "website": "https://www.cantwell.senate.gov"
+        "website": "https://www.cantwell.senate.gov/public/index.cfm/email-maria"
     },
     "C000537": {
         "contact_file": "jim-clyburn-rep-SC",
@@ -790,7 +790,7 @@
         "last_name": "Crapo",
         "rep_type": "sen",
         "state": "ID",
-        "website": "https://www.crapo.senate.gov"
+        "website": "https://www.crapo.senate.gov/contact"
     },
     "C001035": {
         "contact_file": "susan-collins-sen-ME",
@@ -803,7 +803,7 @@
         "last_name": "Collins",
         "rep_type": "sen",
         "state": "ME",
-        "website": "https://www.collins.senate.gov"
+        "website": "https://www.collins.senate.gov/contact"
     },
     "C001039": {
         "contact_file": "kat-cammack-rep-FL",
@@ -829,7 +829,7 @@
         "last_name": "Capito",
         "rep_type": "sen",
         "state": "WV",
-        "website": "https://www.capito.senate.gov"
+        "website": "https://www.capito.senate.gov/contact/contact-shelley"
     },
     "C001051": {
         "contact_file": "john-carter-rep-TX",
@@ -881,7 +881,7 @@
         "last_name": "Cornyn",
         "rep_type": "sen",
         "state": "TX",
-        "website": "https://www.cornyn.senate.gov"
+        "website": "https://www.cornyn.senate.gov/contact"
     },
     "C001059": {
         "contact_file": "jim-costa-rep-CA",
@@ -998,7 +998,7 @@
         "last_name": "Cassidy",
         "rep_type": "sen",
         "state": "LA",
-        "website": "https://www.cassidy.senate.gov"
+        "website": "https://www.cassidy.senate.gov/contact"
     },
     "C001078": {
         "contact_file": "gerald-connolly-rep-VA",
@@ -1050,7 +1050,7 @@
         "last_name": "Coons",
         "rep_type": "sen",
         "state": "DE",
-        "website": "https://www.coons.senate.gov"
+        "website": "https://www.coons.senate.gov/contact"
     },
     "C001091": {
         "contact_file": "joaquin-castro-rep-TX",
@@ -1076,7 +1076,7 @@
         "last_name": "Cotton",
         "rep_type": "sen",
         "state": "AR",
-        "website": "https://www.cotton.senate.gov"
+        "website": "https://www.cotton.senate.gov/contact/contact-tom"
     },
     "C001096": {
         "contact_file": "kevin-cramer-sen-ND",
@@ -1089,7 +1089,7 @@
         "last_name": "Cramer",
         "rep_type": "sen",
         "state": "ND",
-        "website": "https://www.cramer.senate.gov"
+        "website": "https://www.cramer.senate.gov/contact/contact-kevin"
     },
     "C001098": {
         "contact_file": "ted-cruz-sen-TX",
@@ -1102,7 +1102,7 @@
         "last_name": "Cruz",
         "rep_type": "sen",
         "state": "TX",
-        "website": "https://www.cruz.senate.gov"
+        "website": "https://www.cruz.senate.gov/?p=form&id=16"
     },
     "C001101": {
         "contact_file": "katherine-clark-rep-MA",
@@ -1180,7 +1180,7 @@
         "last_name": "Cortez Masto",
         "rep_type": "sen",
         "state": "NV",
-        "website": "https://www.cortezmasto.senate.gov"
+        "website": "https://www.cortezmasto.senate.gov/contact"
     },
     "C001114": {
         "contact_file": "john-curtis-sen-UT",
@@ -1531,7 +1531,7 @@
         "last_name": "Durbin",
         "rep_type": "sen",
         "state": "IL",
-        "website": "https://www.durbin.senate.gov"
+        "website": "https://www.durbin.senate.gov/contact/"
     },
     "D000594": {
         "contact_file": "monica-de-la-cruz-rep-TX",
@@ -1596,7 +1596,7 @@
         "last_name": "Daines",
         "rep_type": "sen",
         "state": "MT",
-        "website": "https://www.daines.senate.gov"
+        "website": "https://www.daines.senate.gov/connect/email-steve"
     },
     "D000622": {
         "contact_file": "tammy-duckworth-sen-IL",
@@ -1609,7 +1609,7 @@
         "last_name": "Duckworth",
         "rep_type": "sen",
         "state": "IL",
-        "website": "https://www.duckworth.senate.gov"
+        "website": "https://www.duckworth.senate.gov/content/contact-senator"
     },
     "D000623": {
         "contact_file": "mark-desaulnier-rep-CA",
@@ -1778,7 +1778,7 @@
         "last_name": "Ernst",
         "rep_type": "sen",
         "state": "IA",
-        "website": "https://www.ernst.senate.gov"
+        "website": "https://www.ernst.senate.gov/public/index.cfm/contact"
     },
     "E000296": {
         "contact_file": "dwight-evans-rep-PA",
@@ -1960,7 +1960,7 @@
         "last_name": "Fischer",
         "rep_type": "sen",
         "state": "NE",
-        "website": "https://www.fischer.senate.gov"
+        "website": "https://www.fischer.senate.gov/public/index.cfm/contact"
     },
     "F000466": {
         "contact_file": "brian-fitzpatrick-rep-PA",
@@ -2116,7 +2116,7 @@
         "last_name": "Fetterman",
         "rep_type": "sen",
         "state": "PA",
-        "website": "https://www.fetterman.senate.gov"
+        "website": "https://www.fetterman.senate.gov/contact/"
     },
     "F000480": {
         "contact_file": "vince-fong-rep-CA",
@@ -2181,7 +2181,7 @@
         "last_name": "Graham",
         "rep_type": "sen",
         "state": "SC",
-        "website": "https://www.lgraham.senate.gov/public"
+        "website": "https://www.lgraham.senate.gov/public/index.cfm/e-mail-senator-graham"
     },
     "G000386": {
         "contact_file": "chuck-grassley-sen-IA",
@@ -2194,7 +2194,7 @@
         "last_name": "Grassley",
         "rep_type": "sen",
         "state": "IA",
-        "website": "https://www.grassley.senate.gov"
+        "website": "https://www.grassley.senate.gov/contact"
     },
     "G000546": {
         "contact_file": "sam-graves-rep-MO",
@@ -2233,7 +2233,7 @@
         "last_name": "Gillibrand",
         "rep_type": "sen",
         "state": "NY",
-        "website": "https://www.gillibrand.senate.gov"
+        "website": "https://www.gillibrand.senate.gov/contact/email-me"
     },
     "G000558": {
         "contact_file": "brett-guthrie-rep-KY",
@@ -2597,7 +2597,7 @@
         "last_name": "Hickenlooper",
         "rep_type": "sen",
         "state": "CO",
-        "website": "https://www.hickenlooper.senate.gov"
+        "website": "https://www.hickenlooper.senate.gov/contact/"
     },
     "H000601": {
         "contact_file": "bill-hagerty-sen-TN",
@@ -2610,7 +2610,7 @@
         "last_name": "Hagerty",
         "rep_type": "sen",
         "state": "TN",
-        "website": "https://www.hagerty.senate.gov"
+        "website": "https://www.hagerty.senate.gov/email-me/"
     },
     "H000874": {
         "contact_file": "steny-hoyer-rep-MD",
@@ -2636,7 +2636,7 @@
         "last_name": "Hirono",
         "rep_type": "sen",
         "state": "HI",
-        "website": "https://www.hirono.senate.gov"
+        "website": "https://www.hirono.senate.gov/contact"
     },
     "H001046": {
         "contact_file": "martin-heinrich-sen-NM",
@@ -2649,7 +2649,7 @@
         "last_name": "Heinrich",
         "rep_type": "sen",
         "state": "NM",
-        "website": "https://www.heinrich.senate.gov"
+        "website": "https://www.heinrich.senate.gov/contact"
     },
     "H001047": {
         "contact_file": "jim-himes-rep-CT",
@@ -2701,7 +2701,7 @@
         "last_name": "Hoeven",
         "rep_type": "sen",
         "state": "ND",
-        "website": "https://www.hoeven.senate.gov"
+        "website": "https://www.hoeven.senate.gov/contact/contact-the-senator"
     },
     "H001066": {
         "contact_file": "steven-horsford-rep-NV",
@@ -2766,7 +2766,7 @@
         "last_name": "Hassan",
         "rep_type": "sen",
         "state": "NH",
-        "website": "https://www.hassan.senate.gov"
+        "website": "https://www.hassan.senate.gov/content/contact-senator"
     },
     "H001077": {
         "contact_file": "clay-higgins-rep-LA",
@@ -2792,7 +2792,7 @@
         "last_name": "Hyde-Smith",
         "rep_type": "sen",
         "state": "MS",
-        "website": "https://www.hydesmith.senate.gov"
+        "website": "https://www.hydesmith.senate.gov/contact-senator"
     },
     "H001081": {
         "contact_file": "jahana-hayes-rep-CT",
@@ -2857,7 +2857,7 @@
         "last_name": "Hawley",
         "rep_type": "sen",
         "state": "MO",
-        "website": "https://www.hawley.senate.gov"
+        "website": "https://www.hawley.senate.gov/contact-senator-hawley"
     },
     "H001090": {
         "contact_file": "josh-harder-rep-CA",
@@ -3091,7 +3091,7 @@
         "last_name": "Johnson",
         "rep_type": "sen",
         "state": "WI",
-        "website": "https://www.ronjohnson.senate.gov"
+        "website": "https://www.ronjohnson.senate.gov/public/index.cfm/email-the-senator"
     },
     "J000294": {
         "contact_file": "hakeem-jeffries-rep-NY",
@@ -3286,7 +3286,7 @@
         "last_name": "Klobuchar",
         "rep_type": "sen",
         "state": "MN",
-        "website": "https://www.klobuchar.senate.gov"
+        "website": "https://www.klobuchar.senate.gov/public/index.cfm/contact"
     },
     "K000375": {
         "contact_file": "william-keating-rep-MA",
@@ -3325,7 +3325,7 @@
         "last_name": "Kelly",
         "rep_type": "sen",
         "state": "AZ",
-        "website": "https://www.kelly.senate.gov"
+        "website": "https://www.kelly.senate.gov/contact/contact-form/"
     },
     "K000383": {
         "contact_file": "angus-king-sen-ME",
@@ -3338,7 +3338,7 @@
         "last_name": "King",
         "rep_type": "sen",
         "state": "ME",
-        "website": "https://www.king.senate.gov"
+        "website": "https://www.king.senate.gov/contact"
     },
     "K000384": {
         "contact_file": "tim-kaine-sen-VA",
@@ -3351,7 +3351,7 @@
         "last_name": "Kaine",
         "rep_type": "sen",
         "state": "VA",
-        "website": "https://www.kaine.senate.gov"
+        "website": "https://www.kaine.senate.gov/contact"
     },
     "K000385": {
         "contact_file": "robin-kelly-rep-IL",
@@ -3429,7 +3429,7 @@
         "last_name": "Kennedy",
         "rep_type": "sen",
         "state": "LA",
-        "website": "https://www.kennedy.senate.gov/public"
+        "website": "https://www.kennedy.senate.gov/public/email-me"
     },
     "K000394": {
         "contact_file": "andy-kim-sen-NJ",
@@ -3663,7 +3663,7 @@
         "last_name": "Luj\u00e1n",
         "rep_type": "sen",
         "state": "NM",
-        "website": "https://www.lujan.senate.gov"
+        "website": "https://www.lujan.senate.gov/contact/"
     },
     "L000571": {
         "contact_file": "cynthia-lummis-sen-WY",
@@ -3676,7 +3676,7 @@
         "last_name": "Lummis",
         "rep_type": "sen",
         "state": "WY",
-        "website": "https://www.lummis.senate.gov"
+        "website": "https://www.lummis.senate.gov/contact/contact-form/"
     },
     "L000575": {
         "contact_file": "james-lankford-sen-OK",
@@ -3689,7 +3689,7 @@
         "last_name": "Lankford",
         "rep_type": "sen",
         "state": "OK",
-        "website": "https://www.lankford.senate.gov"
+        "website": "https://www.lankford.senate.gov/contact/email"
     },
     "L000577": {
         "contact_file": "mike-lee-sen-UT",
@@ -3702,7 +3702,7 @@
         "last_name": "Lee",
         "rep_type": "sen",
         "state": "UT",
-        "website": "https://www.lee.senate.gov"
+        "website": "https://www.lee.senate.gov/public/index.cfm/contact"
     },
     "L000578": {
         "contact_file": "doug-lamalfa-rep-CA",
@@ -3936,7 +3936,7 @@
         "last_name": "Markey",
         "rep_type": "sen",
         "state": "MA",
-        "website": "https://www.markey.senate.gov"
+        "website": "https://www.markey.senate.gov/contact"
     },
     "M000194": {
         "contact_file": "nancy-mace-rep-SC",
@@ -3988,7 +3988,7 @@
         "last_name": "McConnell",
         "rep_type": "sen",
         "state": "KY",
-        "website": "https://www.mcconnell.senate.gov"
+        "website": "https://www.mcconnell.senate.gov/public/index.cfm?p=contact"
     },
     "M000687": {
         "contact_file": "kweisi-mfume-rep-MD",
@@ -4027,7 +4027,7 @@
         "last_name": "Moran",
         "rep_type": "sen",
         "state": "KS",
-        "website": "https://www.moran.senate.gov"
+        "website": "https://www.moran.senate.gov/public/index.cfm/e-mail-jerry"
     },
     "M001111": {
         "contact_file": "patty-murray-sen-WA",
@@ -4040,7 +4040,7 @@
         "last_name": "Murray",
         "rep_type": "sen",
         "state": "WA",
-        "website": "https://www.murray.senate.gov"
+        "website": "https://www.murray.senate.gov/write-to-patty/"
     },
     "M001136": {
         "contact_file": "lisa-mcclain-rep-MI",
@@ -4092,7 +4092,7 @@
         "last_name": "Murkowski",
         "rep_type": "sen",
         "state": "AK",
-        "website": "https://www.murkowski.senate.gov"
+        "website": "https://www.murkowski.senate.gov/public/index.cfm/contact"
     },
     "M001157": {
         "contact_file": "michael-mccaul-rep-TX",
@@ -4144,7 +4144,7 @@
         "last_name": "Murphy",
         "rep_type": "sen",
         "state": "CT",
-        "website": "https://www.murphy.senate.gov"
+        "website": "https://www.murphy.senate.gov/contact"
     },
     "M001176": {
         "contact_file": "jeff-merkley-sen-OR",
@@ -4157,7 +4157,7 @@
         "last_name": "Merkley",
         "rep_type": "sen",
         "state": "OR",
-        "website": "https://www.merkley.senate.gov"
+        "website": "https://www.merkley.senate.gov/contact/"
     },
     "M001177": {
         "contact_file": "tom-mcclintock-rep-CA",
@@ -4209,7 +4209,7 @@
         "last_name": "Mullin",
         "rep_type": "sen",
         "state": "OK",
-        "website": "https://www.mullin.senate.gov"
+        "website": "https://www.mullin.senate.gov/contact/"
     },
     "M001194": {
         "contact_file": "john-moolenaar-rep-MI",
@@ -4248,7 +4248,7 @@
         "last_name": "Marshall",
         "rep_type": "sen",
         "state": "KS",
-        "website": "https://www.marshall.senate.gov"
+        "website": "https://www.marshall.senate.gov/contact/"
     },
     "M001199": {
         "contact_file": "brian-mast-rep-FL",
@@ -4742,7 +4742,7 @@
         "last_name": "McCormick",
         "rep_type": "sen",
         "state": "PA",
-        "website": "https://www.mccormick.senate.gov"
+        "website": "https://mccormick.senate.gov/"
     },
     "M001244": {
         "contact_file": "ashley-moody-sen-FL",
@@ -4937,7 +4937,7 @@
         "last_name": "Ossoff",
         "rep_type": "sen",
         "state": "GA",
-        "website": "https://www.ossoff.senate.gov"
+        "website": "https://www.ossoff.senate.gov/contact-us/"
     },
     "O000175": {
         "contact_file": "andrew-ogles-rep-TN",
@@ -5015,7 +5015,7 @@
         "last_name": "Padilla",
         "rep_type": "sen",
         "state": "CA",
-        "website": "https://www.padilla.senate.gov"
+        "website": "https://www.padilla.senate.gov/contact/"
     },
     "P000197": {
         "contact_file": "nancy-pelosi-rep-CA",
@@ -5041,7 +5041,7 @@
         "last_name": "Peters",
         "rep_type": "sen",
         "state": "MI",
-        "website": "https://www.peters.senate.gov"
+        "website": "https://www.peters.senate.gov/contact/email-gary"
     },
     "P000597": {
         "contact_file": "chellie-pingree-rep-ME",
@@ -5067,7 +5067,7 @@
         "last_name": "Paul",
         "rep_type": "sen",
         "state": "KY",
-        "website": "https://www.paul.senate.gov"
+        "website": "https://www.paul.senate.gov/connect/email-rand"
     },
     "P000605": {
         "contact_file": "scott-perry-rep-PA",
@@ -5223,7 +5223,7 @@
         "last_name": "Reed",
         "rep_type": "sen",
         "state": "RI",
-        "website": "https://www.reed.senate.gov"
+        "website": "https://www.reed.senate.gov/contact/"
     },
     "R000305": {
         "contact_file": "deborah-ross-rep-NC",
@@ -5288,7 +5288,7 @@
         "last_name": "Risch",
         "rep_type": "sen",
         "state": "ID",
-        "website": "https://www.risch.senate.gov"
+        "website": "https://www.risch.senate.gov/public/index.cfm?p=Email"
     },
     "R000599": {
         "contact_file": "raul-ruiz-rep-CA",
@@ -5340,7 +5340,7 @@
         "last_name": "Rounds",
         "rep_type": "sen",
         "state": "SD",
-        "website": "https://www.rounds.senate.gov"
+        "website": "https://www.rounds.senate.gov/contact/email-mike"
     },
     "R000606": {
         "contact_file": "jamie-raskin-rep-MD",
@@ -5366,7 +5366,7 @@
         "last_name": "Rosen",
         "rep_type": "sen",
         "state": "NV",
-        "website": "https://www.rosen.senate.gov"
+        "website": "https://www.rosen.senate.gov/contact_jacky"
     },
     "R000609": {
         "contact_file": "john-rutherford-rep-FL",
@@ -5444,7 +5444,7 @@
         "last_name": "Ricketts",
         "rep_type": "sen",
         "state": "NE",
-        "website": "https://www.ricketts.senate.gov"
+        "website": "https://www.ricketts.senate.gov/contact/"
     },
     "R000619": {
         "contact_file": "michael-rulli-rep-OH",
@@ -5509,7 +5509,7 @@
         "last_name": "Sanders",
         "rep_type": "sen",
         "state": "VT",
-        "website": "https://www.sanders.senate.gov"
+        "website": "https://www.sanders.senate.gov/contact/"
     },
     "S000148": {
         "contact_file": "chuck-schumer-sen-NY",
@@ -5522,7 +5522,7 @@
         "last_name": "Schumer",
         "rep_type": "sen",
         "state": "NY",
-        "website": "https://www.schumer.senate.gov"
+        "website": "https://www.schumer.senate.gov/contact/email-chuck"
     },
     "S000168": {
         "contact_file": "maria-salazar-rep-FL",
@@ -5730,7 +5730,7 @@
         "last_name": "Shaheen",
         "rep_type": "sen",
         "state": "NH",
-        "website": "https://www.shaheen.senate.gov"
+        "website": "https://www.shaheen.senate.gov/contact/contact-jeanne"
     },
     "S001183": {
         "contact_file": "david-schweikert-rep-AZ",
@@ -5756,7 +5756,7 @@
         "last_name": "Scott",
         "rep_type": "sen",
         "state": "SC",
-        "website": "https://www.scott.senate.gov"
+        "website": "https://www.scott.senate.gov/contact/email-me"
     },
     "S001185": {
         "contact_file": "terri-sewell-rep-AL",
@@ -5834,7 +5834,7 @@
         "last_name": "Schatz",
         "rep_type": "sen",
         "state": "HI",
-        "website": "https://www.schatz.senate.gov"
+        "website": "https://www.schatz.senate.gov/contact"
     },
     "S001195": {
         "contact_file": "jason-smith-rep-MO",
@@ -5873,7 +5873,7 @@
         "last_name": "Sullivan",
         "rep_type": "sen",
         "state": "AK",
-        "website": "https://www.sullivan.senate.gov"
+        "website": "https://www.sullivan.senate.gov/contact/email"
     },
     "S001199": {
         "contact_file": "lloyd-smucker-rep-PA",
@@ -5925,7 +5925,7 @@
         "last_name": "Smith",
         "rep_type": "sen",
         "state": "MN",
-        "website": "https://www.smith.senate.gov"
+        "website": "https://www.smith.senate.gov/share-your-opinion/"
     },
     "S001205": {
         "contact_file": "mary-scanlon-rep-PA",
@@ -6055,7 +6055,7 @@
         "last_name": "Scott",
         "rep_type": "sen",
         "state": "FL",
-        "website": "https://www.rickscott.senate.gov"
+        "website": "https://www.rickscott.senate.gov/contact/contact"
     },
     "S001218": {
         "contact_file": "melanie-stansbury-rep-NM",
@@ -6159,7 +6159,7 @@
         "last_name": "Schmitt",
         "rep_type": "sen",
         "state": "MO",
-        "website": "https://www.schmitt.senate.gov"
+        "website": "https://www.schmitt.senate.gov/contact/"
     },
     "S001228": {
         "contact_file": "derek-schmidt-rep-KS",
@@ -6263,7 +6263,7 @@
         "last_name": "Thune",
         "rep_type": "sen",
         "state": "SD",
-        "website": "https://www.thune.senate.gov"
+        "website": "https://www.thune.senate.gov/public/index.cfm/contact"
     },
     "T000278": {
         "contact_file": "tommy-tuberville-sen-AL",
@@ -6276,7 +6276,7 @@
         "last_name": "Tuberville",
         "rep_type": "sen",
         "state": "AL",
-        "website": "https://www.tuberville.senate.gov"
+        "website": "https://www.tuberville.senate.gov/contact/contact-form/"
     },
     "T000460": {
         "contact_file": "mike-thompson-rep-CA",
@@ -6380,7 +6380,7 @@
         "last_name": "Tillis",
         "rep_type": "sen",
         "state": "NC",
-        "website": "https://www.tillis.senate.gov"
+        "website": "https://www.tillis.senate.gov/public/index.cfm/email-me"
     },
     "T000478": {
         "contact_file": "claudia-tenney-rep-NY",
@@ -6536,7 +6536,7 @@
         "last_name": "Van Hollen",
         "rep_type": "sen",
         "state": "MD",
-        "website": "https://www.vanhollen.senate.gov"
+        "website": "https://www.vanhollen.senate.gov/contact/email"
     },
     "V000129": {
         "contact_file": "david-valadao-rep-CA",
@@ -6666,7 +6666,7 @@
         "last_name": "Wicker",
         "rep_type": "sen",
         "state": "MS",
-        "website": "https://www.wicker.senate.gov"
+        "website": "https://www.wicker.senate.gov/public/index.cfm/contact"
     },
     "W000779": {
         "contact_file": "ron-wyden-sen-OR",
@@ -6679,7 +6679,7 @@
         "last_name": "Wyden",
         "rep_type": "sen",
         "state": "OR",
-        "website": "https://www.wyden.senate.gov"
+        "website": "https://www.wyden.senate.gov/contact/"
     },
     "W000788": {
         "contact_file": "nikema-williams-rep-GA",
@@ -6705,7 +6705,7 @@
         "last_name": "Warnock",
         "rep_type": "sen",
         "state": "GA",
-        "website": "https://www.warnock.senate.gov"
+        "website": "https://www.warnock.senate.gov/contact/"
     },
     "W000795": {
         "contact_file": "joe-wilson-rep-SC",
@@ -6757,7 +6757,7 @@
         "last_name": "Welch",
         "rep_type": "sen",
         "state": "VT",
-        "website": "https://www.welch.senate.gov"
+        "website": "https://www.welch.senate.gov/email-peter/"
     },
     "W000802": {
         "contact_file": "sheldon-whitehouse-sen-RI",
@@ -6770,7 +6770,7 @@
         "last_name": "Whitehouse",
         "rep_type": "sen",
         "state": "RI",
-        "website": "https://www.whitehouse.senate.gov"
+        "website": "https://www.whitehouse.senate.gov/contact/email-sheldon"
     },
     "W000804": {
         "contact_file": "robert-wittman-rep-VA",
@@ -6796,7 +6796,7 @@
         "last_name": "Warner",
         "rep_type": "sen",
         "state": "VA",
-        "website": "https://www.warner.senate.gov"
+        "website": "https://www.warner.senate.gov/public/index.cfm?p=Contact"
     },
     "W000806": {
         "contact_file": "daniel-webster-rep-FL",
@@ -6887,7 +6887,7 @@
         "last_name": "Warren",
         "rep_type": "sen",
         "state": "MA",
-        "website": "https://www.warren.senate.gov"
+        "website": "https://www.warren.senate.gov/?p=email_senator"
     },
     "W000821": {
         "contact_file": "bruce-westerman-rep-AR",
@@ -6952,7 +6952,7 @@
         "last_name": "Young",
         "rep_type": "sen",
         "state": "IN",
-        "website": "https://www.young.senate.gov"
+        "website": "https://www.young.senate.gov/contact"
     },
     "Y000067": {
         "contact_file": "rudy-yakym-rep-IN",
@@ -7909,7 +7909,7 @@
         "first_name": "Tim",
         "gender": "M",
         "id": "ocd-person_023895b1-aeb4-410a-84d0-0059b3f10ee3",
-        "img_found": false,
+        "img_found": true,
         "is_state": true,
         "last_name": "McGinnis",
         "rep_type": "rep",
@@ -59948,7 +59948,7 @@
         "first_name": "Sean",
         "gender": "M",
         "id": "ocd-person_8d99d9dc-999d-438c-84c8-01d80f1ef5cd",
-        "img_found": false,
+        "img_found": true,
         "is_state": true,
         "last_name": "Durkin",
         "rep_type": "rep",
@@ -77836,7 +77836,7 @@
         "first_name": "Mary",
         "gender": "F",
         "id": "ocd-person_bdc7b519-4849-4992-b21b-f5563d642285",
-        "img_found": false,
+        "img_found": true,
         "is_state": true,
         "last_name": "Murphy",
         "rep_type": "rep",

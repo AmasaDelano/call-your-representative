@@ -74,7 +74,7 @@ lookup_data = {}
 missing_phone_numbers = []
 missing_images = []
 
-def create_contact_card_and_lookup_data(id, first_name, last_name, nickname, official_name, gender, phone, rep_type, district, state_abbr, is_state, committee_names, img_url, website):
+def create_contact_card_and_lookup_data(id, first_name, last_name, nickname, official_name, gender, phone, email, rep_type, district, state_abbr, is_state, committee_names, img_url, website):
     def clean_for_filename(text):
         return text.lower().replace(" ", "-").replace(".", "")
 
@@ -117,14 +117,22 @@ def create_contact_card_and_lookup_data(id, first_name, last_name, nickname, off
         rep_type_abbr = "delegate"
     else:
         raise Exception(f"New rep_type found: {rep_type}")
-    file_name = f"{clean_for_filename(nickname)}-{clean_for_filename(last_name)}-{rep_type_abbr}-{state_abbr}"
-    tagline = f"US {role}\\, {state_abbr}"
+    chamber = f"{state_abbr} {chamber}"
+    tagline = f"US {role} for {state_abbr}"
     if is_state:
-        tagline = f"{state_abbr} {role}"
+        tagline = f"{role} in {state_abbr} Legislature\\, District {district}"
+    elif rep_type != "sen":
+        tagline = f"US Congress, Representative from {state_abbr}\\, District {district}"
     committee_entries = ""
+    possessive_subject_pronoun = "they're"
+    if gender == "F":
+        possessive_subject_pronoun = "she's"
+    elif gender == "M":
+        possessive_subject_pronoun = "he's"
     if len(committee_names) > 0:
-        committee_entries = f"\\n\\nCommittees:\\n{"\\n".join(committee_names)}"
+        committee_entries = f"\\n\\nCommittees {possessive_subject_pronoun} on:\\n- {"\\n- ".join(committee_names)}"
 
+    file_name = f"{clean_for_filename(nickname)}-{clean_for_filename(last_name)}-{rep_type_abbr}-{state_abbr}"
     if phone is None:
         missing_phone_numbers.append(f"{first_name} {last_name}")
         print(f"Missing phone number for {role} {first_name} {last_name} ({id})")
@@ -132,14 +140,22 @@ def create_contact_card_and_lookup_data(id, first_name, last_name, nickname, off
     else:
         contact_file_path = f"{representatives_directory}/{file_name}.vcf"
         with open(contact_file_path, "w", encoding="utf-8") as file:
-            file.write(f"""BEGIN:VCARD
+            vcard_contents = f"""BEGIN:VCARD
 VERSION:3.0
 FN;CHARSET=UTF-8:{nickname} {last_name} ({chamber})
 N;CHARSET=UTF-8:{last_name} ({chamber});{nickname};;;
 TEL;TYPE=WORK,VOICE:{phone}
-NOTE;CHARSET=UTF-8:{tagline}{committee_entries}\\n\\n(Created {datetime.date.today()}\\, update at CallYourRepresentative.us)
+"""
+            if email:
+                vcard_contents += f"EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:{email}"
+            elif website:
+                vcard_contents += f"URL;CHARSET=UTF-8:{website.replace(",", "\\,").replace(";", "\\;")}"
+                
+            vcard_contents += f"""
+NOTE;CHARSET=UTF-8:{tagline}{committee_entries}\\n\\n(Created {datetime.date.today()}\\, update info at CallYourRepresentative.us)
 REV:{datetime.datetime.now().isoformat()}
-END:VCARD""")
+END:VCARD"""
+            file.write(vcard_contents)
             validator = VcardValidator(contact_file_path, True)
             # print(validator.result)
 
@@ -234,6 +250,7 @@ for member in state_members:
         official_name=member.name,
         gender=gender,
         phone=phone,
+        email=member.email,
         rep_type=rep_type,
         district=member.roles[0].district,
         state_abbr=state_abbr,
@@ -296,13 +313,14 @@ for member in members:
         official_name=member.name.official_full,
         gender=member.bio.gender,
         phone=current_term.phone,
+        email="",
         rep_type=current_term.type,
         district=current_term.district,
         state_abbr=current_term.state,
         is_state=False,
         committee_names=committee_names,
         img_url=f"https://unitedstates.github.io/images/congress/225x275/{member.id.bioguide}.jpg",
-        website=current_term.url)
+        website=current_term.contact_form or current_term.url)
 
 
 write_json_to_file(lookup_data, f"./src/data/rep_lookup.json")
