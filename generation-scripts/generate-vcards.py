@@ -146,24 +146,23 @@ END:VCARD""")
         print(f"Created contact file {file_name} ({id})")
 
     # DOWNLOAD HEADSHOT
-    img_found = False
-    if img_url is not None:
-        img_filepath = f"{representatives_directory}/../pics/{id}.jpg"
-        if OVERWRITE_IMAGES or not os.path.exists(img_filepath):
-            try:
-                img_from_url = requests.get(img_url, verify=False, timeout=30)
-                img_data = io.BytesIO(img_from_url.content)
-                img = Image.open(img_data)
-                img = img.convert("RGB")
-                new_height = 250
-                new_width = int((img.size[0] * new_height) / img.size[1])
-                new_size = (new_width, new_height)
-                img = img.resize(new_size, Image.LANCZOS)
-                img.save(img_filepath, "JPEG")
-                img_found = True
-            except Exception as error:
-                missing_images.append(f"{first_name} {last_name}: {img_url}")
-                print(f"ERROR COULD NOT DOWNLOAD AND RESIZE IMAGE FROM {img_url} to {img_filepath}: {error}")
+    img_filepath = f"{representatives_directory}/../pics/{id}.jpg"
+    img_found = os.path.exists(img_filepath)
+    if img_url is not None and (OVERWRITE_IMAGES or not img_found):
+        try:
+            img_from_url = requests.get(img_url, verify=False, timeout=30)
+            img_data = io.BytesIO(img_from_url.content)
+            img = Image.open(img_data)
+            img = img.convert("RGB")
+            new_height = 250
+            new_width = int((img.size[0] * new_height) / img.size[1])
+            new_size = (new_width, new_height)
+            img = img.resize(new_size, Image.LANCZOS)
+            img.save(img_filepath, "JPEG")
+            img_found = True
+        except Exception as error:
+            missing_images.append(f"{first_name} {last_name}: {img_url}")
+            print(f"ERROR COULD NOT DOWNLOAD AND RESIZE IMAGE FROM {img_url} to {img_filepath}: {error}")
 
     # CREATE LOOKUP DATA FOR WEBSITE
     lookup_data[id] = {
