@@ -1,6 +1,6 @@
 
 import requests
-from datetime import date
+import datetime
 from munch import DefaultMunch
 from PIL import Image
 from pathlib import Path
@@ -12,9 +12,10 @@ import shutil
 import git
 import yaml
 import urllib3
+from vcard.vcard_validator import VcardValidator
 
 USE_CACHED_DATA = True
-OVERWRITE_IMAGES = True
+OVERWRITE_IMAGES = False
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
@@ -117,7 +118,7 @@ def create_contact_card_and_lookup_data(id, first_name, last_name, nickname, off
     else:
         raise Exception(f"New rep_type found: {rep_type}")
     file_name = f"{clean_for_filename(nickname)}-{clean_for_filename(last_name)}-{rep_type_abbr}-{state_abbr}"
-    tagline = f"US {role}, {state_abbr}"
+    tagline = f"US {role}\\, {state_abbr}"
     if is_state:
         tagline = f"{state_abbr} {role}"
     committee_entries = ""
@@ -129,13 +130,18 @@ def create_contact_card_and_lookup_data(id, first_name, last_name, nickname, off
         print(f"Missing phone number for {role} {first_name} {last_name} ({id})")
         file_name = ""
     else:
-        with open(f"{representatives_directory}/{file_name}.vcf", "w", encoding="utf-8") as file:
+        contact_file_path = f"{representatives_directory}/{file_name}.vcf"
+        with open(contact_file_path, "w", encoding="utf-8") as file:
             file.write(f"""BEGIN:VCARD
-    VERSION:3.0
-    N:{last_name} ({chamber}),{nickname}
-    TEL;TYPE=WORK,VOICE:{phone}
-    NOTE:{tagline}{committee_entries}\\n\\n(Created {date.today()}, update at CallYourRepresentative.us)
-    END:VCARD""")
+VERSION:3.0
+FN;CHARSET=UTF-8:{nickname} {last_name} ({chamber})
+N;CHARSET=UTF-8:{last_name} ({chamber});{nickname};;;
+TEL;TYPE=WORK,VOICE:{phone}
+NOTE;CHARSET=UTF-8:{tagline}{committee_entries}\\n\\n(Created {datetime.date.today()}\\, update at CallYourRepresentative.us)
+REV:{datetime.datetime.now().isoformat()}
+END:VCARD""")
+            validator = VcardValidator(contact_file_path, True)
+            # print(validator.result)
 
         print(f"Created contact file {file_name} ({id})")
 
