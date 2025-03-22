@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brett Clark (Senate)
-N;CHARSET=UTF-8:Clark (Senate);Brett;;;
+FN;CHARSET=UTF-8:Brett Clark (IN Senate)
+N;CHARSET=UTF-8:Clark (IN Senate);Brett;;;
 TEL;TYPE=WORK,VOICE:800-382-9467
-NOTE;CHARSET=UTF-8:IN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:00.965517
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:s24@iga.in.gov
+NOTE;CHARSET=UTF-8:Senator in IN Legislature\, District 24\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:42.529884
 END:VCARD

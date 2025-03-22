@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Suzette Valladares (Senate)
-N;CHARSET=UTF-8:Valladares (Senate);Suzette;;;
+FN;CHARSET=UTF-8:Suzette Valladares (CA Senate)
+N;CHARSET=UTF-8:Valladares (CA Senate);Suzette;;;
 TEL;TYPE=WORK,VOICE:916-651-4023
-NOTE;CHARSET=UTF-8:CA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:44.139519
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senator.valladares@senate.ca.gov
+NOTE;CHARSET=UTF-8:Senator in CA Legislature\, District 23\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:36.621123
 END:VCARD

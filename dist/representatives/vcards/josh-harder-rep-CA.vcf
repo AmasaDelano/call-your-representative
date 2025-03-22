@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Josh Harder (House)
-N;CHARSET=UTF-8:Harder (House);Josh;;;
+FN;CHARSET=UTF-8:Josh Harder (CA House)
+N;CHARSET=UTF-8:Harder (CA House);Josh;;;
 TEL;TYPE=WORK,VOICE:202-225-4540
-NOTE;CHARSET=UTF-8:US Representative\, CA\n\nCommittees:\nAppropriations\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:32.036151
+URL;CHARSET=UTF-8:https://harder.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from CA\, District 9\n\nCommittees he's on:\n- Appropriations\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:14.029174
 END:VCARD

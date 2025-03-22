@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jill Carter (Senate)
-N;CHARSET=UTF-8:Carter (Senate);Jill;;;
+FN;CHARSET=UTF-8:Jill Carter (MO Senate)
+N;CHARSET=UTF-8:Carter (MO Senate);Jill;;;
 TEL;TYPE=WORK,VOICE:573-751-2173
-NOTE;CHARSET=UTF-8:MO Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:35.620760
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jill.carter@senate.mo.gov
+NOTE;CHARSET=UTF-8:Senator in MO Legislature\, District 32\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:12.859191
 END:VCARD

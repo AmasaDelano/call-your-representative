@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Chris Corry (House)
-N;CHARSET=UTF-8:Corry (House);Chris;;;
+FN;CHARSET=UTF-8:Chris Corry (WA House)
+N;CHARSET=UTF-8:Corry (WA House);Chris;;;
 TEL;TYPE=WORK,VOICE:509-571-1048
-NOTE;CHARSET=UTF-8:WA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:23.824913
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:chris.corry@leg.wa.gov
+NOTE;CHARSET=UTF-8:Representative in WA Legislature\, District 15\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:04.847100
 END:VCARD

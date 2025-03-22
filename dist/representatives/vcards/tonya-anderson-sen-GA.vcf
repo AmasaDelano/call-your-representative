@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tonya Anderson (Senate)
-N;CHARSET=UTF-8:Anderson (Senate);Tonya;;;
+FN;CHARSET=UTF-8:Tonya Anderson (GA Senate)
+N;CHARSET=UTF-8:Anderson (GA Senate);Tonya;;;
 TEL;TYPE=WORK,VOICE:404-463-2598
-NOTE;CHARSET=UTF-8:GA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:47.544683
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tonya.anderson@senate.ga.gov
+NOTE;CHARSET=UTF-8:Senator in GA Legislature\, District 43\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:29.700061
 END:VCARD

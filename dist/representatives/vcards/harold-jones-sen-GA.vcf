@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Harold Jones (Senate)
-N;CHARSET=UTF-8:Jones (Senate);Harold;;;
+FN;CHARSET=UTF-8:Harold Jones (GA Senate)
+N;CHARSET=UTF-8:Jones (GA Senate);Harold;;;
 TEL;TYPE=WORK,VOICE:404-656-0036
-NOTE;CHARSET=UTF-8:GA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:45.100845
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:harold.jones@senate.ga.gov
+NOTE;CHARSET=UTF-8:Senator in GA Legislature\, District 22\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:27.416758
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Peter Welch (Senate)
-N;CHARSET=UTF-8:Welch (Senate);Peter;;;
+FN;CHARSET=UTF-8:Peter Welch (VT Senate)
+N;CHARSET=UTF-8:Welch (VT Senate);Peter;;;
 TEL;TYPE=WORK,VOICE:202-224-4242
-NOTE;CHARSET=UTF-8:US Senator\, VT\n\nCommittees:\nAgriculture, Nutrition, and Forestry\nConservation, Forestry, Natural Resources, and Biotechnology\nRural Development, Energy, and Credit\nLivestock, Dairy, Poultry, and Food Safety\nFinance\nThe Judiciary\nRules and Administration\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:29.132233
+URL;CHARSET=UTF-8:https://www.welch.senate.gov/email-peter/
+NOTE;CHARSET=UTF-8:US Senator for VT\n\nCommittees he's on:\n- Agriculture, Nutrition, and Forestry\n- Conservation, Forestry, Natural Resources, and Biotechnology\n- Rural Development, Energy, and Credit\n- Livestock, Dairy, Poultry, and Food Safety\n- Finance\n- The Judiciary\n- Rules and Administration\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:10.751125
 END:VCARD

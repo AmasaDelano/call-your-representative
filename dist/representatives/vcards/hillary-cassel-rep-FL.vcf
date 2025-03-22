@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Hillary Cassel (House)
-N;CHARSET=UTF-8:Cassel (House);Hillary;;;
+FN;CHARSET=UTF-8:Hillary Cassel (FL House)
+N;CHARSET=UTF-8:Cassel (FL House);Hillary;;;
 TEL;TYPE=WORK,VOICE:850-717-5101
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:11.270598
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:hillary.cassel@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 101\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:54.296391
 END:VCARD

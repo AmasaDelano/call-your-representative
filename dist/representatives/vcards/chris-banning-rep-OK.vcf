@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Chris Banning (House)
-N;CHARSET=UTF-8:Banning (House);Chris;;;
+FN;CHARSET=UTF-8:Chris Banning (OK House)
+N;CHARSET=UTF-8:Banning (OK House);Chris;;;
 TEL;TYPE=WORK,VOICE:405-557-7306
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:21.870109
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:chris.banning@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 24\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:01.040835
 END:VCARD

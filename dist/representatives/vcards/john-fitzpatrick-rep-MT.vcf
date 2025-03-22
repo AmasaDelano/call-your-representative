@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:John Fitzpatrick (House)
-N;CHARSET=UTF-8:Fitzpatrick (House);John;;;
+FN;CHARSET=UTF-8:John Fitzpatrick (MT House)
+N;CHARSET=UTF-8:Fitzpatrick (MT House);John;;;
 TEL;TYPE=WORK,VOICE:406-444-4800
-NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:37.746099
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:john.fitzpatrick@legmt.gov
+NOTE;CHARSET=UTF-8:Representative in MT Legislature\, District 76\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:14.590158
 END:VCARD

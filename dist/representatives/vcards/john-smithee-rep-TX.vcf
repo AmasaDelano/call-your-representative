@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:John Smithee (House)
-N;CHARSET=UTF-8:Smithee (House);John;;;
+FN;CHARSET=UTF-8:John Smithee (TX House)
+N;CHARSET=UTF-8:Smithee (TX House);John;;;
 TEL;TYPE=WORK,VOICE:806-372-3327
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:36.132567
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:john.smithee@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 86\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:38.182287
 END:VCARD

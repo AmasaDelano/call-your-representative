@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:John Huot (House)
-N;CHARSET=UTF-8:Huot (House);John;;;
+FN;CHARSET=UTF-8:John Huot (MN House)
+N;CHARSET=UTF-8:Huot (MN House);John;;;
 TEL;TYPE=WORK,VOICE:651-296-4306
-NOTE;CHARSET=UTF-8:MN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:28.151022
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.john.huot@house.mn.gov
+NOTE;CHARSET=UTF-8:Representative in MN Legislature\, District 56B\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:05.660700
 END:VCARD

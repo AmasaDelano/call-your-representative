@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Doug Thomas (House)
-N;CHARSET=UTF-8:Thomas (House);Doug;;;
+FN;CHARSET=UTF-8:Doug Thomas (NH House)
+N;CHARSET=UTF-8:Thomas (NH House);Doug;;;
 TEL;TYPE=WORK,VOICE:603-490-3226
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:02.965823
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:doug.thomasnh@gmail.com
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Rockingham 16\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:40.282062
 END:VCARD

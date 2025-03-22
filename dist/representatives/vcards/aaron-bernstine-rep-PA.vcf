@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Aaron Bernstine (House)
-N;CHARSET=UTF-8:Bernstine (House);Aaron;;;
+FN;CHARSET=UTF-8:Aaron Bernstine (PA House)
+N;CHARSET=UTF-8:Bernstine (PA House);Aaron;;;
 TEL;TYPE=WORK,VOICE:717-783-8322
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:37.664745
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:abernstine@pahousegop.com
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 8\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:16.480501
 END:VCARD

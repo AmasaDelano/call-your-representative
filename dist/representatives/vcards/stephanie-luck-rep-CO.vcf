@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Stephanie Luck (House)
-N;CHARSET=UTF-8:Luck (House);Stephanie;;;
+FN;CHARSET=UTF-8:Stephanie Luck (CO House)
+N;CHARSET=UTF-8:Luck (CO House);Stephanie;;;
 TEL;TYPE=WORK,VOICE:303-866-2905
-NOTE;CHARSET=UTF-8:CO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:29.906293
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:stephanie.luck.house@coleg.gov
+NOTE;CHARSET=UTF-8:Representative in CO Legislature\, District 60\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:12.100986
 END:VCARD

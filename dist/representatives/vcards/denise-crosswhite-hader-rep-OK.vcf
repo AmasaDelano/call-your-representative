@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Denise Crosswhite Hader (House)
-N;CHARSET=UTF-8:Crosswhite Hader (House);Denise;;;
+FN;CHARSET=UTF-8:Denise Crosswhite Hader (OK House)
+N;CHARSET=UTF-8:Crosswhite Hader (OK House);Denise;;;
 TEL;TYPE=WORK,VOICE:405-557-7321
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:24.214810
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:denise.crosswhitehader@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 41\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:03.267516
 END:VCARD

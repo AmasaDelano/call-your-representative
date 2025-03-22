@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Carry Spier (House)
-N;CHARSET=UTF-8:Spier (House);Carry;;;
+FN;CHARSET=UTF-8:Carry Spier (NH House)
+N;CHARSET=UTF-8:Spier (NH House);Carry;;;
 TEL;TYPE=WORK,VOICE:603-860-4385
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:40.595784
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:carry.spier@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Hillsborough 6\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:17.541326
 END:VCARD

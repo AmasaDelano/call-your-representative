@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Otis Anthony (House)
-N;CHARSET=UTF-8:Anthony (House);Otis;;;
+FN;CHARSET=UTF-8:Otis Anthony (MS House)
+N;CHARSET=UTF-8:Anthony (MS House);Otis;;;
 TEL;TYPE=WORK,VOICE:662-207-0445
-NOTE;CHARSET=UTF-8:MS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:33.496246
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:oanthony@house.ms.gov
+NOTE;CHARSET=UTF-8:Representative in MS Legislature\, District 31\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:10.894061
 END:VCARD

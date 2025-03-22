@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jeff Crank (House)
-N;CHARSET=UTF-8:Crank (House);Jeff;;;
+FN;CHARSET=UTF-8:Jeff Crank (CO House)
+N;CHARSET=UTF-8:Crank (CO House);Jeff;;;
 TEL;TYPE=WORK,VOICE:202-225-4422
-NOTE;CHARSET=UTF-8:US Representative\, CO\n\nCommittees:\nArmed Services\nNatural Resources\nEnergy and Mineral Resources\nWater, Wildlife and Fisheries\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:40.112093
+URL;CHARSET=UTF-8:https://crank.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from CO\, District 5\n\nCommittees he's on:\n- Armed Services\n- Natural Resources\n- Energy and Mineral Resources\n- Water, Wildlife and Fisheries\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:22.291246
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jon Brien (House)
-N;CHARSET=UTF-8:Brien (House);Jon;;;
+FN;CHARSET=UTF-8:Jon Brien (RI House)
+N;CHARSET=UTF-8:Brien (RI House);Jon;;;
 TEL;TYPE=WORK,VOICE:401-222-3580
-NOTE;CHARSET=UTF-8:RI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:50.428893
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep-brien@rilegislature.gov
+NOTE;CHARSET=UTF-8:Representative in RI Legislature\, District 49\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:26.757586
 END:VCARD

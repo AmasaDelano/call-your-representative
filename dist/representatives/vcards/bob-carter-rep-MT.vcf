@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bob Carter (House)
-N;CHARSET=UTF-8:Carter (House);Bob;;;
+FN;CHARSET=UTF-8:Bob Carter (MT House)
+N;CHARSET=UTF-8:Carter (MT House);Bob;;;
 TEL;TYPE=WORK,VOICE:406-788-0089
-NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:37.036099
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bob.carter@legmt.gov
+NOTE;CHARSET=UTF-8:Representative in MT Legislature\, District 96\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:13.970348
 END:VCARD

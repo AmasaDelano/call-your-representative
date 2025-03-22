@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Clint Dixon (Senate)
-N;CHARSET=UTF-8:Dixon (Senate);Clint;;;
+FN;CHARSET=UTF-8:Clint Dixon (GA Senate)
+N;CHARSET=UTF-8:Dixon (GA Senate);Clint;;;
 TEL;TYPE=WORK,VOICE:404-656-6446
-NOTE;CHARSET=UTF-8:GA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:44.537850
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:clint.dixon@senate.ga.gov
+NOTE;CHARSET=UTF-8:Senator in GA Legislature\, District 45\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:26.855214
 END:VCARD

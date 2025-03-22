@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Stephanie Barnard (House)
-N;CHARSET=UTF-8:Barnard (House);Stephanie;;;
+FN;CHARSET=UTF-8:Stephanie Barnard (WA House)
+N;CHARSET=UTF-8:Barnard (WA House);Stephanie;;;
 TEL;TYPE=WORK,VOICE:360-786-7986
-NOTE;CHARSET=UTF-8:WA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:25.068152
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:stephanie.barnard@leg.wa.gov
+NOTE;CHARSET=UTF-8:Representative in WA Legislature\, District 8\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:06.252054
 END:VCARD

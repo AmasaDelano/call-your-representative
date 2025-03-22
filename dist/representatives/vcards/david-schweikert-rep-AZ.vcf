@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:David Schweikert (House)
-N;CHARSET=UTF-8:Schweikert (House);David;;;
+FN;CHARSET=UTF-8:David Schweikert (AZ House)
+N;CHARSET=UTF-8:Schweikert (AZ House);David;;;
 TEL;TYPE=WORK,VOICE:202-225-2190
-NOTE;CHARSET=UTF-8:US Representative\, AZ\n\nCommittees:\nWays and Means\nJoint Economic Committee (Joint)\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:28.651874
+URL;CHARSET=UTF-8:https://schweikert.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from AZ\, District 1\n\nCommittees he's on:\n- Ways and Means\n- Joint Economic Committee (Joint)\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:10.195325
 END:VCARD

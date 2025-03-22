@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tom O'Dea (House)
-N;CHARSET=UTF-8:O'Dea (House);Tom;;;
+FN;CHARSET=UTF-8:Tom O'Dea (CT House)
+N;CHARSET=UTF-8:O'Dea (CT House);Tom;;;
 TEL;TYPE=WORK,VOICE:860-240-8700
-NOTE;CHARSET=UTF-8:CT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:54.329010
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tom.odea@housegop.ct.gov
+NOTE;CHARSET=UTF-8:Representative in CT Legislature\, District 125\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:37.248075
 END:VCARD

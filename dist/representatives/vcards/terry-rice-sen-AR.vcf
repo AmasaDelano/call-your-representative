@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Terry Rice (Senate)
-N;CHARSET=UTF-8:Rice (Senate);Terry;;;
+FN;CHARSET=UTF-8:Terry Rice (AR Senate)
+N;CHARSET=UTF-8:Rice (AR Senate);Terry;;;
 TEL;TYPE=WORK,VOICE:501-682-2902
-NOTE;CHARSET=UTF-8:AR Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:28.180478
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:terry.rice@senate.ar.gov
+NOTE;CHARSET=UTF-8:Senator in AR Legislature\, District 5\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:20.426737
 END:VCARD

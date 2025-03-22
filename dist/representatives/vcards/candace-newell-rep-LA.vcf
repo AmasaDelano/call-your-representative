@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Candace Newell (House)
-N;CHARSET=UTF-8:Newell (House);Candace;;;
+FN;CHARSET=UTF-8:Candace Newell (LA House)
+N;CHARSET=UTF-8:Newell (LA House);Candace;;;
 TEL;TYPE=WORK,VOICE:504-240-3435
-NOTE;CHARSET=UTF-8:LA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:31.941458
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:hse099@legis.la.gov
+NOTE;CHARSET=UTF-8:Representative in LA Legislature\, District 99\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:12.786151
 END:VCARD

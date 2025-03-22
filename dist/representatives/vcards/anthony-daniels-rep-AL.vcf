@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Anthony Daniels (House)
-N;CHARSET=UTF-8:Daniels (House);Anthony;;;
+FN;CHARSET=UTF-8:Anthony Daniels (AL House)
+N;CHARSET=UTF-8:Daniels (AL House);Anthony;;;
 TEL;TYPE=WORK,VOICE:334-261-0522
-NOTE;CHARSET=UTF-8:AL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:18.807949
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:anthony.daniels@alhouse.gov
+NOTE;CHARSET=UTF-8:Representative in AL Legislature\, District 53\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:10.793068
 END:VCARD

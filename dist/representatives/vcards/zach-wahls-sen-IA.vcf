@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Zach Wahls (Senate)
-N;CHARSET=UTF-8:Wahls (Senate);Zach;;;
+FN;CHARSET=UTF-8:Zach Wahls (IA Senate)
+N;CHARSET=UTF-8:Wahls (IA Senate);Zach;;;
 TEL;TYPE=WORK,VOICE:515-281-3371
-NOTE;CHARSET=UTF-8:IA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:36.053837
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:zach.wahls@legis.iowa.gov
+NOTE;CHARSET=UTF-8:Senator in IA Legislature\, District 43\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:18.449715
 END:VCARD

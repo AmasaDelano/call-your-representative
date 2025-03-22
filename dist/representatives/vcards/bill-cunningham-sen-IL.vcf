@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bill Cunningham (Senate)
-N;CHARSET=UTF-8:Cunningham (Senate);Bill;;;
+FN;CHARSET=UTF-8:Bill Cunningham (IL Senate)
+N;CHARSET=UTF-8:Cunningham (IL Senate);Bill;;;
 TEL;TYPE=WORK,VOICE:217-782-5145
-NOTE;CHARSET=UTF-8:IL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:58.309884
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:staterepbillcunningham@gmail.com
+NOTE;CHARSET=UTF-8:Senator in IL Legislature\, District 18\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:39.990003
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Marc Anderson (House)
-N;CHARSET=UTF-8:Anderson (House);Marc;;;
+FN;CHARSET=UTF-8:Marc Anderson (PA House)
+N;CHARSET=UTF-8:Anderson (PA House);Marc;;;
 TEL;TYPE=WORK,VOICE:717-783-8783
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:22.652352
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:manderson@pahousegop.com
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 92\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:00.896693
 END:VCARD

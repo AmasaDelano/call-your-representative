@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Michelle McCane (House)
-N;CHARSET=UTF-8:McCane (House);Michelle;;;
+FN;CHARSET=UTF-8:Michelle McCane (OK House)
+N;CHARSET=UTF-8:McCane (OK House);Michelle;;;
 TEL;TYPE=WORK,VOICE:405-557-7391
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:31.951795
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:michelle.mccane@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 72\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:10.759993
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Sean Camacho (House)
-N;CHARSET=UTF-8:Camacho (House);Sean;;;
+FN;CHARSET=UTF-8:Sean Camacho (CO House)
+N;CHARSET=UTF-8:Camacho (CO House);Sean;;;
 TEL;TYPE=WORK,VOICE:303-866-2911
-NOTE;CHARSET=UTF-8:CO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:28.574024
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sean.camacho.house@coleg.gov
+NOTE;CHARSET=UTF-8:Representative in CO Legislature\, District 6\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:11.191218
 END:VCARD

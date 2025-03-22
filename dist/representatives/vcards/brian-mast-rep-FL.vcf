@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brian Mast (House)
-N;CHARSET=UTF-8:Mast (House);Brian;;;
+FN;CHARSET=UTF-8:Brian Mast (FL House)
+N;CHARSET=UTF-8:Mast (FL House);Brian;;;
 TEL;TYPE=WORK,VOICE:202-225-3026
-NOTE;CHARSET=UTF-8:US Representative\, FL\n\nCommittees:\nForeign Affairs\nTransportation and Infrastructure\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:31.364134
+URL;CHARSET=UTF-8:https://mast.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from FL\, District 21\n\nCommittees he's on:\n- Foreign Affairs\n- Transportation and Infrastructure\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:13.363894
 END:VCARD

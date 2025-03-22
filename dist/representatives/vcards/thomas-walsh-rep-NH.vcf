@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Thomas Walsh (House)
-N;CHARSET=UTF-8:Walsh (House);Thomas;;;
+FN;CHARSET=UTF-8:Thomas Walsh (NH House)
+N;CHARSET=UTF-8:Walsh (NH House);Thomas;;;
 TEL;TYPE=WORK,VOICE:603-623-4104
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:12.107711
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:thomas.walsh@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Merrimack 10\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:48.888161
 END:VCARD

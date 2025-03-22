@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Amanda Hemmingsen-Jaeger (House)
-N;CHARSET=UTF-8:Hemmingsen-Jaeger (House);Amanda;;;
+FN;CHARSET=UTF-8:Amanda Hemmingsen-Jaeger (MN House)
+N;CHARSET=UTF-8:Hemmingsen-Jaeger (MN House);Amanda;;;
 TEL;TYPE=WORK,VOICE:651-296-7807
-NOTE;CHARSET=UTF-8:MN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:26.875976
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.amanda.hemmingsen-jaeger@house.mn.gov
+NOTE;CHARSET=UTF-8:Representative in MN Legislature\, District 47A\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:04.602023
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Melissa Minor-Brown (House)
-N;CHARSET=UTF-8:Minor-Brown (House);Melissa;;;
+FN;CHARSET=UTF-8:Melissa Minor-Brown (DE House)
+N;CHARSET=UTF-8:Minor-Brown (DE House);Melissa;;;
 TEL;TYPE=WORK,VOICE:302-744-4351
-NOTE;CHARSET=UTF-8:DE Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:56.088618
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:melissa.minorbrown@delaware.gov
+NOTE;CHARSET=UTF-8:Representative in DE Legislature\, District 17\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:38.707330
 END:VCARD

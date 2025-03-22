@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kevin Felsher (House)
-N;CHARSET=UTF-8:Felsher (House);Kevin;;;
+FN;CHARSET=UTF-8:Kevin Felsher (MS House)
+N;CHARSET=UTF-8:Felsher (MS House);Kevin;;;
 TEL;TYPE=WORK,VOICE:601-359-3360
-NOTE;CHARSET=UTF-8:MS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:32.306169
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:kfelsher@house.ms.gov
+NOTE;CHARSET=UTF-8:Representative in MS Legislature\, District 117\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:09.838040
 END:VCARD

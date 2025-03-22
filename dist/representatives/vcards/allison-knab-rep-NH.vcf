@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Allison Knab (House)
-N;CHARSET=UTF-8:Knab (House);Allison;;;
+FN;CHARSET=UTF-8:Allison Knab (NH House)
+N;CHARSET=UTF-8:Knab (NH House);Allison;;;
 TEL;TYPE=WORK,VOICE:603-580-5896
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:40.335693
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:allison.knab@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Rockingham 12\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:17.252476
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lee Anderson (Senate)
-N;CHARSET=UTF-8:Anderson (Senate);Lee;;;
+FN;CHARSET=UTF-8:Lee Anderson (GA Senate)
+N;CHARSET=UTF-8:Anderson (GA Senate);Lee;;;
 TEL;TYPE=WORK,VOICE:404-656-5114
-NOTE;CHARSET=UTF-8:GA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:45.717715
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lee.anderson@senate.ga.gov
+NOTE;CHARSET=UTF-8:Senator in GA Legislature\, District 24\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:27.925144
 END:VCARD

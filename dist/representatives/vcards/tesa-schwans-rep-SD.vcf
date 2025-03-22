@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tesa Schwans (House)
-N;CHARSET=UTF-8:Schwans (House);Tesa;;;
+FN;CHARSET=UTF-8:Tesa Schwans (SD House)
+N;CHARSET=UTF-8:Schwans (SD House);Tesa;;;
 TEL;TYPE=WORK,VOICE:605-773-3851
-NOTE;CHARSET=UTF-8:SD Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:01.473407
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tesa.schwans@sdlegislature.gov
+NOTE;CHARSET=UTF-8:Representative in SD Legislature\, District 9\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:06.263021
 END:VCARD

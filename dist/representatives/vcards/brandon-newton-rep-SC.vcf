@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brandon Newton (House)
-N;CHARSET=UTF-8:Newton (House);Brandon;;;
+FN;CHARSET=UTF-8:Brandon Newton (SC House)
+N;CHARSET=UTF-8:Newton (SC House);Brandon;;;
 TEL;TYPE=WORK,VOICE:803-212-6874
-NOTE;CHARSET=UTF-8:SC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:52.810496
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:brandonnewton@schouse.gov
+NOTE;CHARSET=UTF-8:Representative in SC Legislature\, District 45\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:28.825893
 END:VCARD

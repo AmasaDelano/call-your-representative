@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Katy Duhigg (Senate)
-N;CHARSET=UTF-8:Duhigg (Senate);Katy;;;
+FN;CHARSET=UTF-8:Katy Duhigg (NM Senate)
+N;CHARSET=UTF-8:Duhigg (NM Senate);Katy;;;
 TEL;TYPE=WORK,VOICE:505-986-4270
-NOTE;CHARSET=UTF-8:NM Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:42.630652
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:katy.duhigg@nmlegis.gov
+NOTE;CHARSET=UTF-8:Senator in NM Legislature\, District 10\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:18.587720
 END:VCARD

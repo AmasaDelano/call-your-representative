@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jack Ladyman (House)
-N;CHARSET=UTF-8:Ladyman (House);Jack;;;
+FN;CHARSET=UTF-8:Jack Ladyman (AR House)
+N;CHARSET=UTF-8:Ladyman (AR House);Jack;;;
 TEL;TYPE=WORK,VOICE:501-682-6211
-NOTE;CHARSET=UTF-8:AR Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:26.617581
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jackladyman@gmail.com
+NOTE;CHARSET=UTF-8:Representative in AR Legislature\, District 32\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:18.741327
 END:VCARD

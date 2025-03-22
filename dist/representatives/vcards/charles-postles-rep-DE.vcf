@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Charles Postles (House)
-N;CHARSET=UTF-8:Postles (House);Charles;;;
+FN;CHARSET=UTF-8:Charles Postles (DE House)
+N;CHARSET=UTF-8:Postles (DE House);Charles;;;
 TEL;TYPE=WORK,VOICE:302-744-4081
-NOTE;CHARSET=UTF-8:DE Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:55.028488
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:charles.postles@delaware.gov
+NOTE;CHARSET=UTF-8:Representative in DE Legislature\, District 33\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:37.820767
 END:VCARD

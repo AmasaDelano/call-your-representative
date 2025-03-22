@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jim McGovern (House)
-N;CHARSET=UTF-8:McGovern (House);Jim;;;
+FN;CHARSET=UTF-8:Jim McGovern (MA House)
+N;CHARSET=UTF-8:McGovern (MA House);Jim;;;
 TEL;TYPE=WORK,VOICE:202-225-6101
-NOTE;CHARSET=UTF-8:US Representative\, MA\n\nCommittees:\nAgriculture\nNutrition and Foreign Agriculture\nRules\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:28.221969
+URL;CHARSET=UTF-8:https://mcgovern.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from MA\, District 2\n\nCommittees he's on:\n- Agriculture\n- Nutrition and Foreign Agriculture\n- Rules\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:09.702489
 END:VCARD

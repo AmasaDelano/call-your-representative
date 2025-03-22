@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Craig Brandt (Senate)
-N;CHARSET=UTF-8:Brandt (Senate);Craig;;;
+FN;CHARSET=UTF-8:Craig Brandt (NM Senate)
+N;CHARSET=UTF-8:Brandt (NM Senate);Craig;;;
 TEL;TYPE=WORK,VOICE:505-986-4703
-NOTE;CHARSET=UTF-8:NM Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:41.255439
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:craig.brandt@nmlegis.gov
+NOTE;CHARSET=UTF-8:Senator in NM Legislature\, District 40\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:17.170271
 END:VCARD

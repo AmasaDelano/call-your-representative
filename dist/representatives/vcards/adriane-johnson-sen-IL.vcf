@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Adriane Johnson (Senate)
-N;CHARSET=UTF-8:Johnson (Senate);Adriane;;;
+FN;CHARSET=UTF-8:Adriane Johnson (IL Senate)
+N;CHARSET=UTF-8:Johnson (IL Senate);Adriane;;;
 TEL;TYPE=WORK,VOICE:217-782-8181
-NOTE;CHARSET=UTF-8:IL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:56.417671
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:info@senatoradrianejohnson.com
+NOTE;CHARSET=UTF-8:Senator in IL Legislature\, District 30\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:38.016172
 END:VCARD

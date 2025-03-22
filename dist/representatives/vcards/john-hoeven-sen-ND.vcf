@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:John Hoeven (Senate)
-N;CHARSET=UTF-8:Hoeven (Senate);John;;;
+FN;CHARSET=UTF-8:John Hoeven (ND Senate)
+N;CHARSET=UTF-8:Hoeven (ND Senate);John;;;
 TEL;TYPE=WORK,VOICE:202-224-2551
-NOTE;CHARSET=UTF-8:US Senator\, ND\n\nCommittees:\nIndian Affairs\nAgriculture, Nutrition, and Forestry\nConservation, Forestry, Natural Resources, and Biotechnology\nFood and Nutrition, Specialty Crops, Organics, and Research\nLivestock, Dairy, Poultry, and Food Safety\nAppropriations\nEnergy and Natural Resources\nEnergy\nWater and Power\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:27.763826
+URL;CHARSET=UTF-8:https://www.hoeven.senate.gov/contact/contact-the-senator
+NOTE;CHARSET=UTF-8:US Senator for ND\n\nCommittees he's on:\n- Indian Affairs\n- Agriculture, Nutrition, and Forestry\n- Conservation, Forestry, Natural Resources, and Biotechnology\n- Food and Nutrition, Specialty Crops, Organics, and Research\n- Livestock, Dairy, Poultry, and Food Safety\n- Appropriations\n- Energy and Natural Resources\n- Energy\n- Water and Power\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:09.167348
 END:VCARD

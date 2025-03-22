@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brad Hoylman-Sigal (Senate)
-N;CHARSET=UTF-8:Hoylman-Sigal (Senate);Brad;;;
+FN;CHARSET=UTF-8:Brad Hoylman-Sigal (NY Senate)
+N;CHARSET=UTF-8:Hoylman-Sigal (NY Senate);Brad;;;
 TEL;TYPE=WORK,VOICE:518-455-2451
-NOTE;CHARSET=UTF-8:NY Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:47.961615
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:hoylman@nysenate.gov
+NOTE;CHARSET=UTF-8:Senator in NY Legislature\, District 47\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:23.852386
 END:VCARD

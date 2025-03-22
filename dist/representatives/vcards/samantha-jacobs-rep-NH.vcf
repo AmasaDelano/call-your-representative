@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Samantha Jacobs (House)
-N;CHARSET=UTF-8:Jacobs (House);Samantha;;;
+FN;CHARSET=UTF-8:Samantha Jacobs (NH House)
+N;CHARSET=UTF-8:Jacobs (NH House);Samantha;;;
 TEL;TYPE=WORK,VOICE:603-721-1067
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:11.118796
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:samantha.jacobs@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Cheshire 15\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:48.027866
 END:VCARD

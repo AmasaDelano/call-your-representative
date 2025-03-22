@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brianna Titone (House)
-N;CHARSET=UTF-8:Titone (House);Brianna;;;
+FN;CHARSET=UTF-8:Brianna Titone (CO House)
+N;CHARSET=UTF-8:Titone (CO House);Brianna;;;
 TEL;TYPE=WORK,VOICE:303-866-2962
-NOTE;CHARSET=UTF-8:CO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:48.900461
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:brianna.titone.house@coleg.gov
+NOTE;CHARSET=UTF-8:Representative in CO Legislature\, District 27\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:40.356276
 END:VCARD

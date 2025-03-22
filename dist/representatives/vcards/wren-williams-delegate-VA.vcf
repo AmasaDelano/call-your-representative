@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Wren Williams (House)
-N;CHARSET=UTF-8:Williams (House);Wren;;;
+FN;CHARSET=UTF-8:Wren Williams (VA House)
+N;CHARSET=UTF-8:Williams (VA House);Wren;;;
 TEL;TYPE=WORK,VOICE:804-698-1047
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:23.200673
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delwwilliams@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 47\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:04.237705
 END:VCARD

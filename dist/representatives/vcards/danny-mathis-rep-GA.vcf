@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Danny Mathis (House)
-N;CHARSET=UTF-8:Mathis (House);Danny;;;
+FN;CHARSET=UTF-8:Danny Mathis (GA House)
+N;CHARSET=UTF-8:Mathis (GA House);Danny;;;
 TEL;TYPE=WORK,VOICE:404-656-0152
-NOTE;CHARSET=UTF-8:GA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:44.608252
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:danny.mathis@house.ga.gov
+NOTE;CHARSET=UTF-8:Representative in GA Legislature\, District 133\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:26.890994
 END:VCARD

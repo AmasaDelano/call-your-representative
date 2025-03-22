@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bill Schuette (House)
-N;CHARSET=UTF-8:Schuette (House);Bill;;;
+FN;CHARSET=UTF-8:Bill Schuette (MI House)
+N;CHARSET=UTF-8:Schuette (MI House);Bill;;;
 TEL;TYPE=WORK,VOICE:517-373-0152
-NOTE;CHARSET=UTF-8:MI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:09.076497
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:billschuette@house.mi.gov
+NOTE;CHARSET=UTF-8:Representative in MI Legislature\, District 95\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:46.677570
 END:VCARD

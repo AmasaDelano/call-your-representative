@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Nadine Nakamura (House)
-N;CHARSET=UTF-8:Nakamura (House);Nadine;;;
+FN;CHARSET=UTF-8:Nadine Nakamura (HI House)
+N;CHARSET=UTF-8:Nakamura (HI House);Nadine;;;
 TEL;TYPE=WORK,VOICE:808-586-6100
-NOTE;CHARSET=UTF-8:HI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:54.054024
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:repnakamura@capitol.hawaii.gov
+NOTE;CHARSET=UTF-8:Representative in HI Legislature\, District 15\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:35.720133
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mary Bentley (House)
-N;CHARSET=UTF-8:Bentley (House);Mary;;;
+FN;CHARSET=UTF-8:Mary Bentley (AR House)
+N;CHARSET=UTF-8:Bentley (AR House);Mary;;;
 TEL;TYPE=WORK,VOICE:501-682-6211
-NOTE;CHARSET=UTF-8:AR Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:27.425989
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mary.bentley@arkansashouse.org
+NOTE;CHARSET=UTF-8:Representative in AR Legislature\, District 54\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:19.655077
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Paul Childress (House)
-N;CHARSET=UTF-8:Childress (House);Paul;;;
+FN;CHARSET=UTF-8:Paul Childress (AR House)
+N;CHARSET=UTF-8:Childress (AR House);Paul;;;
 TEL;TYPE=WORK,VOICE:501-682-6211
-NOTE;CHARSET=UTF-8:AR Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:27.540067
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:paul.childress@arkansashouse.org
+NOTE;CHARSET=UTF-8:Representative in AR Legislature\, District 83\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:19.785484
 END:VCARD

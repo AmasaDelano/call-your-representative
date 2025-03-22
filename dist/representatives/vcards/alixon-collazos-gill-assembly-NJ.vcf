@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Alixon Collazos-Gill (Assembly)
-N;CHARSET=UTF-8:Collazos-Gill (Assembly);Alixon;;;
+FN;CHARSET=UTF-8:Alixon Collazos-Gill (NJ Assembly)
+N;CHARSET=UTF-8:Collazos-Gill (NJ Assembly);Alixon;;;
 TEL;TYPE=WORK,VOICE:973-509-0388
-NOTE;CHARSET=UTF-8:NJ Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:12.417390
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:aswcollazosgill@njleg.org
+NOTE;CHARSET=UTF-8:Assembly Member in NJ Legislature\, District 27\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:49.219664
 END:VCARD

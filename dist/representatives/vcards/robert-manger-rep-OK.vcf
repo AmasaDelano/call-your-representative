@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Robert Manger (House)
-N;CHARSET=UTF-8:Manger (House);Robert;;;
+FN;CHARSET=UTF-8:Robert Manger (OK House)
+N;CHARSET=UTF-8:Manger (OK House);Robert;;;
 TEL;TYPE=WORK,VOICE:405-557-7395
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:33.698816
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:robert.manger@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 101\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:12.457022
 END:VCARD

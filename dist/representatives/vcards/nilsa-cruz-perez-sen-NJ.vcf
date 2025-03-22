@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Nilsa Cruz-Perez (Senate)
-N;CHARSET=UTF-8:Cruz-Perez (Senate);Nilsa;;;
+FN;CHARSET=UTF-8:Nilsa Cruz-Perez (NJ Senate)
+N;CHARSET=UTF-8:Cruz-Perez (NJ Senate);Nilsa;;;
 TEL;TYPE=WORK,VOICE:856-541-1251
-NOTE;CHARSET=UTF-8:NJ Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:30.860210
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sencruzperez@njleg.org
+NOTE;CHARSET=UTF-8:Senator in NJ Legislature\, District 5\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:07.237913
 END:VCARD

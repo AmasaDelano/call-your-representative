@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tony Caplan (House)
-N;CHARSET=UTF-8:Caplan (House);Tony;;;
+FN;CHARSET=UTF-8:Tony Caplan (NH House)
+N;CHARSET=UTF-8:Caplan (NH House);Tony;;;
 TEL;TYPE=WORK,VOICE:603-428-7042
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:12.285480
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tony.caplan@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Merrimack 8\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:49.083287
 END:VCARD

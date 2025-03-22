@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:James Ruchti (Senate)
-N;CHARSET=UTF-8:Ruchti (Senate);James;;;
+FN;CHARSET=UTF-8:James Ruchti (ID Senate)
+N;CHARSET=UTF-8:Ruchti (ID Senate);James;;;
 TEL;TYPE=WORK,VOICE:208-332-1406
-NOTE;CHARSET=UTF-8:ID Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:55.567857
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jruchti@house.idaho.gov
+NOTE;CHARSET=UTF-8:Senator in ID Legislature\, District 29\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:37.231867
 END:VCARD

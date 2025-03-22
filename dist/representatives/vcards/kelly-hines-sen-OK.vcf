@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kelly Hines (Senate)
-N;CHARSET=UTF-8:Hines (Senate);Kelly;;;
+FN;CHARSET=UTF-8:Kelly Hines (OK Senate)
+N;CHARSET=UTF-8:Hines (OK Senate);Kelly;;;
 TEL;TYPE=WORK,VOICE:405-521-5632
-NOTE;CHARSET=UTF-8:OK Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:29.308322
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:kelly.hines@oksenate.gov
+NOTE;CHARSET=UTF-8:Senator in OK Legislature\, District 47\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:07.798483
 END:VCARD

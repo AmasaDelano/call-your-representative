@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Bousselot (Senate)
-N;CHARSET=UTF-8:Bousselot (Senate);Mike;;;
+FN;CHARSET=UTF-8:Mike Bousselot (IA Senate)
+N;CHARSET=UTF-8:Bousselot (IA Senate);Mike;;;
 TEL;TYPE=WORK,VOICE:515-281-3221
-NOTE;CHARSET=UTF-8:IA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:35.627220
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mike.bousselot@legis.iowa.gov
+NOTE;CHARSET=UTF-8:Senator in IA Legislature\, District 21\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:18.011579
 END:VCARD

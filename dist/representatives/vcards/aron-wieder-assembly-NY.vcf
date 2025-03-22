@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Aron Wieder (Assembly)
-N;CHARSET=UTF-8:Wieder (Assembly);Aron;;;
+FN;CHARSET=UTF-8:Aron Wieder (NY Assembly)
+N;CHARSET=UTF-8:Wieder (NY Assembly);Aron;;;
 TEL;TYPE=WORK,VOICE:518-455-5118
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:47.312317
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:wiedera@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 97\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:23.249842
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Hillary Pugh Kent (House)
-N;CHARSET=UTF-8:Pugh Kent (House);Hillary;;;
+FN;CHARSET=UTF-8:Hillary Pugh Kent (VA House)
+N;CHARSET=UTF-8:Pugh Kent (VA House);Hillary;;;
 TEL;TYPE=WORK,VOICE:804-698-1067
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:22.012362
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delhkent@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 67\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:02.987329
 END:VCARD

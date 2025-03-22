@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ben Smaltz (House)
-N;CHARSET=UTF-8:Smaltz (House);Ben;;;
+FN;CHARSET=UTF-8:Ben Smaltz (IN House)
+N;CHARSET=UTF-8:Smaltz (IN House);Ben;;;
 TEL;TYPE=WORK,VOICE:317-232-9648
-NOTE;CHARSET=UTF-8:IN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:59.293689
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:h52@iga.in.gov
+NOTE;CHARSET=UTF-8:Representative in IN Legislature\, District 52\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:40.914496
 END:VCARD

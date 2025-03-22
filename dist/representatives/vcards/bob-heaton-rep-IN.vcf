@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bob Heaton (House)
-N;CHARSET=UTF-8:Heaton (House);Bob;;;
+FN;CHARSET=UTF-8:Bob Heaton (IN House)
+N;CHARSET=UTF-8:Heaton (IN House);Bob;;;
 TEL;TYPE=WORK,VOICE:317-232-9981
-NOTE;CHARSET=UTF-8:IN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:26.719434
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:h46@iga.in.gov
+NOTE;CHARSET=UTF-8:Representative in IN Legislature\, District 46\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:08.517786
 END:VCARD

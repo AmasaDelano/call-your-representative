@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Carl Albrecht (House)
-N;CHARSET=UTF-8:Albrecht (House);Carl;;;
+FN;CHARSET=UTF-8:Carl Albrecht (UT House)
+N;CHARSET=UTF-8:Albrecht (UT House);Carl;;;
 TEL;TYPE=WORK,VOICE:801-538-1029
-NOTE;CHARSET=UTF-8:UT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:03.802201
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:carlalbrecht@le.utah.gov
+NOTE;CHARSET=UTF-8:Representative in UT Legislature\, District 70\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:58:02.992924
 END:VCARD

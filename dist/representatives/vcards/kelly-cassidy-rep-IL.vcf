@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kelly Cassidy (House)
-N;CHARSET=UTF-8:Cassidy (House);Kelly;;;
+FN;CHARSET=UTF-8:Kelly Cassidy (IL House)
+N;CHARSET=UTF-8:Cassidy (IL House);Kelly;;;
 TEL;TYPE=WORK,VOICE:217-782-8088
-NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:57.332479
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:info@repcassidy.com
+NOTE;CHARSET=UTF-8:Representative in IL Legislature\, District 14\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:38.939847
 END:VCARD

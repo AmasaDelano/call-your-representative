@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bud Cook (House)
-N;CHARSET=UTF-8:Cook (House);Bud;;;
+FN;CHARSET=UTF-8:Bud Cook (PA House)
+N;CHARSET=UTF-8:Cook (PA House);Bud;;;
 TEL;TYPE=WORK,VOICE:717-783-8655
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:44.999830
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bcook@pahousegop.com
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 50\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:23.816788
 END:VCARD

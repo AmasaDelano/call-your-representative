@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Israel O'Quinn (House)
-N;CHARSET=UTF-8:O'Quinn (House);Israel;;;
+FN;CHARSET=UTF-8:Israel O'Quinn (VA House)
+N;CHARSET=UTF-8:O'Quinn (VA House);Israel;;;
 TEL;TYPE=WORK,VOICE:804-698-1044
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:22.094985
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delioquinn@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 44\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:03.050987
 END:VCARD

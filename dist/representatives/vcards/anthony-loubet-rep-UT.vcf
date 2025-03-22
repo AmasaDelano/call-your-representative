@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Anthony Loubet (House)
-N;CHARSET=UTF-8:Loubet (House);Anthony;;;
+FN;CHARSET=UTF-8:Anthony Loubet (UT House)
+N;CHARSET=UTF-8:Loubet (UT House);Anthony;;;
 TEL;TYPE=WORK,VOICE:801-538-1029
-NOTE;CHARSET=UTF-8:UT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:03.693743
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:aloubet@le.utah.gov
+NOTE;CHARSET=UTF-8:Representative in UT Legislature\, District 27\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:58:02.882190
 END:VCARD

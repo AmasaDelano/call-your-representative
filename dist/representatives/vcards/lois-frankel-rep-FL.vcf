@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lois Frankel (House)
-N;CHARSET=UTF-8:Frankel (House);Lois;;;
+FN;CHARSET=UTF-8:Lois Frankel (FL House)
+N;CHARSET=UTF-8:Frankel (FL House);Lois;;;
 TEL;TYPE=WORK,VOICE:202-225-9890
-NOTE;CHARSET=UTF-8:US Representative\, FL\n\nCommittees:\nAppropriations\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:29.623532
+URL;CHARSET=UTF-8:https://frankel.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from FL\, District 22\n\nCommittees she's on:\n- Appropriations\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:11.352223
 END:VCARD

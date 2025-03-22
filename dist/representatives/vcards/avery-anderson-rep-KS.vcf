@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Avery Anderson (House)
-N;CHARSET=UTF-8:Anderson (House);Avery;;;
+FN;CHARSET=UTF-8:Avery Anderson (KS House)
+N;CHARSET=UTF-8:Anderson (KS House);Avery;;;
 TEL;TYPE=WORK,VOICE:785-296-2361
-NOTE;CHARSET=UTF-8:KS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:36.169010
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:avery.anderson@house.ks.gov
+NOTE;CHARSET=UTF-8:Representative in KS Legislature\, District 72\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:18.554967
 END:VCARD

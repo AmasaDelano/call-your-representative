@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Christopher Rosario (House)
-N;CHARSET=UTF-8:Rosario (House);Christopher;;;
+FN;CHARSET=UTF-8:Christopher Rosario (CT House)
+N;CHARSET=UTF-8:Rosario (CT House);Christopher;;;
 TEL;TYPE=WORK,VOICE:860-240-8585
-NOTE;CHARSET=UTF-8:CT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:38.232674
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:christopher.rosario@cga.ct.gov
+NOTE;CHARSET=UTF-8:Representative in CT Legislature\, District 128\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:19.807161
 END:VCARD

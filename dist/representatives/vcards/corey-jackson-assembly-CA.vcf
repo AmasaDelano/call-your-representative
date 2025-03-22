@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Corey Jackson (Assembly)
-N;CHARSET=UTF-8:Jackson (Assembly);Corey;;;
+FN;CHARSET=UTF-8:Corey Jackson (CA Assembly)
+N;CHARSET=UTF-8:Jackson (CA Assembly);Corey;;;
 TEL;TYPE=WORK,VOICE:916-319-2060
-NOTE;CHARSET=UTF-8:CA Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:31.979579
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:assemblymember.jackson@assembly.ca.gov
+NOTE;CHARSET=UTF-8:Assembly Member in CA Legislature\, District 60\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:24.231217
 END:VCARD

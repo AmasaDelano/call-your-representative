@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Robert Menendez (House)
-N;CHARSET=UTF-8:Menendez (House);Robert;;;
+FN;CHARSET=UTF-8:Robert Menendez (NJ House)
+N;CHARSET=UTF-8:Menendez (NJ House);Robert;;;
 TEL;TYPE=WORK,VOICE:202-225-7919
-NOTE;CHARSET=UTF-8:US Representative\, NJ\n\nCommittees:\nEnergy and Commerce\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:35.993490
+URL;CHARSET=UTF-8:https://menendez.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from NJ\, District 8\n\nCommittees he's on:\n- Energy and Commerce\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:18.319410
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Julia Howard (House)
-N;CHARSET=UTF-8:Howard (House);Julia;;;
+FN;CHARSET=UTF-8:Julia Howard (NC House)
+N;CHARSET=UTF-8:Howard (NC House);Julia;;;
 TEL;TYPE=WORK,VOICE:919-733-5904
-NOTE;CHARSET=UTF-8:NC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:11.154652
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:julia.howard@ncleg.gov
+NOTE;CHARSET=UTF-8:Representative in NC Legislature\, District 77\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:49.333431
 END:VCARD

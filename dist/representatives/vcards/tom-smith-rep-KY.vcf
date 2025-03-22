@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tom Smith (House)
-N;CHARSET=UTF-8:Smith (House);Tom;;;
+FN;CHARSET=UTF-8:Tom Smith (KY House)
+N;CHARSET=UTF-8:Smith (KY House);Tom;;;
 TEL;TYPE=WORK,VOICE:502-564-8100
-NOTE;CHARSET=UTF-8:KY Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:27.643097
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tom.smith@kylegislature.gov
+NOTE;CHARSET=UTF-8:Representative in KY Legislature\, District 86\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:08.254800
 END:VCARD

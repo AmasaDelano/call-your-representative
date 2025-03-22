@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Marty Martinez (House)
-N;CHARSET=UTF-8:Martinez (House);Marty;;;
+FN;CHARSET=UTF-8:Marty Martinez (VA House)
+N;CHARSET=UTF-8:Martinez (VA House);Marty;;;
 TEL;TYPE=WORK,VOICE:804-698-1029
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:22.612641
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delmmartinez@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 29\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:03.556800
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Paul Faraci (Senate)
-N;CHARSET=UTF-8:Faraci (Senate);Paul;;;
+FN;CHARSET=UTF-8:Paul Faraci (IL Senate)
+N;CHARSET=UTF-8:Faraci (IL Senate);Paul;;;
 TEL;TYPE=WORK,VOICE:217-782-2507
-NOTE;CHARSET=UTF-8:IL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:57.927819
+URL;CHARSET=UTF-8:https://ilga.gov/senate/Senator.asp?GA=103&MemberID=3221
+NOTE;CHARSET=UTF-8:Senator in IL Legislature\, District 52\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:39.553272
 END:VCARD

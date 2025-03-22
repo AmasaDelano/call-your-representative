@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jim Murphy (House)
-N;CHARSET=UTF-8:Murphy (House);Jim;;;
+FN;CHARSET=UTF-8:Jim Murphy (MO House)
+N;CHARSET=UTF-8:Murphy (MO House);Jim;;;
 TEL;TYPE=WORK,VOICE:573-751-3719
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:35.639209
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jim.murphy@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 94\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:12.883624
 END:VCARD

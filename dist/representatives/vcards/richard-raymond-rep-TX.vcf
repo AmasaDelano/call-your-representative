@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Richard Raymond (House)
-N;CHARSET=UTF-8:Raymond (House);Richard;;;
+FN;CHARSET=UTF-8:Richard Raymond (TX House)
+N;CHARSET=UTF-8:Raymond (TX House);Richard;;;
 TEL;TYPE=WORK,VOICE:956-753-7722
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:49.214438
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:richard.raymond@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 42\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:49.896109
 END:VCARD

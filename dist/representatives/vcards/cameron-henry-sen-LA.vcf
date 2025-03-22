@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Cameron Henry (Senate)
-N;CHARSET=UTF-8:Henry (Senate);Cameron;;;
+FN;CHARSET=UTF-8:Cameron Henry (LA Senate)
+N;CHARSET=UTF-8:Henry (LA Senate);Cameron;;;
 TEL;TYPE=WORK,VOICE:504-838-5433
-NOTE;CHARSET=UTF-8:LA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:38.046686
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:henryc@legis.la.gov
+NOTE;CHARSET=UTF-8:Senator in LA Legislature\, District 9\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:18.580418
 END:VCARD

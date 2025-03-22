@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Vernetta Alston (House)
-N;CHARSET=UTF-8:Alston (House);Vernetta;;;
+FN;CHARSET=UTF-8:Vernetta Alston (NC House)
+N;CHARSET=UTF-8:Alston (NC House);Vernetta;;;
 TEL;TYPE=WORK,VOICE:919-733-5872
-NOTE;CHARSET=UTF-8:NC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:12.920370
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:vernetta.alston@ncleg.gov
+NOTE;CHARSET=UTF-8:Representative in NC Legislature\, District 29\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:51.740438
 END:VCARD

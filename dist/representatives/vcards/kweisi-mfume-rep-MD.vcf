@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kweisi Mfume (House)
-N;CHARSET=UTF-8:Mfume (House);Kweisi;;;
+FN;CHARSET=UTF-8:Kweisi Mfume (MD House)
+N;CHARSET=UTF-8:Mfume (MD House);Kweisi;;;
 TEL;TYPE=WORK,VOICE:202-225-4741
-NOTE;CHARSET=UTF-8:US Representative\, MD\n\nCommittees:\nForeign Affairs\nOversight and Government Reform\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:33.062069
+URL;CHARSET=UTF-8:https://mfume.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from MD\, District 7\n\nCommittees he's on:\n- Foreign Affairs\n- Oversight and Government Reform\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:15.235493
 END:VCARD

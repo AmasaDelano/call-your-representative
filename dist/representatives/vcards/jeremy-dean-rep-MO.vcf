@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jeremy Dean (House)
-N;CHARSET=UTF-8:Dean (House);Jeremy;;;
+FN;CHARSET=UTF-8:Jeremy Dean (MO House)
+N;CHARSET=UTF-8:Dean (MO House);Jeremy;;;
 TEL;TYPE=WORK,VOICE:573-751-3795
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:35.610493
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jeremy.dean@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 132\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:12.854303
 END:VCARD

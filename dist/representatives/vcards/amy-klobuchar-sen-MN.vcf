@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Amy Klobuchar (Senate)
-N;CHARSET=UTF-8:Klobuchar (Senate);Amy;;;
+FN;CHARSET=UTF-8:Amy Klobuchar (MN Senate)
+N;CHARSET=UTF-8:Klobuchar (MN Senate);Amy;;;
 TEL;TYPE=WORK,VOICE:202-224-3244
-NOTE;CHARSET=UTF-8:US Senator\, MN\n\nCommittees:\nJoint Economic Committee (Joint)\nThe Library (Joint)\nPrinting (Joint)\nAgriculture, Nutrition, and Forestry\nCommodities, Derivatives, Risk Management, and Trade\nConservation, Forestry, Natural Resources, and Biotechnology\nRural Development, Energy, and Credit\nFood and Nutrition, Specialty Crops, Organics, and Research\nLivestock, Dairy, Poultry, and Food Safety\nCommerce, Science, and Transportation\nThe Judiciary\nRules and Administration\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:26.520926
+URL;CHARSET=UTF-8:https://www.klobuchar.senate.gov/public/index.cfm/contact
+NOTE;CHARSET=UTF-8:US Senator for MN\n\nCommittees she's on:\n- Joint Economic Committee (Joint)\n- The Library (Joint)\n- Printing (Joint)\n- Agriculture, Nutrition, and Forestry\n- Commodities, Derivatives, Risk Management, and Trade\n- Conservation, Forestry, Natural Resources, and Biotechnology\n- Rural Development, Energy, and Credit\n- Food and Nutrition, Specialty Crops, Organics, and Research\n- Livestock, Dairy, Poultry, and Food Safety\n- Commerce, Science, and Transportation\n- The Judiciary\n- Rules and Administration\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:07.716110
 END:VCARD

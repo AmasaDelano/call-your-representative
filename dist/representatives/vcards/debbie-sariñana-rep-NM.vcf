@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Debbie Sariñana (House)
-N;CHARSET=UTF-8:Sariñana (House);Debbie;;;
+FN;CHARSET=UTF-8:Debbie Sariñana (NM House)
+N;CHARSET=UTF-8:Sariñana (NM House);Debbie;;;
 TEL;TYPE=WORK,VOICE:505-986-4438
-NOTE;CHARSET=UTF-8:NM Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:41.837140
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:debbie.sarinana@nmlegis.gov
+NOTE;CHARSET=UTF-8:Representative in NM Legislature\, District 21\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:17.787836
 END:VCARD

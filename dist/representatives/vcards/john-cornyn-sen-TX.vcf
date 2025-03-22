@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:John Cornyn (Senate)
-N;CHARSET=UTF-8:Cornyn (Senate);John;;;
+FN;CHARSET=UTF-8:John Cornyn (TX Senate)
+N;CHARSET=UTF-8:Cornyn (TX Senate);John;;;
 TEL;TYPE=WORK,VOICE:202-224-2934
-NOTE;CHARSET=UTF-8:US Senator\, TX\n\nCommittees:\nTaxation (Joint)\nUnited States Senate Caucus on International Narcotics Control\nSenate Select Committee on Intelligence\nThe Budget\nFinance\nForeign Relations\nThe Judiciary\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:26.646609
+URL;CHARSET=UTF-8:https://www.cornyn.senate.gov/contact
+NOTE;CHARSET=UTF-8:US Senator for TX\n\nCommittees he's on:\n- Taxation (Joint)\n- United States Senate Caucus on International Narcotics Control\n- Senate Select Committee on Intelligence\n- The Budget\n- Finance\n- Foreign Relations\n- The Judiciary\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:07.848092
 END:VCARD

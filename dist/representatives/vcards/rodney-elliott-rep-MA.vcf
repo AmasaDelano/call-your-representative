@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rodney Elliott (House)
-N;CHARSET=UTF-8:Elliott (House);Rodney;;;
+FN;CHARSET=UTF-8:Rodney Elliott (MA House)
+N;CHARSET=UTF-8:Elliott (MA House);Rodney;;;
 TEL;TYPE=WORK,VOICE:617-722-2080
-NOTE;CHARSET=UTF-8:MA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:06.237357
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rodney.elliott@mahouse.gov
+NOTE;CHARSET=UTF-8:Representative in MA Legislature\, District 16th Middlesex\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:44.276619
 END:VCARD

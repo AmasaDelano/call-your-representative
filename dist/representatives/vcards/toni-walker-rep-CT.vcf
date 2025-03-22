@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Toni Walker (House)
-N;CHARSET=UTF-8:Walker (House);Toni;;;
+FN;CHARSET=UTF-8:Toni Walker (CT House)
+N;CHARSET=UTF-8:Walker (CT House);Toni;;;
 TEL;TYPE=WORK,VOICE:860-240-8585
-NOTE;CHARSET=UTF-8:CT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:54.344034
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:toni.walker@cga.ct.gov
+NOTE;CHARSET=UTF-8:Representative in CT Legislature\, District 93\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:37.252244
 END:VCARD

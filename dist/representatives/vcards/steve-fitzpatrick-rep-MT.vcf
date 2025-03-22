@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Steve Fitzpatrick (House)
-N;CHARSET=UTF-8:Fitzpatrick (House);Steve;;;
+FN;CHARSET=UTF-8:Steve Fitzpatrick (MT House)
+N;CHARSET=UTF-8:Fitzpatrick (MT House);Steve;;;
 TEL;TYPE=WORK,VOICE:406-750-6764
-NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:38.430006
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:steve.fitzpatrick@legmt.gov
+NOTE;CHARSET=UTF-8:Representative in MT Legislature\, District 24\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:15.368088
 END:VCARD

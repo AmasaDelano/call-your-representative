@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Anthony Nicastro (House)
-N;CHARSET=UTF-8:Nicastro (House);Anthony;;;
+FN;CHARSET=UTF-8:Anthony Nicastro (MT House)
+N;CHARSET=UTF-8:Nicastro (MT House);Anthony;;;
 TEL;TYPE=WORK,VOICE:406-444-4800
-NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:36.976310
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:anthony.nicastro@legmt.gov
+NOTE;CHARSET=UTF-8:Representative in MT Legislature\, District 50\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:13.923589
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jaime Andrade (House)
-N;CHARSET=UTF-8:Andrade (House);Jaime;;;
+FN;CHARSET=UTF-8:Jaime Andrade (IL House)
+N;CHARSET=UTF-8:Andrade (IL House);Jaime;;;
 TEL;TYPE=WORK,VOICE:217-782-8117
-NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:57.082694
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:info@staterep40.com
+NOTE;CHARSET=UTF-8:Representative in IL Legislature\, District 40\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:38.690141
 END:VCARD

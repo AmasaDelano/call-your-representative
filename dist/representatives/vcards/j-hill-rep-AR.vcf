@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:J. Hill (House)
-N;CHARSET=UTF-8:Hill (House);J.;;;
+FN;CHARSET=UTF-8:J. Hill (AR House)
+N;CHARSET=UTF-8:Hill (AR House);J.;;;
 TEL;TYPE=WORK,VOICE:202-225-2506
-NOTE;CHARSET=UTF-8:US Representative\, AR\n\nCommittees:\nHouse Permanent Select Committee on Intelligence\nFinancial Services\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:30.267974
+URL;CHARSET=UTF-8:https://hill.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from AR\, District 2\n\nCommittees he's on:\n- House Permanent Select Committee on Intelligence\n- Financial Services\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:12.088727
 END:VCARD

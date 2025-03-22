@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Billy Garrett (Senate)
-N;CHARSET=UTF-8:Garrett (Senate);Billy;;;
+FN;CHARSET=UTF-8:Billy Garrett (SC Senate)
+N;CHARSET=UTF-8:Garrett (SC Senate);Billy;;;
 TEL;TYPE=WORK,VOICE:803-212-6016
-NOTE;CHARSET=UTF-8:SC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:52.727781
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:billygarrett@scsenate.gov
+NOTE;CHARSET=UTF-8:Senator in SC Legislature\, District 10\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:28.746106
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Pat Stefano (Senate)
-N;CHARSET=UTF-8:Stefano (Senate);Pat;;;
+FN;CHARSET=UTF-8:Pat Stefano (PA Senate)
+N;CHARSET=UTF-8:Stefano (PA Senate);Pat;;;
 TEL;TYPE=WORK,VOICE:717-787-7175
-NOTE;CHARSET=UTF-8:PA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:31.572118
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:pstefano@pasen.gov
+NOTE;CHARSET=UTF-8:Senator in PA Legislature\, District 32\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:09.446160
 END:VCARD

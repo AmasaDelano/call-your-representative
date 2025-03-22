@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Avi Schnall (Assembly)
-N;CHARSET=UTF-8:Schnall (Assembly);Avi;;;
+FN;CHARSET=UTF-8:Avi Schnall (NJ Assembly)
+N;CHARSET=UTF-8:Schnall (NJ Assembly);Avi;;;
 TEL;TYPE=WORK,VOICE:848-245-9486
-NOTE;CHARSET=UTF-8:NJ Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:14.931059
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:asmschnall@njleg.org
+NOTE;CHARSET=UTF-8:Assembly Member in NJ Legislature\, District 30\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:51.672222
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jed Arnold (House)
-N;CHARSET=UTF-8:Arnold (House);Jed;;;
+FN;CHARSET=UTF-8:Jed Arnold (VA House)
+N;CHARSET=UTF-8:Arnold (VA House);Jed;;;
 TEL;TYPE=WORK,VOICE:804-698-1046
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:22.262211
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:deljarnold@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 46\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:03.211872
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Gail Davenport (Senate)
-N;CHARSET=UTF-8:Davenport (Senate);Gail;;;
+FN;CHARSET=UTF-8:Gail Davenport (GA Senate)
+N;CHARSET=UTF-8:Davenport (GA Senate);Gail;;;
 TEL;TYPE=WORK,VOICE:404-463-5260
-NOTE;CHARSET=UTF-8:GA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:45.043668
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:gail.davenport@senate.ga.gov
+NOTE;CHARSET=UTF-8:Senator in GA Legislature\, District 17\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:27.355572
 END:VCARD

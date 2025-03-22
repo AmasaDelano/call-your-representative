@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Paul Bettencourt (Senate)
-N;CHARSET=UTF-8:Bettencourt (Senate);Paul;;;
+FN;CHARSET=UTF-8:Paul Bettencourt (TX Senate)
+N;CHARSET=UTF-8:Bettencourt (TX Senate);Paul;;;
 TEL;TYPE=WORK,VOICE:713-464-0282
-NOTE;CHARSET=UTF-8:TX Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:45.709625
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:paul.bettencourt@senate.texas.gov
+NOTE;CHARSET=UTF-8:Senator in TX Legislature\, District 7\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:46.725286
 END:VCARD

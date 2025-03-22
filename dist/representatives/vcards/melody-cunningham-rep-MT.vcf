@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Melody Cunningham (House)
-N;CHARSET=UTF-8:Cunningham (House);Melody;;;
+FN;CHARSET=UTF-8:Melody Cunningham (MT House)
+N;CHARSET=UTF-8:Cunningham (MT House);Melody;;;
 TEL;TYPE=WORK,VOICE:406-493-7279
-NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:38.131691
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:melody.cunningham@legmt.gov
+NOTE;CHARSET=UTF-8:Representative in MT Legislature\, District 97\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:14.997673
 END:VCARD

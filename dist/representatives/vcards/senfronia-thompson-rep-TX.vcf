@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Senfronia Thompson (House)
-N;CHARSET=UTF-8:Thompson (House);Senfronia;;;
+FN;CHARSET=UTF-8:Senfronia Thompson (TX House)
+N;CHARSET=UTF-8:Thompson (TX House);Senfronia;;;
 TEL;TYPE=WORK,VOICE:713-633-3390
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:52.003128
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senfronia.thompson@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 141\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:52.057925
 END:VCARD

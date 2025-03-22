@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Cecelie Williams (House)
-N;CHARSET=UTF-8:Williams (House);Cecelie;;;
+FN;CHARSET=UTF-8:Cecelie Williams (MO House)
+N;CHARSET=UTF-8:Williams (MO House);Cecelie;;;
 TEL;TYPE=WORK,VOICE:573-751-4567
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:35.091041
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:cecelie.williams@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 111\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:12.318167
 END:VCARD

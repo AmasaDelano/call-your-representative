@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Katherine Clark (House)
-N;CHARSET=UTF-8:Clark (House);Katherine;;;
+FN;CHARSET=UTF-8:Katherine Clark (MA House)
+N;CHARSET=UTF-8:Clark (MA House);Katherine;;;
 TEL;TYPE=WORK,VOICE:202-225-2836
-NOTE;CHARSET=UTF-8:US Representative\, MA\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:30.178520
+URL;CHARSET=UTF-8:https://katherineclark.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from MA\, District 5\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:11.999507
 END:VCARD

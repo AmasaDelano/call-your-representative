@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Terry Roy (House)
-N;CHARSET=UTF-8:Roy (House);Terry;;;
+FN;CHARSET=UTF-8:Terry Roy (NH House)
+N;CHARSET=UTF-8:Roy (NH House);Terry;;;
 TEL;TYPE=WORK,VOICE:978-235-2400
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:12.059154
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:terry.roy@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Rockingham 31\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:48.855283
 END:VCARD

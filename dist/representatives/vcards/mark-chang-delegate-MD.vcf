@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mark Chang (House)
-N;CHARSET=UTF-8:Chang (House);Mark;;;
+FN;CHARSET=UTF-8:Mark Chang (MD House)
+N;CHARSET=UTF-8:Chang (MD House);Mark;;;
 TEL;TYPE=WORK,VOICE:410-841-3511
-NOTE;CHARSET=UTF-8:MD Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:03.131974
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mark.chang@house.state.md.us
+NOTE;CHARSET=UTF-8:Delegate in MD Legislature\, District 32\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:41.298469
 END:VCARD

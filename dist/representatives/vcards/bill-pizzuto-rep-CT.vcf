@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bill Pizzuto (House)
-N;CHARSET=UTF-8:Pizzuto (House);Bill;;;
+FN;CHARSET=UTF-8:Bill Pizzuto (CT House)
+N;CHARSET=UTF-8:Pizzuto (CT House);Bill;;;
 TEL;TYPE=WORK,VOICE:800-842-1423
-NOTE;CHARSET=UTF-8:CT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:54.448544
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:william.pizzuto@housegop.ct.gov
+NOTE;CHARSET=UTF-8:Representative in CT Legislature\, District 71\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:37.327209
 END:VCARD

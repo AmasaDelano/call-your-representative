@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Donna Barnes (House)
-N;CHARSET=UTF-8:Barnes (House);Donna;;;
+FN;CHARSET=UTF-8:Donna Barnes (MO House)
+N;CHARSET=UTF-8:Barnes (MO House);Donna;;;
 TEL;TYPE=WORK,VOICE:573-751-9851
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:35.356075
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:donna.barnes@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 28\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:12.609887
 END:VCARD

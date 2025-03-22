@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Danny Alvarez (House)
-N;CHARSET=UTF-8:Alvarez (House);Danny;;;
+FN;CHARSET=UTF-8:Danny Alvarez (FL House)
+N;CHARSET=UTF-8:Alvarez (FL House);Danny;;;
 TEL;TYPE=WORK,VOICE:850-717-5069
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:04.153934
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:danny.alvarez@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 69\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:47.116613
 END:VCARD

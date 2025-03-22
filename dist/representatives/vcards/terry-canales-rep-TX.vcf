@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Terry Canales (House)
-N;CHARSET=UTF-8:Canales (House);Terry;;;
+FN;CHARSET=UTF-8:Terry Canales (TX House)
+N;CHARSET=UTF-8:Canales (TX House);Terry;;;
 TEL;TYPE=WORK,VOICE:956-383-0860
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:56.772257
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:terry.canales@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 40\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:56.408407
 END:VCARD

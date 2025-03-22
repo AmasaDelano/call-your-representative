@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Manny Guzman (House)
-N;CHARSET=UTF-8:Guzman (House);Manny;;;
+FN;CHARSET=UTF-8:Manny Guzman (PA House)
+N;CHARSET=UTF-8:Guzman (PA House);Manny;;;
 TEL;TYPE=WORK,VOICE:717-787-3525
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:22.094444
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:repguzman@pahouse.net
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 127\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:00.567110
 END:VCARD

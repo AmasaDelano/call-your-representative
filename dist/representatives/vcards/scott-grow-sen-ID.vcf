@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Scott Grow (Senate)
-N;CHARSET=UTF-8:Grow (Senate);Scott;;;
+FN;CHARSET=UTF-8:Scott Grow (ID Senate)
+N;CHARSET=UTF-8:Grow (ID Senate);Scott;;;
 TEL;TYPE=WORK,VOICE:208-332-1334
-NOTE;CHARSET=UTF-8:ID Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:55.195752
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sgrow@senate.idaho.gov
+NOTE;CHARSET=UTF-8:Senator in ID Legislature\, District 14\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:36.864988
 END:VCARD

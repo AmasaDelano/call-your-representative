@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Harold Love (House)
-N;CHARSET=UTF-8:Love (House);Harold;;;
+FN;CHARSET=UTF-8:Harold Love (TN House)
+N;CHARSET=UTF-8:Love (TN House);Harold;;;
 TEL;TYPE=WORK,VOICE:615-741-3831
-NOTE;CHARSET=UTF-8:TN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:03.304713
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.harold.love@capitol.tn.gov
+NOTE;CHARSET=UTF-8:Representative in TN Legislature\, District 58\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:07.850790
 END:VCARD

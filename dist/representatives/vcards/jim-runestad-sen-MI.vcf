@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jim Runestad (Senate)
-N;CHARSET=UTF-8:Runestad (Senate);Jim;;;
+FN;CHARSET=UTF-8:Jim Runestad (MI Senate)
+N;CHARSET=UTF-8:Runestad (MI Senate);Jim;;;
 TEL;TYPE=WORK,VOICE:517-373-1758
-NOTE;CHARSET=UTF-8:MI Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:12.562165
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senjrunestad@senate.michigan.gov
+NOTE;CHARSET=UTF-8:Senator in MI Legislature\, District 23\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:49.224742
 END:VCARD

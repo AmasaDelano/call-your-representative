@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Dan Garner (House)
-N;CHARSET=UTF-8:Garner (House);Dan;;;
+FN;CHARSET=UTF-8:Dan Garner (ID House)
+N;CHARSET=UTF-8:Garner (ID House);Dan;;;
 TEL;TYPE=WORK,VOICE:208-332-1081
-NOTE;CHARSET=UTF-8:ID Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:55.384296
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:dgarner@house.idaho.gov
+NOTE;CHARSET=UTF-8:Representative in ID Legislature\, District 28B\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:37.021600
 END:VCARD

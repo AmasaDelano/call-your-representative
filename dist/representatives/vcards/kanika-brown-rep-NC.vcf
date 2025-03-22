@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kanika Brown (House)
-N;CHARSET=UTF-8:Brown (House);Kanika;;;
+FN;CHARSET=UTF-8:Kanika Brown (NC House)
+N;CHARSET=UTF-8:Brown (NC House);Kanika;;;
 TEL;TYPE=WORK,VOICE:919-733-5777
-NOTE;CHARSET=UTF-8:NC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:11.209870
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:kanika.brown@ncleg.gov
+NOTE;CHARSET=UTF-8:Representative in NC Legislature\, District 71\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:49.399187
 END:VCARD

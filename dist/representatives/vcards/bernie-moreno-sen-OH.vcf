@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bernie Moreno (Senate)
-N;CHARSET=UTF-8:Moreno (Senate);Bernie;;;
+FN;CHARSET=UTF-8:Bernie Moreno (OH Senate)
+N;CHARSET=UTF-8:Moreno (OH Senate);Bernie;;;
 TEL;TYPE=WORK,VOICE:202-224-2315
-NOTE;CHARSET=UTF-8:US Senator\, OH\n\nCommittees:\nUnited States Senate Caucus on International Narcotics Control\nBanking, Housing, and Urban Affairs\nSecurities, Insurance, and Investment\nHousing, Transportation, and Community Development\nDigital Assets\nThe Budget\nCommerce, Science, and Transportation\nHomeland Security and Governmental Affairs\nPermanent Subcommittee on Investigations\nBorder Management, Federal Workforce, and Regulatory Affairs\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:38.205620
+URL;CHARSET=UTF-8:https://www.moreno.senate.gov
+NOTE;CHARSET=UTF-8:US Senator for OH\n\nCommittees he's on:\n- United States Senate Caucus on International Narcotics Control\n- Banking, Housing, and Urban Affairs\n- Securities, Insurance, and Investment\n- Housing, Transportation, and Community Development\n- Digital Assets\n- The Budget\n- Commerce, Science, and Transportation\n- Homeland Security and Governmental Affairs\n- Permanent Subcommittee on Investigations\n- Border Management, Federal Workforce, and Regulatory Affairs\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:20.505694
 END:VCARD

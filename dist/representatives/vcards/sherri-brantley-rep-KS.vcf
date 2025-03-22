@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Sherri Brantley (House)
-N;CHARSET=UTF-8:Brantley (House);Sherri;;;
+FN;CHARSET=UTF-8:Sherri Brantley (KS House)
+N;CHARSET=UTF-8:Brantley (KS House);Sherri;;;
 TEL;TYPE=WORK,VOICE:785-296-7363
-NOTE;CHARSET=UTF-8:KS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:12.236860
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sherri.brantley@house.ks.gov
+NOTE;CHARSET=UTF-8:Representative in KS Legislature\, District 112\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:53.299112
 END:VCARD

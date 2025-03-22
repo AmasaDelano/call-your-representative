@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mark Schoesler (Senate)
-N;CHARSET=UTF-8:Schoesler (Senate);Mark;;;
+FN;CHARSET=UTF-8:Mark Schoesler (WA Senate)
+N;CHARSET=UTF-8:Schoesler (WA Senate);Mark;;;
 TEL;TYPE=WORK,VOICE:360-786-7620
-NOTE;CHARSET=UTF-8:WA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:24.668288
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mark.schoesler@leg.wa.gov
+NOTE;CHARSET=UTF-8:Senator in WA Legislature\, District 9\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:05.862535
 END:VCARD

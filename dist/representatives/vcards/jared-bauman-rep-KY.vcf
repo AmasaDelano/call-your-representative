@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jared Bauman (House)
-N;CHARSET=UTF-8:Bauman (House);Jared;;;
+FN;CHARSET=UTF-8:Jared Bauman (KY House)
+N;CHARSET=UTF-8:Bauman (KY House);Jared;;;
 TEL;TYPE=WORK,VOICE:502-564-8100
-NOTE;CHARSET=UTF-8:KY Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:17.710009
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jared.bauman@kylegislature.gov
+NOTE;CHARSET=UTF-8:Representative in KY Legislature\, District 28\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:58.272508
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Prax (House)
-N;CHARSET=UTF-8:Prax (House);Mike;;;
+FN;CHARSET=UTF-8:Mike Prax (AK House)
+N;CHARSET=UTF-8:Prax (AK House);Mike;;;
 TEL;TYPE=WORK,VOICE:907-465-4797
-NOTE;CHARSET=UTF-8:AK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:22.139523
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:representative.mike.prax@akleg.gov
+NOTE;CHARSET=UTF-8:Representative in AK Legislature\, District 33\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:15.170943
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike McGuire (Senate)
-N;CHARSET=UTF-8:McGuire (Senate);Mike;;;
+FN;CHARSET=UTF-8:Mike McGuire (CA Senate)
+N;CHARSET=UTF-8:McGuire (CA Senate);Mike;;;
 TEL;TYPE=WORK,VOICE:916-651-4002
-NOTE;CHARSET=UTF-8:CA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:41.039557
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senator.mcguire@senate.ca.gov
+NOTE;CHARSET=UTF-8:Senator in CA Legislature\, District 2\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:33.601556
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Katie Stewart (House)
-N;CHARSET=UTF-8:Stewart (House);Katie;;;
+FN;CHARSET=UTF-8:Katie Stewart (CO House)
+N;CHARSET=UTF-8:Stewart (CO House);Katie;;;
 TEL;TYPE=WORK,VOICE:303-866-2914
-NOTE;CHARSET=UTF-8:CO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:06.778851
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:katie.stewart.house@coleg.gov
+NOTE;CHARSET=UTF-8:Representative in CO Legislature\, District 59\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:53.905479
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kevin Hardee (House)
-N;CHARSET=UTF-8:Hardee (House);Kevin;;;
+FN;CHARSET=UTF-8:Kevin Hardee (SC House)
+N;CHARSET=UTF-8:Hardee (SC House);Kevin;;;
 TEL;TYPE=WORK,VOICE:803-212-6796
-NOTE;CHARSET=UTF-8:SC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:26:23.983525
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:kevinhardee@schouse.gov
+NOTE;CHARSET=UTF-8:Representative in SC Legislature\, District 105\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:59.958067
 END:VCARD

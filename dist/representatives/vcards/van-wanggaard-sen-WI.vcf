@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Van Wanggaard (Senate)
-N;CHARSET=UTF-8:Wanggaard (Senate);Van;;;
+FN;CHARSET=UTF-8:Van Wanggaard (WI Senate)
+N;CHARSET=UTF-8:Wanggaard (WI Senate);Van;;;
 TEL;TYPE=WORK,VOICE:608-266-1832
-NOTE;CHARSET=UTF-8:WI Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:26.262277
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.wanggaard@legis.wisconsin.gov
+NOTE;CHARSET=UTF-8:Senator in WI Legislature\, District 21\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:07.459628
 END:VCARD

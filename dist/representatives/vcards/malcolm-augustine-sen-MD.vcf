@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Malcolm Augustine (Senate)
-N;CHARSET=UTF-8:Augustine (Senate);Malcolm;;;
+FN;CHARSET=UTF-8:Malcolm Augustine (MD Senate)
+N;CHARSET=UTF-8:Augustine (MD Senate);Malcolm;;;
 TEL;TYPE=WORK,VOICE:410-841-3745
-NOTE;CHARSET=UTF-8:MD Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:03.075889
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:malcolm.augustine@senate.state.md.us
+NOTE;CHARSET=UTF-8:Senator in MD Legislature\, District 47\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:41.252267
 END:VCARD

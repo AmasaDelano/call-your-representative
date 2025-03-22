@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bryan Steil (House)
-N;CHARSET=UTF-8:Steil (House);Bryan;;;
+FN;CHARSET=UTF-8:Bryan Steil (WI House)
+N;CHARSET=UTF-8:Steil (WI House);Bryan;;;
 TEL;TYPE=WORK,VOICE:202-225-3031
-NOTE;CHARSET=UTF-8:US Representative\, WI\n\nCommittees:\nFinancial Services\nHouse Administration\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:32.939212
+URL;CHARSET=UTF-8:https://steil.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from WI\, District 1\n\nCommittees he's on:\n- Financial Services\n- House Administration\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:15.090033
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Zach Dieken (House)
-N;CHARSET=UTF-8:Dieken (House);Zach;;;
+FN;CHARSET=UTF-8:Zach Dieken (IA House)
+N;CHARSET=UTF-8:Dieken (IA House);Zach;;;
 TEL;TYPE=WORK,VOICE:515-281-3221
-NOTE;CHARSET=UTF-8:IA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:36.045477
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:zachary.dieken@legis.iowa.gov
+NOTE;CHARSET=UTF-8:Representative in IA Legislature\, District 5\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:18.432510
 END:VCARD

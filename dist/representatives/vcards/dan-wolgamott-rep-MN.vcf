@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Dan Wolgamott (House)
-N;CHARSET=UTF-8:Wolgamott (House);Dan;;;
+FN;CHARSET=UTF-8:Dan Wolgamott (MN House)
+N;CHARSET=UTF-8:Wolgamott (MN House);Dan;;;
 TEL;TYPE=WORK,VOICE:651-296-6612
-NOTE;CHARSET=UTF-8:MN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:27.355852
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.dan.wolgamott@house.mn.gov
+NOTE;CHARSET=UTF-8:Representative in MN Legislature\, District 14B\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:05.200622
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Angela Mosley (Senate)
-N;CHARSET=UTF-8:Mosley (Senate);Angela;;;
+FN;CHARSET=UTF-8:Angela Mosley (MO Senate)
+N;CHARSET=UTF-8:Mosley (MO Senate);Angela;;;
 TEL;TYPE=WORK,VOICE:573-751-2420
-NOTE;CHARSET=UTF-8:MO Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:34.513484
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:angela.mosley@senate.mo.gov
+NOTE;CHARSET=UTF-8:Senator in MO Legislature\, District 13\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:11.880771
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Daniel Goldman (House)
-N;CHARSET=UTF-8:Goldman (House);Daniel;;;
+FN;CHARSET=UTF-8:Daniel Goldman (NY House)
+N;CHARSET=UTF-8:Goldman (NY House);Daniel;;;
 TEL;TYPE=WORK,VOICE:202-225-7944
-NOTE;CHARSET=UTF-8:US Representative\, NY\n\nCommittees:\nHomeland Security\nThe Judiciary\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:36.051885
+URL;CHARSET=UTF-8:https://goldman.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from NY\, District 10\n\nCommittees he's on:\n- Homeland Security\n- The Judiciary\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:18.382318
 END:VCARD

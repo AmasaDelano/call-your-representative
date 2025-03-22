@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jason Ballard (House)
-N;CHARSET=UTF-8:Ballard (House);Jason;;;
+FN;CHARSET=UTF-8:Jason Ballard (VA House)
+N;CHARSET=UTF-8:Ballard (VA House);Jason;;;
 TEL;TYPE=WORK,VOICE:804-698-1042
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:22.155320
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:deljballard@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 42\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:03.113524
 END:VCARD

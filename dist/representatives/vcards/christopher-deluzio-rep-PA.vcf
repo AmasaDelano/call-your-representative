@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Christopher Deluzio (House)
-N;CHARSET=UTF-8:Deluzio (House);Christopher;;;
+FN;CHARSET=UTF-8:Christopher Deluzio (PA House)
+N;CHARSET=UTF-8:Deluzio (PA House);Christopher;;;
 TEL;TYPE=WORK,VOICE:202-225-2301
-NOTE;CHARSET=UTF-8:US Representative\, PA\n\nCommittees:\nArmed Services\nTransportation and Infrastructure\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:36.691860
+URL;CHARSET=UTF-8:https://deluzio.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from PA\, District 17\n\nCommittees he's on:\n- Armed Services\n- Transportation and Infrastructure\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:19.030821
 END:VCARD

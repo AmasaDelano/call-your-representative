@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Meg Kilcoyne (House)
-N;CHARSET=UTF-8:Kilcoyne (House);Meg;;;
+FN;CHARSET=UTF-8:Meg Kilcoyne (MA House)
+N;CHARSET=UTF-8:Kilcoyne (MA House);Meg;;;
 TEL;TYPE=WORK,VOICE:617-722-2396
-NOTE;CHARSET=UTF-8:MA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:05.746422
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:meghan.kilcoyne@mahouse.gov
+NOTE;CHARSET=UTF-8:Representative in MA Legislature\, District 12th Worcester\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:43.848498
 END:VCARD

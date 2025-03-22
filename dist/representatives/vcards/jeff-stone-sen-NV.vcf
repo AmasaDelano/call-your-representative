@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jeff Stone (Senate)
-N;CHARSET=UTF-8:Stone (Senate);Jeff;;;
+FN;CHARSET=UTF-8:Jeff Stone (NV Senate)
+N;CHARSET=UTF-8:Stone (NV Senate);Jeff;;;
 TEL;TYPE=WORK,VOICE:775-684-1481
-NOTE;CHARSET=UTF-8:NV Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:39.528358
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jeff.stone@sen.state.nv.us
+NOTE;CHARSET=UTF-8:Senator in NV Legislature\, District 20\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:16.487811
 END:VCARD

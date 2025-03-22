@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Scott DeMarois (House)
-N;CHARSET=UTF-8:DeMarois (House);Scott;;;
+FN;CHARSET=UTF-8:Scott DeMarois (MT House)
+N;CHARSET=UTF-8:DeMarois (MT House);Scott;;;
 TEL;TYPE=WORK,VOICE:406-560-6947
-NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:38.331480
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:scott.demarois@legmt.gov
+NOTE;CHARSET=UTF-8:Representative in MT Legislature\, District 71\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:15.258182
 END:VCARD

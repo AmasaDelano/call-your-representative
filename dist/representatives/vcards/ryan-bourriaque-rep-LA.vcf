@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ryan Bourriaque (House)
-N;CHARSET=UTF-8:Bourriaque (House);Ryan;;;
+FN;CHARSET=UTF-8:Ryan Bourriaque (LA House)
+N;CHARSET=UTF-8:Bourriaque (LA House);Ryan;;;
 TEL;TYPE=WORK,VOICE:337-893-5035
-NOTE;CHARSET=UTF-8:LA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:52.702025
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:hse047@legis.la.gov
+NOTE;CHARSET=UTF-8:Representative in LA Legislature\, District 47\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:32.358741
 END:VCARD

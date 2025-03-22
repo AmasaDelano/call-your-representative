@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kim Williams (House)
-N;CHARSET=UTF-8:Williams (House);Kim;;;
+FN;CHARSET=UTF-8:Kim Williams (DE House)
+N;CHARSET=UTF-8:Williams (DE House);Kim;;;
 TEL;TYPE=WORK,VOICE:302-744-4351
-NOTE;CHARSET=UTF-8:DE Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:55.948803
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:kimberly.williams@delaware.gov
+NOTE;CHARSET=UTF-8:Representative in DE Legislature\, District 19\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:38.628258
 END:VCARD

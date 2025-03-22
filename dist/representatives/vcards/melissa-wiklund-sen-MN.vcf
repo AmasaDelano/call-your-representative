@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Melissa Wiklund (Senate)
-N;CHARSET=UTF-8:Wiklund (Senate);Melissa;;;
+FN;CHARSET=UTF-8:Melissa Wiklund (MN Senate)
+N;CHARSET=UTF-8:Wiklund (MN Senate);Melissa;;;
 TEL;TYPE=WORK,VOICE:651-297-8061
-NOTE;CHARSET=UTF-8:MN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:28.648867
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.melissa.wiklund@senate.mn
+NOTE;CHARSET=UTF-8:Senator in MN Legislature\, District 51\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:06.096915
 END:VCARD

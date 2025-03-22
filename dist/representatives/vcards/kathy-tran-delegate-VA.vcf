@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kathy Tran (House)
-N;CHARSET=UTF-8:Tran (House);Kathy;;;
+FN;CHARSET=UTF-8:Kathy Tran (VA House)
+N;CHARSET=UTF-8:Tran (VA House);Kathy;;;
 TEL;TYPE=WORK,VOICE:804-698-1018
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:22.363080
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delktran@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 18\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:03.311769
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Roger Victory (Senate)
-N;CHARSET=UTF-8:Victory (Senate);Roger;;;
+FN;CHARSET=UTF-8:Roger Victory (MI Senate)
+N;CHARSET=UTF-8:Victory (MI Senate);Roger;;;
 TEL;TYPE=WORK,VOICE:517-373-6920
-NOTE;CHARSET=UTF-8:MI Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:24.297451
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senrvictory@senate.michigan.gov
+NOTE;CHARSET=UTF-8:Senator in MI Legislature\, District 31\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:00.934498
 END:VCARD

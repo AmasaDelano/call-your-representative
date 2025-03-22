@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Andy Barr (House)
-N;CHARSET=UTF-8:Barr (House);Andy;;;
+FN;CHARSET=UTF-8:Andy Barr (KY House)
+N;CHARSET=UTF-8:Barr (KY House);Andy;;;
 TEL;TYPE=WORK,VOICE:202-225-4706
-NOTE;CHARSET=UTF-8:US Representative\, KY\n\nCommittees:\nFinancial Services\nForeign Affairs\nHouse Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:29.665253
+URL;CHARSET=UTF-8:https://barr.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from KY\, District 6\n\nCommittees he's on:\n- Financial Services\n- Foreign Affairs\n- House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:11.400029
 END:VCARD

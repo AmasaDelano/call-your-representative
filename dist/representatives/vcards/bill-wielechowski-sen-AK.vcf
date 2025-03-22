@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bill Wielechowski (Senate)
-N;CHARSET=UTF-8:Wielechowski (Senate);Bill;;;
+FN;CHARSET=UTF-8:Bill Wielechowski (AK Senate)
+N;CHARSET=UTF-8:Wielechowski (AK Senate);Bill;;;
 TEL;TYPE=WORK,VOICE:907-465-2435
-NOTE;CHARSET=UTF-8:AK Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:20.871805
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senator.bill.wielechowski@akleg.gov
+NOTE;CHARSET=UTF-8:Senator in AK Legislature\, District K\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:13.285752
 END:VCARD

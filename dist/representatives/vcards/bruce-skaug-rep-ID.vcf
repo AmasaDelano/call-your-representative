@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bruce Skaug (House)
-N;CHARSET=UTF-8:Skaug (House);Bruce;;;
+FN;CHARSET=UTF-8:Bruce Skaug (ID House)
+N;CHARSET=UTF-8:Skaug (ID House);Bruce;;;
 TEL;TYPE=WORK,VOICE:208-332-1178
-NOTE;CHARSET=UTF-8:ID Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:55.170311
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bskaug@house.idaho.gov
+NOTE;CHARSET=UTF-8:Representative in ID Legislature\, District 10B\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:36.852521
 END:VCARD

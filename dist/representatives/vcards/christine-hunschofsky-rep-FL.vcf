@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Christine Hunschofsky (House)
-N;CHARSET=UTF-8:Hunschofsky (House);Christine;;;
+FN;CHARSET=UTF-8:Christine Hunschofsky (FL House)
+N;CHARSET=UTF-8:Hunschofsky (FL House);Christine;;;
 TEL;TYPE=WORK,VOICE:850-717-5095
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:02.968520
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:christine.hunschofsky@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 95\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:45.722991
 END:VCARD

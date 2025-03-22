@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Matt Brown (House)
-N;CHARSET=UTF-8:Brown (House);Matt;;;
+FN;CHARSET=UTF-8:Matt Brown (AR House)
+N;CHARSET=UTF-8:Brown (AR House);Matt;;;
 TEL;TYPE=WORK,VOICE:501-682-6211
-NOTE;CHARSET=UTF-8:AR Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:27.434839
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:matt.brown@arkansashouse.org
+NOTE;CHARSET=UTF-8:Representative in AR Legislature\, District 55\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:19.669101
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ann Cummings (Senate)
-N;CHARSET=UTF-8:Cummings (Senate);Ann;;;
+FN;CHARSET=UTF-8:Ann Cummings (VT Senate)
+N;CHARSET=UTF-8:Cummings (VT Senate);Ann;;;
 TEL;TYPE=WORK,VOICE:802-828-2228
-NOTE;CHARSET=UTF-8:VT Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:05.431488
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:acummings@leg.state.vt.us
+NOTE;CHARSET=UTF-8:Senator in VT Legislature\, District Washington\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:58:25.472385
 END:VCARD

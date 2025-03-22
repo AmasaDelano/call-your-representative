@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Annie McDaniel (House)
-N;CHARSET=UTF-8:McDaniel (House);Annie;;;
+FN;CHARSET=UTF-8:Annie McDaniel (SC House)
+N;CHARSET=UTF-8:McDaniel (SC House);Annie;;;
 TEL;TYPE=WORK,VOICE:803-212-6789
-NOTE;CHARSET=UTF-8:SC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:52.663967
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:anniemcdaniel@schouse.gov
+NOTE;CHARSET=UTF-8:Representative in SC Legislature\, District 41\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:28.690578
 END:VCARD

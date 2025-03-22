@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Marlon Anderson (House)
-N;CHARSET=UTF-8:Anderson (House);Marlon;;;
+FN;CHARSET=UTF-8:Marlon Anderson (MO House)
+N;CHARSET=UTF-8:Anderson (MO House);Marlon;;;
 TEL;TYPE=WORK,VOICE:573-751-7605
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:36.187206
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:marlon.anderson@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 76\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:13.252952
 END:VCARD

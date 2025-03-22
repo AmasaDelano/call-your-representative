@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bill O'Brien (House)
-N;CHARSET=UTF-8:O'Brien (House);Bill;;;
+FN;CHARSET=UTF-8:Bill O'Brien (RI House)
+N;CHARSET=UTF-8:O'Brien (RI House);Bill;;;
 TEL;TYPE=WORK,VOICE:401-222-3580
-NOTE;CHARSET=UTF-8:RI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:52.603947
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep-obrien@rilegislature.gov
+NOTE;CHARSET=UTF-8:Representative in RI Legislature\, District 54\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:28.637834
 END:VCARD

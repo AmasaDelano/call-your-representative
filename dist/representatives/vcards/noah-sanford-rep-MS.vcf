@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Noah Sanford (House)
-N;CHARSET=UTF-8:Sanford (House);Noah;;;
+FN;CHARSET=UTF-8:Noah Sanford (MS House)
+N;CHARSET=UTF-8:Sanford (MS House);Noah;;;
 TEL;TYPE=WORK,VOICE:601-359-3363
-NOTE;CHARSET=UTF-8:MS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:33.426195
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:nsanford@house.ms.gov
+NOTE;CHARSET=UTF-8:Representative in MS Legislature\, District 90\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:10.854146
 END:VCARD

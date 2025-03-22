@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Schuyler VanValkenburg (Senate)
-N;CHARSET=UTF-8:VanValkenburg (Senate);Schuyler;;;
+FN;CHARSET=UTF-8:Schuyler VanValkenburg (VA Senate)
+N;CHARSET=UTF-8:VanValkenburg (VA Senate);Schuyler;;;
 TEL;TYPE=WORK,VOICE:804-698-7516
-NOTE;CHARSET=UTF-8:VA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:22.951801
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senatorvanvalkenburg@senate.virginia.gov
+NOTE;CHARSET=UTF-8:Senator in VA Legislature\, District 16\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:03.936601
 END:VCARD

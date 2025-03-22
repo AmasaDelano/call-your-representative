@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Joe Shekarchi (House)
-N;CHARSET=UTF-8:Shekarchi (House);Joe;;;
+FN;CHARSET=UTF-8:Joe Shekarchi (RI House)
+N;CHARSET=UTF-8:Shekarchi (RI House);Joe;;;
 TEL;TYPE=WORK,VOICE:401-222-2447
-NOTE;CHARSET=UTF-8:RI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:50.553869
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep-shekarchi@rilegislature.gov
+NOTE;CHARSET=UTF-8:Representative in RI Legislature\, District 23\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:26.884022
 END:VCARD

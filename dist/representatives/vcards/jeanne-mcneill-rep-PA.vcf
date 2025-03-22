@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jeanne McNeill (House)
-N;CHARSET=UTF-8:McNeill (House);Jeanne;;;
+FN;CHARSET=UTF-8:Jeanne McNeill (PA House)
+N;CHARSET=UTF-8:McNeill (PA House);Jeanne;;;
 TEL;TYPE=WORK,VOICE:717-772-9902
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:04.683234
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jmcneill@pahousegop.com
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 133\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:43.146729
 END:VCARD

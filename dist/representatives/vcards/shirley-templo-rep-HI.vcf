@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Shirley Templo (House)
-N;CHARSET=UTF-8:Templo (House);Shirley;;;
+FN;CHARSET=UTF-8:Shirley Templo (HI House)
+N;CHARSET=UTF-8:Templo (HI House);Shirley;;;
 TEL;TYPE=WORK,VOICE:808-586-6010
-NOTE;CHARSET=UTF-8:HI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:54.545052
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:reptemplo@capitol.hawaii.gov
+NOTE;CHARSET=UTF-8:Representative in HI Legislature\, District 30\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:36.289966
 END:VCARD

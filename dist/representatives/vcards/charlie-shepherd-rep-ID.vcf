@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Charlie Shepherd (House)
-N;CHARSET=UTF-8:Shepherd (House);Charlie;;;
+FN;CHARSET=UTF-8:Charlie Shepherd (ID House)
+N;CHARSET=UTF-8:Shepherd (ID House);Charlie;;;
 TEL;TYPE=WORK,VOICE:208-332-1067
-NOTE;CHARSET=UTF-8:ID Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:55.258782
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:cshepherd@house.idaho.gov
+NOTE;CHARSET=UTF-8:Representative in ID Legislature\, District 7B\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:36.910232
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Robyn Kennedy (Senate)
-N;CHARSET=UTF-8:Kennedy (Senate);Robyn;;;
+FN;CHARSET=UTF-8:Robyn Kennedy (MA Senate)
+N;CHARSET=UTF-8:Kennedy (MA Senate);Robyn;;;
 TEL;TYPE=WORK,VOICE:617-722-1544
-NOTE;CHARSET=UTF-8:MA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:06.226156
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:robyn.kennedy@masenate.gov
+NOTE;CHARSET=UTF-8:Senator in MA Legislature\, District First Worcester\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:44.266838
 END:VCARD

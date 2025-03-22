@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kent Marmon (House)
-N;CHARSET=UTF-8:Marmon (House);Kent;;;
+FN;CHARSET=UTF-8:Kent Marmon (ID House)
+N;CHARSET=UTF-8:Marmon (ID House);Kent;;;
 TEL;TYPE=WORK,VOICE:208-332-1052
-NOTE;CHARSET=UTF-8:ID Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:55.857711
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:kmarmon@house.idaho.gov
+NOTE;CHARSET=UTF-8:Representative in ID Legislature\, District 11A\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:37.529914
 END:VCARD

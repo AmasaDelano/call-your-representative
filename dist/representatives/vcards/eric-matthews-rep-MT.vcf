@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Eric Matthews (House)
-N;CHARSET=UTF-8:Matthews (House);Eric;;;
+FN;CHARSET=UTF-8:Eric Matthews (MT House)
+N;CHARSET=UTF-8:Matthews (MT House);Eric;;;
 TEL;TYPE=WORK,VOICE:406-600-1550
-NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:37.435995
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:eric.matthews@legmt.gov
+NOTE;CHARSET=UTF-8:Representative in MT Legislature\, District 66\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:14.311394
 END:VCARD

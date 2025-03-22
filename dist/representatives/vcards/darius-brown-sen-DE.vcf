@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Darius Brown (Senate)
-N;CHARSET=UTF-8:Brown (Senate);Darius;;;
+FN;CHARSET=UTF-8:Darius Brown (DE Senate)
+N;CHARSET=UTF-8:Brown (DE Senate);Darius;;;
 TEL;TYPE=WORK,VOICE:302-744-4286
-NOTE;CHARSET=UTF-8:DE Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:55.078742
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:darius.brown@delaware.gov
+NOTE;CHARSET=UTF-8:Senator in DE Legislature\, District 2\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:37.860628
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Janice Rich (Senate)
-N;CHARSET=UTF-8:Rich (Senate);Janice;;;
+FN;CHARSET=UTF-8:Janice Rich (CO Senate)
+N;CHARSET=UTF-8:Rich (CO Senate);Janice;;;
 TEL;TYPE=WORK,VOICE:303-866-3077
-NOTE;CHARSET=UTF-8:CO Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:59.443157
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:janicerichsd7@gmail.com
+NOTE;CHARSET=UTF-8:Senator in CO Legislature\, District 7\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:48.551813
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Morgan Thiel (House)
-N;CHARSET=UTF-8:Thiel (House);Morgan;;;
+FN;CHARSET=UTF-8:Morgan Thiel (MT House)
+N;CHARSET=UTF-8:Thiel (MT House);Morgan;;;
 TEL;TYPE=WORK,VOICE:406-480-6271
-NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:38.186926
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:morgan.thiel@legmt.gov
+NOTE;CHARSET=UTF-8:Representative in MT Legislature\, District 30\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:15.058556
 END:VCARD

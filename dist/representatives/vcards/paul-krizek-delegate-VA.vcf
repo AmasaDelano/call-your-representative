@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Paul Krizek (House)
-N;CHARSET=UTF-8:Krizek (House);Paul;;;
+FN;CHARSET=UTF-8:Paul Krizek (VA House)
+N;CHARSET=UTF-8:Krizek (VA House);Paul;;;
 TEL;TYPE=WORK,VOICE:804-698-1016
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:22.752245
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delpkrizek@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 16\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:03.699910
 END:VCARD

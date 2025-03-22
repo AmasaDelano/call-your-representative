@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Stefani Zinerman (Assembly)
-N;CHARSET=UTF-8:Zinerman (Assembly);Stefani;;;
+FN;CHARSET=UTF-8:Stefani Zinerman (NY Assembly)
+N;CHARSET=UTF-8:Zinerman (NY Assembly);Stefani;;;
 TEL;TYPE=WORK,VOICE:518-455-5474
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:08.435283
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:zinermans@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 56\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:45.837195
 END:VCARD

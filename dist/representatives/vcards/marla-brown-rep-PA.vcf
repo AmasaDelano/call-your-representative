@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Marla Brown (House)
-N;CHARSET=UTF-8:Brown (House);Marla;;;
+FN;CHARSET=UTF-8:Marla Brown (PA House)
+N;CHARSET=UTF-8:Brown (PA House);Marla;;;
 TEL;TYPE=WORK,VOICE:717-783-2017
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:23.651257
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mbrown@pahousegop.com
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 9\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:01.982030
 END:VCARD

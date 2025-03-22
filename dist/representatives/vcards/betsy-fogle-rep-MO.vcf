@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Betsy Fogle (House)
-N;CHARSET=UTF-8:Fogle (House);Betsy;;;
+FN;CHARSET=UTF-8:Betsy Fogle (MO House)
+N;CHARSET=UTF-8:Fogle (MO House);Betsy;;;
 TEL;TYPE=WORK,VOICE:573-751-9809
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:34.696035
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:betsy.fogle@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 135\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:12.028055
 END:VCARD

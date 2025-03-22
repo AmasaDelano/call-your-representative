@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kelly Seyarto (Senate)
-N;CHARSET=UTF-8:Seyarto (Senate);Kelly;;;
+FN;CHARSET=UTF-8:Kelly Seyarto (CA Senate)
+N;CHARSET=UTF-8:Seyarto (CA Senate);Kelly;;;
 TEL;TYPE=WORK,VOICE:916-651-4032
-NOTE;CHARSET=UTF-8:CA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:38.889216
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senator.seyarto@senate.ca.gov
+NOTE;CHARSET=UTF-8:Senator in CA Legislature\, District 32\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:31.696168
 END:VCARD

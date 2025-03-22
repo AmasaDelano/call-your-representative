@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Valoree Swanson (House)
-N;CHARSET=UTF-8:Swanson (House);Valoree;;;
+FN;CHARSET=UTF-8:Valoree Swanson (TX House)
+N;CHARSET=UTF-8:Swanson (TX House);Valoree;;;
 TEL;TYPE=WORK,VOICE:281-257-4222
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:01.612313
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:valoree.swanson@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 150\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:58:00.956995
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mary Coleman (Senate)
-N;CHARSET=UTF-8:Coleman (Senate);Mary;;;
+FN;CHARSET=UTF-8:Mary Coleman (MO Senate)
+N;CHARSET=UTF-8:Coleman (MO Senate);Mary;;;
 TEL;TYPE=WORK,VOICE:573-751-1492
-NOTE;CHARSET=UTF-8:MO Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:36.221342
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:maryelizabeth.coleman@senate.mo.gov
+NOTE;CHARSET=UTF-8:Senator in MO Legislature\, District 22\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:13.283764
 END:VCARD

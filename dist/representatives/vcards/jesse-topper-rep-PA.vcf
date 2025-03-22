@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jesse Topper (House)
-N;CHARSET=UTF-8:Topper (House);Jesse;;;
+FN;CHARSET=UTF-8:Jesse Topper (PA House)
+N;CHARSET=UTF-8:Topper (PA House);Jesse;;;
 TEL;TYPE=WORK,VOICE:717-787-7076
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:05.554208
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jtopper@pahousegop.com
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 78\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:43.933672
 END:VCARD

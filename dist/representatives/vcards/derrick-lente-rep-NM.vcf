@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Derrick Lente (House)
-N;CHARSET=UTF-8:Lente (House);Derrick;;;
+FN;CHARSET=UTF-8:Derrick Lente (NM House)
+N;CHARSET=UTF-8:Lente (NM House);Derrick;;;
 TEL;TYPE=WORK,VOICE:505-986-4420
-NOTE;CHARSET=UTF-8:NM Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:41.845925
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:derrick.lente@nmlegis.gov
+NOTE;CHARSET=UTF-8:Representative in NM Legislature\, District 65\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:17.803180
 END:VCARD

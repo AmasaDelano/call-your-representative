@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brian Maher (Assembly)
-N;CHARSET=UTF-8:Maher (Assembly);Brian;;;
+FN;CHARSET=UTF-8:Brian Maher (NY Assembly)
+N;CHARSET=UTF-8:Maher (NY Assembly);Brian;;;
 TEL;TYPE=WORK,VOICE:518-455-4807
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:48.685225
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:maherb@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 101\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:24.867835
 END:VCARD

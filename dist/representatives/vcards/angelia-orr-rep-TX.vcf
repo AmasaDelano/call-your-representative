@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Angelia Orr (House)
-N;CHARSET=UTF-8:Orr (House);Angelia;;;
+FN;CHARSET=UTF-8:Angelia Orr (TX House)
+N;CHARSET=UTF-8:Orr (TX House);Angelia;;;
 TEL;TYPE=WORK,VOICE:254-580-9008
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:06.753237
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:angelia.orr@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 13\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:11.438234
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Cody Miller (Assembly)
-N;CHARSET=UTF-8:Miller (Assembly);Cody;;;
+FN;CHARSET=UTF-8:Cody Miller (NJ Assembly)
+N;CHARSET=UTF-8:Miller (NJ Assembly);Cody;;;
 TEL;TYPE=WORK,VOICE:856-232-6700
-NOTE;CHARSET=UTF-8:NJ Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:19.043351
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:asmmiller@njleg.org
+NOTE;CHARSET=UTF-8:Assembly Member in NJ Legislature\, District 4\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:55.585735
 END:VCARD

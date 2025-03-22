@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Chris Balkema (Senate)
-N;CHARSET=UTF-8:Balkema (Senate);Chris;;;
+FN;CHARSET=UTF-8:Chris Balkema (IL Senate)
+N;CHARSET=UTF-8:Balkema (IL Senate);Chris;;;
 TEL;TYPE=WORK,VOICE:217-782-6597
-NOTE;CHARSET=UTF-8:IL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:56.680945
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:chris@chrisbalkema.com
+NOTE;CHARSET=UTF-8:Senator in IL Legislature\, District 53\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:38.284326
 END:VCARD

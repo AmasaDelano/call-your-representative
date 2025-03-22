@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Chris Todd (House)
-N;CHARSET=UTF-8:Todd (House);Chris;;;
+FN;CHARSET=UTF-8:Chris Todd (TN House)
+N;CHARSET=UTF-8:Todd (TN House);Chris;;;
 TEL;TYPE=WORK,VOICE:615-741-7475
-NOTE;CHARSET=UTF-8:TN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:02.831171
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.chris.todd@capitol.tn.gov
+NOTE;CHARSET=UTF-8:Representative in TN Legislature\, District 73\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:07.336216
 END:VCARD

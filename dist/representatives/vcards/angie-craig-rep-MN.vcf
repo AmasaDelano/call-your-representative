@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Angie Craig (House)
-N;CHARSET=UTF-8:Craig (House);Angie;;;
+FN;CHARSET=UTF-8:Angie Craig (MN House)
+N;CHARSET=UTF-8:Craig (MN House);Angie;;;
 TEL;TYPE=WORK,VOICE:202-225-2271
-NOTE;CHARSET=UTF-8:US Representative\, MN\n\nCommittees:\nAgriculture\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:32.391860
+URL;CHARSET=UTF-8:https://craig.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from MN\, District 2\n\nCommittees she's on:\n- Agriculture\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:14.413926
 END:VCARD

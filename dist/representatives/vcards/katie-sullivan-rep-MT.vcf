@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Katie Sullivan (House)
-N;CHARSET=UTF-8:Sullivan (House);Katie;;;
+FN;CHARSET=UTF-8:Katie Sullivan (MT House)
+N;CHARSET=UTF-8:Sullivan (MT House);Katie;;;
 TEL;TYPE=WORK,VOICE:406-444-4800
-NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:37.850462
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:katie.sullivan@legmt.gov
+NOTE;CHARSET=UTF-8:Representative in MT Legislature\, District 93\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:14.688137
 END:VCARD

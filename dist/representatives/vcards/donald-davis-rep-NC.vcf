@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Donald Davis (House)
-N;CHARSET=UTF-8:Davis (House);Donald;;;
+FN;CHARSET=UTF-8:Donald Davis (NC House)
+N;CHARSET=UTF-8:Davis (NC House);Donald;;;
 TEL;TYPE=WORK,VOICE:202-225-3101
-NOTE;CHARSET=UTF-8:US Representative\, NC\n\nCommittees:\nAgriculture\nGeneral Farm Commodities, Risk Management, and Credit\nCommodity Markets, Digital Assets, and Rural Development\nLivestock, Dairy, and Poultry\nArmed Services\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:35.890521
+URL;CHARSET=UTF-8:https://dondavis.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from NC\, District 1\n\nCommittees he's on:\n- Agriculture\n- General Farm Commodities, Risk Management, and Credit\n- Commodity Markets, Digital Assets, and Rural Development\n- Livestock, Dairy, and Poultry\n- Armed Services\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:18.213701
 END:VCARD

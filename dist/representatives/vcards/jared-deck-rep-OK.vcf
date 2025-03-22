@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jared Deck (House)
-N;CHARSET=UTF-8:Deck (House);Jared;;;
+FN;CHARSET=UTF-8:Jared Deck (OK House)
+N;CHARSET=UTF-8:Deck (OK House);Jared;;;
 TEL;TYPE=WORK,VOICE:405-557-7323
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:26.494676
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jared.deck@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 44\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:05.693951
 END:VCARD

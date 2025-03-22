@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Carine Werner (Senate)
-N;CHARSET=UTF-8:Werner (Senate);Carine;;;
+FN;CHARSET=UTF-8:Carine Werner (AZ Senate)
+N;CHARSET=UTF-8:Werner (AZ Senate);Carine;;;
 TEL;TYPE=WORK,VOICE:602-926-3673
-NOTE;CHARSET=UTF-8:AZ Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:22.610282
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:cwerner@azleg.gov
+NOTE;CHARSET=UTF-8:Senator in AZ Legislature\, District 4\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:15.622984
 END:VCARD

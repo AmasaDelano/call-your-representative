@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Rounds (Senate)
-N;CHARSET=UTF-8:Rounds (Senate);Mike;;;
+FN;CHARSET=UTF-8:Mike Rounds (SD Senate)
+N;CHARSET=UTF-8:Rounds (SD Senate);Mike;;;
 TEL;TYPE=WORK,VOICE:202-224-5842
-NOTE;CHARSET=UTF-8:US Senator\, SD\n\nCommittees:\nIndian Affairs\nSenate Select Committee on Intelligence\nAppropriations\nArmed Services\nStrategic Forces\nEmerging Threats and Capabilities\nCybersecurity\nBanking, Housing, and Urban Affairs\nSecurities, Insurance, and Investment\nHousing, Transportation, and Community Development\nEconomic Policy\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:30.842088
+URL;CHARSET=UTF-8:https://www.rounds.senate.gov/contact/email-mike
+NOTE;CHARSET=UTF-8:US Senator for SD\n\nCommittees he's on:\n- Indian Affairs\n- Senate Select Committee on Intelligence\n- Appropriations\n- Armed Services\n- Strategic Forces\n- Emerging Threats and Capabilities\n- Cybersecurity\n- Banking, Housing, and Urban Affairs\n- Securities, Insurance, and Investment\n- Housing, Transportation, and Community Development\n- Economic Policy\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:12.769638
 END:VCARD

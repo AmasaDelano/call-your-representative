@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mark Amodei (House)
-N;CHARSET=UTF-8:Amodei (House);Mark;;;
+FN;CHARSET=UTF-8:Mark Amodei (NV House)
+N;CHARSET=UTF-8:Amodei (NV House);Mark;;;
 TEL;TYPE=WORK,VOICE:202-225-6155
-NOTE;CHARSET=UTF-8:US Representative\, NV\n\nCommittees:\nAppropriations\nNatural Resources\nFederal Lands\nOversight and Investigations\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:29.272532
+URL;CHARSET=UTF-8:https://amodei.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from NV\, District 2\n\nCommittees he's on:\n- Appropriations\n- Natural Resources\n- Federal Lands\n- Oversight and Investigations\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:10.924855
 END:VCARD

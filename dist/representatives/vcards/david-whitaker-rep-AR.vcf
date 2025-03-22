@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:David Whitaker (House)
-N;CHARSET=UTF-8:Whitaker (House);David;;;
+FN;CHARSET=UTF-8:David Whitaker (AR House)
+N;CHARSET=UTF-8:Whitaker (AR House);David;;;
 TEL;TYPE=WORK,VOICE:501-682-6211
-NOTE;CHARSET=UTF-8:AR Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:26.082207
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:david.whitaker@arkansashouse.org
+NOTE;CHARSET=UTF-8:Representative in AR Legislature\, District 22\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:18.114034
 END:VCARD

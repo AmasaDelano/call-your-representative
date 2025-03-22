@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Li Arellano (Senate)
-N;CHARSET=UTF-8:Arellano (Senate);Li;;;
+FN;CHARSET=UTF-8:Li Arellano (IL Senate)
+N;CHARSET=UTF-8:Arellano (IL Senate);Li;;;
 TEL;TYPE=WORK,VOICE:217-782-1942
-NOTE;CHARSET=UTF-8:IL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:57.481254
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:liandroarellano@gmail.com
+NOTE;CHARSET=UTF-8:Senator in IL Legislature\, District 37\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:39.079910
 END:VCARD

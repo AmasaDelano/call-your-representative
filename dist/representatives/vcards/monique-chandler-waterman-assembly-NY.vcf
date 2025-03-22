@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Monique Chandler-Waterman (Assembly)
-N;CHARSET=UTF-8:Chandler-Waterman (Assembly);Monique;;;
+FN;CHARSET=UTF-8:Monique Chandler-Waterman (NY Assembly)
+N;CHARSET=UTF-8:Chandler-Waterman (NY Assembly);Monique;;;
 TEL;TYPE=WORK,VOICE:518-455-4166
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:02.239273
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:chandlerwatermanm@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 58\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:39.435736
 END:VCARD

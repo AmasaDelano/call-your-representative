@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Paul Kanitra (Assembly)
-N;CHARSET=UTF-8:Kanitra (Assembly);Paul;;;
+FN;CHARSET=UTF-8:Paul Kanitra (NJ Assembly)
+N;CHARSET=UTF-8:Kanitra (NJ Assembly);Paul;;;
 TEL;TYPE=WORK,VOICE:732-840-9028
-NOTE;CHARSET=UTF-8:NJ Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:32.907752
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:asmkanitra@njleg.org
+NOTE;CHARSET=UTF-8:Assembly Member in NJ Legislature\, District 10\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:09.154919
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Shannon Morris (House)
-N;CHARSET=UTF-8:Morris (House);Shannon;;;
+FN;CHARSET=UTF-8:Shannon Morris (DE House)
+N;CHARSET=UTF-8:Morris (DE House);Shannon;;;
 TEL;TYPE=WORK,VOICE:302-744-4171
-NOTE;CHARSET=UTF-8:DE Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:56.396292
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:shannon.morris@delaware.gov
+NOTE;CHARSET=UTF-8:Representative in DE Legislature\, District 30\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:38.888627
 END:VCARD

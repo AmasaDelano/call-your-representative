@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Maura Hirschauer (House)
-N;CHARSET=UTF-8:Hirschauer (House);Maura;;;
+FN;CHARSET=UTF-8:Maura Hirschauer (IL House)
+N;CHARSET=UTF-8:Hirschauer (IL House);Maura;;;
 TEL;TYPE=WORK,VOICE:217-782-1653
-NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:57.656690
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:office@repmaura49.com
+NOTE;CHARSET=UTF-8:Representative in IL Legislature\, District 49\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:39.259802
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Donna Campbell (Senate)
-N;CHARSET=UTF-8:Campbell (Senate);Donna;;;
+FN;CHARSET=UTF-8:Donna Campbell (TX Senate)
+N;CHARSET=UTF-8:Campbell (TX Senate);Donna;;;
 TEL;TYPE=WORK,VOICE:830-626-0065
-NOTE;CHARSET=UTF-8:TX Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:22.402905
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:donna.campbell@senate.texas.gov
+NOTE;CHARSET=UTF-8:Senator in TX Legislature\, District 25\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:25.625443
 END:VCARD

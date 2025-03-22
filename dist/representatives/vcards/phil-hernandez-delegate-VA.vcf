@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Phil Hernandez (House)
-N;CHARSET=UTF-8:Hernandez (House);Phil;;;
+FN;CHARSET=UTF-8:Phil Hernandez (VA House)
+N;CHARSET=UTF-8:Hernandez (VA House);Phil;;;
 TEL;TYPE=WORK,VOICE:804-698-1094
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:22.779220
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delphernandez@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 94\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:03.729217
 END:VCARD

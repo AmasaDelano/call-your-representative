@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Spencer Kern (Senate)
-N;CHARSET=UTF-8:Kern (Senate);Spencer;;;
+FN;CHARSET=UTF-8:Spencer Kern (OK Senate)
+N;CHARSET=UTF-8:Kern (OK Senate);Spencer;;;
 TEL;TYPE=WORK,VOICE:405-521-5563
-NOTE;CHARSET=UTF-8:OK Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:34.549926
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:spencer.kern@oksenate.gov
+NOTE;CHARSET=UTF-8:Senator in OK Legislature\, District 31\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:13.269837
 END:VCARD

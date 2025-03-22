@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tony Tinderholt (House)
-N;CHARSET=UTF-8:Tinderholt (House);Tony;;;
+FN;CHARSET=UTF-8:Tony Tinderholt (TX House)
+N;CHARSET=UTF-8:Tinderholt (TX House);Tony;;;
 TEL;TYPE=WORK,VOICE:817-476-2660
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:00.163256
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tony.tinderholt@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 94\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:59.605004
 END:VCARD

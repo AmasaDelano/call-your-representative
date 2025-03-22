@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ryan Dvorak (House)
-N;CHARSET=UTF-8:Dvorak (House);Ryan;;;
+FN;CHARSET=UTF-8:Ryan Dvorak (IN House)
+N;CHARSET=UTF-8:Dvorak (IN House);Ryan;;;
 TEL;TYPE=WORK,VOICE:800-382-9842
-NOTE;CHARSET=UTF-8:IN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:27.947747
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:h8@iga.in.gov
+NOTE;CHARSET=UTF-8:Representative in IN Legislature\, District 8\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:09.639777
 END:VCARD

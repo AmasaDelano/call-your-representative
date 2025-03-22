@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:John Burkel (House)
-N;CHARSET=UTF-8:Burkel (House);John;;;
+FN;CHARSET=UTF-8:John Burkel (MN House)
+N;CHARSET=UTF-8:Burkel (MN House);John;;;
 TEL;TYPE=WORK,VOICE:651-296-9635
-NOTE;CHARSET=UTF-8:MN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:28.138171
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.john.burkel@house.mn.gov
+NOTE;CHARSET=UTF-8:Representative in MN Legislature\, District 1A\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:05.653633
 END:VCARD

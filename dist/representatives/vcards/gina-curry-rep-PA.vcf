@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Gina Curry (House)
-N;CHARSET=UTF-8:Curry (House);Gina;;;
+FN;CHARSET=UTF-8:Gina Curry (PA House)
+N;CHARSET=UTF-8:Curry (PA House);Gina;;;
 TEL;TYPE=WORK,VOICE:717-783-4907
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:00.080072
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:repcurry@pahouse.net
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 164\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:37.917001
 END:VCARD

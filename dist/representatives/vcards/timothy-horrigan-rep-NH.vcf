@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Timothy Horrigan (House)
-N;CHARSET=UTF-8:Horrigan (House);Timothy;;;
+FN;CHARSET=UTF-8:Timothy Horrigan (NH House)
+N;CHARSET=UTF-8:Horrigan (NH House);Timothy;;;
 TEL;TYPE=WORK,VOICE:603-868-3342
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:12.235475
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:timothy.horrigan@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Strafford 10\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:49.031254
 END:VCARD

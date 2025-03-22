@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Julia Salazar (Senate)
-N;CHARSET=UTF-8:Salazar (Senate);Julia;;;
+FN;CHARSET=UTF-8:Julia Salazar (NY Senate)
+N;CHARSET=UTF-8:Salazar (NY Senate);Julia;;;
 TEL;TYPE=WORK,VOICE:518-455-2177
-NOTE;CHARSET=UTF-8:NY Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:57.224991
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:salazar@nysenate.gov
+NOTE;CHARSET=UTF-8:Senator in NY Legislature\, District 18\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:34.114623
 END:VCARD

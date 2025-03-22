@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jon Rosenthal (House)
-N;CHARSET=UTF-8:Rosenthal (House);Jon;;;
+FN;CHARSET=UTF-8:Jon Rosenthal (TX House)
+N;CHARSET=UTF-8:Rosenthal (TX House);Jon;;;
 TEL;TYPE=WORK,VOICE:832-318-0611
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:37.036584
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jon.rosenthal@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 135\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:39.068535
 END:VCARD

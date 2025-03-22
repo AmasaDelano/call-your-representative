@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tom Noret (House)
-N;CHARSET=UTF-8:Noret (House);Tom;;;
+FN;CHARSET=UTF-8:Tom Noret (RI House)
+N;CHARSET=UTF-8:Noret (RI House);Tom;;;
 TEL;TYPE=WORK,VOICE:401-222-3580
-NOTE;CHARSET=UTF-8:RI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:52.075867
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep-noret@rilegislature.gov
+NOTE;CHARSET=UTF-8:Representative in RI Legislature\, District 25\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:28.196051
 END:VCARD

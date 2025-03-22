@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ben Brown (Senate)
-N;CHARSET=UTF-8:Brown (Senate);Ben;;;
+FN;CHARSET=UTF-8:Ben Brown (MO Senate)
+N;CHARSET=UTF-8:Brown (MO Senate);Ben;;;
 TEL;TYPE=WORK,VOICE:573-751-3678
-NOTE;CHARSET=UTF-8:MO Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:34.646035
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ben.brown@senate.mo.gov
+NOTE;CHARSET=UTF-8:Senator in MO Legislature\, District 26\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:11.995127
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bert Stedman (Senate)
-N;CHARSET=UTF-8:Stedman (Senate);Bert;;;
+FN;CHARSET=UTF-8:Bert Stedman (AK Senate)
+N;CHARSET=UTF-8:Stedman (AK Senate);Bert;;;
 TEL;TYPE=WORK,VOICE:907-465-3873
-NOTE;CHARSET=UTF-8:AK Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:20.848424
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senator.bert.stedman@akleg.gov
+NOTE;CHARSET=UTF-8:Senator in AK Legislature\, District A\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:13.261940
 END:VCARD

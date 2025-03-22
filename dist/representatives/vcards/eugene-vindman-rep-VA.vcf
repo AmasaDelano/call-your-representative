@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Eugene Vindman (House)
-N;CHARSET=UTF-8:Vindman (House);Eugene;;;
+FN;CHARSET=UTF-8:Eugene Vindman (VA House)
+N;CHARSET=UTF-8:Vindman (VA House);Eugene;;;
 TEL;TYPE=WORK,VOICE:202-225-2815
-NOTE;CHARSET=UTF-8:US Representative\, VA\n\nCommittees:\nAgriculture\nConservation, Research, and Biotechnology\nCommodity Markets, Digital Assets, and Rural Development\nArmed Services\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:45.491700
+URL;CHARSET=UTF-8:https://vindman.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from VA\, District 7\n\nCommittees he's on:\n- Agriculture\n- Conservation, Research, and Biotechnology\n- Commodity Markets, Digital Assets, and Rural Development\n- Armed Services\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:27.143650
 END:VCARD

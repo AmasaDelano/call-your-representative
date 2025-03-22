@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Walt Brooks (House)
-N;CHARSET=UTF-8:Brooks (House);Walt;;;
+FN;CHARSET=UTF-8:Walt Brooks (UT House)
+N;CHARSET=UTF-8:Brooks (UT House);Walt;;;
 TEL;TYPE=WORK,VOICE:801-538-1029
-NOTE;CHARSET=UTF-8:UT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:04.862481
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:wbrooks@le.utah.gov
+NOTE;CHARSET=UTF-8:Representative in UT Legislature\, District 75\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:58:04.203101
 END:VCARD

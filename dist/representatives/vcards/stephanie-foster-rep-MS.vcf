@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Stephanie Foster (House)
-N;CHARSET=UTF-8:Foster (House);Stephanie;;;
+FN;CHARSET=UTF-8:Stephanie Foster (MS House)
+N;CHARSET=UTF-8:Foster (MS House);Stephanie;;;
 TEL;TYPE=WORK,VOICE:601-359-3360
-NOTE;CHARSET=UTF-8:MS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:34.136061
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sfoster@house.ms.gov
+NOTE;CHARSET=UTF-8:Representative in MS Legislature\, District 63\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:11.574633
 END:VCARD

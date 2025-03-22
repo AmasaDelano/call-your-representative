@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mark Johnson (Senate)
-N;CHARSET=UTF-8:Johnson (Senate);Mark;;;
+FN;CHARSET=UTF-8:Mark Johnson (AR Senate)
+N;CHARSET=UTF-8:Johnson (AR Senate);Mark;;;
 TEL;TYPE=WORK,VOICE:501-682-2902
-NOTE;CHARSET=UTF-8:AR Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:27.405679
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mark.johnson@senate.ar.gov
+NOTE;CHARSET=UTF-8:Senator in AR Legislature\, District 17\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:19.635327
 END:VCARD

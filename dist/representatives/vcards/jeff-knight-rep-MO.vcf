@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jeff Knight (House)
-N;CHARSET=UTF-8:Knight (House);Jeff;;;
+FN;CHARSET=UTF-8:Jeff Knight (MO House)
+N;CHARSET=UTF-8:Knight (MO House);Jeff;;;
 TEL;TYPE=WORK,VOICE:573-751-1167
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:35.575731
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jeff.knight@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 142\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:12.819514
 END:VCARD

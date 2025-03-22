@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Otto Wachsmann (House)
-N;CHARSET=UTF-8:Wachsmann (House);Otto;;;
+FN;CHARSET=UTF-8:Otto Wachsmann (VA House)
+N;CHARSET=UTF-8:Wachsmann (VA House);Otto;;;
 TEL;TYPE=WORK,VOICE:804-698-1083
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:22.001956
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delowachsmann@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 83\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:02.971585
 END:VCARD

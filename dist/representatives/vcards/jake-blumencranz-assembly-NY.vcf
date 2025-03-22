@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jake Blumencranz (Assembly)
-N;CHARSET=UTF-8:Blumencranz (Assembly);Jake;;;
+FN;CHARSET=UTF-8:Jake Blumencranz (NY Assembly)
+N;CHARSET=UTF-8:Blumencranz (NY Assembly);Jake;;;
 TEL;TYPE=WORK,VOICE:518-455-4684
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:52.858311
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:blumencranzj@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 15\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:28.349910
 END:VCARD

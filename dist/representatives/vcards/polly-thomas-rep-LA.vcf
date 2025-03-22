@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Polly Thomas (House)
-N;CHARSET=UTF-8:Thomas (House);Polly;;;
+FN;CHARSET=UTF-8:Polly Thomas (LA House)
+N;CHARSET=UTF-8:Thomas (LA House);Polly;;;
 TEL;TYPE=WORK,VOICE:504-837-6559
-NOTE;CHARSET=UTF-8:LA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:49.597067
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:thomaspj@legis.la.gov
+NOTE;CHARSET=UTF-8:Representative in LA Legislature\, District 80\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:29.500003
 END:VCARD

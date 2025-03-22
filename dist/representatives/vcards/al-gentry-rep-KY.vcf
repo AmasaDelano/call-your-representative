@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Al Gentry (House)
-N;CHARSET=UTF-8:Gentry (House);Al;;;
+FN;CHARSET=UTF-8:Al Gentry (KY House)
+N;CHARSET=UTF-8:Gentry (KY House);Al;;;
 TEL;TYPE=WORK,VOICE:502-564-8100
-NOTE;CHARSET=UTF-8:KY Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:13.106916
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:al.gentry@kylegislature.gov
+NOTE;CHARSET=UTF-8:Representative in KY Legislature\, District 46\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:54.030039
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Suzanne Schreiber (House)
-N;CHARSET=UTF-8:Schreiber (House);Suzanne;;;
+FN;CHARSET=UTF-8:Suzanne Schreiber (OK House)
+N;CHARSET=UTF-8:Schreiber (OK House);Suzanne;;;
 TEL;TYPE=WORK,VOICE:405-557-7359
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:34.864533
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:suzanne.schreiber@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 70\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:13.606811
 END:VCARD

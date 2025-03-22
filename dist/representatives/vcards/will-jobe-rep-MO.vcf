@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Will Jobe (House)
-N;CHARSET=UTF-8:Jobe (House);Will;;;
+FN;CHARSET=UTF-8:Will Jobe (MO House)
+N;CHARSET=UTF-8:Jobe (MO House);Will;;;
 TEL;TYPE=WORK,VOICE:573-751-5701
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:36.899223
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:will.jobe@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 21\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:13.854695
 END:VCARD

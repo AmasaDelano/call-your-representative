@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Pat Marsh (House)
-N;CHARSET=UTF-8:Marsh (House);Pat;;;
+FN;CHARSET=UTF-8:Pat Marsh (TN House)
+N;CHARSET=UTF-8:Marsh (TN House);Pat;;;
 TEL;TYPE=WORK,VOICE:615-741-6824
-NOTE;CHARSET=UTF-8:TN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:04.575606
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.pat.marsh@capitol.tn.gov
+NOTE;CHARSET=UTF-8:Representative in TN Legislature\, District 62\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:09.197808
 END:VCARD

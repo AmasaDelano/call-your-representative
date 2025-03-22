@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brent Howard (Senate)
-N;CHARSET=UTF-8:Howard (Senate);Brent;;;
+FN;CHARSET=UTF-8:Brent Howard (OK Senate)
+N;CHARSET=UTF-8:Howard (OK Senate);Brent;;;
 TEL;TYPE=WORK,VOICE:405-521-5612
-NOTE;CHARSET=UTF-8:OK Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:21.276199
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:brent.howard@oksenate.gov
+NOTE;CHARSET=UTF-8:Senator in OK Legislature\, District 38\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:00.568965
 END:VCARD

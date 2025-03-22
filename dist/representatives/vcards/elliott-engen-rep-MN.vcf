@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Elliott Engen (House)
-N;CHARSET=UTF-8:Engen (House);Elliott;;;
+FN;CHARSET=UTF-8:Elliott Engen (MN House)
+N;CHARSET=UTF-8:Engen (MN House);Elliott;;;
 TEL;TYPE=WORK,VOICE:651-296-2365
-NOTE;CHARSET=UTF-8:MN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:27.668371
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.elliott.engen@house.mn.gov
+NOTE;CHARSET=UTF-8:Representative in MN Legislature\, District 36A\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:05.276501
 END:VCARD

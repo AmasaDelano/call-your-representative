@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kevin Parker (Senate)
-N;CHARSET=UTF-8:Parker (Senate);Kevin;;;
+FN;CHARSET=UTF-8:Kevin Parker (NY Senate)
+N;CHARSET=UTF-8:Parker (NY Senate);Kevin;;;
 TEL;TYPE=WORK,VOICE:518-455-2580
-NOTE;CHARSET=UTF-8:NY Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:58.077339
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:parker@nysenate.gov
+NOTE;CHARSET=UTF-8:Senator in NY Legislature\, District 21\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:34.581877
 END:VCARD

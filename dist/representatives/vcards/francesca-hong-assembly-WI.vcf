@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Francesca Hong (Assembly)
-N;CHARSET=UTF-8:Hong (Assembly);Francesca;;;
+FN;CHARSET=UTF-8:Francesca Hong (WI Assembly)
+N;CHARSET=UTF-8:Hong (WI Assembly);Francesca;;;
 TEL;TYPE=WORK,VOICE:608-237-9176
-NOTE;CHARSET=UTF-8:WI Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:25.916361
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.hong@legis.wisconsin.gov
+NOTE;CHARSET=UTF-8:Assembly Member in WI Legislature\, District 76\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:07.084228
 END:VCARD

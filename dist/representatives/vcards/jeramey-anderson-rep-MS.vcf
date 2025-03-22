@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jeramey Anderson (House)
-N;CHARSET=UTF-8:Anderson (House);Jeramey;;;
+FN;CHARSET=UTF-8:Jeramey Anderson (MS House)
+N;CHARSET=UTF-8:Anderson (MS House);Jeramey;;;
 TEL;TYPE=WORK,VOICE:601-359-2438
-NOTE;CHARSET=UTF-8:MS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:31.849299
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:janderson@house.ms.gov
+NOTE;CHARSET=UTF-8:Representative in MS Legislature\, District 110\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:09.497862
 END:VCARD

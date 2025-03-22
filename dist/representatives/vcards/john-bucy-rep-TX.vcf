@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:John Bucy (House)
-N;CHARSET=UTF-8:Bucy (House);John;;;
+FN;CHARSET=UTF-8:John Bucy (TX House)
+N;CHARSET=UTF-8:Bucy (TX House);John;;;
 TEL;TYPE=WORK,VOICE:512-463-0696
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:35.202741
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:john.bucy@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 136\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:37.309692
 END:VCARD

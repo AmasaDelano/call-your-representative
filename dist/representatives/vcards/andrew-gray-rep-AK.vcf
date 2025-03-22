@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Andrew Gray (House)
-N;CHARSET=UTF-8:Gray (House);Andrew;;;
+FN;CHARSET=UTF-8:Andrew Gray (AK House)
+N;CHARSET=UTF-8:Gray (AK House);Andrew;;;
 TEL;TYPE=WORK,VOICE:907-465-4940
-NOTE;CHARSET=UTF-8:AK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:20.800498
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:representative.andrew.gray@akleg.gov
+NOTE;CHARSET=UTF-8:Representative in AK Legislature\, District 20\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:13.211465
 END:VCARD

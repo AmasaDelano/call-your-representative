@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Don Mayhew (House)
-N;CHARSET=UTF-8:Mayhew (House);Don;;;
+FN;CHARSET=UTF-8:Don Mayhew (MO House)
+N;CHARSET=UTF-8:Mayhew (MO House);Don;;;
 TEL;TYPE=WORK,VOICE:573-751-3834
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:35.339304
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:don.mayhew@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 124\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:12.598278
 END:VCARD

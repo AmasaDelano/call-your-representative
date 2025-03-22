@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rosanna Gabaldón (Senate)
-N;CHARSET=UTF-8:Gabaldón (Senate);Rosanna;;;
+FN;CHARSET=UTF-8:Rosanna Gabaldón (AZ Senate)
+N;CHARSET=UTF-8:Gabaldón (AZ Senate);Rosanna;;;
 TEL;TYPE=WORK,VOICE:602-926-3424
-NOTE;CHARSET=UTF-8:AZ Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:25.434715
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rgabaldon@azleg.gov
+NOTE;CHARSET=UTF-8:Senator in AZ Legislature\, District 21\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:17.623627
 END:VCARD

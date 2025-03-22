@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Gregory Murphy (House)
-N;CHARSET=UTF-8:Murphy (House);Gregory;;;
+FN;CHARSET=UTF-8:Gregory Murphy (NC House)
+N;CHARSET=UTF-8:Murphy (NC House);Gregory;;;
 TEL;TYPE=WORK,VOICE:202-225-3415
-NOTE;CHARSET=UTF-8:US Representative\, NC\n\nCommittees:\nHouse Administration\nVeterans' Affairs\nWays and Means\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:33.042194
+URL;CHARSET=UTF-8:https://murphy.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from NC\, District 3\n\nCommittees he's on:\n- House Administration\n- Veterans' Affairs\n- Ways and Means\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:15.217283
 END:VCARD

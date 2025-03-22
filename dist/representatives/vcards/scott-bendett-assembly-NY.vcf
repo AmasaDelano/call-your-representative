@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Scott Bendett (Assembly)
-N;CHARSET=UTF-8:Bendett (Assembly);Scott;;;
+FN;CHARSET=UTF-8:Scott Bendett (NY Assembly)
+N;CHARSET=UTF-8:Bendett (NY Assembly);Scott;;;
 TEL;TYPE=WORK,VOICE:518-455-5777
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:07.489946
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bendetts@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 107\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:45.240856
 END:VCARD

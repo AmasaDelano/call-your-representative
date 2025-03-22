@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brandy Donaghy (House)
-N;CHARSET=UTF-8:Donaghy (House);Brandy;;;
+FN;CHARSET=UTF-8:Brandy Donaghy (WA House)
+N;CHARSET=UTF-8:Donaghy (WA House);Brandy;;;
 TEL;TYPE=WORK,VOICE:360-786-7804
-NOTE;CHARSET=UTF-8:WA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:23.366548
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:brandy.donaghy@leg.wa.gov
+NOTE;CHARSET=UTF-8:Representative in WA Legislature\, District 44\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:04.443458
 END:VCARD

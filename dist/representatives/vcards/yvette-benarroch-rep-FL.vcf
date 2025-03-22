@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Yvette Benarroch (House)
-N;CHARSET=UTF-8:Benarroch (House);Yvette;;;
+FN;CHARSET=UTF-8:Yvette Benarroch (FL House)
+N;CHARSET=UTF-8:Benarroch (FL House);Yvette;;;
 TEL;TYPE=WORK,VOICE:850-717-5081
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:43.411932
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:yvette.benarroch@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 81\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:25.864798
 END:VCARD

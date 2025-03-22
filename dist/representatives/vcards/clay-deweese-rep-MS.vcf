@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Clay Deweese (House)
-N;CHARSET=UTF-8:Deweese (House);Clay;;;
+FN;CHARSET=UTF-8:Clay Deweese (MS House)
+N;CHARSET=UTF-8:Deweese (MS House);Clay;;;
 TEL;TYPE=WORK,VOICE:601-359-3497
-NOTE;CHARSET=UTF-8:MS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:31.028334
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:cdeweese@house.ms.gov
+NOTE;CHARSET=UTF-8:Representative in MS Legislature\, District 12\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:08.618328
 END:VCARD

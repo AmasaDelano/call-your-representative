@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Nick Allen (House)
-N;CHARSET=UTF-8:Allen (House);Nick;;;
+FN;CHARSET=UTF-8:Nick Allen (MD House)
+N;CHARSET=UTF-8:Allen (MD House);Nick;;;
 TEL;TYPE=WORK,VOICE:410-841-3365
-NOTE;CHARSET=UTF-8:MD Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:03.342146
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:nick.allen@house.state.md.us
+NOTE;CHARSET=UTF-8:Delegate in MD Legislature\, District 8\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:41.486860
 END:VCARD

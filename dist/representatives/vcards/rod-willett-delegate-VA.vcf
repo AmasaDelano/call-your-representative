@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rod Willett (House)
-N;CHARSET=UTF-8:Willett (House);Rod;;;
+FN;CHARSET=UTF-8:Rod Willett (VA House)
+N;CHARSET=UTF-8:Willett (VA House);Rod;;;
 TEL;TYPE=WORK,VOICE:804-698-1058
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:22.882163
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delrwillett@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 58\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:03.845789
 END:VCARD

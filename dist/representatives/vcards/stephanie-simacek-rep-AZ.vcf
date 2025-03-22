@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Stephanie Simacek (House)
-N;CHARSET=UTF-8:Simacek (House);Stephanie;;;
+FN;CHARSET=UTF-8:Stephanie Simacek (AZ House)
+N;CHARSET=UTF-8:Simacek (AZ House);Stephanie;;;
 TEL;TYPE=WORK,VOICE:602-926-3083
-NOTE;CHARSET=UTF-8:AZ Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:25.671292
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ssimacek@azleg.gov
+NOTE;CHARSET=UTF-8:Representative in AZ Legislature\, District 2\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:17.711642
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Elena Parent (Senate)
-N;CHARSET=UTF-8:Parent (Senate);Elena;;;
+FN;CHARSET=UTF-8:Elena Parent (GA Senate)
+N;CHARSET=UTF-8:Parent (GA Senate);Elena;;;
 TEL;TYPE=WORK,VOICE:404-656-5109
-NOTE;CHARSET=UTF-8:GA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:44.928924
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:elena.parent@senate.ga.gov
+NOTE;CHARSET=UTF-8:Senator in GA Legislature\, District 44\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:27.229991
 END:VCARD

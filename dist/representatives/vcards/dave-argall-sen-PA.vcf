@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Dave Argall (Senate)
-N;CHARSET=UTF-8:Argall (Senate);Dave;;;
+FN;CHARSET=UTF-8:Dave Argall (PA Senate)
+N;CHARSET=UTF-8:Argall (PA Senate);Dave;;;
 TEL;TYPE=WORK,VOICE:717-787-2637
-NOTE;CHARSET=UTF-8:PA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:53.690327
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:dargall@pasen.gov
+NOTE;CHARSET=UTF-8:Senator in PA Legislature\, District 29\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:31.928160
 END:VCARD

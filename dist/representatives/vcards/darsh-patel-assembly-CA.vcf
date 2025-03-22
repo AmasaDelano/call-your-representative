@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Darsh Patel (Assembly)
-N;CHARSET=UTF-8:Patel (Assembly);Darsh;;;
+FN;CHARSET=UTF-8:Darsh Patel (CA Assembly)
+N;CHARSET=UTF-8:Patel (CA Assembly);Darsh;;;
 TEL;TYPE=WORK,VOICE:916-319-2076
-NOTE;CHARSET=UTF-8:CA Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:32.759464
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:assemblymember.patel@assembly.ca.gov
+NOTE;CHARSET=UTF-8:Assembly Member in CA Legislature\, District 76\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:25.161505
 END:VCARD

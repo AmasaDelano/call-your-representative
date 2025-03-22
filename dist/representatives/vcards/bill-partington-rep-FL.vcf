@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bill Partington (House)
-N;CHARSET=UTF-8:Partington (House);Bill;;;
+FN;CHARSET=UTF-8:Bill Partington (FL House)
+N;CHARSET=UTF-8:Partington (FL House);Bill;;;
 TEL;TYPE=WORK,VOICE:850-717-5028
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:00.349224
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bill.partington@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 28\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:43.101841
 END:VCARD

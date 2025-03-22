@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Michael Lee (Senate)
-N;CHARSET=UTF-8:Lee (Senate);Michael;;;
+FN;CHARSET=UTF-8:Michael Lee (NC Senate)
+N;CHARSET=UTF-8:Lee (NC Senate);Michael;;;
 TEL;TYPE=WORK,VOICE:919-715-2525
-NOTE;CHARSET=UTF-8:NC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:12.250455
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:michael.lee@ncleg.gov
+NOTE;CHARSET=UTF-8:Senator in NC Legislature\, District 7\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:50.817902
 END:VCARD

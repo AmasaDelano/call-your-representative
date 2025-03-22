@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Justin Humphrey (House)
-N;CHARSET=UTF-8:Humphrey (House);Justin;;;
+FN;CHARSET=UTF-8:Justin Humphrey (OK House)
+N;CHARSET=UTF-8:Humphrey (OK House);Justin;;;
 TEL;TYPE=WORK,VOICE:405-557-7382
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:28.669770
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:justin.humphrey@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 19\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:07.652444
 END:VCARD

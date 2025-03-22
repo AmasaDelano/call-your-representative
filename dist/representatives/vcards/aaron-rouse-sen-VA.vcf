@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Aaron Rouse (Senate)
-N;CHARSET=UTF-8:Rouse (Senate);Aaron;;;
+FN;CHARSET=UTF-8:Aaron Rouse (VA Senate)
+N;CHARSET=UTF-8:Rouse (VA Senate);Aaron;;;
 TEL;TYPE=WORK,VOICE:804-698-7522
-NOTE;CHARSET=UTF-8:VA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:21.265868
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:district07@senate.virginia.gov
+NOTE;CHARSET=UTF-8:Senator in VA Legislature\, District 22\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:02.274410
 END:VCARD

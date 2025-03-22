@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Gail Pellerin (Assembly)
-N;CHARSET=UTF-8:Pellerin (Assembly);Gail;;;
+FN;CHARSET=UTF-8:Gail Pellerin (CA Assembly)
+N;CHARSET=UTF-8:Pellerin (CA Assembly);Gail;;;
 TEL;TYPE=WORK,VOICE:916-319-2028
-NOTE;CHARSET=UTF-8:CA Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:34.892331
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:assemblymember.pellerin@assembly.ca.gov
+NOTE;CHARSET=UTF-8:Assembly Member in CA Legislature\, District 28\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:27.457480
 END:VCARD

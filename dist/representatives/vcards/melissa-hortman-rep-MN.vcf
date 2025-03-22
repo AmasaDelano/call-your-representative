@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Melissa Hortman (House)
-N;CHARSET=UTF-8:Hortman (House);Melissa;;;
+FN;CHARSET=UTF-8:Melissa Hortman (MN House)
+N;CHARSET=UTF-8:Hortman (MN House);Melissa;;;
 TEL;TYPE=WORK,VOICE:651-296-4280
-NOTE;CHARSET=UTF-8:MN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:28.661894
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.melissa.hortman@house.mn.gov
+NOTE;CHARSET=UTF-8:Representative in MN Legislature\, District 34B\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:06.106852
 END:VCARD

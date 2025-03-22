@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Dale Fowler (Senate)
-N;CHARSET=UTF-8:Fowler (Senate);Dale;;;
+FN;CHARSET=UTF-8:Dale Fowler (IL Senate)
+N;CHARSET=UTF-8:Fowler (IL Senate);Dale;;;
 TEL;TYPE=WORK,VOICE:217-782-5509
-NOTE;CHARSET=UTF-8:IL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:56.757464
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senatorfowler59@gmail.com
+NOTE;CHARSET=UTF-8:Senator in IL Legislature\, District 59\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:38.364775
 END:VCARD

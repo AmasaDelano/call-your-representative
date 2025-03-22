@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jo Jones (House)
-N;CHARSET=UTF-8:Jones (House);Jo;;;
+FN;CHARSET=UTF-8:Jo Jones (TX House)
+N;CHARSET=UTF-8:Jones (TX House);Jo;;;
 TEL;TYPE=WORK,VOICE:713-522-0555
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:36.592778
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jolanda.jones@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 147\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:38.625415
 END:VCARD

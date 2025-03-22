@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kevin Corbin (Senate)
-N;CHARSET=UTF-8:Corbin (Senate);Kevin;;;
+FN;CHARSET=UTF-8:Kevin Corbin (NC Senate)
+N;CHARSET=UTF-8:Corbin (NC Senate);Kevin;;;
 TEL;TYPE=WORK,VOICE:919-733-5875
-NOTE;CHARSET=UTF-8:NC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:11.249613
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:kevin.corbin@ncleg.gov
+NOTE;CHARSET=UTF-8:Senator in NC Legislature\, District 50\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:49.464970
 END:VCARD

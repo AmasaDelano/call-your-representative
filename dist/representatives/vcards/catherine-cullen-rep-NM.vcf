@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Catherine Cullen (House)
-N;CHARSET=UTF-8:Cullen (House);Catherine;;;
+FN;CHARSET=UTF-8:Catherine Cullen (NM House)
+N;CHARSET=UTF-8:Cullen (NM House);Catherine;;;
 TEL;TYPE=WORK,VOICE:505-986-4226
-NOTE;CHARSET=UTF-8:NM Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:41.185426
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:catherine.cullen@nmlegis.gov
+NOTE;CHARSET=UTF-8:Representative in NM Legislature\, District 57\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:17.100878
 END:VCARD

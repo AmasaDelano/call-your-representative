@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Angelica Rubio (House)
-N;CHARSET=UTF-8:Rubio (House);Angelica;;;
+FN;CHARSET=UTF-8:Angelica Rubio (NM House)
+N;CHARSET=UTF-8:Rubio (NM House);Angelica;;;
 TEL;TYPE=WORK,VOICE:505-986-4210
-NOTE;CHARSET=UTF-8:NM Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:40.425348
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:angelica.rubio@nmlegis.gov
+NOTE;CHARSET=UTF-8:Representative in NM Legislature\, District 35\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:16.435309
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Venezia (Assembly)
-N;CHARSET=UTF-8:Venezia (Assembly);Mike;;;
+FN;CHARSET=UTF-8:Mike Venezia (NJ Assembly)
+N;CHARSET=UTF-8:Venezia (NJ Assembly);Mike;;;
 TEL;TYPE=WORK,VOICE:973-450-0484
-NOTE;CHARSET=UTF-8:NJ Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:30.015255
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:asmvenezia@njleg.org
+NOTE;CHARSET=UTF-8:Assembly Member in NJ Legislature\, District 34\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:06.447739
 END:VCARD

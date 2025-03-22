@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Stephanie Bolden (House)
-N;CHARSET=UTF-8:Bolden (House);Stephanie;;;
+FN;CHARSET=UTF-8:Stephanie Bolden (DE House)
+N;CHARSET=UTF-8:Bolden (DE House);Stephanie;;;
 TEL;TYPE=WORK,VOICE:302-744-4351
-NOTE;CHARSET=UTF-8:DE Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:56.322672
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:stephaniet.bolden@delaware.gov
+NOTE;CHARSET=UTF-8:Representative in DE Legislature\, District 2\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:38.847660
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rosemary Bayer (Senate)
-N;CHARSET=UTF-8:Bayer (Senate);Rosemary;;;
+FN;CHARSET=UTF-8:Rosemary Bayer (MI Senate)
+N;CHARSET=UTF-8:Bayer (MI Senate);Rosemary;;;
 TEL;TYPE=WORK,VOICE:517-373-2417
-NOTE;CHARSET=UTF-8:MI Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:24.328932
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senrbayer@senate.michigan.gov
+NOTE;CHARSET=UTF-8:Senator in MI Legislature\, District 13\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:00.963278
 END:VCARD

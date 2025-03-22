@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Dave Koehler (Senate)
-N;CHARSET=UTF-8:Koehler (Senate);Dave;;;
+FN;CHARSET=UTF-8:Dave Koehler (IL Senate)
+N;CHARSET=UTF-8:Koehler (IL Senate);Dave;;;
 TEL;TYPE=WORK,VOICE:217-782-8250
-NOTE;CHARSET=UTF-8:IL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:56.857887
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:46illinois@gmail.com
+NOTE;CHARSET=UTF-8:Senator in IL Legislature\, District 46\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:38.464018
 END:VCARD

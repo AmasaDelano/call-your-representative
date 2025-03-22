@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ram Villivalam (Senate)
-N;CHARSET=UTF-8:Villivalam (Senate);Ram;;;
+FN;CHARSET=UTF-8:Ram Villivalam (IL Senate)
+N;CHARSET=UTF-8:Villivalam (IL Senate);Ram;;;
 TEL;TYPE=WORK,VOICE:217-782-5500
-NOTE;CHARSET=UTF-8:IL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:57.959833
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senator@senatorram.com
+NOTE;CHARSET=UTF-8:Senator in IL Legislature\, District 8\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:39.588038
 END:VCARD

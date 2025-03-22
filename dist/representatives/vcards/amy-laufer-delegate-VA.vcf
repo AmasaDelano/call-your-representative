@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Amy Laufer (House)
-N;CHARSET=UTF-8:Laufer (House);Amy;;;
+FN;CHARSET=UTF-8:Amy Laufer (VA House)
+N;CHARSET=UTF-8:Laufer (VA House);Amy;;;
 TEL;TYPE=WORK,VOICE:804-698-1055
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:21.364368
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delalaufer@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 55\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:02.353327
 END:VCARD

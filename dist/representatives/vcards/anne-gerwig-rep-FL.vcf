@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Anne Gerwig (House)
-N;CHARSET=UTF-8:Gerwig (House);Anne;;;
+FN;CHARSET=UTF-8:Anne Gerwig (FL House)
+N;CHARSET=UTF-8:Gerwig (FL House);Anne;;;
 TEL;TYPE=WORK,VOICE:850-717-5093
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:59.378488
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:anne.gerwig@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 93\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:42.085811
 END:VCARD

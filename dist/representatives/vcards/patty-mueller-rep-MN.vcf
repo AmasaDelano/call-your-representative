@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Patty Mueller (House)
-N;CHARSET=UTF-8:Mueller (House);Patty;;;
+FN;CHARSET=UTF-8:Patty Mueller (MN House)
+N;CHARSET=UTF-8:Mueller (MN House);Patty;;;
 TEL;TYPE=WORK,VOICE:651-296-4193
-NOTE;CHARSET=UTF-8:MN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:28.837820
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.patricia.mueller@house.mn.gov
+NOTE;CHARSET=UTF-8:Representative in MN Legislature\, District 23B\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:06.266777
 END:VCARD

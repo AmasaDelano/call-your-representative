@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Randy Robertson (Senate)
-N;CHARSET=UTF-8:Robertson (Senate);Randy;;;
+FN;CHARSET=UTF-8:Randy Robertson (GA Senate)
+N;CHARSET=UTF-8:Robertson (GA Senate);Randy;;;
 TEL;TYPE=WORK,VOICE:404-656-0045
-NOTE;CHARSET=UTF-8:GA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:46.747973
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:randy.robertson@senate.ga.gov
+NOTE;CHARSET=UTF-8:Senator in GA Legislature\, District 29\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:29.056617
 END:VCARD

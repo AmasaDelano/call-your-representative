@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jeff Golden (Senate)
-N;CHARSET=UTF-8:Golden (Senate);Jeff;;;
+FN;CHARSET=UTF-8:Jeff Golden (OR Senate)
+N;CHARSET=UTF-8:Golden (OR Senate);Jeff;;;
 TEL;TYPE=WORK,VOICE:503-986-1703
-NOTE;CHARSET=UTF-8:OR Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:37.034804
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.jeffgolden@oregonlegislature.gov
+NOTE;CHARSET=UTF-8:Senator in OR Legislature\, District 3\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:15.842997
 END:VCARD

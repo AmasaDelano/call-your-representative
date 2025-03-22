@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Stephanie Kifowit (House)
-N;CHARSET=UTF-8:Kifowit (House);Stephanie;;;
+FN;CHARSET=UTF-8:Stephanie Kifowit (IL House)
+N;CHARSET=UTF-8:Kifowit (IL House);Stephanie;;;
 TEL;TYPE=WORK,VOICE:217-782-8028
-NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:58.112808
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:stephanie.kifowit@att.net
+NOTE;CHARSET=UTF-8:Representative in IL Legislature\, District 84\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:39.767149
 END:VCARD

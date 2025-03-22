@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Stephen Meredith (Senate)
-N;CHARSET=UTF-8:Meredith (Senate);Stephen;;;
+FN;CHARSET=UTF-8:Stephen Meredith (KY Senate)
+N;CHARSET=UTF-8:Meredith (KY Senate);Stephen;;;
 TEL;TYPE=WORK,VOICE:502-564-8100
-NOTE;CHARSET=UTF-8:KY Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:26.266907
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:stephen.meredith@kylegislature.gov
+NOTE;CHARSET=UTF-8:Senator in KY Legislature\, District 5\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:06.638752
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jeff Helfrich (House)
-N;CHARSET=UTF-8:Helfrich (House);Jeff;;;
+FN;CHARSET=UTF-8:Jeff Helfrich (OR House)
+N;CHARSET=UTF-8:Helfrich (OR House);Jeff;;;
 TEL;TYPE=WORK,VOICE:503-986-1452
-NOTE;CHARSET=UTF-8:OR Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:37.049916
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.jeffhelfrich@oregonlegislature.gov
+NOTE;CHARSET=UTF-8:Representative in OR Legislature\, District 52\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:15.859540
 END:VCARD

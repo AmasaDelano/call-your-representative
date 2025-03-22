@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tyrone Carter (House)
-N;CHARSET=UTF-8:Carter (House);Tyrone;;;
+FN;CHARSET=UTF-8:Tyrone Carter (MI House)
+N;CHARSET=UTF-8:Carter (MI House);Tyrone;;;
 TEL;TYPE=WORK,VOICE:517-373-0154
-NOTE;CHARSET=UTF-8:MI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:25.015923
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tyronecarter@house.mi.gov
+NOTE;CHARSET=UTF-8:Representative in MI Legislature\, District 1\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:01.744425
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Kelley (House)
-N;CHARSET=UTF-8:Kelley (House);Mike;;;
+FN;CHARSET=UTF-8:Mike Kelley (OK House)
+N;CHARSET=UTF-8:Kelley (OK House);Mike;;;
 TEL;TYPE=WORK,VOICE:405-557-7311
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:32.256438
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mike.kelley@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 60\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:11.056993
 END:VCARD

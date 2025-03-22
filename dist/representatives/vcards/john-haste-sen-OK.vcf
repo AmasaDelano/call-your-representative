@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:John Haste (Senate)
-N;CHARSET=UTF-8:Haste (Senate);John;;;
+FN;CHARSET=UTF-8:John Haste (OK Senate)
+N;CHARSET=UTF-8:Haste (OK Senate);John;;;
 TEL;TYPE=WORK,VOICE:405-521-5602
-NOTE;CHARSET=UTF-8:OK Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:27.496964
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:john.haste@oksenate.gov
+NOTE;CHARSET=UTF-8:Senator in OK Legislature\, District 36\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:06.676907
 END:VCARD

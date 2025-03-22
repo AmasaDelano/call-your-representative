@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Alan Martinez (House)
-N;CHARSET=UTF-8:Martinez (House);Alan;;;
+FN;CHARSET=UTF-8:Alan Martinez (NM House)
+N;CHARSET=UTF-8:Martinez (NM House);Alan;;;
 TEL;TYPE=WORK,VOICE:505-986-4758
-NOTE;CHARSET=UTF-8:NM Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:40.358407
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:alan.martinez@nmlegis.gov
+NOTE;CHARSET=UTF-8:Representative in NM Legislature\, District 23\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:16.382781
 END:VCARD

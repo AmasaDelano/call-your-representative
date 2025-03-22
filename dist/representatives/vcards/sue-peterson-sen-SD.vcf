@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Sue Peterson (Senate)
-N;CHARSET=UTF-8:Peterson (Senate);Sue;;;
+FN;CHARSET=UTF-8:Sue Peterson (SD Senate)
+N;CHARSET=UTF-8:Peterson (SD Senate);Sue;;;
 TEL;TYPE=WORK,VOICE:605-773-3821
-NOTE;CHARSET=UTF-8:SD Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:01.369032
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sue.peterson@sdlegislature.gov
+NOTE;CHARSET=UTF-8:Senator in SD Legislature\, District 13\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:06.186537
 END:VCARD

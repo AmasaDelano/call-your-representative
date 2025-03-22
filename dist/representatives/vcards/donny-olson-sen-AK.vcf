@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Donny Olson (Senate)
-N;CHARSET=UTF-8:Olson (Senate);Donny;;;
+FN;CHARSET=UTF-8:Donny Olson (AK Senate)
+N;CHARSET=UTF-8:Olson (AK Senate);Donny;;;
 TEL;TYPE=WORK,VOICE:907-465-3707
-NOTE;CHARSET=UTF-8:AK Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:21.759665
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senator.donald.olson@akleg.gov
+NOTE;CHARSET=UTF-8:Senator in AK Legislature\, District T\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:14.851316
 END:VCARD

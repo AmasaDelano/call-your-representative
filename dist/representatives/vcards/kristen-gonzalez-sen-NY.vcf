@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kristen Gonzalez (Senate)
-N;CHARSET=UTF-8:Gonzalez (Senate);Kristen;;;
+FN;CHARSET=UTF-8:Kristen Gonzalez (NY Senate)
+N;CHARSET=UTF-8:Gonzalez (NY Senate);Kristen;;;
 TEL;TYPE=WORK,VOICE:518-455-3250
-NOTE;CHARSET=UTF-8:NY Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:58.570041
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:gonzalez@nysenate.gov
+NOTE;CHARSET=UTF-8:Senator in NY Legislature\, District 59\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:34.993287
 END:VCARD

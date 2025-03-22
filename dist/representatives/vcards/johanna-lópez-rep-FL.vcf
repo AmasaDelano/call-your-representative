@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Johanna López (House)
-N;CHARSET=UTF-8:López (House);Johanna;;;
+FN;CHARSET=UTF-8:Johanna López (FL House)
+N;CHARSET=UTF-8:López (FL House);Johanna;;;
 TEL;TYPE=WORK,VOICE:850-717-5043
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:15.918180
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:johanna.lopez@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 43\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:58.724305
 END:VCARD

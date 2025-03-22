@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kevin Cramer (Senate)
-N;CHARSET=UTF-8:Cramer (Senate);Kevin;;;
+FN;CHARSET=UTF-8:Kevin Cramer (ND Senate)
+N;CHARSET=UTF-8:Cramer (ND Senate);Kevin;;;
 TEL;TYPE=WORK,VOICE:202-224-2043
-NOTE;CHARSET=UTF-8:US Senator\, ND\n\nCommittees:\nArmed Services\nAirland\nReadiness and Management Support\nStrategic Forces\nEmerging Threats and Capabilities\nBanking, Housing, and Urban Affairs\nSecurities, Insurance, and Investment\nFinancial Institutions and Consumer Protection\nHousing, Transportation, and Community Development\nEnvironment and Public Works\nVeterans' Affairs\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:29.787871
+URL;CHARSET=UTF-8:https://www.cramer.senate.gov/contact/contact-kevin
+NOTE;CHARSET=UTF-8:US Senator for ND\n\nCommittees he's on:\n- Armed Services\n- Airland\n- Readiness and Management Support\n- Strategic Forces\n- Emerging Threats and Capabilities\n- Banking, Housing, and Urban Affairs\n- Securities, Insurance, and Investment\n- Financial Institutions and Consumer Protection\n- Housing, Transportation, and Community Development\n- Environment and Public Works\n- Veterans' Affairs\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:11.558485
 END:VCARD

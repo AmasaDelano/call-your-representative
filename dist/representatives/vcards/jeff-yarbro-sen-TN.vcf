@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jeff Yarbro (Senate)
-N;CHARSET=UTF-8:Yarbro (Senate);Jeff;;;
+FN;CHARSET=UTF-8:Jeff Yarbro (TN Senate)
+N;CHARSET=UTF-8:Yarbro (TN Senate);Jeff;;;
 TEL;TYPE=WORK,VOICE:615-741-3291
-NOTE;CHARSET=UTF-8:TN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:03.413004
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.jeff.yarbro@capitol.tn.gov
+NOTE;CHARSET=UTF-8:Senator in TN Legislature\, District 21\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:07.982441
 END:VCARD

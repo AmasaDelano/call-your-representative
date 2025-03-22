@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Michele Guyton (House)
-N;CHARSET=UTF-8:Guyton (House);Michele;;;
+FN;CHARSET=UTF-8:Michele Guyton (MD House)
+N;CHARSET=UTF-8:Guyton (MD House);Michele;;;
 TEL;TYPE=WORK,VOICE:410-841-3793
-NOTE;CHARSET=UTF-8:MD Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:03.246503
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:michele.guyton@house.state.md.us
+NOTE;CHARSET=UTF-8:Delegate in MD Legislature\, District 42B\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:41.402217
 END:VCARD

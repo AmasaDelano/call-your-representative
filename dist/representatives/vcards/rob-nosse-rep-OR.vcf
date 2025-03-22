@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rob Nosse (House)
-N;CHARSET=UTF-8:Nosse (House);Rob;;;
+FN;CHARSET=UTF-8:Rob Nosse (OR House)
+N;CHARSET=UTF-8:Nosse (OR House);Rob;;;
 TEL;TYPE=WORK,VOICE:503-986-1442
-NOTE;CHARSET=UTF-8:OR Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:37.461164
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.robnosse@oregonlegislature.gov
+NOTE;CHARSET=UTF-8:Representative in OR Legislature\, District 42\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:16.255959
 END:VCARD

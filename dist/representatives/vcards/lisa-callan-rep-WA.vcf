@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lisa Callan (House)
-N;CHARSET=UTF-8:Callan (House);Lisa;;;
+FN;CHARSET=UTF-8:Lisa Callan (WA House)
+N;CHARSET=UTF-8:Callan (WA House);Lisa;;;
 TEL;TYPE=WORK,VOICE:360-786-7876
-NOTE;CHARSET=UTF-8:WA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:24.571903
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lisa.callan@leg.wa.gov
+NOTE;CHARSET=UTF-8:Representative in WA Legislature\, District 5\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:05.746044
 END:VCARD

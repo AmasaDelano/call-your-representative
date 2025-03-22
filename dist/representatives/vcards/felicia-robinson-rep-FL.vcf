@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Felicia Robinson (House)
-N;CHARSET=UTF-8:Robinson (House);Felicia;;;
+FN;CHARSET=UTF-8:Felicia Robinson (FL House)
+N;CHARSET=UTF-8:Robinson (FL House);Felicia;;;
 TEL;TYPE=WORK,VOICE:850-717-5104
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:09.358360
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:felicia.robinson@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 104\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:52.415374
 END:VCARD

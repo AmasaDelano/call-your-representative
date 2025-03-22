@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Randy Pettigrew (House)
-N;CHARSET=UTF-8:Pettigrew (House);Randy;;;
+FN;CHARSET=UTF-8:Randy Pettigrew (NM House)
+N;CHARSET=UTF-8:Pettigrew (NM House);Randy;;;
 TEL;TYPE=WORK,VOICE:505-986-4220
-NOTE;CHARSET=UTF-8:NM Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:44.537021
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:randall.pettigrew@nmlegis.gov
+NOTE;CHARSET=UTF-8:Representative in NM Legislature\, District 61\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:20.227710
 END:VCARD

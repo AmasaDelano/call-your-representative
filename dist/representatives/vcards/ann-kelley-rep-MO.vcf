@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ann Kelley (House)
-N;CHARSET=UTF-8:Kelley (House);Ann;;;
+FN;CHARSET=UTF-8:Ann Kelley (MO House)
+N;CHARSET=UTF-8:Kelley (MO House);Ann;;;
 TEL;TYPE=WORK,VOICE:573-751-2165
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:34.529872
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ann.kelley@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 127\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:11.896893
 END:VCARD

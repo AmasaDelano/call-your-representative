@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jamie Scott (Senate)
-N;CHARSET=UTF-8:Scott (Senate);Jamie;;;
+FN;CHARSET=UTF-8:Jamie Scott (AR Senate)
+N;CHARSET=UTF-8:Scott (AR Senate);Jamie;;;
 TEL;TYPE=WORK,VOICE:501-682-2902
-NOTE;CHARSET=UTF-8:AR Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:26.639157
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jamie.scott@senate.ar.gov
+NOTE;CHARSET=UTF-8:Senator in AR Legislature\, District 12\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:18.765187
 END:VCARD

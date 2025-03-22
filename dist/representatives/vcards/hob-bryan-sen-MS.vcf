@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Hob Bryan (Senate)
-N;CHARSET=UTF-8:Bryan (Senate);Hob;;;
+FN;CHARSET=UTF-8:Hob Bryan (MS Senate)
+N;CHARSET=UTF-8:Bryan (MS Senate);Hob;;;
 TEL;TYPE=WORK,VOICE:601-359-2220
-NOTE;CHARSET=UTF-8:MS Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:31.671979
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:hbryan@senate.ms.gov
+NOTE;CHARSET=UTF-8:Senator in MS Legislature\, District 7\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:09.326911
 END:VCARD

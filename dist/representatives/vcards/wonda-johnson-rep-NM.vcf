@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Wonda Johnson (House)
-N;CHARSET=UTF-8:Johnson (House);Wonda;;;
+FN;CHARSET=UTF-8:Wonda Johnson (NM House)
+N;CHARSET=UTF-8:Johnson (NM House);Wonda;;;
 TEL;TYPE=WORK,VOICE:505-986-4433
-NOTE;CHARSET=UTF-8:NM Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:41.775162
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:dwonda.johnson@nmlegis.gov
+NOTE;CHARSET=UTF-8:Representative in NM Legislature\, District 5\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:17.718888
 END:VCARD

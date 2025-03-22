@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bobby Orrock (House)
-N;CHARSET=UTF-8:Orrock (House);Bobby;;;
+FN;CHARSET=UTF-8:Bobby Orrock (VA House)
+N;CHARSET=UTF-8:Orrock (VA House);Bobby;;;
 TEL;TYPE=WORK,VOICE:804-698-1066
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:22.863625
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delborrock@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 66\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:03.825984
 END:VCARD

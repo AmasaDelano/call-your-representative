@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Nader Sayegh (Assembly)
-N;CHARSET=UTF-8:Sayegh (Assembly);Nader;;;
+FN;CHARSET=UTF-8:Nader Sayegh (NY Assembly)
+N;CHARSET=UTF-8:Sayegh (NY Assembly);Nader;;;
 TEL;TYPE=WORK,VOICE:518-455-3662
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:02.255689
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sayeghn@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 90\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:39.454113
 END:VCARD

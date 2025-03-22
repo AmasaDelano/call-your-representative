@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Thomas Alexander (Senate)
-N;CHARSET=UTF-8:Alexander (Senate);Thomas;;;
+FN;CHARSET=UTF-8:Thomas Alexander (SC Senate)
+N;CHARSET=UTF-8:Alexander (SC Senate);Thomas;;;
 TEL;TYPE=WORK,VOICE:803-212-6220
-NOTE;CHARSET=UTF-8:SC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:26:24.693586
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:thomasalexander@scsenate.gov
+NOTE;CHARSET=UTF-8:Senator in SC Legislature\, District 1\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:00.785451
 END:VCARD

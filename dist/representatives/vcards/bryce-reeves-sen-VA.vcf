@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bryce Reeves (Senate)
-N;CHARSET=UTF-8:Reeves (Senate);Bryce;;;
+FN;CHARSET=UTF-8:Bryce Reeves (VA Senate)
+N;CHARSET=UTF-8:Reeves (VA Senate);Bryce;;;
 TEL;TYPE=WORK,VOICE:804-698-7528
-NOTE;CHARSET=UTF-8:VA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:21.522392
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senatorreeves@senate.virginia.gov
+NOTE;CHARSET=UTF-8:Senator in VA Legislature\, District 28\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:02.521355
 END:VCARD

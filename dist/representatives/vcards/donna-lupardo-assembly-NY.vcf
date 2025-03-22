@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Donna Lupardo (Assembly)
-N;CHARSET=UTF-8:Lupardo (Assembly);Donna;;;
+FN;CHARSET=UTF-8:Donna Lupardo (NY Assembly)
+N;CHARSET=UTF-8:Lupardo (NY Assembly);Donna;;;
 TEL;TYPE=WORK,VOICE:518-455-5431
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:50.795950
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lupardod@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 123\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:26.551129
 END:VCARD

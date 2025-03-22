@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Cameron Sexton (House)
-N;CHARSET=UTF-8:Sexton (House);Cameron;;;
+FN;CHARSET=UTF-8:Cameron Sexton (TN House)
+N;CHARSET=UTF-8:Sexton (TN House);Cameron;;;
 TEL;TYPE=WORK,VOICE:615-741-2343
-NOTE;CHARSET=UTF-8:TN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:02.773479
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:speaker.cameron.sexton@capitol.tn.gov
+NOTE;CHARSET=UTF-8:Representative in TN Legislature\, District 25\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:07.285794
 END:VCARD

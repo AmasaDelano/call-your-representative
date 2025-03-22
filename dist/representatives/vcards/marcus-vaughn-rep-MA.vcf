@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Marcus Vaughn (House)
-N;CHARSET=UTF-8:Vaughn (House);Marcus;;;
+FN;CHARSET=UTF-8:Marcus Vaughn (MA House)
+N;CHARSET=UTF-8:Vaughn (MA House);Marcus;;;
 TEL;TYPE=WORK,VOICE:617-722-2263
-NOTE;CHARSET=UTF-8:MA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:05.641079
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:marcus.vaughn@mahouse.gov
+NOTE;CHARSET=UTF-8:Representative in MA Legislature\, District 9th Norfolk\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:43.776138
 END:VCARD

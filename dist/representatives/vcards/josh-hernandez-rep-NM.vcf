@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Josh Hernandez (House)
-N;CHARSET=UTF-8:Hernandez (House);Josh;;;
+FN;CHARSET=UTF-8:Josh Hernandez (NM House)
+N;CHARSET=UTF-8:Hernandez (NM House);Josh;;;
 TEL;TYPE=WORK,VOICE:505-986-4215
-NOTE;CHARSET=UTF-8:NM Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:42.588639
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:joshua.hernandez@nmlegis.gov
+NOTE;CHARSET=UTF-8:Representative in NM Legislature\, District 60\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:18.551583
 END:VCARD

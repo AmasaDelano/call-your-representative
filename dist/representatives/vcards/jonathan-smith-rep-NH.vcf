@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jonathan Smith (House)
-N;CHARSET=UTF-8:Smith (House);Jonathan;;;
+FN;CHARSET=UTF-8:Jonathan Smith (NH House)
+N;CHARSET=UTF-8:Smith (NH House);Jonathan;;;
 TEL;TYPE=WORK,VOICE:603-651-1137
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:06.200679
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jonathan.smith@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Carroll 5\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:44.079378
 END:VCARD

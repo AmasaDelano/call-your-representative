@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:John Laird (Senate)
-N;CHARSET=UTF-8:Laird (Senate);John;;;
+FN;CHARSET=UTF-8:John Laird (CA Senate)
+N;CHARSET=UTF-8:Laird (CA Senate);John;;;
 TEL;TYPE=WORK,VOICE:916-651-4017
-NOTE;CHARSET=UTF-8:CA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:37.300183
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senator.laird@senate.ca.gov
+NOTE;CHARSET=UTF-8:Senator in CA Legislature\, District 17\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:29.817237
 END:VCARD

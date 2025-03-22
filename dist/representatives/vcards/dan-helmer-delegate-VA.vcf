@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Dan Helmer (House)
-N;CHARSET=UTF-8:Helmer (House);Dan;;;
+FN;CHARSET=UTF-8:Dan Helmer (VA House)
+N;CHARSET=UTF-8:Helmer (VA House);Dan;;;
 TEL;TYPE=WORK,VOICE:804-698-1010
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:21.672405
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:deldhelmer@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 10\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:02.662520
 END:VCARD

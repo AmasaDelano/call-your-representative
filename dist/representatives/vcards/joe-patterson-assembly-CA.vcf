@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Joe Patterson (Assembly)
-N;CHARSET=UTF-8:Patterson (Assembly);Joe;;;
+FN;CHARSET=UTF-8:Joe Patterson (CA Assembly)
+N;CHARSET=UTF-8:Patterson (CA Assembly);Joe;;;
 TEL;TYPE=WORK,VOICE:916-319-2005
-NOTE;CHARSET=UTF-8:CA Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:36.849571
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:assemblymember.joepatterson@assembly.ca.gov
+NOTE;CHARSET=UTF-8:Assembly Member in CA Legislature\, District 5\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:29.375637
 END:VCARD

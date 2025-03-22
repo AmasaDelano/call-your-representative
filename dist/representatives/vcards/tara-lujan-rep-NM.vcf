@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tara Lujan (House)
-N;CHARSET=UTF-8:Lujan (House);Tara;;;
+FN;CHARSET=UTF-8:Tara Lujan (NM House)
+N;CHARSET=UTF-8:Lujan (NM House);Tara;;;
 TEL;TYPE=WORK,VOICE:505-986-4236
-NOTE;CHARSET=UTF-8:NM Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:44.743689
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tara.lujan@nmlegis.gov
+NOTE;CHARSET=UTF-8:Representative in NM Legislature\, District 48\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:20.407364
 END:VCARD

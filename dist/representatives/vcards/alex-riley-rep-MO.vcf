@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Alex Riley (House)
-N;CHARSET=UTF-8:Riley (House);Alex;;;
+FN;CHARSET=UTF-8:Alex Riley (MO House)
+N;CHARSET=UTF-8:Riley (MO House);Alex;;;
 TEL;TYPE=WORK,VOICE:573-751-2210
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:34.495744
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:alex.riley@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 134\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:11.864949
 END:VCARD

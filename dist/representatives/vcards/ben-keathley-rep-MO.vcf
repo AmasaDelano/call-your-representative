@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ben Keathley (House)
-N;CHARSET=UTF-8:Keathley (House);Ben;;;
+FN;CHARSET=UTF-8:Ben Keathley (MO House)
+N;CHARSET=UTF-8:Keathley (MO House);Ben;;;
 TEL;TYPE=WORK,VOICE:573-751-1247
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:34.660947
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ben.keathley@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 101\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:12.008220
 END:VCARD

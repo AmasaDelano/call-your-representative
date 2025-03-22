@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Terri Leo-Wilson (House)
-N;CHARSET=UTF-8:Leo-Wilson (House);Terri;;;
+FN;CHARSET=UTF-8:Terri Leo-Wilson (TX House)
+N;CHARSET=UTF-8:Leo-Wilson (TX House);Terri;;;
 TEL;TYPE=WORK,VOICE:409-762-0202
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:56.322538
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:terri.leo-wilson@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 23\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:55.955289
 END:VCARD

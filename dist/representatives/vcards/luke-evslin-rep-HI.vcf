@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Luke Evslin (House)
-N;CHARSET=UTF-8:Evslin (House);Luke;;;
+FN;CHARSET=UTF-8:Luke Evslin (HI House)
+N;CHARSET=UTF-8:Evslin (HI House);Luke;;;
 TEL;TYPE=WORK,VOICE:808-586-6270
-NOTE;CHARSET=UTF-8:HI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:53.617798
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:repevslin@capitol.hawaii.gov
+NOTE;CHARSET=UTF-8:Representative in HI Legislature\, District 16\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:35.337720
 END:VCARD

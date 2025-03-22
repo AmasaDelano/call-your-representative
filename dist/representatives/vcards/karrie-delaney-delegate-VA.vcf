@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Karrie Delaney (House)
-N;CHARSET=UTF-8:Delaney (House);Karrie;;;
+FN;CHARSET=UTF-8:Karrie Delaney (VA House)
+N;CHARSET=UTF-8:Delaney (VA House);Karrie;;;
 TEL;TYPE=WORK,VOICE:804-698-1009
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:22.346129
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delkdelaney@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 9\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:03.298027
 END:VCARD

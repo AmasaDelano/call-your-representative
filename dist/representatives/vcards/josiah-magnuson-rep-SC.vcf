@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Josiah Magnuson (House)
-N;CHARSET=UTF-8:Magnuson (House);Josiah;;;
+FN;CHARSET=UTF-8:Josiah Magnuson (SC House)
+N;CHARSET=UTF-8:Magnuson (SC House);Josiah;;;
 TEL;TYPE=WORK,VOICE:803-212-6876
-NOTE;CHARSET=UTF-8:SC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:26:23.897458
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:josiahmagnuson@schouse.gov
+NOTE;CHARSET=UTF-8:Representative in SC Legislature\, District 38\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:59.877680
 END:VCARD

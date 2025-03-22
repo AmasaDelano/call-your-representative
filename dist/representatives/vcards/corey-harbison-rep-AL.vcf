@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Corey Harbison (House)
-N;CHARSET=UTF-8:Harbison (House);Corey;;;
+FN;CHARSET=UTF-8:Corey Harbison (AL House)
+N;CHARSET=UTF-8:Harbison (AL House);Corey;;;
 TEL;TYPE=WORK,VOICE:334-261-0578
-NOTE;CHARSET=UTF-8:AL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:19.106891
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:corey_harbison@yahoo.com
+NOTE;CHARSET=UTF-8:Representative in AL Legislature\, District 12\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:11.056527
 END:VCARD

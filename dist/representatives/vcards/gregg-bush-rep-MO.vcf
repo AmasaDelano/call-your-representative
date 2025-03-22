@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Gregg Bush (House)
-N;CHARSET=UTF-8:Bush (House);Gregg;;;
+FN;CHARSET=UTF-8:Gregg Bush (MO House)
+N;CHARSET=UTF-8:Bush (MO House);Gregg;;;
 TEL;TYPE=WORK,VOICE:573-751-2134
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:35.455950
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:gregg.bush@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 50\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:12.714080
 END:VCARD

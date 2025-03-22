@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kyle Mullica (Senate)
-N;CHARSET=UTF-8:Mullica (Senate);Kyle;;;
+FN;CHARSET=UTF-8:Kyle Mullica (CO Senate)
+N;CHARSET=UTF-8:Mullica (CO Senate);Kyle;;;
 TEL;TYPE=WORK,VOICE:303-866-4451
-NOTE;CHARSET=UTF-8:CO Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:08.078907
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:kyle.mullica.senate@coleg.gov
+NOTE;CHARSET=UTF-8:Senator in CO Legislature\, District 24\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:54.983404
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kimberly New (House)
-N;CHARSET=UTF-8:New (House);Kimberly;;;
+FN;CHARSET=UTF-8:Kimberly New (GA House)
+N;CHARSET=UTF-8:New (GA House);Kimberly;;;
 TEL;TYPE=WORK,VOICE:404-656-0325
-NOTE;CHARSET=UTF-8:GA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:45.667703
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:kimberly.new@house.ga.gov
+NOTE;CHARSET=UTF-8:Representative in GA Legislature\, District 40\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:27.879817
 END:VCARD

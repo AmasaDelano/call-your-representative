@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tim Yocum (House)
-N;CHARSET=UTF-8:Yocum (House);Tim;;;
+FN;CHARSET=UTF-8:Tim Yocum (IN House)
+N;CHARSET=UTF-8:Yocum (IN House);Tim;;;
 TEL;TYPE=WORK,VOICE:317-232-9986
-NOTE;CHARSET=UTF-8:IN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:30.817544
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:h42@iga.in.gov
+NOTE;CHARSET=UTF-8:Representative in IN Legislature\, District 42\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:12.693200
 END:VCARD

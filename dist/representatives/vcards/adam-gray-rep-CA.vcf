@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Adam Gray (House)
-N;CHARSET=UTF-8:Gray (House);Adam;;;
+FN;CHARSET=UTF-8:Adam Gray (CA House)
+N;CHARSET=UTF-8:Gray (CA House);Adam;;;
 TEL;TYPE=WORK,VOICE:202-225-1947
-NOTE;CHARSET=UTF-8:US Representative\, CA\n\nCommittees:\nAgriculture\nForestry and Horticulture\nCommodity Markets, Digital Assets, and Rural Development\nLivestock, Dairy, and Poultry\nNatural Resources\nWater, Wildlife and Fisheries\nOversight and Investigations\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:39.101826
+URL;CHARSET=UTF-8:https://gray.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from CA\, District 13\n\nCommittees he's on:\n- Agriculture\n- Forestry and Horticulture\n- Commodity Markets, Digital Assets, and Rural Development\n- Livestock, Dairy, and Poultry\n- Natural Resources\n- Water, Wildlife and Fisheries\n- Oversight and Investigations\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:21.410774
 END:VCARD

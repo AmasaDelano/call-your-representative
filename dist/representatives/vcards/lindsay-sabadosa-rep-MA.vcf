@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lindsay Sabadosa (House)
-N;CHARSET=UTF-8:Sabadosa (House);Lindsay;;;
+FN;CHARSET=UTF-8:Lindsay Sabadosa (MA House)
+N;CHARSET=UTF-8:Sabadosa (MA House);Lindsay;;;
 TEL;TYPE=WORK,VOICE:617-722-2304
-NOTE;CHARSET=UTF-8:MA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:05.581634
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lindsay.sabadosa@mahouse.gov
+NOTE;CHARSET=UTF-8:Representative in MA Legislature\, District 1st Hampshire\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:43.716778
 END:VCARD

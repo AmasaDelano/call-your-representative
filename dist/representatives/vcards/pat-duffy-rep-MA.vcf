@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Pat Duffy (House)
-N;CHARSET=UTF-8:Duffy (House);Pat;;;
+FN;CHARSET=UTF-8:Pat Duffy (MA House)
+N;CHARSET=UTF-8:Duffy (MA House);Pat;;;
 TEL;TYPE=WORK,VOICE:617-722-2013
-NOTE;CHARSET=UTF-8:MA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:06.036371
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:patricia.duffy@mahouse.gov
+NOTE;CHARSET=UTF-8:Representative in MA Legislature\, District 5th Hampden\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:44.097812
 END:VCARD

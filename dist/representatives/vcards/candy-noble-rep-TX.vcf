@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Candy Noble (House)
-N;CHARSET=UTF-8:Noble (House);Candy;;;
+FN;CHARSET=UTF-8:Candy Noble (TX House)
+N;CHARSET=UTF-8:Noble (TX House);Candy;;;
 TEL;TYPE=WORK,VOICE:972-423-6542
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:13.125886
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:candy.noble@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 89\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:17.135573
 END:VCARD

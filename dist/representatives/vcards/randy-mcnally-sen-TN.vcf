@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Randy McNally (Senate)
-N;CHARSET=UTF-8:McNally (Senate);Randy;;;
+FN;CHARSET=UTF-8:Randy McNally (TN Senate)
+N;CHARSET=UTF-8:McNally (TN Senate);Randy;;;
 TEL;TYPE=WORK,VOICE:615-741-6806
-NOTE;CHARSET=UTF-8:TN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:04.623005
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.randy.mcnally@capitol.tn.gov
+NOTE;CHARSET=UTF-8:Senator in TN Legislature\, District 5\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:09.251538
 END:VCARD

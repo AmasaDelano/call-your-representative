@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Claire Valdez (Assembly)
-N;CHARSET=UTF-8:Valdez (Assembly);Claire;;;
+FN;CHARSET=UTF-8:Claire Valdez (NY Assembly)
+N;CHARSET=UTF-8:Valdez (NY Assembly);Claire;;;
 TEL;TYPE=WORK,VOICE:518-455-4851
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:48.972924
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:valdezc@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 37\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:25.077464
 END:VCARD

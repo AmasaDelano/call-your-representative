@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Nicole Leapley (House)
-N;CHARSET=UTF-8:Leapley (House);Nicole;;;
+FN;CHARSET=UTF-8:Nicole Leapley (NH House)
+N;CHARSET=UTF-8:Leapley (NH House);Nicole;;;
 TEL;TYPE=WORK,VOICE:603-206-5667
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:09.115853
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:nicole.leapley@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Hillsborough 22\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:45.737930
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Fési (Senate)
-N;CHARSET=UTF-8:Fési (Senate);Mike;;;
+FN;CHARSET=UTF-8:Mike Fési (LA Senate)
+N;CHARSET=UTF-8:Fési (LA Senate);Mike;;;
 TEL;TYPE=WORK,VOICE:985-858-2979
-NOTE;CHARSET=UTF-8:LA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:45.986819
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen20@legis.la.gov
+NOTE;CHARSET=UTF-8:Senator in LA Legislature\, District 20\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:26.041934
 END:VCARD

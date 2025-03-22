@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Anne-Marie Mastraccio (House)
-N;CHARSET=UTF-8:Mastraccio (House);Anne-Marie;;;
+FN;CHARSET=UTF-8:Anne-Marie Mastraccio (ME House)
+N;CHARSET=UTF-8:Mastraccio (ME House);Anne-Marie;;;
 TEL;TYPE=WORK,VOICE:800-423-2900
-NOTE;CHARSET=UTF-8:ME Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:56.916736
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:anne-marie.mastraccio@legislature.maine.gov
+NOTE;CHARSET=UTF-8:Representative in ME Legislature\, District 142\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:36.403954
 END:VCARD

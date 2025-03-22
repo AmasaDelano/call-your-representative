@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kirsten Gillibrand (Senate)
-N;CHARSET=UTF-8:Gillibrand (Senate);Kirsten;;;
+FN;CHARSET=UTF-8:Kirsten Gillibrand (NY Senate)
+N;CHARSET=UTF-8:Gillibrand (NY Senate);Kirsten;;;
 TEL;TYPE=WORK,VOICE:202-224-4451
-NOTE;CHARSET=UTF-8:US Senator\, NY\n\nCommittees:\nSenate Select Committee on Intelligence\nSenate Special Committee on Aging\nAppropriations\nArmed Services\nStrategic Forces\nEmerging Threats and Capabilities\nCybersecurity\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:26.832118
+URL;CHARSET=UTF-8:https://www.gillibrand.senate.gov/contact/email-me
+NOTE;CHARSET=UTF-8:US Senator for NY\n\nCommittees she's on:\n- Senate Select Committee on Intelligence\n- Senate Special Committee on Aging\n- Appropriations\n- Armed Services\n- Strategic Forces\n- Emerging Threats and Capabilities\n- Cybersecurity\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:08.016126
 END:VCARD

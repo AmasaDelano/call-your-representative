@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Louise Lucas (Senate)
-N;CHARSET=UTF-8:Lucas (Senate);Louise;;;
+FN;CHARSET=UTF-8:Louise Lucas (VA Senate)
+N;CHARSET=UTF-8:Lucas (VA Senate);Louise;;;
 TEL;TYPE=WORK,VOICE:804-698-7518
-NOTE;CHARSET=UTF-8:VA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:22.412065
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senatorlucas@senate.virginia.gov
+NOTE;CHARSET=UTF-8:Senator in VA Legislature\, District 18\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:03.366821
 END:VCARD

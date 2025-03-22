@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lindsey Graham (Senate)
-N;CHARSET=UTF-8:Graham (Senate);Lindsey;;;
+FN;CHARSET=UTF-8:Lindsey Graham (SC Senate)
+N;CHARSET=UTF-8:Graham (SC Senate);Lindsey;;;
 TEL;TYPE=WORK,VOICE:202-224-5972
-NOTE;CHARSET=UTF-8:US Senator\, SC\n\nCommittees:\nAppropriations\nThe Budget\nEnvironment and Public Works\nThe Judiciary\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:26.692027
+URL;CHARSET=UTF-8:https://www.lgraham.senate.gov/public/index.cfm/e-mail-senator-graham
+NOTE;CHARSET=UTF-8:US Senator for SC\n\nCommittees he's on:\n- Appropriations\n- The Budget\n- Environment and Public Works\n- The Judiciary\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:07.889205
 END:VCARD

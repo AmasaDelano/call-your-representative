@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Maxine Dexter (House)
-N;CHARSET=UTF-8:Dexter (House);Maxine;;;
+FN;CHARSET=UTF-8:Maxine Dexter (OR House)
+N;CHARSET=UTF-8:Dexter (OR House);Maxine;;;
 TEL;TYPE=WORK,VOICE:202-225-4811
-NOTE;CHARSET=UTF-8:US Representative\, OR\n\nCommittees:\nNatural Resources\nFederal Lands\nOversight and Investigations\nVeterans' Affairs\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:44.222102
+URL;CHARSET=UTF-8:https://dexter.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from OR\, District 3\n\nCommittees she's on:\n- Natural Resources\n- Federal Lands\n- Oversight and Investigations\n- Veterans' Affairs\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:25.904223
 END:VCARD

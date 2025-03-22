@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Yara Zokaie (House)
-N;CHARSET=UTF-8:Zokaie (House);Yara;;;
+FN;CHARSET=UTF-8:Yara Zokaie (CO House)
+N;CHARSET=UTF-8:Zokaie (CO House);Yara;;;
 TEL;TYPE=WORK,VOICE:303-866-4569
-NOTE;CHARSET=UTF-8:CO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:35.358994
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:yara.zokaie.house@coleg.gov
+NOTE;CHARSET=UTF-8:Representative in CO Legislature\, District 52\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:16.614360
 END:VCARD

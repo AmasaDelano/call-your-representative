@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Heather Bauer (House)
-N;CHARSET=UTF-8:Bauer (House);Heather;;;
+FN;CHARSET=UTF-8:Heather Bauer (SC House)
+N;CHARSET=UTF-8:Bauer (SC House);Heather;;;
 TEL;TYPE=WORK,VOICE:803-212-6943
-NOTE;CHARSET=UTF-8:SC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:26:23.543450
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:heatherbauer@schouse.gov
+NOTE;CHARSET=UTF-8:Representative in SC Legislature\, District 75\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:59.537088
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Steve Duffy (House)
-N;CHARSET=UTF-8:Duffy (House);Steve;;;
+FN;CHARSET=UTF-8:Steve Duffy (SD House)
+N;CHARSET=UTF-8:Duffy (SD House);Steve;;;
 TEL;TYPE=WORK,VOICE:605-773-3851
-NOTE;CHARSET=UTF-8:SD Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:00.673201
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:steve.duffy@sdlegislature.gov
+NOTE;CHARSET=UTF-8:Representative in SD Legislature\, District 32\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:05.507578
 END:VCARD

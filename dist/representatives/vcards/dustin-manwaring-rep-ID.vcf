@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Dustin Manwaring (House)
-N;CHARSET=UTF-8:Manwaring (House);Dustin;;;
+FN;CHARSET=UTF-8:Dustin Manwaring (ID House)
+N;CHARSET=UTF-8:Manwaring (ID House);Dustin;;;
 TEL;TYPE=WORK,VOICE:208-332-1079
-NOTE;CHARSET=UTF-8:ID Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:55.487660
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:dmanwaring@house.idaho.gov
+NOTE;CHARSET=UTF-8:Representative in ID Legislature\, District 29A\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:37.130057
 END:VCARD

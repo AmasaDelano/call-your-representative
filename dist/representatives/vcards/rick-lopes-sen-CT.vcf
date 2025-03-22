@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rick Lopes (Senate)
-N;CHARSET=UTF-8:Lopes (Senate);Rick;;;
+FN;CHARSET=UTF-8:Rick Lopes (CT Senate)
+N;CHARSET=UTF-8:Lopes (CT Senate);Rick;;;
 TEL;TYPE=WORK,VOICE:860-240-0099
-NOTE;CHARSET=UTF-8:CT Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:51.721488
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rick.lopes@cga.ct.gov
+NOTE;CHARSET=UTF-8:Senator in CT Legislature\, District 6\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:33.346621
 END:VCARD

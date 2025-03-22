@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jason Brodeur (Senate)
-N;CHARSET=UTF-8:Brodeur (Senate);Jason;;;
+FN;CHARSET=UTF-8:Jason Brodeur (FL Senate)
+N;CHARSET=UTF-8:Brodeur (FL Senate);Jason;;;
 TEL;TYPE=WORK,VOICE:850-487-5010
-NOTE;CHARSET=UTF-8:FL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:12.438582
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:brodeur.jason.web@flsenate.gov
+NOTE;CHARSET=UTF-8:Senator in FL Legislature\, District 10\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:55.560313
 END:VCARD

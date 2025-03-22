@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bill Magnarelli (Assembly)
-N;CHARSET=UTF-8:Magnarelli (Assembly);Bill;;;
+FN;CHARSET=UTF-8:Bill Magnarelli (NY Assembly)
+N;CHARSET=UTF-8:Magnarelli (NY Assembly);Bill;;;
 TEL;TYPE=WORK,VOICE:518-455-4826
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:09.705008
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:magnarw@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 129\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:47.772515
 END:VCARD

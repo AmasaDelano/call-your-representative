@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mary Imes (House)
-N;CHARSET=UTF-8:Imes (House);Mary;;;
+FN;CHARSET=UTF-8:Mary Imes (KY House)
+N;CHARSET=UTF-8:Imes (KY House);Mary;;;
 TEL;TYPE=WORK,VOICE:502-564-8100
-NOTE;CHARSET=UTF-8:KY Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:21.216716
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:marybeth.imes@kylegislature.gov
+NOTE;CHARSET=UTF-8:Representative in KY Legislature\, District 5\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:01.928927
 END:VCARD

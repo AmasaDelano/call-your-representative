@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jesse Vanderwende (House)
-N;CHARSET=UTF-8:Vanderwende (House);Jesse;;;
+FN;CHARSET=UTF-8:Jesse Vanderwende (DE House)
+N;CHARSET=UTF-8:Vanderwende (DE House);Jesse;;;
 TEL;TYPE=WORK,VOICE:302-744-4267
-NOTE;CHARSET=UTF-8:DE Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:55.578593
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jesse.vanderwende@delaware.gov
+NOTE;CHARSET=UTF-8:Representative in DE Legislature\, District 35\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:38.300851
 END:VCARD

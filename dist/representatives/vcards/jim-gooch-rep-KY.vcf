@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jim Gooch (House)
-N;CHARSET=UTF-8:Gooch (House);Jim;;;
+FN;CHARSET=UTF-8:Jim Gooch (KY House)
+N;CHARSET=UTF-8:Gooch (KY House);Jim;;;
 TEL;TYPE=WORK,VOICE:502-564-8100
-NOTE;CHARSET=UTF-8:KY Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:18.412436
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jim.gooch@kylegislature.gov
+NOTE;CHARSET=UTF-8:Representative in KY Legislature\, District 12\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:58.993115
 END:VCARD

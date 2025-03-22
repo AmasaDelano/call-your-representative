@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ashlee Matthews (House)
-N;CHARSET=UTF-8:Matthews (House);Ashlee;;;
+FN;CHARSET=UTF-8:Ashlee Matthews (UT House)
+N;CHARSET=UTF-8:Matthews (UT House);Ashlee;;;
 TEL;TYPE=WORK,VOICE:801-538-1029
-NOTE;CHARSET=UTF-8:UT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:03.722217
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:amatthews@le.utah.gov
+NOTE;CHARSET=UTF-8:Representative in UT Legislature\, District 37\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:58:02.905098
 END:VCARD

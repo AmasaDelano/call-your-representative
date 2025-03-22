@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Billy Calvert (House)
-N;CHARSET=UTF-8:Calvert (House);Billy;;;
+FN;CHARSET=UTF-8:Billy Calvert (MS House)
+N;CHARSET=UTF-8:Calvert (MS House);Billy;;;
 TEL;TYPE=WORK,VOICE:601-359-3360
-NOTE;CHARSET=UTF-8:MS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:30.477388
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bcalvert@house.ms.gov
+NOTE;CHARSET=UTF-8:Representative in MS Legislature\, District 83\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:07.981161
 END:VCARD

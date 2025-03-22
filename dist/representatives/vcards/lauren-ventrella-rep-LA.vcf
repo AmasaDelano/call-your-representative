@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lauren Ventrella (House)
-N;CHARSET=UTF-8:Ventrella (House);Lauren;;;
+FN;CHARSET=UTF-8:Lauren Ventrella (LA House)
+N;CHARSET=UTF-8:Ventrella (LA House);Lauren;;;
 TEL;TYPE=WORK,VOICE:225-361-4318
-NOTE;CHARSET=UTF-8:LA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:43.833961
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:hse065@legis.la.gov
+NOTE;CHARSET=UTF-8:Representative in LA Legislature\, District 65\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:23.668585
 END:VCARD

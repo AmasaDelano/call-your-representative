@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Judson Sapp (House)
-N;CHARSET=UTF-8:Sapp (House);Judson;;;
+FN;CHARSET=UTF-8:Judson Sapp (FL House)
+N;CHARSET=UTF-8:Sapp (FL House);Judson;;;
 TEL;TYPE=WORK,VOICE:850-717-5020
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:18.580337
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:judson.sapp@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 20\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:01.447303
 END:VCARD

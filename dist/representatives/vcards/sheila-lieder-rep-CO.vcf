@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Sheila Lieder (House)
-N;CHARSET=UTF-8:Lieder (House);Sheila;;;
+FN;CHARSET=UTF-8:Sheila Lieder (CO House)
+N;CHARSET=UTF-8:Lieder (CO House);Sheila;;;
 TEL;TYPE=WORK,VOICE:303-866-2939
-NOTE;CHARSET=UTF-8:CO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:29.304453
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sheila.lieder.house@coleg.gov
+NOTE;CHARSET=UTF-8:Representative in CO Legislature\, District 28\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:11.651278
 END:VCARD

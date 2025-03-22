@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:John Piscopo (House)
-N;CHARSET=UTF-8:Piscopo (House);John;;;
+FN;CHARSET=UTF-8:John Piscopo (CT House)
+N;CHARSET=UTF-8:Piscopo (CT House);John;;;
 TEL;TYPE=WORK,VOICE:860-240-8700
-NOTE;CHARSET=UTF-8:CT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:43.600306
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:john.piscopo@housegop.ct.gov
+NOTE;CHARSET=UTF-8:Representative in CT Legislature\, District 76\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:26.371688
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kathy Steinhoff (House)
-N;CHARSET=UTF-8:Steinhoff (House);Kathy;;;
+FN;CHARSET=UTF-8:Kathy Steinhoff (MO House)
+N;CHARSET=UTF-8:Steinhoff (MO House);Kathy;;;
 TEL;TYPE=WORK,VOICE:573-751-4189
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:35.778942
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:kathy.steinhoff@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 45\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:13.009754
 END:VCARD

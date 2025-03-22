@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Sam Farrington (House)
-N;CHARSET=UTF-8:Farrington (House);Sam;;;
+FN;CHARSET=UTF-8:Sam Farrington (NH House)
+N;CHARSET=UTF-8:Farrington (NH House);Sam;;;
 TEL;TYPE=WORK,VOICE:603-948-6240
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:11.105646
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:samuel.farrington@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Strafford 8\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:48.016011
 END:VCARD

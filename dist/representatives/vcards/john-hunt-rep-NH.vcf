@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:John Hunt (House)
-N;CHARSET=UTF-8:Hunt (House);John;;;
+FN;CHARSET=UTF-8:John Hunt (NH House)
+N;CHARSET=UTF-8:Hunt (NH House);John;;;
 TEL;TYPE=WORK,VOICE:603-345-1129
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:06.070911
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jbhunt@prodigy.net
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Cheshire 14\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:43.949324
 END:VCARD

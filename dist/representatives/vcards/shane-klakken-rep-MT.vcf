@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Shane Klakken (House)
-N;CHARSET=UTF-8:Klakken (House);Shane;;;
+FN;CHARSET=UTF-8:Shane Klakken (MT House)
+N;CHARSET=UTF-8:Klakken (MT House);Shane;;;
 TEL;TYPE=WORK,VOICE:406-444-4800
-NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:38.352419
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:shane.klakken@legmt.gov
+NOTE;CHARSET=UTF-8:Representative in MT Legislature\, District 37\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:15.288024
 END:VCARD

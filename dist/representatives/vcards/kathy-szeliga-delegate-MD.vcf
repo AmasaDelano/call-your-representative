@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kathy Szeliga (House)
-N;CHARSET=UTF-8:Szeliga (House);Kathy;;;
+FN;CHARSET=UTF-8:Kathy Szeliga (MD House)
+N;CHARSET=UTF-8:Szeliga (MD House);Kathy;;;
 TEL;TYPE=WORK,VOICE:410-841-3698
-NOTE;CHARSET=UTF-8:MD Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:02.901643
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:kathy.szeliga@house.state.md.us
+NOTE;CHARSET=UTF-8:Delegate in MD Legislature\, District 7A\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:41.069774
 END:VCARD

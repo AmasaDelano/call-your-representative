@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Michelle Hinchey (Senate)
-N;CHARSET=UTF-8:Hinchey (Senate);Michelle;;;
+FN;CHARSET=UTF-8:Michelle Hinchey (NY Senate)
+N;CHARSET=UTF-8:Hinchey (NY Senate);Michelle;;;
 TEL;TYPE=WORK,VOICE:518-455-2350
-NOTE;CHARSET=UTF-8:NY Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:01.925124
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:hinchey@nysenate.gov
+NOTE;CHARSET=UTF-8:Senator in NY Legislature\, District 41\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:38.845261
 END:VCARD

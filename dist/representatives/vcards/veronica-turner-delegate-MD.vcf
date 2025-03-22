@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Veronica Turner (House)
-N;CHARSET=UTF-8:Turner (House);Veronica;;;
+FN;CHARSET=UTF-8:Veronica Turner (MD House)
+N;CHARSET=UTF-8:Turner (MD House);Veronica;;;
 TEL;TYPE=WORK,VOICE:410-841-3212
-NOTE;CHARSET=UTF-8:MD Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:03.757263
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:veronica.turner@house.state.md.us
+NOTE;CHARSET=UTF-8:Delegate in MD Legislature\, District 26\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:41.988722
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Sarah McDonald (House)
-N;CHARSET=UTF-8:McDonald (House);Sarah;;;
+FN;CHARSET=UTF-8:Sarah McDonald (OR House)
+N;CHARSET=UTF-8:McDonald (OR House);Sarah;;;
 TEL;TYPE=WORK,VOICE:503-986-1416
-NOTE;CHARSET=UTF-8:OR Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:37.494633
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.sarahfingermcdonald@oregonlegislature.gov
+NOTE;CHARSET=UTF-8:Representative in OR Legislature\, District 16\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:16.292362
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Erika Booth (House)
-N;CHARSET=UTF-8:Booth (House);Erika;;;
+FN;CHARSET=UTF-8:Erika Booth (FL House)
+N;CHARSET=UTF-8:Booth (FL House);Erika;;;
 TEL;TYPE=WORK,VOICE:850-717-5035
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:08.800155
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:erika.booth@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 35\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:51.910290
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Eddie Lambert (Senate)
-N;CHARSET=UTF-8:Lambert (Senate);Eddie;;;
+FN;CHARSET=UTF-8:Eddie Lambert (LA Senate)
+N;CHARSET=UTF-8:Lambert (LA Senate);Eddie;;;
 TEL;TYPE=WORK,VOICE:225-673-5048
-NOTE;CHARSET=UTF-8:LA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:35.016884
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lamberte@legis.la.gov
+NOTE;CHARSET=UTF-8:Senator in LA Legislature\, District 18\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:15.682848
 END:VCARD

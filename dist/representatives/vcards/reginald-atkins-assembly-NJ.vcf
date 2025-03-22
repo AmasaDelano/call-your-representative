@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Reginald Atkins (Assembly)
-N;CHARSET=UTF-8:Atkins (Assembly);Reginald;;;
+FN;CHARSET=UTF-8:Reginald Atkins (NJ Assembly)
+N;CHARSET=UTF-8:Atkins (NJ Assembly);Reginald;;;
 TEL;TYPE=WORK,VOICE:908-445-7154
-NOTE;CHARSET=UTF-8:NJ Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:33.335094
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:asmatkins@njleg.org
+NOTE;CHARSET=UTF-8:Assembly Member in NJ Legislature\, District 20\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:09.557701
 END:VCARD

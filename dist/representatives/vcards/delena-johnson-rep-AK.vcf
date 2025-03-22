@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:DeLena Johnson (House)
-N;CHARSET=UTF-8:Johnson (House);DeLena;;;
+FN;CHARSET=UTF-8:DeLena Johnson (AK House)
+N;CHARSET=UTF-8:Johnson (AK House);DeLena;;;
 TEL;TYPE=WORK,VOICE:907-465-4958
-NOTE;CHARSET=UTF-8:AK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:21.729586
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:representative.delena.johnson@akleg.gov
+NOTE;CHARSET=UTF-8:Representative in AK Legislature\, District 25\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:14.827008
 END:VCARD

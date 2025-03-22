@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Dan Donahue (House)
-N;CHARSET=UTF-8:Donahue (House);Dan;;;
+FN;CHARSET=UTF-8:Dan Donahue (MA House)
+N;CHARSET=UTF-8:Donahue (MA House);Dan;;;
 TEL;TYPE=WORK,VOICE:617-722-2637
-NOTE;CHARSET=UTF-8:MA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:04.244495
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:daniel.donahue@mahouse.gov
+NOTE;CHARSET=UTF-8:Representative in MA Legislature\, District 16th Worcester\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:42.465910
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:David Milz (House)
-N;CHARSET=UTF-8:Milz (House);David;;;
+FN;CHARSET=UTF-8:David Milz (NH House)
+N;CHARSET=UTF-8:Milz (NH House);David;;;
 TEL;TYPE=WORK,VOICE:603-437-0030
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:41.128014
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:david.milz@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Rockingham 13\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:18.088054
 END:VCARD

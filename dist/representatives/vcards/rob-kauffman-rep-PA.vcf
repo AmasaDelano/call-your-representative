@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rob Kauffman (House)
-N;CHARSET=UTF-8:Kauffman (House);Rob;;;
+FN;CHARSET=UTF-8:Rob Kauffman (PA House)
+N;CHARSET=UTF-8:Kauffman (PA House);Rob;;;
 TEL;TYPE=WORK,VOICE:717-705-2004
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:34.803892
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rkauffma@pahousegop.com
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 89\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:12.481455
 END:VCARD

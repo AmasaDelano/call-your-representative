@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rebecca Raymer (House)
-N;CHARSET=UTF-8:Raymer (House);Rebecca;;;
+FN;CHARSET=UTF-8:Rebecca Raymer (KY House)
+N;CHARSET=UTF-8:Raymer (KY House);Rebecca;;;
 TEL;TYPE=WORK,VOICE:502-564-8100
-NOTE;CHARSET=UTF-8:KY Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:23.578941
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rebecca.raymer@kylegislature.gov
+NOTE;CHARSET=UTF-8:Representative in KY Legislature\, District 15\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:04.213687
 END:VCARD

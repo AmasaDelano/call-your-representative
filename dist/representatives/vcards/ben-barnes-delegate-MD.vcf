@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ben Barnes (House)
-N;CHARSET=UTF-8:Barnes (House);Ben;;;
+FN;CHARSET=UTF-8:Ben Barnes (MD House)
+N;CHARSET=UTF-8:Barnes (MD House);Ben;;;
 TEL;TYPE=WORK,VOICE:410-841-3046
-NOTE;CHARSET=UTF-8:MD Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:01.536395
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ben.barnes@house.state.md.us
+NOTE;CHARSET=UTF-8:Delegate in MD Legislature\, District 21\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:40.048975
 END:VCARD

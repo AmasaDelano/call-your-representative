@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mary Edly-Allen (Senate)
-N;CHARSET=UTF-8:Edly-Allen (Senate);Mary;;;
+FN;CHARSET=UTF-8:Mary Edly-Allen (IL Senate)
+N;CHARSET=UTF-8:Edly-Allen (IL Senate);Mary;;;
 TEL;TYPE=WORK,VOICE:217-782-7353
-NOTE;CHARSET=UTF-8:IL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:57.609805
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:info@senatoredlyallen.com
+NOTE;CHARSET=UTF-8:Senator in IL Legislature\, District 31\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:39.218551
 END:VCARD

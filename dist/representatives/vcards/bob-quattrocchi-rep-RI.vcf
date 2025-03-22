@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bob Quattrocchi (House)
-N;CHARSET=UTF-8:Quattrocchi (House);Bob;;;
+FN;CHARSET=UTF-8:Bob Quattrocchi (RI House)
+N;CHARSET=UTF-8:Quattrocchi (RI House);Bob;;;
 TEL;TYPE=WORK,VOICE:401-222-3580
-NOTE;CHARSET=UTF-8:RI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:51.264062
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep-quattrocchi@rilegislature.gov
+NOTE;CHARSET=UTF-8:Representative in RI Legislature\, District 41\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:27.567497
 END:VCARD

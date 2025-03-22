@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Karen Simpson (House)
-N;CHARSET=UTF-8:Simpson (House);Karen;;;
+FN;CHARSET=UTF-8:Karen Simpson (MD House)
+N;CHARSET=UTF-8:Simpson (MD House);Karen;;;
 TEL;TYPE=WORK,VOICE:410-841-3436
-NOTE;CHARSET=UTF-8:MD Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:02.876688
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:karen.simpson@house.state.md.us
+NOTE;CHARSET=UTF-8:Delegate in MD Legislature\, District 3\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:41.053781
 END:VCARD

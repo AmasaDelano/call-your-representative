@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lisa Borowski (House)
-N;CHARSET=UTF-8:Borowski (House);Lisa;;;
+FN;CHARSET=UTF-8:Lisa Borowski (PA House)
+N;CHARSET=UTF-8:Borowski (PA House);Lisa;;;
 TEL;TYPE=WORK,VOICE:717-772-2005
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:19.664401
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:repborowski@pahouse.net
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 168\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:58.116560
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:C.T. Wilson (House)
-N;CHARSET=UTF-8:Wilson (House);C.T.;;;
+FN;CHARSET=UTF-8:C.T. Wilson (MD House)
+N;CHARSET=UTF-8:Wilson (MD House);C.T.;;;
 TEL;TYPE=WORK,VOICE:410-841-3325
-NOTE;CHARSET=UTF-8:MD Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:01.696391
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ct.wilson@house.state.md.us
+NOTE;CHARSET=UTF-8:Delegate in MD Legislature\, District 28\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:40.203682
 END:VCARD

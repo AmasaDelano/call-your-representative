@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Guy Reschenthaler (House)
-N;CHARSET=UTF-8:Reschenthaler (House);Guy;;;
+FN;CHARSET=UTF-8:Guy Reschenthaler (PA House)
+N;CHARSET=UTF-8:Reschenthaler (PA House);Guy;;;
 TEL;TYPE=WORK,VOICE:202-225-2065
-NOTE;CHARSET=UTF-8:US Representative\, PA\n\nCommittees:\nAppropriations\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:32.662013
+URL;CHARSET=UTF-8:https://reschenthaler.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from PA\, District 14\n\nCommittees he's on:\n- Appropriations\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:14.757022
 END:VCARD

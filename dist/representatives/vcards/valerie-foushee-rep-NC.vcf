@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Valerie Foushee (House)
-N;CHARSET=UTF-8:Foushee (House);Valerie;;;
+FN;CHARSET=UTF-8:Valerie Foushee (NC House)
+N;CHARSET=UTF-8:Foushee (NC House);Valerie;;;
 TEL;TYPE=WORK,VOICE:202-225-1784
-NOTE;CHARSET=UTF-8:US Representative\, NC\n\nCommittees:\nTransportation and Infrastructure\nScience, Space, and Technology\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:35.911992
+URL;CHARSET=UTF-8:https://foushee.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from NC\, District 4\n\nCommittees she's on:\n- Transportation and Infrastructure\n- Science, Space, and Technology\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:18.246885
 END:VCARD

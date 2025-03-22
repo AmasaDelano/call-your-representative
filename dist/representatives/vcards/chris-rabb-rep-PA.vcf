@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Chris Rabb (House)
-N;CHARSET=UTF-8:Rabb (House);Chris;;;
+FN;CHARSET=UTF-8:Chris Rabb (PA House)
+N;CHARSET=UTF-8:Rabb (PA House);Chris;;;
 TEL;TYPE=WORK,VOICE:717-783-2178
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:48.526870
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:chris@chrisrabb.com
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 200\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:27.018985
 END:VCARD

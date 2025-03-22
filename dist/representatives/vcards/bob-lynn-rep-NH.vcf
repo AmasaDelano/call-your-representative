@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bob Lynn (House)
-N;CHARSET=UTF-8:Lynn (House);Bob;;;
+FN;CHARSET=UTF-8:Bob Lynn (NH House)
+N;CHARSET=UTF-8:Lynn (NH House);Bob;;;
 TEL;TYPE=WORK,VOICE:603-235-7952
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:40.449354
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rjlynn4@gmail.com
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Rockingham 17\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:17.400129
 END:VCARD

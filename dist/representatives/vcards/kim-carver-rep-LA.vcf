@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kim Carver (House)
-N;CHARSET=UTF-8:Carver (House);Kim;;;
+FN;CHARSET=UTF-8:Kim Carver (LA House)
+N;CHARSET=UTF-8:Carver (LA House);Kim;;;
 TEL;TYPE=WORK,VOICE:985-629-1412
-NOTE;CHARSET=UTF-8:LA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:42.995386
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:hse089@legis.la.gov
+NOTE;CHARSET=UTF-8:Representative in LA Legislature\, District 89\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:22.858847
 END:VCARD

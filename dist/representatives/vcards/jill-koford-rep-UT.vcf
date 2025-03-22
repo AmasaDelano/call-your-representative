@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jill Koford (House)
-N;CHARSET=UTF-8:Koford (House);Jill;;;
+FN;CHARSET=UTF-8:Jill Koford (UT House)
+N;CHARSET=UTF-8:Koford (UT House);Jill;;;
 TEL;TYPE=WORK,VOICE:801-538-1029
-NOTE;CHARSET=UTF-8:UT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:04.257114
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jkoford@le.utah.gov
+NOTE;CHARSET=UTF-8:Representative in UT Legislature\, District 10\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:58:03.433181
 END:VCARD

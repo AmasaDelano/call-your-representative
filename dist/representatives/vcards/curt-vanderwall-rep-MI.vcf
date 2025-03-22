@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Curt VanderWall (House)
-N;CHARSET=UTF-8:VanderWall (House);Curt;;;
+FN;CHARSET=UTF-8:Curt VanderWall (MI House)
+N;CHARSET=UTF-8:VanderWall (MI House);Curt;;;
 TEL;TYPE=WORK,VOICE:517-373-1747
-NOTE;CHARSET=UTF-8:MI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:11.571649
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:curtisvanderwall@house.mi.gov
+NOTE;CHARSET=UTF-8:Representative in MI Legislature\, District 102\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:48.316046
 END:VCARD

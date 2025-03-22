@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Andrew Mathews (Senate)
-N;CHARSET=UTF-8:Mathews (Senate);Andrew;;;
+FN;CHARSET=UTF-8:Andrew Mathews (MN Senate)
+N;CHARSET=UTF-8:Mathews (MN Senate);Andrew;;;
 TEL;TYPE=WORK,VOICE:651-296-8075
-NOTE;CHARSET=UTF-8:MN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:26.890787
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.andrew.mathews@senate.mn
+NOTE;CHARSET=UTF-8:Senator in MN Legislature\, District 27\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:04.619257
 END:VCARD

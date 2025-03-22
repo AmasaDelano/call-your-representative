@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bonnie Cullison (House)
-N;CHARSET=UTF-8:Cullison (House);Bonnie;;;
+FN;CHARSET=UTF-8:Bonnie Cullison (MD House)
+N;CHARSET=UTF-8:Cullison (MD House);Bonnie;;;
 TEL;TYPE=WORK,VOICE:410-841-3883
-NOTE;CHARSET=UTF-8:MD Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:01.614012
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bonnie.cullison@house.state.md.us
+NOTE;CHARSET=UTF-8:Delegate in MD Legislature\, District 19\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:40.120254
 END:VCARD

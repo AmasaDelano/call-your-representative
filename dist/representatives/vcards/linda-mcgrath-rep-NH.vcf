@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Linda McGrath (House)
-N;CHARSET=UTF-8:McGrath (House);Linda;;;
+FN;CHARSET=UTF-8:Linda McGrath (NH House)
+N;CHARSET=UTF-8:McGrath (NH House);Linda;;;
 TEL;TYPE=WORK,VOICE:603-498-9984
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:07.788926
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:linda.mcgrath@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Rockingham 40\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:44.708401
 END:VCARD

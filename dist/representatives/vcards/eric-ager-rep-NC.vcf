@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Eric Ager (House)
-N;CHARSET=UTF-8:Ager (House);Eric;;;
+FN;CHARSET=UTF-8:Eric Ager (NC House)
+N;CHARSET=UTF-8:Ager (NC House);Eric;;;
 TEL;TYPE=WORK,VOICE:919-715-2013
-NOTE;CHARSET=UTF-8:NC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:10.814932
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:eric.ager@ncleg.gov
+NOTE;CHARSET=UTF-8:Representative in NC Legislature\, District 114\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:48.899670
 END:VCARD

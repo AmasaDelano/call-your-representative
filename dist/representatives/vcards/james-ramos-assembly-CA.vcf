@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:James Ramos (Assembly)
-N;CHARSET=UTF-8:Ramos (Assembly);James;;;
+FN;CHARSET=UTF-8:James Ramos (CA Assembly)
+N;CHARSET=UTF-8:Ramos (CA Assembly);James;;;
 TEL;TYPE=WORK,VOICE:916-319-2045
-NOTE;CHARSET=UTF-8:CA Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:36.230165
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:assemblymember.ramos@assembly.ca.gov
+NOTE;CHARSET=UTF-8:Assembly Member in CA Legislature\, District 45\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:28.801686
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:T.J. Marti (House)
-N;CHARSET=UTF-8:Marti (House);T.J.;;;
+FN;CHARSET=UTF-8:T.J. Marti (OK House)
+N;CHARSET=UTF-8:Marti (OK House);T.J.;;;
 TEL;TYPE=WORK,VOICE:405-557-7356
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:35.390534
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tj.marti@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 75\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:14.093775
 END:VCARD

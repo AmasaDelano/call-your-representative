@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Luke Rankin (House)
-N;CHARSET=UTF-8:Rankin (House);Luke;;;
+FN;CHARSET=UTF-8:Luke Rankin (SC House)
+N;CHARSET=UTF-8:Rankin (SC House);Luke;;;
 TEL;TYPE=WORK,VOICE:803-212-6713
-NOTE;CHARSET=UTF-8:SC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:26:24.125098
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lukerankin@schouse.gov
+NOTE;CHARSET=UTF-8:Representative in SC Legislature\, District 14\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:00.115621
 END:VCARD

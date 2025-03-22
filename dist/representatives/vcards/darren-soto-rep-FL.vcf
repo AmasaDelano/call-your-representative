@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Darren Soto (House)
-N;CHARSET=UTF-8:Soto (House);Darren;;;
+FN;CHARSET=UTF-8:Darren Soto (FL House)
+N;CHARSET=UTF-8:Soto (FL House);Darren;;;
 TEL;TYPE=WORK,VOICE:202-225-9889
-NOTE;CHARSET=UTF-8:US Representative\, FL\n\nCommittees:\nEnergy and Commerce\nNatural Resources\nWater, Wildlife and Fisheries\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:31.342003
+URL;CHARSET=UTF-8:https://soto.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from FL\, District 9\n\nCommittees he's on:\n- Energy and Commerce\n- Natural Resources\n- Water, Wildlife and Fisheries\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:13.348230
 END:VCARD

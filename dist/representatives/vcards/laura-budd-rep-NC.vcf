@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Laura Budd (House)
-N;CHARSET=UTF-8:Budd (House);Laura;;;
+FN;CHARSET=UTF-8:Laura Budd (NC House)
+N;CHARSET=UTF-8:Budd (NC House);Laura;;;
 TEL;TYPE=WORK,VOICE:919-733-5800
-NOTE;CHARSET=UTF-8:NC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:11.299169
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:laura.budd@ncleg.gov
+NOTE;CHARSET=UTF-8:Representative in NC Legislature\, District 103\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:49.524895
 END:VCARD

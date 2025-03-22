@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rhonda Burnough (House)
-N;CHARSET=UTF-8:Burnough (House);Rhonda;;;
+FN;CHARSET=UTF-8:Rhonda Burnough (GA House)
+N;CHARSET=UTF-8:Burnough (GA House);Rhonda;;;
 TEL;TYPE=WORK,VOICE:404-656-0116
-NOTE;CHARSET=UTF-8:GA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:46.827994
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rhonda.burnough@house.ga.gov
+NOTE;CHARSET=UTF-8:Representative in GA Legislature\, District 77\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:29.110147
 END:VCARD

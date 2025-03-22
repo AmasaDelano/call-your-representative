@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Heather Somers (Senate)
-N;CHARSET=UTF-8:Somers (Senate);Heather;;;
+FN;CHARSET=UTF-8:Heather Somers (CT Senate)
+N;CHARSET=UTF-8:Somers (CT Senate);Heather;;;
 TEL;TYPE=WORK,VOICE:800-842-1421
-NOTE;CHARSET=UTF-8:CT Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:42.468700
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:heather.somers@cga.ct.gov
+NOTE;CHARSET=UTF-8:Senator in CT Legislature\, District 18\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:24.964080
 END:VCARD

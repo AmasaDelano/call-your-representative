@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Strom Peterson (House)
-N;CHARSET=UTF-8:Peterson (House);Strom;;;
+FN;CHARSET=UTF-8:Strom Peterson (WA House)
+N;CHARSET=UTF-8:Peterson (WA House);Strom;;;
 TEL;TYPE=WORK,VOICE:206-556-3194
-NOTE;CHARSET=UTF-8:WA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:25.126770
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:strom.peterson@leg.wa.gov
+NOTE;CHARSET=UTF-8:Representative in WA Legislature\, District 21\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:06.448559
 END:VCARD

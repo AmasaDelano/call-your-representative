@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:James Skoufis (Senate)
-N;CHARSET=UTF-8:Skoufis (Senate);James;;;
+FN;CHARSET=UTF-8:James Skoufis (NY Senate)
+N;CHARSET=UTF-8:Skoufis (NY Senate);James;;;
 TEL;TYPE=WORK,VOICE:518-455-3290
-NOTE;CHARSET=UTF-8:NY Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:53.526136
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:skoufis@nysenate.gov
+NOTE;CHARSET=UTF-8:Senator in NY Legislature\, District 42\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:29.167416
 END:VCARD

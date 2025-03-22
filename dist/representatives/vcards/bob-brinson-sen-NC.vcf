@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bob Brinson (Senate)
-N;CHARSET=UTF-8:Brinson (Senate);Bob;;;
+FN;CHARSET=UTF-8:Bob Brinson (NC Senate)
+N;CHARSET=UTF-8:Brinson (NC Senate);Bob;;;
 TEL;TYPE=WORK,VOICE:919-733-5621
-NOTE;CHARSET=UTF-8:NC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:10.255120
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bob.brinson@ncleg.gov
+NOTE;CHARSET=UTF-8:Senator in NC Legislature\, District 3\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:48.297393
 END:VCARD

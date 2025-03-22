@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Suzanne Weber (Senate)
-N;CHARSET=UTF-8:Weber (Senate);Suzanne;;;
+FN;CHARSET=UTF-8:Suzanne Weber (OR Senate)
+N;CHARSET=UTF-8:Weber (OR Senate);Suzanne;;;
 TEL;TYPE=WORK,VOICE:503-986-1432
-NOTE;CHARSET=UTF-8:OR Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:37.545053
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.suzanneweber@oregonlegislature.gov
+NOTE;CHARSET=UTF-8:Senator in OR Legislature\, District 16\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:16.347218
 END:VCARD

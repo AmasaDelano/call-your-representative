@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Adison Richards (House)
-N;CHARSET=UTF-8:Richards (House);Adison;;;
+FN;CHARSET=UTF-8:Adison Richards (WA House)
+N;CHARSET=UTF-8:Richards (WA House);Adison;;;
 TEL;TYPE=WORK,VOICE:360-786-7964
-NOTE;CHARSET=UTF-8:WA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:23.216898
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:adison.richards@leg.wa.gov
+NOTE;CHARSET=UTF-8:Representative in WA Legislature\, District 26\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:04.253452
 END:VCARD

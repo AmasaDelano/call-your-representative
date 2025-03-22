@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bill Cassidy (Senate)
-N;CHARSET=UTF-8:Cassidy (Senate);Bill;;;
+FN;CHARSET=UTF-8:Bill Cassidy (LA Senate)
+N;CHARSET=UTF-8:Cassidy (LA Senate);Bill;;;
 TEL;TYPE=WORK,VOICE:202-224-5824
-NOTE;CHARSET=UTF-8:US Senator\, LA\n\nCommittees:\nEnergy and Natural Resources\nEnergy\nNational Parks\nWater and Power\nFinance\nHealth, Education, Labor, and Pensions\nEducation and the American Family\nEmployment and Workplace Safety\nPrimary Health and Retirement Security\nVeterans' Affairs\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:27.116284
+URL;CHARSET=UTF-8:https://www.cassidy.senate.gov/contact
+NOTE;CHARSET=UTF-8:US Senator for LA\n\nCommittees he's on:\n- Energy and Natural Resources\n- Energy\n- National Parks\n- Water and Power\n- Finance\n- Health, Education, Labor, and Pensions\n- Education and the American Family\n- Employment and Workplace Safety\n- Primary Health and Retirement Security\n- Veterans' Affairs\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:08.349518
 END:VCARD

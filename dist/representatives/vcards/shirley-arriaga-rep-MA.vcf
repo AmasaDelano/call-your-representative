@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Shirley Arriaga (House)
-N;CHARSET=UTF-8:Arriaga (House);Shirley;;;
+FN;CHARSET=UTF-8:Shirley Arriaga (MA House)
+N;CHARSET=UTF-8:Arriaga (MA House);Shirley;;;
 TEL;TYPE=WORK,VOICE:617-722-2582
-NOTE;CHARSET=UTF-8:MA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:06.345282
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:shirley.arriaga@mahouse.gov
+NOTE;CHARSET=UTF-8:Representative in MA Legislature\, District 8th Hampden\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:44.374710
 END:VCARD

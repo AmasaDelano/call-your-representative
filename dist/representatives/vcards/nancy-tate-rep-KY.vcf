@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Nancy Tate (House)
-N;CHARSET=UTF-8:Tate (House);Nancy;;;
+FN;CHARSET=UTF-8:Nancy Tate (KY House)
+N;CHARSET=UTF-8:Tate (KY House);Nancy;;;
 TEL;TYPE=WORK,VOICE:502-564-8100
-NOTE;CHARSET=UTF-8:KY Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:22.572554
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:nancy.tate@kylegislature.gov
+NOTE;CHARSET=UTF-8:Representative in KY Legislature\, District 27\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:03.282265
 END:VCARD

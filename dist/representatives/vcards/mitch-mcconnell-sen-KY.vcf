@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mitch McConnell (Senate)
-N;CHARSET=UTF-8:McConnell (Senate);Mitch;;;
+FN;CHARSET=UTF-8:Mitch McConnell (KY Senate)
+N;CHARSET=UTF-8:McConnell (KY Senate);Mitch;;;
 TEL;TYPE=WORK,VOICE:202-224-2541
-NOTE;CHARSET=UTF-8:US Senator\, KY\n\nCommittees:\nAgriculture, Nutrition, and Forestry\nCommodities, Derivatives, Risk Management, and Trade\nRural Development, Energy, and Credit\nFood and Nutrition, Specialty Crops, Organics, and Research\nAppropriations\nRules and Administration\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:26.711889
+URL;CHARSET=UTF-8:https://www.mcconnell.senate.gov/public/index.cfm?p=contact
+NOTE;CHARSET=UTF-8:US Senator for KY\n\nCommittees he's on:\n- Agriculture, Nutrition, and Forestry\n- Commodities, Derivatives, Risk Management, and Trade\n- Rural Development, Energy, and Credit\n- Food and Nutrition, Specialty Crops, Organics, and Research\n- Appropriations\n- Rules and Administration\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:07.905109
 END:VCARD

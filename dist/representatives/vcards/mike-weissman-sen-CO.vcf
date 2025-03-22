@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Weissman (Senate)
-N;CHARSET=UTF-8:Weissman (Senate);Mike;;;
+FN;CHARSET=UTF-8:Mike Weissman (CO Senate)
+N;CHARSET=UTF-8:Weissman (CO Senate);Mike;;;
 TEL;TYPE=WORK,VOICE:303-866-4879
-NOTE;CHARSET=UTF-8:CO Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:19.568871
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mike.weissman.senate@coleg.gov
+NOTE;CHARSET=UTF-8:Senator in CO Legislature\, District 28\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:03.998436
 END:VCARD

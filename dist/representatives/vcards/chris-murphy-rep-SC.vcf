@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Chris Murphy (House)
-N;CHARSET=UTF-8:Murphy (House);Chris;;;
+FN;CHARSET=UTF-8:Chris Murphy (SC House)
+N;CHARSET=UTF-8:Murphy (SC House);Chris;;;
 TEL;TYPE=WORK,VOICE:803-212-6925
-NOTE;CHARSET=UTF-8:SC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:52.956560
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:chrismurphy@schouse.gov
+NOTE;CHARSET=UTF-8:Representative in SC Legislature\, District 98\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:28.963348
 END:VCARD

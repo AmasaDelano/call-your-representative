@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Paul Bailey (Senate)
-N;CHARSET=UTF-8:Bailey (Senate);Paul;;;
+FN;CHARSET=UTF-8:Paul Bailey (TN Senate)
+N;CHARSET=UTF-8:Bailey (TN Senate);Paul;;;
 TEL;TYPE=WORK,VOICE:615-741-3978
-NOTE;CHARSET=UTF-8:TN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:04.589309
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.paul.bailey@capitol.tn.gov
+NOTE;CHARSET=UTF-8:Senator in TN Legislature\, District 15\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:09.207572
 END:VCARD

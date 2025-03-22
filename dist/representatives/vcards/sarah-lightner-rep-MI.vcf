@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Sarah Lightner (House)
-N;CHARSET=UTF-8:Lightner (House);Sarah;;;
+FN;CHARSET=UTF-8:Sarah Lightner (MI House)
+N;CHARSET=UTF-8:Lightner (MI House);Sarah;;;
 TEL;TYPE=WORK,VOICE:517-373-1773
-NOTE;CHARSET=UTF-8:MI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:24.419680
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sarahlightner@house.mi.gov
+NOTE;CHARSET=UTF-8:Representative in MI Legislature\, District 45\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:01.045721
 END:VCARD

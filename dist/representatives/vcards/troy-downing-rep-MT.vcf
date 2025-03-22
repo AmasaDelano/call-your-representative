@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Troy Downing (House)
-N;CHARSET=UTF-8:Downing (House);Troy;;;
+FN;CHARSET=UTF-8:Troy Downing (MT House)
+N;CHARSET=UTF-8:Downing (MT House);Troy;;;
 TEL;TYPE=WORK,VOICE:202-225-3211
-NOTE;CHARSET=UTF-8:US Representative\, MT\n\nCommittees:\nFinancial Services\nSmall Business\nInnovation, Entrepreneurship, and Workforce Development\nOversight, Investigations, and Regulations\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:42.207363
+URL;CHARSET=UTF-8:https://downing.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from MT\, District 2\n\nCommittees he's on:\n- Financial Services\n- Small Business\n- Innovation, Entrepreneurship, and Workforce Development\n- Oversight, Investigations, and Regulations\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:24.238357
 END:VCARD

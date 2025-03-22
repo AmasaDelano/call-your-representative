@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Patrick Connick (Senate)
-N;CHARSET=UTF-8:Connick (Senate);Patrick;;;
+FN;CHARSET=UTF-8:Patrick Connick (LA Senate)
+N;CHARSET=UTF-8:Connick (LA Senate);Patrick;;;
 TEL;TYPE=WORK,VOICE:504-371-0240
-NOTE;CHARSET=UTF-8:LA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:48.126514
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:connickp@legis.la.gov
+NOTE;CHARSET=UTF-8:Senator in LA Legislature\, District 8\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:28.203170
 END:VCARD

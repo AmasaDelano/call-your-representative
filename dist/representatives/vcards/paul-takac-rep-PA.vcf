@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Paul Takac (House)
-N;CHARSET=UTF-8:Takac (House);Paul;;;
+FN;CHARSET=UTF-8:Paul Takac (PA House)
+N;CHARSET=UTF-8:Takac (PA House);Paul;;;
 TEL;TYPE=WORK,VOICE:717-772-0750
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:32.455915
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:reptakac@pahouse.net
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 82\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:10.246302
 END:VCARD

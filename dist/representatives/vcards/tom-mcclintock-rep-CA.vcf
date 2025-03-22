@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tom McClintock (House)
-N;CHARSET=UTF-8:McClintock (House);Tom;;;
+FN;CHARSET=UTF-8:Tom McClintock (CA House)
+N;CHARSET=UTF-8:McClintock (CA House);Tom;;;
 TEL;TYPE=WORK,VOICE:202-225-2511
-NOTE;CHARSET=UTF-8:US Representative\, CA\n\nCommittees:\nThe Budget\nNatural Resources\nFederal Lands\nWater, Wildlife and Fisheries\nThe Judiciary\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:28.181966
+URL;CHARSET=UTF-8:https://mcclintock.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from CA\, District 5\n\nCommittees he's on:\n- The Budget\n- Natural Resources\n- Federal Lands\n- Water, Wildlife and Fisheries\n- The Judiciary\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:09.654996
 END:VCARD

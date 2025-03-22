@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Kirkland (House)
-N;CHARSET=UTF-8:Kirkland (House);Mike;;;
+FN;CHARSET=UTF-8:Mike Kirkland (AL House)
+N;CHARSET=UTF-8:Kirkland (AL House);Mike;;;
 TEL;TYPE=WORK,VOICE:334-261-0551
-NOTE;CHARSET=UTF-8:AL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:20.229468
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:kirklandmike75@gmail.com
+NOTE;CHARSET=UTF-8:Representative in AL Legislature\, District 23\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:12.691410
 END:VCARD

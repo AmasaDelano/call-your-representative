@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Glenn Grothman (House)
-N;CHARSET=UTF-8:Grothman (House);Glenn;;;
+FN;CHARSET=UTF-8:Glenn Grothman (WI House)
+N;CHARSET=UTF-8:Grothman (WI House);Glenn;;;
 TEL;TYPE=WORK,VOICE:202-225-2476
-NOTE;CHARSET=UTF-8:US Representative\, WI\n\nCommittees:\nThe Budget\nEducation and Workforce\nOversight and Government Reform\nThe Judiciary\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:30.732157
+URL;CHARSET=UTF-8:https://grothman.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from WI\, District 6\n\nCommittees he's on:\n- The Budget\n- Education and Workforce\n- Oversight and Government Reform\n- The Judiciary\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:12.646094
 END:VCARD

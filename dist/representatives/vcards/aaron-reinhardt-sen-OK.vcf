@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Aaron Reinhardt (Senate)
-N;CHARSET=UTF-8:Reinhardt (Senate);Aaron;;;
+FN;CHARSET=UTF-8:Aaron Reinhardt (OK Senate)
+N;CHARSET=UTF-8:Reinhardt (OK Senate);Aaron;;;
 TEL;TYPE=WORK,VOICE:405-521-5600
-NOTE;CHARSET=UTF-8:OK Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:19.234868
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:aaron.reinhardt@oksenate.gov
+NOTE;CHARSET=UTF-8:Senator in OK Legislature\, District 37\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:59.205572
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Troy Smith (House)
-N;CHARSET=UTF-8:Smith (House);Troy;;;
+FN;CHARSET=UTF-8:Troy Smith (MS House)
+N;CHARSET=UTF-8:Smith (MS House);Troy;;;
 TEL;TYPE=WORK,VOICE:601-359-3360
-NOTE;CHARSET=UTF-8:MS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:34.310020
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tsmith@house.ms.gov
+NOTE;CHARSET=UTF-8:Representative in MS Legislature\, District 84\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:11.696241
 END:VCARD

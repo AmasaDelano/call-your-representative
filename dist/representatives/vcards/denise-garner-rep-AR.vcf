@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Denise Garner (House)
-N;CHARSET=UTF-8:Garner (House);Denise;;;
+FN;CHARSET=UTF-8:Denise Garner (AR House)
+N;CHARSET=UTF-8:Garner (AR House);Denise;;;
 TEL;TYPE=WORK,VOICE:501-682-6211
-NOTE;CHARSET=UTF-8:AR Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:26.114692
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:denise.garner@arkansashouse.org
+NOTE;CHARSET=UTF-8:Representative in AR Legislature\, District 20\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:18.145044
 END:VCARD

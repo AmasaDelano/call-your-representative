@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Reece Pyrtle (House)
-N;CHARSET=UTF-8:Pyrtle (House);Reece;;;
+FN;CHARSET=UTF-8:Reece Pyrtle (NC House)
+N;CHARSET=UTF-8:Pyrtle (NC House);Reece;;;
 TEL;TYPE=WORK,VOICE:919-733-5779
-NOTE;CHARSET=UTF-8:NC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:09.985026
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:reece.pyrtle@ncleg.gov
+NOTE;CHARSET=UTF-8:Representative in NC Legislature\, District 65\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:48.062139
 END:VCARD

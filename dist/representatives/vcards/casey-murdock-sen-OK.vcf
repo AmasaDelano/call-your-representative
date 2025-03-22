@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Casey Murdock (Senate)
-N;CHARSET=UTF-8:Murdock (Senate);Casey;;;
+FN;CHARSET=UTF-8:Casey Murdock (OK Senate)
+N;CHARSET=UTF-8:Murdock (OK Senate);Casey;;;
 TEL;TYPE=WORK,VOICE:405-521-5626
-NOTE;CHARSET=UTF-8:OK Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:21.674858
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:murdock@oksenate.gov
+NOTE;CHARSET=UTF-8:Senator in OK Legislature\, District 27\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:00.881893
 END:VCARD

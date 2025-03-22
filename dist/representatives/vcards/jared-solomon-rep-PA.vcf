@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jared Solomon (House)
-N;CHARSET=UTF-8:Solomon (House);Jared;;;
+FN;CHARSET=UTF-8:Jared Solomon (PA House)
+N;CHARSET=UTF-8:Solomon (PA House);Jared;;;
 TEL;TYPE=WORK,VOICE:717-787-4117
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:03.314587
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jsolomon@pahouse.net
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 202\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:41.698711
 END:VCARD

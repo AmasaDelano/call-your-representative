@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jennifer McClellan (House)
-N;CHARSET=UTF-8:McClellan (House);Jennifer;;;
+FN;CHARSET=UTF-8:Jennifer McClellan (VA House)
+N;CHARSET=UTF-8:McClellan (VA House);Jennifer;;;
 TEL;TYPE=WORK,VOICE:202-225-6365
-NOTE;CHARSET=UTF-8:US Representative\, VA\n\nCommittees:\nEnergy and Commerce\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:37.072032
+URL;CHARSET=UTF-8:https://mcclellan.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from VA\, District 4\n\nCommittees she's on:\n- Energy and Commerce\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:19.459386
 END:VCARD

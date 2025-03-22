@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jonathan Wilk (House)
-N;CHARSET=UTF-8:Wilk (House);Jonathan;;;
+FN;CHARSET=UTF-8:Jonathan Wilk (OK House)
+N;CHARSET=UTF-8:Wilk (OK House);Jonathan;;;
 TEL;TYPE=WORK,VOICE:405-557-7308
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:28.084849
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jonathan.wilk@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 20\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:07.143582
 END:VCARD

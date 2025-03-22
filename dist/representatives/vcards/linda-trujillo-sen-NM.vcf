@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Linda Trujillo (Senate)
-N;CHARSET=UTF-8:Trujillo (Senate);Linda;;;
+FN;CHARSET=UTF-8:Linda Trujillo (NM Senate)
+N;CHARSET=UTF-8:Trujillo (NM Senate);Linda;;;
 TEL;TYPE=WORK,VOICE:505-986-4863
-NOTE;CHARSET=UTF-8:NM Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:43.118829
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:linda.trujillo@nmlegis.gov
+NOTE;CHARSET=UTF-8:Senator in NM Legislature\, District 24\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:19.005885
 END:VCARD

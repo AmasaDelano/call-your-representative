@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Adam Lowe (Senate)
-N;CHARSET=UTF-8:Lowe (Senate);Adam;;;
+FN;CHARSET=UTF-8:Adam Lowe (TN Senate)
+N;CHARSET=UTF-8:Lowe (TN Senate);Adam;;;
 TEL;TYPE=WORK,VOICE:615-741-1946
-NOTE;CHARSET=UTF-8:TN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:02.323718
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.adam.lowe@capitol.tn.gov
+NOTE;CHARSET=UTF-8:Senator in TN Legislature\, District 1\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:06.859042
 END:VCARD

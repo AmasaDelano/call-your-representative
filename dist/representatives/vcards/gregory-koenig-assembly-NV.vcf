@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Gregory Koenig (Assembly)
-N;CHARSET=UTF-8:Koenig (Assembly);Gregory;;;
+FN;CHARSET=UTF-8:Gregory Koenig (NV Assembly)
+N;CHARSET=UTF-8:Koenig (NV Assembly);Gregory;;;
 TEL;TYPE=WORK,VOICE:775-684-8507
-NOTE;CHARSET=UTF-8:NV Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:39.436269
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:gregory.koenig@asm.state.nv.us
+NOTE;CHARSET=UTF-8:Assembly Member in NV Legislature\, District 38\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:16.403315
 END:VCARD

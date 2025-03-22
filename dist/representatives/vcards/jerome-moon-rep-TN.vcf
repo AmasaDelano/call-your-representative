@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jerome Moon (House)
-N;CHARSET=UTF-8:Moon (House);Jerome;;;
+FN;CHARSET=UTF-8:Jerome Moon (TN House)
+N;CHARSET=UTF-8:Moon (TN House);Jerome;;;
 TEL;TYPE=WORK,VOICE:615-741-5481
-NOTE;CHARSET=UTF-8:TN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:03.432821
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.jerome.moon@capitol.tn.gov
+NOTE;CHARSET=UTF-8:Representative in TN Legislature\, District 8\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:08.012464
 END:VCARD

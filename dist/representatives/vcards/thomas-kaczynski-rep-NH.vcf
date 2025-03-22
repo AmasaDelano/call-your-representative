@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Thomas Kaczynski (House)
-N;CHARSET=UTF-8:Kaczynski (House);Thomas;;;
+FN;CHARSET=UTF-8:Thomas Kaczynski (NH House)
+N;CHARSET=UTF-8:Kaczynski (NH House);Thomas;;;
 TEL;TYPE=WORK,VOICE:603-332-7310
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:12.148361
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:thomas.kaczynski@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Strafford 5\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:48.937450
 END:VCARD

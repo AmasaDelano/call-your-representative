@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Dan Sullivan (Senate)
-N;CHARSET=UTF-8:Sullivan (Senate);Dan;;;
+FN;CHARSET=UTF-8:Dan Sullivan (AR Senate)
+N;CHARSET=UTF-8:Sullivan (AR Senate);Dan;;;
 TEL;TYPE=WORK,VOICE:501-682-2902
-NOTE;CHARSET=UTF-8:AR Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:26.055539
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:dan.sullivan@senate.ar.gov
+NOTE;CHARSET=UTF-8:Senator in AR Legislature\, District 20\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:18.081706
 END:VCARD

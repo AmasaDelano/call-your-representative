@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Johnathan Newman (House)
-N;CHARSET=UTF-8:Newman (House);Johnathan;;;
+FN;CHARSET=UTF-8:Johnathan Newman (OH House)
+N;CHARSET=UTF-8:Newman (OH House);Johnathan;;;
 TEL;TYPE=WORK,VOICE:614-466-8114
-NOTE;CHARSET=UTF-8:OH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:16.485051
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep80@ohiohouse.gov
+NOTE;CHARSET=UTF-8:Representative in OH Legislature\, District 80\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:55.121254
 END:VCARD

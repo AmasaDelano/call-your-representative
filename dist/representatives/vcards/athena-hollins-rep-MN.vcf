@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Athena Hollins (House)
-N;CHARSET=UTF-8:Hollins (House);Athena;;;
+FN;CHARSET=UTF-8:Athena Hollins (MN House)
+N;CHARSET=UTF-8:Hollins (MN House);Athena;;;
 TEL;TYPE=WORK,VOICE:651-296-4224
-NOTE;CHARSET=UTF-8:MN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:27.014431
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.athena.hollins@house.mn.gov
+NOTE;CHARSET=UTF-8:Representative in MN Legislature\, District 66B\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:04.938200
 END:VCARD

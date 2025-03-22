@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Amy Paulin (Assembly)
-N;CHARSET=UTF-8:Paulin (Assembly);Amy;;;
+FN;CHARSET=UTF-8:Amy Paulin (NY Assembly)
+N;CHARSET=UTF-8:Paulin (NY Assembly);Amy;;;
 TEL;TYPE=WORK,VOICE:518-455-5585
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:45.216959
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:paulina@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 88\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:21.008547
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Eric Koch (Senate)
-N;CHARSET=UTF-8:Koch (Senate);Eric;;;
+FN;CHARSET=UTF-8:Eric Koch (IN Senate)
+N;CHARSET=UTF-8:Koch (IN Senate);Eric;;;
 TEL;TYPE=WORK,VOICE:317-232-9400
-NOTE;CHARSET=UTF-8:IN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:09.717546
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:s44@iga.in.gov
+NOTE;CHARSET=UTF-8:Senator in IN Legislature\, District 44\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:51.503975
 END:VCARD

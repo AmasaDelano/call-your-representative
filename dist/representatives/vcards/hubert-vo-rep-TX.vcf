@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Hubert Vo (House)
-N;CHARSET=UTF-8:Vo (House);Hubert;;;
+FN;CHARSET=UTF-8:Hubert Vo (TX House)
+N;CHARSET=UTF-8:Vo (TX House);Hubert;;;
 TEL;TYPE=WORK,VOICE:281-988-0212
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:29.632902
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:hubert.vo@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 149\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:32.477558
 END:VCARD

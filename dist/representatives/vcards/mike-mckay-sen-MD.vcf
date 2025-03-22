@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike McKay (Senate)
-N;CHARSET=UTF-8:McKay (Senate);Mike;;;
+FN;CHARSET=UTF-8:Mike McKay (MD Senate)
+N;CHARSET=UTF-8:McKay (MD Senate);Mike;;;
 TEL;TYPE=WORK,VOICE:410-841-3565
-NOTE;CHARSET=UTF-8:MD Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:03.272477
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mike.mckay@senate.state.md.us
+NOTE;CHARSET=UTF-8:Senator in MD Legislature\, District 1\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:41.420152
 END:VCARD

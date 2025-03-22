@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lisa Durnell (House)
-N;CHARSET=UTF-8:Durnell (House);Lisa;;;
+FN;CHARSET=UTF-8:Lisa Durnell (MO House)
+N;CHARSET=UTF-8:Durnell (MO House);Lisa;;;
 TEL;TYPE=WORK,VOICE:573-751-1455
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:36.047815
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lisa.durnell@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 154\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:13.155808
 END:VCARD

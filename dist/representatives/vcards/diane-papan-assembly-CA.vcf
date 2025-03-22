@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Diane Papan (Assembly)
-N;CHARSET=UTF-8:Papan (Assembly);Diane;;;
+FN;CHARSET=UTF-8:Diane Papan (CA Assembly)
+N;CHARSET=UTF-8:Papan (CA Assembly);Diane;;;
 TEL;TYPE=WORK,VOICE:916-319-2021
-NOTE;CHARSET=UTF-8:CA Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:33.714586
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:assemblymember.papan@assembly.ca.gov
+NOTE;CHARSET=UTF-8:Assembly Member in CA Legislature\, District 21\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:26.101206
 END:VCARD

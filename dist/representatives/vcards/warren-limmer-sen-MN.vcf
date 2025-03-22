@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Warren Limmer (Senate)
-N;CHARSET=UTF-8:Limmer (Senate);Warren;;;
+FN;CHARSET=UTF-8:Warren Limmer (MN Senate)
+N;CHARSET=UTF-8:Limmer (MN Senate);Warren;;;
 TEL;TYPE=WORK,VOICE:651-296-2159
-NOTE;CHARSET=UTF-8:MN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:29.306200
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.warren.limmer@senate.mn
+NOTE;CHARSET=UTF-8:Senator in MN Legislature\, District 37\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:06.690893
 END:VCARD

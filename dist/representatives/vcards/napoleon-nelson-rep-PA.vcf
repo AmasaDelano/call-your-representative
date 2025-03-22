@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Napoleon Nelson (House)
-N;CHARSET=UTF-8:Nelson (House);Napoleon;;;
+FN;CHARSET=UTF-8:Napoleon Nelson (PA House)
+N;CHARSET=UTF-8:Nelson (PA House);Napoleon;;;
 TEL;TYPE=WORK,VOICE:717-783-1079
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:29.202237
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:repnelson@pahouse.net
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 154\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:07.211537
 END:VCARD

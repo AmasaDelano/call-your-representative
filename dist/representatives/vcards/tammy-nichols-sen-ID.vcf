@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tammy Nichols (Senate)
-N;CHARSET=UTF-8:Nichols (Senate);Tammy;;;
+FN;CHARSET=UTF-8:Tammy Nichols (ID Senate)
+N;CHARSET=UTF-8:Nichols (ID Senate);Tammy;;;
 TEL;TYPE=WORK,VOICE:208-332-1423
-NOTE;CHARSET=UTF-8:ID Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:56.171067
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tnichols@senate.idaho.gov
+NOTE;CHARSET=UTF-8:Senator in ID Legislature\, District 10\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:37.859937
 END:VCARD

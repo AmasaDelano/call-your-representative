@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Carrie McLeod (House)
-N;CHARSET=UTF-8:McLeod (House);Carrie;;;
+FN;CHARSET=UTF-8:Carrie McLeod (ND House)
+N;CHARSET=UTF-8:McLeod (ND House);Carrie;;;
 TEL;TYPE=WORK,VOICE:701-328-3373
-NOTE;CHARSET=UTF-8:ND Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:13.260917
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:cmcleod@ndlegis.gov
+NOTE;CHARSET=UTF-8:Representative in ND Legislature\, District 45\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:51.941219
 END:VCARD

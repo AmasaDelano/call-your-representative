@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Darryl Rouson (Senate)
-N;CHARSET=UTF-8:Rouson (Senate);Darryl;;;
+FN;CHARSET=UTF-8:Darryl Rouson (FL Senate)
+N;CHARSET=UTF-8:Rouson (FL Senate);Darryl;;;
 TEL;TYPE=WORK,VOICE:850-487-5016
-NOTE;CHARSET=UTF-8:FL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:04.928485
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rouson.darryl.web@flsenate.gov
+NOTE;CHARSET=UTF-8:Senator in FL Legislature\, District 16\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:48.039685
 END:VCARD

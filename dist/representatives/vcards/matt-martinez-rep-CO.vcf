@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Matt Martinez (House)
-N;CHARSET=UTF-8:Martinez (House);Matt;;;
+FN;CHARSET=UTF-8:Matt Martinez (CO House)
+N;CHARSET=UTF-8:Martinez (CO House);Matt;;;
 TEL;TYPE=WORK,VOICE:303-866-2916
-NOTE;CHARSET=UTF-8:CO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:17.458884
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:matthew.martinez.house@coleg.gov
+NOTE;CHARSET=UTF-8:Representative in CO Legislature\, District 62\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:01.785758
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Shawn Dygert (House)
-N;CHARSET=UTF-8:Dygert (House);Shawn;;;
+FN;CHARSET=UTF-8:Shawn Dygert (ID House)
+N;CHARSET=UTF-8:Dygert (ID House);Shawn;;;
 TEL;TYPE=WORK,VOICE:208-332-1047
-NOTE;CHARSET=UTF-8:ID Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:56.105459
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sdygert@house.idaho.gov
+NOTE;CHARSET=UTF-8:Representative in ID Legislature\, District 23B\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:37.786421
 END:VCARD

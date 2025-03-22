@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ann Rest (Senate)
-N;CHARSET=UTF-8:Rest (Senate);Ann;;;
+FN;CHARSET=UTF-8:Ann Rest (MN Senate)
+N;CHARSET=UTF-8:Rest (MN Senate);Ann;;;
 TEL;TYPE=WORK,VOICE:651-296-2889
-NOTE;CHARSET=UTF-8:MN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:26.955971
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.ann.rest@senate.mn
+NOTE;CHARSET=UTF-8:Senator in MN Legislature\, District 43\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:04.868101
 END:VCARD

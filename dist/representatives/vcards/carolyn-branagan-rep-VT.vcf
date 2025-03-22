@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Carolyn Branagan (House)
-N;CHARSET=UTF-8:Branagan (House);Carolyn;;;
+FN;CHARSET=UTF-8:Carolyn Branagan (VT House)
+N;CHARSET=UTF-8:Branagan (VT House);Carolyn;;;
 TEL;TYPE=WORK,VOICE:802-828-2228
-NOTE;CHARSET=UTF-8:VT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:06.824377
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:cbranagan@leg.state.vt.us
+NOTE;CHARSET=UTF-8:Representative in VT Legislature\, District Franklin-1\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:59:28.996384
 END:VCARD

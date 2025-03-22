@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Joseph Hernandez (House)
-N;CHARSET=UTF-8:Hernandez (House);Joseph;;;
+FN;CHARSET=UTF-8:Joseph Hernandez (NM House)
+N;CHARSET=UTF-8:Hernandez (NM House);Joseph;;;
 TEL;TYPE=WORK,VOICE:505-986-4233
-NOTE;CHARSET=UTF-8:NM Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:42.535318
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:joseph.hernandez@nmlegis.gov
+NOTE;CHARSET=UTF-8:Representative in NM Legislature\, District 4\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:18.514048
 END:VCARD

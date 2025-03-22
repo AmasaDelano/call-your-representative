@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tyson Miyake (House)
-N;CHARSET=UTF-8:Miyake (House);Tyson;;;
+FN;CHARSET=UTF-8:Tyson Miyake (HI House)
+N;CHARSET=UTF-8:Miyake (HI House);Tyson;;;
 TEL;TYPE=WORK,VOICE:808-586-9444
-NOTE;CHARSET=UTF-8:HI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:54.817557
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:repmiyake@capitol.hawaii.gov
+NOTE;CHARSET=UTF-8:Representative in HI Legislature\, District 10\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:36.540144
 END:VCARD

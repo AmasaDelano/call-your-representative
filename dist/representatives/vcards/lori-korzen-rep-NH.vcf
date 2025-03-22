@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lori Korzen (House)
-N;CHARSET=UTF-8:Korzen (House);Lori;;;
+FN;CHARSET=UTF-8:Lori Korzen (NH House)
+N;CHARSET=UTF-8:Korzen (NH House);Lori;;;
 TEL;TYPE=WORK,VOICE:603-723-9901
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:07.855698
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lori.korzen@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Coos 7\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:44.770587
 END:VCARD

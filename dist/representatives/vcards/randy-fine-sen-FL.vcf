@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Randy Fine (Senate)
-N;CHARSET=UTF-8:Fine (Senate);Randy;;;
+FN;CHARSET=UTF-8:Randy Fine (FL Senate)
+N;CHARSET=UTF-8:Fine (FL Senate);Randy;;;
 TEL;TYPE=WORK,VOICE:850-487-5019
-NOTE;CHARSET=UTF-8:FL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:32.558065
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:fine.randy.web@flsenate.gov
+NOTE;CHARSET=UTF-8:Senator in FL Legislature\, District 19\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:15.183348
 END:VCARD

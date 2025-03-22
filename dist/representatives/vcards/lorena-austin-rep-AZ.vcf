@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lorena Austin (House)
-N;CHARSET=UTF-8:Austin (House);Lorena;;;
+FN;CHARSET=UTF-8:Lorena Austin (AZ House)
+N;CHARSET=UTF-8:Austin (AZ House);Lorena;;;
 TEL;TYPE=WORK,VOICE:602-926-3968
-NOTE;CHARSET=UTF-8:AZ Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:24.437112
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:laustin@azleg.gov
+NOTE;CHARSET=UTF-8:Representative in AZ Legislature\, District 9\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:16.819974
 END:VCARD

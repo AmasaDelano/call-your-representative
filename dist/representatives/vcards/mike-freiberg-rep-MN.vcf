@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Freiberg (House)
-N;CHARSET=UTF-8:Freiberg (House);Mike;;;
+FN;CHARSET=UTF-8:Mike Freiberg (MN House)
+N;CHARSET=UTF-8:Freiberg (MN House);Mike;;;
 TEL;TYPE=WORK,VOICE:651-296-4176
-NOTE;CHARSET=UTF-8:MN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:28.697732
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.mike.freiberg@house.mn.gov
+NOTE;CHARSET=UTF-8:Representative in MN Legislature\, District 43B\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:06.136801
 END:VCARD

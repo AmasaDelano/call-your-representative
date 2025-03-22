@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Nicolle Grasse (House)
-N;CHARSET=UTF-8:Grasse (House);Nicolle;;;
+FN;CHARSET=UTF-8:Nicolle Grasse (IL House)
+N;CHARSET=UTF-8:Grasse (IL House);Nicolle;;;
 TEL;TYPE=WORK,VOICE:217-782-3739
-NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:57.847850
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:contact@staterepgrasse.com
+NOTE;CHARSET=UTF-8:Representative in IL Legislature\, District 53\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:39.462507
 END:VCARD

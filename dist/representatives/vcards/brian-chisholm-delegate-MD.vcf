@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brian Chisholm (House)
-N;CHARSET=UTF-8:Chisholm (House);Brian;;;
+FN;CHARSET=UTF-8:Brian Chisholm (MD House)
+N;CHARSET=UTF-8:Chisholm (MD House);Brian;;;
 TEL;TYPE=WORK,VOICE:410-841-3206
-NOTE;CHARSET=UTF-8:MD Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:01.629744
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:brian.chisholm@house.state.md.us
+NOTE;CHARSET=UTF-8:Delegate in MD Legislature\, District 31\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:40.134033
 END:VCARD

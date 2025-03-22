@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Spiros Mantzavinos (Senate)
-N;CHARSET=UTF-8:Mantzavinos (Senate);Spiros;;;
+FN;CHARSET=UTF-8:Spiros Mantzavinos (DE Senate)
+N;CHARSET=UTF-8:Mantzavinos (DE Senate);Spiros;;;
 TEL;TYPE=WORK,VOICE:302-744-4133
-NOTE;CHARSET=UTF-8:DE Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:56.273275
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:spiros.mantzavinos@delaware.gov
+NOTE;CHARSET=UTF-8:Senator in DE Legislature\, District 7\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:38.814630
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Marty Foncello (House)
-N;CHARSET=UTF-8:Foncello (House);Marty;;;
+FN;CHARSET=UTF-8:Marty Foncello (CT House)
+N;CHARSET=UTF-8:Foncello (CT House);Marty;;;
 TEL;TYPE=WORK,VOICE:860-240-8700
-NOTE;CHARSET=UTF-8:CT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:46.415021
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:martin.foncello@housegop.ct.gov
+NOTE;CHARSET=UTF-8:Representative in CT Legislature\, District 107\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:29.150842
 END:VCARD

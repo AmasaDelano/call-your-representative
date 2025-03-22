@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Stacy Brenner (Senate)
-N;CHARSET=UTF-8:Brenner (Senate);Stacy;;;
+FN;CHARSET=UTF-8:Stacy Brenner (ME Senate)
+N;CHARSET=UTF-8:Brenner (ME Senate);Stacy;;;
 TEL;TYPE=WORK,VOICE:207-287-1515
-NOTE;CHARSET=UTF-8:ME Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:00.551232
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:stacy.brenner@legislature.maine.gov
+NOTE;CHARSET=UTF-8:Senator in ME Legislature\, District 30\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:39.038920
 END:VCARD

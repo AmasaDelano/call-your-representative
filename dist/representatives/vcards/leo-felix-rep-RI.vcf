@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Leo Felix (House)
-N;CHARSET=UTF-8:Felix (House);Leo;;;
+FN;CHARSET=UTF-8:Leo Felix (RI House)
+N;CHARSET=UTF-8:Felix (RI House);Leo;;;
 TEL;TYPE=WORK,VOICE:401-222-3580
-NOTE;CHARSET=UTF-8:RI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:50.643820
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep-felix@rilegislature.gov
+NOTE;CHARSET=UTF-8:Representative in RI Legislature\, District 61\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:26.962614
 END:VCARD

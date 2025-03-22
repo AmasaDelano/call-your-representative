@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Lay (House)
-N;CHARSET=UTF-8:Lay (House);Mike;;;
+FN;CHARSET=UTF-8:Mike Lay (OK House)
+N;CHARSET=UTF-8:Lay (OK House);Mike;;;
 TEL;TYPE=WORK,VOICE:405-557-7340
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:32.270616
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mike.lay@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 68\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:11.068940
 END:VCARD

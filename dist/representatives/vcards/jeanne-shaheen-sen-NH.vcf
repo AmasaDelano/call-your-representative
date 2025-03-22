@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jeanne Shaheen (Senate)
-N;CHARSET=UTF-8:Shaheen (Senate);Jeanne;;;
+FN;CHARSET=UTF-8:Jeanne Shaheen (NH Senate)
+N;CHARSET=UTF-8:Shaheen (NH Senate);Jeanne;;;
 TEL;TYPE=WORK,VOICE:202-224-2841
-NOTE;CHARSET=UTF-8:US Senator\, NH\n\nCommittees:\nCommission on Security and Cooperation in Europe (Joint)\nSenate Select Committee on Ethics\nAppropriations\nArmed Services\nSeapower\nReadiness and Management Support\nEmerging Threats and Capabilities\nForeign Relations\nSmall Business and Entrepreneurship\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:26.784626
+URL;CHARSET=UTF-8:https://www.shaheen.senate.gov/contact/contact-jeanne
+NOTE;CHARSET=UTF-8:US Senator for NH\n\nCommittees she's on:\n- Commission on Security and Cooperation in Europe (Joint)\n- Senate Select Committee on Ethics\n- Appropriations\n- Armed Services\n- Seapower\n- Readiness and Management Support\n- Emerging Threats and Capabilities\n- Foreign Relations\n- Small Business and Entrepreneurship\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:07.984541
 END:VCARD

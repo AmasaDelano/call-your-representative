@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:John Sjaarda (House)
-N;CHARSET=UTF-8:Sjaarda (House);John;;;
+FN;CHARSET=UTF-8:John Sjaarda (SD House)
+N;CHARSET=UTF-8:Sjaarda (SD House);John;;;
 TEL;TYPE=WORK,VOICE:605-773-3851
-NOTE;CHARSET=UTF-8:SD Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:26:59.370160
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:john.sjaarda@sdlegislature.gov
+NOTE;CHARSET=UTF-8:Representative in SD Legislature\, District 2\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:03.936197
 END:VCARD

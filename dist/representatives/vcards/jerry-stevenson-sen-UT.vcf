@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jerry Stevenson (Senate)
-N;CHARSET=UTF-8:Stevenson (Senate);Jerry;;;
+FN;CHARSET=UTF-8:Jerry Stevenson (UT Senate)
+N;CHARSET=UTF-8:Stevenson (UT Senate);Jerry;;;
 TEL;TYPE=WORK,VOICE:801-538-1035
-NOTE;CHARSET=UTF-8:UT Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:04.247748
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jwstevenson@le.utah.gov
+NOTE;CHARSET=UTF-8:Senator in UT Legislature\, District 6\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:58:03.416424
 END:VCARD

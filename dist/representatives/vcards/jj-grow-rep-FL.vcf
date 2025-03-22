@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:J.J. Grow (House)
-N;CHARSET=UTF-8:Grow (House);J.J.;;;
+FN;CHARSET=UTF-8:J.J. Grow (FL House)
+N;CHARSET=UTF-8:Grow (FL House);J.J.;;;
 TEL;TYPE=WORK,VOICE:850-717-5023
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:15.881402
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jj.grow@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 23\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:58.697035
 END:VCARD

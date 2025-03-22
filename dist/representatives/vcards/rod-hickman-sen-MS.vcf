@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rod Hickman (Senate)
-N;CHARSET=UTF-8:Hickman (Senate);Rod;;;
+FN;CHARSET=UTF-8:Rod Hickman (MS Senate)
+N;CHARSET=UTF-8:Hickman (MS Senate);Rod;;;
 TEL;TYPE=WORK,VOICE:601-359-3237
-NOTE;CHARSET=UTF-8:MS Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:33.949723
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rhickman@senate.ms.gov
+NOTE;CHARSET=UTF-8:Senator in MS Legislature\, District 32\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:11.380710
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Chris Friend (Assembly)
-N;CHARSET=UTF-8:Friend (Assembly);Chris;;;
+FN;CHARSET=UTF-8:Chris Friend (NY Assembly)
+N;CHARSET=UTF-8:Friend (NY Assembly);Chris;;;
 TEL;TYPE=WORK,VOICE:518-455-4538
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:48.959564
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:friendc@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 124\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:25.062786
 END:VCARD

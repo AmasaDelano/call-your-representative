@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Elliot Burch (House)
-N;CHARSET=UTF-8:Burch (House);Elliot;;;
+FN;CHARSET=UTF-8:Elliot Burch (MS House)
+N;CHARSET=UTF-8:Burch (MS House);Elliot;;;
 TEL;TYPE=WORK,VOICE:601-359-3728
-NOTE;CHARSET=UTF-8:MS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:31.526070
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:burch@house.ms.gov
+NOTE;CHARSET=UTF-8:Representative in MS Legislature\, District 105\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:09.194754
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Nick Paul (Senate)
-N;CHARSET=UTF-8:Paul (Senate);Nick;;;
+FN;CHARSET=UTF-8:Nick Paul (NM Senate)
+N;CHARSET=UTF-8:Paul (NM Senate);Nick;;;
 TEL;TYPE=WORK,VOICE:505-986-4395
-NOTE;CHARSET=UTF-8:NM Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:44.357640
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:nicholas.paul@nmlegis.gov
+NOTE;CHARSET=UTF-8:Senator in NM Legislature\, District 33\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:20.070279
 END:VCARD

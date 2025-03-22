@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Erin Koegel (House)
-N;CHARSET=UTF-8:Koegel (House);Erin;;;
+FN;CHARSET=UTF-8:Erin Koegel (MN House)
+N;CHARSET=UTF-8:Koegel (MN House);Erin;;;
 TEL;TYPE=WORK,VOICE:651-296-5369
-NOTE;CHARSET=UTF-8:MN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:27.757164
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.erin.koegel@house.mn.gov
+NOTE;CHARSET=UTF-8:Representative in MN Legislature\, District 39A\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:05.335150
 END:VCARD

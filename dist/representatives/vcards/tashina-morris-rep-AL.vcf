@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:TaShina Morris (House)
-N;CHARSET=UTF-8:Morris (House);TaShina;;;
+FN;CHARSET=UTF-8:TaShina Morris (AL House)
+N;CHARSET=UTF-8:Morris (AL House);TaShina;;;
 TEL;TYPE=WORK,VOICE:334-261-0597
-NOTE;CHARSET=UTF-8:AL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:20.641892
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tashina.morris@alhouse.gov
+NOTE;CHARSET=UTF-8:Representative in AL Legislature\, District 77\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:13.063504
 END:VCARD

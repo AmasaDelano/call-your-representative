@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Spencer Wetmore (House)
-N;CHARSET=UTF-8:Wetmore (House);Spencer;;;
+FN;CHARSET=UTF-8:Spencer Wetmore (SC House)
+N;CHARSET=UTF-8:Wetmore (SC House);Spencer;;;
 TEL;TYPE=WORK,VOICE:803-212-6872
-NOTE;CHARSET=UTF-8:SC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:26:23.329505
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:spencerwetmore@schouse.gov
+NOTE;CHARSET=UTF-8:Representative in SC Legislature\, District 115\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:59.325665
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Omar Williams (House)
-N;CHARSET=UTF-8:Williams (House);Omar;;;
+FN;CHARSET=UTF-8:Omar Williams (IL House)
+N;CHARSET=UTF-8:Williams (IL House);Omar;;;
 TEL;TYPE=WORK,VOICE:217-782-8077
-NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:57.137794
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:repwilliamsoffice@gmail.com
+NOTE;CHARSET=UTF-8:Representative in IL Legislature\, District 10\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:38.742814
 END:VCARD

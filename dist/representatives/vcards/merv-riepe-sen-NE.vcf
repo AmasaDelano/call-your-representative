@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Merv Riepe (Senate)
-N;CHARSET=UTF-8:Riepe (Senate);Merv;;;
+FN;CHARSET=UTF-8:Merv Riepe (NE Senate)
+N;CHARSET=UTF-8:Riepe (NE Senate);Merv;;;
 TEL;TYPE=WORK,VOICE:402-471-2623
-NOTE;CHARSET=UTF-8:NE Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:38.997838
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mriepe@leg.ne.gov
+NOTE;CHARSET=UTF-8:Senator in NE Legislature\, District 12\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:15.984406
 END:VCARD

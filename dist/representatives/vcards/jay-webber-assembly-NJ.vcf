@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jay Webber (Assembly)
-N;CHARSET=UTF-8:Webber (Assembly);Jay;;;
+FN;CHARSET=UTF-8:Jay Webber (NJ Assembly)
+N;CHARSET=UTF-8:Webber (NJ Assembly);Jay;;;
 TEL;TYPE=WORK,VOICE:973-917-3420
-NOTE;CHARSET=UTF-8:NJ Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:24.238670
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:asmwebber@njleg.org
+NOTE;CHARSET=UTF-8:Assembly Member in NJ Legislature\, District 26\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:00.598034
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Peter Durant (Senate)
-N;CHARSET=UTF-8:Durant (Senate);Peter;;;
+FN;CHARSET=UTF-8:Peter Durant (MA Senate)
+N;CHARSET=UTF-8:Durant (MA Senate);Peter;;;
 TEL;TYPE=WORK,VOICE:617-722-1540
-NOTE;CHARSET=UTF-8:MA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:06.146854
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:peter.durant@masenate.gov
+NOTE;CHARSET=UTF-8:Senator in MA Legislature\, District Worcester and Hampshire\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:44.196631
 END:VCARD

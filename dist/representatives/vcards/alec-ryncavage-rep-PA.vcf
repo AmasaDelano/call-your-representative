@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Alec Ryncavage (House)
-N;CHARSET=UTF-8:Ryncavage (House);Alec;;;
+FN;CHARSET=UTF-8:Alec Ryncavage (PA House)
+N;CHARSET=UTF-8:Ryncavage (PA House);Alec;;;
 TEL;TYPE=WORK,VOICE:717-783-2041
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:38.940303
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:aryncavage@pahousegop.com
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 119\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:17.800627
 END:VCARD

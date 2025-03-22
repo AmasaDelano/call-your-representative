@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Doug LaMalfa (House)
-N;CHARSET=UTF-8:LaMalfa (House);Doug;;;
+FN;CHARSET=UTF-8:Doug LaMalfa (CA House)
+N;CHARSET=UTF-8:LaMalfa (CA House);Doug;;;
 TEL;TYPE=WORK,VOICE:202-225-3076
-NOTE;CHARSET=UTF-8:US Representative\, CA\n\nCommittees:\nAgriculture\nForestry and Horticulture\nGeneral Farm Commodities, Risk Management, and Credit\nNatural Resources\nWater, Wildlife and Fisheries\nIndian and Insular Affairs\nTransportation and Infrastructure\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:29.452143
+URL;CHARSET=UTF-8:https://lamalfa.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from CA\, District 1\n\nCommittees he's on:\n- Agriculture\n- Forestry and Horticulture\n- General Farm Commodities, Risk Management, and Credit\n- Natural Resources\n- Water, Wildlife and Fisheries\n- Indian and Insular Affairs\n- Transportation and Infrastructure\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:11.132273
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Larry Springer (House)
-N;CHARSET=UTF-8:Springer (House);Larry;;;
+FN;CHARSET=UTF-8:Larry Springer (WA House)
+N;CHARSET=UTF-8:Springer (WA House);Larry;;;
 TEL;TYPE=WORK,VOICE:360-786-7822
-NOTE;CHARSET=UTF-8:WA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:24.518726
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:larry.springer@leg.wa.gov
+NOTE;CHARSET=UTF-8:Representative in WA Legislature\, District 45\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:05.674898
 END:VCARD

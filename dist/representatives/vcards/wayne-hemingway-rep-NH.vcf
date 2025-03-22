@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Wayne Hemingway (House)
-N;CHARSET=UTF-8:Hemingway (House);Wayne;;;
+FN;CHARSET=UTF-8:Wayne Hemingway (NH House)
+N;CHARSET=UTF-8:Hemingway (NH House);Wayne;;;
 TEL;TYPE=WORK,VOICE:603-477-4407
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:12.359457
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:wayne.hemingway@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Sullivan 6\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:49.149373
 END:VCARD

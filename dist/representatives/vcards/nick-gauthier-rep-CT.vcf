@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Nick Gauthier (House)
-N;CHARSET=UTF-8:Gauthier (House);Nick;;;
+FN;CHARSET=UTF-8:Nick Gauthier (CT House)
+N;CHARSET=UTF-8:Gauthier (CT House);Nick;;;
 TEL;TYPE=WORK,VOICE:860-240-8585
-NOTE;CHARSET=UTF-8:CT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:47.408365
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:nick.gauthier@cga.ct.gov
+NOTE;CHARSET=UTF-8:Representative in CT Legislature\, District 38\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:30.595515
 END:VCARD

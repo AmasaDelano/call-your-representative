@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Eddie Settle (Senate)
-N;CHARSET=UTF-8:Settle (Senate);Eddie;;;
+FN;CHARSET=UTF-8:Eddie Settle (NC Senate)
+N;CHARSET=UTF-8:Settle (NC Senate);Eddie;;;
 TEL;TYPE=WORK,VOICE:919-733-5742
-NOTE;CHARSET=UTF-8:NC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:10.797157
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:eddie.settle@ncleg.gov
+NOTE;CHARSET=UTF-8:Senator in NC Legislature\, District 36\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:48.867385
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Steve Eliason (House)
-N;CHARSET=UTF-8:Eliason (House);Steve;;;
+FN;CHARSET=UTF-8:Steve Eliason (UT House)
+N;CHARSET=UTF-8:Eliason (UT House);Steve;;;
 TEL;TYPE=WORK,VOICE:801-538-1029
-NOTE;CHARSET=UTF-8:UT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:04.752461
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:seliason@le.utah.gov
+NOTE;CHARSET=UTF-8:Representative in UT Legislature\, District 43\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:58:04.054829
 END:VCARD

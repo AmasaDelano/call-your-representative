@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lupe Diaz (House)
-N;CHARSET=UTF-8:Diaz (House);Lupe;;;
+FN;CHARSET=UTF-8:Lupe Diaz (AZ House)
+N;CHARSET=UTF-8:Diaz (AZ House);Lupe;;;
 TEL;TYPE=WORK,VOICE:602-926-4852
-NOTE;CHARSET=UTF-8:AZ Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:24.458332
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ldiaz@azleg.gov
+NOTE;CHARSET=UTF-8:Representative in AZ Legislature\, District 19\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:16.844191
 END:VCARD

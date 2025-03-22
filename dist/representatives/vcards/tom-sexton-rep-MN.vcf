@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tom Sexton (House)
-N;CHARSET=UTF-8:Sexton (House);Tom;;;
+FN;CHARSET=UTF-8:Tom Sexton (MN House)
+N;CHARSET=UTF-8:Sexton (MN House);Tom;;;
 TEL;TYPE=WORK,VOICE:651-296-5368
-NOTE;CHARSET=UTF-8:MN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:29.272469
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.tom.sexton@house.mn.gov
+NOTE;CHARSET=UTF-8:Representative in MN Legislature\, District 19B\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:06.656245
 END:VCARD

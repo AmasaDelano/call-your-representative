@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ant Thornton (Senate)
-N;CHARSET=UTF-8:Thornton (Senate);Ant;;;
+FN;CHARSET=UTF-8:Ant Thornton (NM Senate)
+N;CHARSET=UTF-8:Thornton (NM Senate);Ant;;;
 TEL;TYPE=WORK,VOICE:505-986-4274
-NOTE;CHARSET=UTF-8:NM Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:40.475459
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:anthony.thornton@nmlegis.gov
+NOTE;CHARSET=UTF-8:Senator in NM Legislature\, District 19\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:16.484403
 END:VCARD

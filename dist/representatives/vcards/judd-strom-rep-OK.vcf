@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Judd Strom (House)
-N;CHARSET=UTF-8:Strom (House);Judd;;;
+FN;CHARSET=UTF-8:Judd Strom (OK House)
+N;CHARSET=UTF-8:Strom (OK House);Judd;;;
 TEL;TYPE=WORK,VOICE:405-557-7402
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:28.460107
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:judd.strom@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 10\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:07.466979
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Steve Huffman (Senate)
-N;CHARSET=UTF-8:Huffman (Senate);Steve;;;
+FN;CHARSET=UTF-8:Steve Huffman (OH Senate)
+N;CHARSET=UTF-8:Huffman (OH Senate);Steve;;;
 TEL;TYPE=WORK,VOICE:614-466-6247
-NOTE;CHARSET=UTF-8:OH Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:18.076636
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sd05@ohiosenate.gov
+NOTE;CHARSET=UTF-8:Senator in OH Legislature\, District 5\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:57.989035
 END:VCARD

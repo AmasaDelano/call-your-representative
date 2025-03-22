@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:James Comer (House)
-N;CHARSET=UTF-8:Comer (House);James;;;
+FN;CHARSET=UTF-8:James Comer (KY House)
+N;CHARSET=UTF-8:Comer (KY House);James;;;
 TEL;TYPE=WORK,VOICE:202-225-3115
-NOTE;CHARSET=UTF-8:US Representative\, KY\n\nCommittees:\nEducation and Workforce\nOversight and Government Reform\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:30.925849
+URL;CHARSET=UTF-8:https://comer.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from KY\, District 1\n\nCommittees he's on:\n- Education and Workforce\n- Oversight and Government Reform\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:12.872684
 END:VCARD

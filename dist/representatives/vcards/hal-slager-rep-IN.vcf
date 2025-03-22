@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Hal Slager (House)
-N;CHARSET=UTF-8:Slager (House);Hal;;;
+FN;CHARSET=UTF-8:Hal Slager (IN House)
+N;CHARSET=UTF-8:Slager (IN House);Hal;;;
 TEL;TYPE=WORK,VOICE:800-352-9841
-NOTE;CHARSET=UTF-8:IN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:11.069495
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:h15@iga.in.gov
+NOTE;CHARSET=UTF-8:Representative in IN Legislature\, District 15\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:52.667930
 END:VCARD

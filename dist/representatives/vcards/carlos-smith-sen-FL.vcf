@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Carlos Smith (Senate)
-N;CHARSET=UTF-8:Smith (Senate);Carlos;;;
+FN;CHARSET=UTF-8:Carlos Smith (FL Senate)
+N;CHARSET=UTF-8:Smith (FL Senate);Carlos;;;
 TEL;TYPE=WORK,VOICE:850-487-5017
-NOTE;CHARSET=UTF-8:FL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:01.437100
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:smith.carlos.web@flsenate.gov
+NOTE;CHARSET=UTF-8:Senator in FL Legislature\, District 17\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:44.110440
 END:VCARD

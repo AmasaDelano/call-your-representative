@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Elaine Davis (House)
-N;CHARSET=UTF-8:Davis (House);Elaine;;;
+FN;CHARSET=UTF-8:Elaine Davis (TN House)
+N;CHARSET=UTF-8:Davis (TN House);Elaine;;;
 TEL;TYPE=WORK,VOICE:615-741-2287
-NOTE;CHARSET=UTF-8:TN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:03.182356
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.elaine.davis@capitol.tn.gov
+NOTE;CHARSET=UTF-8:Representative in TN Legislature\, District 18\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:07.695553
 END:VCARD

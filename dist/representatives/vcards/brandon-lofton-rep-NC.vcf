@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brandon Lofton (House)
-N;CHARSET=UTF-8:Lofton (House);Brandon;;;
+FN;CHARSET=UTF-8:Brandon Lofton (NC House)
+N;CHARSET=UTF-8:Lofton (NC House);Brandon;;;
 TEL;TYPE=WORK,VOICE:919-715-3009
-NOTE;CHARSET=UTF-8:NC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:10.303006
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:brandon.lofton@ncleg.gov
+NOTE;CHARSET=UTF-8:Representative in NC Legislature\, District 104\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:48.335554
 END:VCARD

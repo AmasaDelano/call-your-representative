@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Candy Ezzell (Senate)
-N;CHARSET=UTF-8:Ezzell (Senate);Candy;;;
+FN;CHARSET=UTF-8:Candy Ezzell (NM Senate)
+N;CHARSET=UTF-8:Ezzell (NM Senate);Candy;;;
 TEL;TYPE=WORK,VOICE:505-986-4381
-NOTE;CHARSET=UTF-8:NM Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:40.585255
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:csecows@aol.com
+NOTE;CHARSET=UTF-8:Senator in NM Legislature\, District 32\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:16.576171
 END:VCARD

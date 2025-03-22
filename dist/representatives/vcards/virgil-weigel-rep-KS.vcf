@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Virgil Weigel (House)
-N;CHARSET=UTF-8:Weigel (House);Virgil;;;
+FN;CHARSET=UTF-8:Virgil Weigel (KS House)
+N;CHARSET=UTF-8:Weigel (KS House);Virgil;;;
 TEL;TYPE=WORK,VOICE:785-296-7104
-NOTE;CHARSET=UTF-8:KS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:12.587779
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:virgil.weigel@house.ks.gov
+NOTE;CHARSET=UTF-8:Representative in KS Legislature\, District 56\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:53.549086
 END:VCARD

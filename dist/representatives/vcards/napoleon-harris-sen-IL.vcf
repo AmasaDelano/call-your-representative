@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Napoleon Harris (Senate)
-N;CHARSET=UTF-8:Harris (Senate);Napoleon;;;
+FN;CHARSET=UTF-8:Napoleon Harris (IL Senate)
+N;CHARSET=UTF-8:Harris (IL Senate);Napoleon;;;
 TEL;TYPE=WORK,VOICE:217-782-8066
-NOTE;CHARSET=UTF-8:IL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:57.796149
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:nharris@senatedem.ilga.gov
+NOTE;CHARSET=UTF-8:Senator in IL Legislature\, District 15\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:39.401338
 END:VCARD

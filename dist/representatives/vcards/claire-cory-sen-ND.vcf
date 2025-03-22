@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Claire Cory (Senate)
-N;CHARSET=UTF-8:Cory (Senate);Claire;;;
+FN;CHARSET=UTF-8:Claire Cory (ND Senate)
+N;CHARSET=UTF-8:Cory (ND Senate);Claire;;;
 TEL;TYPE=WORK,VOICE:701-328-3373
-NOTE;CHARSET=UTF-8:ND Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:13.277034
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:clairecory@ndlegis.gov
+NOTE;CHARSET=UTF-8:Senator in ND Legislature\, District 42\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:51.955223
 END:VCARD

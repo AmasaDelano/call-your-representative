@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Patty Contreras (House)
-N;CHARSET=UTF-8:Contreras (House);Patty;;;
+FN;CHARSET=UTF-8:Patty Contreras (AZ House)
+N;CHARSET=UTF-8:Contreras (AZ House);Patty;;;
 TEL;TYPE=WORK,VOICE:602-926-4057
-NOTE;CHARSET=UTF-8:AZ Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:24.839777
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:pcontreras@azleg.gov
+NOTE;CHARSET=UTF-8:Representative in AZ Legislature\, District 12\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:17.313346
 END:VCARD

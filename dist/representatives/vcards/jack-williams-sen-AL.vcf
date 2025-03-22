@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jack Williams (Senate)
-N;CHARSET=UTF-8:Williams (Senate);Jack;;;
+FN;CHARSET=UTF-8:Jack Williams (AL Senate)
+N;CHARSET=UTF-8:Williams (AL Senate);Jack;;;
 TEL;TYPE=WORK,VOICE:334-261-0829
-NOTE;CHARSET=UTF-8:AL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:19.374125
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jackwilliams55@icloud.com
+NOTE;CHARSET=UTF-8:Senator in AL Legislature\, District 34\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:11.302166
 END:VCARD

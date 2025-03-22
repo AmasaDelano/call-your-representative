@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Carol Murphy (Assembly)
-N;CHARSET=UTF-8:Murphy (Assembly);Carol;;;
+FN;CHARSET=UTF-8:Carol Murphy (NJ Assembly)
+N;CHARSET=UTF-8:Murphy (NJ Assembly);Carol;;;
 TEL;TYPE=WORK,VOICE:856-242-2018
-NOTE;CHARSET=UTF-8:NJ Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:17.387584
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:aswmurphy@njleg.org
+NOTE;CHARSET=UTF-8:Assembly Member in NJ Legislature\, District 7\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:54.024402
 END:VCARD

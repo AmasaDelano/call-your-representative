@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Phil Ramos (Assembly)
-N;CHARSET=UTF-8:Ramos (Assembly);Phil;;;
+FN;CHARSET=UTF-8:Phil Ramos (NY Assembly)
+N;CHARSET=UTF-8:Ramos (NY Assembly);Phil;;;
 TEL;TYPE=WORK,VOICE:518-455-5185
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:05.005498
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ramosp@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 6\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:42.703702
 END:VCARD

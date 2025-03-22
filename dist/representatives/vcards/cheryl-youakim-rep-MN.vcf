@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Cheryl Youakim (House)
-N;CHARSET=UTF-8:Youakim (House);Cheryl;;;
+FN;CHARSET=UTF-8:Cheryl Youakim (MN House)
+N;CHARSET=UTF-8:Youakim (MN House);Cheryl;;;
 TEL;TYPE=WORK,VOICE:651-296-9889
-NOTE;CHARSET=UTF-8:MN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:27.295891
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.cheryl.youakim@house.mn.gov
+NOTE;CHARSET=UTF-8:Representative in MN Legislature\, District 46B\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:05.165792
 END:VCARD

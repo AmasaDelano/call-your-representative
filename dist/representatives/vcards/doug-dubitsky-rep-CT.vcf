@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Doug Dubitsky (House)
-N;CHARSET=UTF-8:Dubitsky (House);Doug;;;
+FN;CHARSET=UTF-8:Doug Dubitsky (CT House)
+N;CHARSET=UTF-8:Dubitsky (CT House);Doug;;;
 TEL;TYPE=WORK,VOICE:860-240-8700
-NOTE;CHARSET=UTF-8:CT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:41.400759
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:doug.dubitsky@housegop.ct.gov
+NOTE;CHARSET=UTF-8:Representative in CT Legislature\, District 47\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:22.205982
 END:VCARD

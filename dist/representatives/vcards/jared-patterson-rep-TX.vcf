@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jared Patterson (House)
-N;CHARSET=UTF-8:Patterson (House);Jared;;;
+FN;CHARSET=UTF-8:Jared Patterson (TX House)
+N;CHARSET=UTF-8:Patterson (TX House);Jared;;;
 TEL;TYPE=WORK,VOICE:214-494-6498
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:32.146449
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jared.patterson@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 106\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:34.626810
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Peggy Scott (House)
-N;CHARSET=UTF-8:Scott (House);Peggy;;;
+FN;CHARSET=UTF-8:Peggy Scott (MN House)
+N;CHARSET=UTF-8:Scott (MN House);Peggy;;;
 TEL;TYPE=WORK,VOICE:651-296-4231
-NOTE;CHARSET=UTF-8:MN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:28.926175
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.peggy.scott@house.mn.gov
+NOTE;CHARSET=UTF-8:Representative in MN Legislature\, District 31B\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:06.345479
 END:VCARD

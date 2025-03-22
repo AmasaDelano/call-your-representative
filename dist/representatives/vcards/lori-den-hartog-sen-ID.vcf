@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lori Den Hartog (Senate)
-N;CHARSET=UTF-8:Den Hartog (Senate);Lori;;;
+FN;CHARSET=UTF-8:Lori Den Hartog (ID Senate)
+N;CHARSET=UTF-8:Den Hartog (ID Senate);Lori;;;
 TEL;TYPE=WORK,VOICE:208-332-1340
-NOTE;CHARSET=UTF-8:ID Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:55.915263
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ldenhartog@senate.idaho.gov
+NOTE;CHARSET=UTF-8:Senator in ID Legislature\, District 22\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:37.588453
 END:VCARD

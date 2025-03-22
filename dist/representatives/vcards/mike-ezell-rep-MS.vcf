@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Ezell (House)
-N;CHARSET=UTF-8:Ezell (House);Mike;;;
+FN;CHARSET=UTF-8:Mike Ezell (MS House)
+N;CHARSET=UTF-8:Ezell (MS House);Mike;;;
 TEL;TYPE=WORK,VOICE:202-225-5772
-NOTE;CHARSET=UTF-8:US Representative\, MS\n\nCommittees:\nNatural Resources\nEnergy and Mineral Resources\nWater, Wildlife and Fisheries\nTransportation and Infrastructure\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:35.865585
+URL;CHARSET=UTF-8:https://ezell.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from MS\, District 4\n\nCommittees he's on:\n- Natural Resources\n- Energy and Mineral Resources\n- Water, Wildlife and Fisheries\n- Transportation and Infrastructure\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:18.196833
 END:VCARD

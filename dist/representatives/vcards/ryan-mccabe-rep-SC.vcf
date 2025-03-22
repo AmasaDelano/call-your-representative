@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ryan McCabe (House)
-N;CHARSET=UTF-8:McCabe (House);Ryan;;;
+FN;CHARSET=UTF-8:Ryan McCabe (SC House)
+N;CHARSET=UTF-8:McCabe (SC House);Ryan;;;
 TEL;TYPE=WORK,VOICE:803-212-6728
-NOTE;CHARSET=UTF-8:SC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:26:23.294755
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ryanmccabe@schouse.gov
+NOTE;CHARSET=UTF-8:Representative in SC Legislature\, District 96\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:59.305801
 END:VCARD

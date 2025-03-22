@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Michael Bennet (Senate)
-N;CHARSET=UTF-8:Bennet (Senate);Michael;;;
+FN;CHARSET=UTF-8:Michael Bennet (CO Senate)
+N;CHARSET=UTF-8:Bennet (CO Senate);Michael;;;
 TEL;TYPE=WORK,VOICE:202-224-5852
-NOTE;CHARSET=UTF-8:US Senator\, CO\n\nCommittees:\nSenate Select Committee on Intelligence\nAgriculture, Nutrition, and Forestry\nConservation, Forestry, Natural Resources, and Biotechnology\nRural Development, Energy, and Credit\nFinance\nRules and Administration\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:26.902135
+URL;CHARSET=UTF-8:https://www.bennet.senate.gov/public/index.cfm/contact
+NOTE;CHARSET=UTF-8:US Senator for CO\n\nCommittees he's on:\n- Senate Select Committee on Intelligence\n- Agriculture, Nutrition, and Forestry\n- Conservation, Forestry, Natural Resources, and Biotechnology\n- Rural Development, Energy, and Credit\n- Finance\n- Rules and Administration\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:08.095060
 END:VCARD

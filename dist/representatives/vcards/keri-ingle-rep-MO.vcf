@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Keri Ingle (House)
-N;CHARSET=UTF-8:Ingle (House);Keri;;;
+FN;CHARSET=UTF-8:Keri Ingle (MO House)
+N;CHARSET=UTF-8:Ingle (MO House);Keri;;;
 TEL;TYPE=WORK,VOICE:573-751-1459
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:35.866126
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:keri.ingle@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 35\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:13.078044
 END:VCARD

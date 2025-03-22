@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rebecca Martinez (House)
-N;CHARSET=UTF-8:Martinez (House);Rebecca;;;
+FN;CHARSET=UTF-8:Rebecca Martinez (CT House)
+N;CHARSET=UTF-8:Martinez (CT House);Rebecca;;;
 TEL;TYPE=WORK,VOICE:860-240-8585
-NOTE;CHARSET=UTF-8:CT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:51.688827
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rebecca.martinez@cga.ct.gov
+NOTE;CHARSET=UTF-8:Representative in CT Legislature\, District 22\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:33.314855
 END:VCARD

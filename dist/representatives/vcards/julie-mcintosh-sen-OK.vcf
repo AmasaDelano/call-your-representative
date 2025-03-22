@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Julie McIntosh (Senate)
-N;CHARSET=UTF-8:McIntosh (Senate);Julie;;;
+FN;CHARSET=UTF-8:Julie McIntosh (OK Senate)
+N;CHARSET=UTF-8:McIntosh (OK Senate);Julie;;;
 TEL;TYPE=WORK,VOICE:405-521-5574
-NOTE;CHARSET=UTF-8:OK Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:28.659351
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:julie.mcintosh@oksenate.gov
+NOTE;CHARSET=UTF-8:Senator in OK Legislature\, District 3\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:07.639637
 END:VCARD

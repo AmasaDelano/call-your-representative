@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Del Taylor (House)
-N;CHARSET=UTF-8:Taylor (House);Del;;;
+FN;CHARSET=UTF-8:Del Taylor (MO House)
+N;CHARSET=UTF-8:Taylor (MO House);Del;;;
 TEL;TYPE=WORK,VOICE:573-751-2198
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:35.322907
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:del.taylor@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 84\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:12.571140
 END:VCARD

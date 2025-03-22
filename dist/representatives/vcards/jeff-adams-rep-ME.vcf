@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jeff Adams (House)
-N;CHARSET=UTF-8:Adams (House);Jeff;;;
+FN;CHARSET=UTF-8:Jeff Adams (ME House)
+N;CHARSET=UTF-8:Adams (ME House);Jeff;;;
 TEL;TYPE=WORK,VOICE:207-287-1440
-NOTE;CHARSET=UTF-8:ME Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:57.770234
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jeffrey.adams@legislature.maine.gov
+NOTE;CHARSET=UTF-8:Representative in ME Legislature\, District 144\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:36.865093
 END:VCARD

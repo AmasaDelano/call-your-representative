@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Luis Sepúlveda (Senate)
-N;CHARSET=UTF-8:Sepúlveda (Senate);Luis;;;
+FN;CHARSET=UTF-8:Luis Sepúlveda (NY Senate)
+N;CHARSET=UTF-8:Sepúlveda (NY Senate);Luis;;;
 TEL;TYPE=WORK,VOICE:518-455-2511
-NOTE;CHARSET=UTF-8:NY Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:00.273495
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sepulveda@nysenate.gov
+NOTE;CHARSET=UTF-8:Senator in NY Legislature\, District 32\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:36.949028
 END:VCARD

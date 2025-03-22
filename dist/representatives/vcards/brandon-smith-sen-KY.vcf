@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brandon Smith (Senate)
-N;CHARSET=UTF-8:Smith (Senate);Brandon;;;
+FN;CHARSET=UTF-8:Brandon Smith (KY Senate)
+N;CHARSET=UTF-8:Smith (KY Senate);Brandon;;;
 TEL;TYPE=WORK,VOICE:502-564-8100
-NOTE;CHARSET=UTF-8:KY Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:13.947243
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:brandon.smith@kylegislature.gov
+NOTE;CHARSET=UTF-8:Senator in KY Legislature\, District 30\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:54.853597
 END:VCARD

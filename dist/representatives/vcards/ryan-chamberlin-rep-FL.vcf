@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ryan Chamberlin (House)
-N;CHARSET=UTF-8:Chamberlin (House);Ryan;;;
+FN;CHARSET=UTF-8:Ryan Chamberlin (FL House)
+N;CHARSET=UTF-8:Chamberlin (FL House);Ryan;;;
 TEL;TYPE=WORK,VOICE:850-717-5024
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:34.930176
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ryan.chamberlin@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 24\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:17.583408
 END:VCARD

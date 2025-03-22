@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rae Cousins (House)
-N;CHARSET=UTF-8:Cousins (House);Rae;;;
+FN;CHARSET=UTF-8:Rae Cousins (VA House)
+N;CHARSET=UTF-8:Cousins (VA House);Rae;;;
 TEL;TYPE=WORK,VOICE:804-698-1079
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:22.831938
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delrcousins@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 79\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:03.778799
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bob Andersen (Senate)
-N;CHARSET=UTF-8:Andersen (Senate);Bob;;;
+FN;CHARSET=UTF-8:Bob Andersen (NE Senate)
+N;CHARSET=UTF-8:Andersen (NE Senate);Bob;;;
 TEL;TYPE=WORK,VOICE:402-471-2725
-NOTE;CHARSET=UTF-8:NE Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:38.714183
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bandersen@leg.ne.gov
+NOTE;CHARSET=UTF-8:Senator in NE Legislature\, District 49\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:15.629053
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rodney Pol (Senate)
-N;CHARSET=UTF-8:Pol (Senate);Rodney;;;
+FN;CHARSET=UTF-8:Rodney Pol (IN Senate)
+N;CHARSET=UTF-8:Pol (IN Senate);Rodney;;;
 TEL;TYPE=WORK,VOICE:317-232-9404
-NOTE;CHARSET=UTF-8:IN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:27.897919
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:s4@iga.in.gov
+NOTE;CHARSET=UTF-8:Senator in IN Legislature\, District 4\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:09.599738
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Anna Moeller (House)
-N;CHARSET=UTF-8:Moeller (House);Anna;;;
+FN;CHARSET=UTF-8:Anna Moeller (IL House)
+N;CHARSET=UTF-8:Moeller (IL House);Anna;;;
 TEL;TYPE=WORK,VOICE:217-782-8020
-NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:56.487703
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:staterepmoeller@gmail.com
+NOTE;CHARSET=UTF-8:Representative in IL Legislature\, District 43\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:38.080147
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Atoosa Reaser (House)
-N;CHARSET=UTF-8:Reaser (House);Atoosa;;;
+FN;CHARSET=UTF-8:Atoosa Reaser (VA House)
+N;CHARSET=UTF-8:Reaser (VA House);Atoosa;;;
 TEL;TYPE=WORK,VOICE:804-698-1027
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:21.412363
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delareaser@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 27\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:02.410808
 END:VCARD

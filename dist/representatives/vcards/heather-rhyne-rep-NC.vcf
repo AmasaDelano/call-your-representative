@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Heather Rhyne (House)
-N;CHARSET=UTF-8:Rhyne (House);Heather;;;
+FN;CHARSET=UTF-8:Heather Rhyne (NC House)
+N;CHARSET=UTF-8:Rhyne (NC House);Heather;;;
 TEL;TYPE=WORK,VOICE:919-733-5782
-NOTE;CHARSET=UTF-8:NC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:10.935876
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:heather.rhyne@ncleg.gov
+NOTE;CHARSET=UTF-8:Representative in NC Legislature\, District 97\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:49.059384
 END:VCARD

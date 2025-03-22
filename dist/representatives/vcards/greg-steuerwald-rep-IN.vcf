@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Greg Steuerwald (House)
-N;CHARSET=UTF-8:Steuerwald (House);Greg;;;
+FN;CHARSET=UTF-8:Greg Steuerwald (IN House)
+N;CHARSET=UTF-8:Steuerwald (IN House);Greg;;;
 TEL;TYPE=WORK,VOICE:800-382-9841
-NOTE;CHARSET=UTF-8:IN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:10.803927
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:h40@iga.in.gov
+NOTE;CHARSET=UTF-8:Representative in IN Legislature\, District 40\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:52.399884
 END:VCARD

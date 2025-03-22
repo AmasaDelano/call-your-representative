@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Madinah Wilson-Anton (House)
-N;CHARSET=UTF-8:Wilson-Anton (House);Madinah;;;
+FN;CHARSET=UTF-8:Madinah Wilson-Anton (DE House)
+N;CHARSET=UTF-8:Wilson-Anton (DE House);Madinah;;;
 TEL;TYPE=WORK,VOICE:302-744-4351
-NOTE;CHARSET=UTF-8:DE Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:56.052956
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:madinah.wilson-anton@delaware.gov
+NOTE;CHARSET=UTF-8:Representative in DE Legislature\, District 26\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:38.680627
 END:VCARD

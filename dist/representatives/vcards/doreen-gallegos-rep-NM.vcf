@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Doreen Gallegos (House)
-N;CHARSET=UTF-8:Gallegos (House);Doreen;;;
+FN;CHARSET=UTF-8:Doreen Gallegos (NM House)
+N;CHARSET=UTF-8:Gallegos (NM House);Doreen;;;
 TEL;TYPE=WORK,VOICE:505-986-4329
-NOTE;CHARSET=UTF-8:NM Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:41.870263
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:doreen.gallegos@nmlegis.gov
+NOTE;CHARSET=UTF-8:Representative in NM Legislature\, District 52\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:17.827443
 END:VCARD

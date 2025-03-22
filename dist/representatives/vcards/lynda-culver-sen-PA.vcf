@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lynda Culver (Senate)
-N;CHARSET=UTF-8:Culver (Senate);Lynda;;;
+FN;CHARSET=UTF-8:Lynda Culver (PA Senate)
+N;CHARSET=UTF-8:Culver (PA Senate);Lynda;;;
 TEL;TYPE=WORK,VOICE:717-787-8928
-NOTE;CHARSET=UTF-8:PA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:21.208939
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lculver@pasen.gov
+NOTE;CHARSET=UTF-8:Senator in PA Legislature\, District 27\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:59.548688
 END:VCARD

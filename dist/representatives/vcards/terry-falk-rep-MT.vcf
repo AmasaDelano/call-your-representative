@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Terry Falk (House)
-N;CHARSET=UTF-8:Falk (House);Terry;;;
+FN;CHARSET=UTF-8:Terry Falk (MT House)
+N;CHARSET=UTF-8:Falk (MT House);Terry;;;
 TEL;TYPE=WORK,VOICE:406-444-4800
-NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:38.485936
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:terry.falk@legmt.gov
+NOTE;CHARSET=UTF-8:Representative in MT Legislature\, District 10\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:15.424783
 END:VCARD

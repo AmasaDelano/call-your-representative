@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tom Cormen (House)
-N;CHARSET=UTF-8:Cormen (House);Tom;;;
+FN;CHARSET=UTF-8:Tom Cormen (NH House)
+N;CHARSET=UTF-8:Cormen (NH House);Tom;;;
 TEL;TYPE=WORK,VOICE:603-448-2442
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:12.121874
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:thomas.cormen@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Grafton 15\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:48.910217
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Dave Craven (Senate)
-N;CHARSET=UTF-8:Craven (Senate);Dave;;;
+FN;CHARSET=UTF-8:Dave Craven (NC Senate)
+N;CHARSET=UTF-8:Craven (NC Senate);Dave;;;
 TEL;TYPE=WORK,VOICE:919-733-5870
-NOTE;CHARSET=UTF-8:NC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:10.622717
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:david.craven@ncleg.gov
+NOTE;CHARSET=UTF-8:Senator in NC Legislature\, District 29\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:48.667160
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Morgan Meyer (House)
-N;CHARSET=UTF-8:Meyer (House);Morgan;;;
+FN;CHARSET=UTF-8:Morgan Meyer (TX House)
+N;CHARSET=UTF-8:Meyer (TX House);Morgan;;;
 TEL;TYPE=WORK,VOICE:214-239-1257
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:43.750749
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:morgan.meyer@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 108\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:44.948274
 END:VCARD

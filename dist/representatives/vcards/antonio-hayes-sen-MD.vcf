@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Antonio Hayes (Senate)
-N;CHARSET=UTF-8:Hayes (Senate);Antonio;;;
+FN;CHARSET=UTF-8:Antonio Hayes (MD Senate)
+N;CHARSET=UTF-8:Hayes (MD Senate);Antonio;;;
 TEL;TYPE=WORK,VOICE:410-841-3656
-NOTE;CHARSET=UTF-8:MD Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:01.431201
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:antonio.hayes@senate.state.md.us
+NOTE;CHARSET=UTF-8:Senator in MD Legislature\, District 40\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:39.943649
 END:VCARD

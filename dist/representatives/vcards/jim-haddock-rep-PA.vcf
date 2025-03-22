@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jim Haddock (House)
-N;CHARSET=UTF-8:Haddock (House);Jim;;;
+FN;CHARSET=UTF-8:Jim Haddock (PA House)
+N;CHARSET=UTF-8:Haddock (PA House);Jim;;;
 TEL;TYPE=WORK,VOICE:717-787-3589
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:06.472890
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rephaddock@pahouse.net
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 118\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:44.928128
 END:VCARD

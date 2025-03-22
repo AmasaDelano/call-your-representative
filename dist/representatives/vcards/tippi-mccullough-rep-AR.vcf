@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tippi McCullough (House)
-N;CHARSET=UTF-8:McCullough (House);Tippi;;;
+FN;CHARSET=UTF-8:Tippi McCullough (AR House)
+N;CHARSET=UTF-8:McCullough (AR House);Tippi;;;
 TEL;TYPE=WORK,VOICE:501-682-6211
-NOTE;CHARSET=UTF-8:AR Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:28.191721
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tippi.mccullough@arkansashouse.org
+NOTE;CHARSET=UTF-8:Representative in AR Legislature\, District 74\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:20.438687
 END:VCARD

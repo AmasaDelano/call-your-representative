@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jane Gillette (House)
-N;CHARSET=UTF-8:Gillette (House);Jane;;;
+FN;CHARSET=UTF-8:Jane Gillette (MT House)
+N;CHARSET=UTF-8:Gillette (MT House);Jane;;;
 TEL;TYPE=WORK,VOICE:406-868-1549
-NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:37.620574
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jane.gillette@legmt.gov
+NOTE;CHARSET=UTF-8:Representative in MT Legislature\, District 77\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:14.480291
 END:VCARD

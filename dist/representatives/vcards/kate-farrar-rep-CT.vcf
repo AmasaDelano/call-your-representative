@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kate Farrar (House)
-N;CHARSET=UTF-8:Farrar (House);Kate;;;
+FN;CHARSET=UTF-8:Kate Farrar (CT House)
+N;CHARSET=UTF-8:Farrar (CT House);Kate;;;
 TEL;TYPE=WORK,VOICE:800-842-8267
-NOTE;CHARSET=UTF-8:CT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:45.450327
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:kate.farrar@cga.ct.gov
+NOTE;CHARSET=UTF-8:Representative in CT Legislature\, District 20\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:28.115740
 END:VCARD

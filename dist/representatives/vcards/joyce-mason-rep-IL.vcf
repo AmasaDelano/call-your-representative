@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Joyce Mason (House)
-N;CHARSET=UTF-8:Mason (House);Joyce;;;
+FN;CHARSET=UTF-8:Joyce Mason (IL House)
+N;CHARSET=UTF-8:Mason (IL House);Joyce;;;
 TEL;TYPE=WORK,VOICE:217-782-8151
-NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:57.257906
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:info@repjoycemason.com
+NOTE;CHARSET=UTF-8:Representative in IL Legislature\, District 61\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:38.873135
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Cesar Aguilar (House)
-N;CHARSET=UTF-8:Aguilar (House);Cesar;;;
+FN;CHARSET=UTF-8:Cesar Aguilar (AZ House)
+N;CHARSET=UTF-8:Aguilar (AZ House);Cesar;;;
 TEL;TYPE=WORK,VOICE:602-926-3953
-NOTE;CHARSET=UTF-8:AZ Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:22.630061
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:caguilar@azleg.gov
+NOTE;CHARSET=UTF-8:Representative in AZ Legislature\, District 26\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:15.641468
 END:VCARD

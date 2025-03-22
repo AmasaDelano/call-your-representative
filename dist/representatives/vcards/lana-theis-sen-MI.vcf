@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lana Theis (Senate)
-N;CHARSET=UTF-8:Theis (Senate);Lana;;;
+FN;CHARSET=UTF-8:Lana Theis (MI Senate)
+N;CHARSET=UTF-8:Theis (MI Senate);Lana;;;
 TEL;TYPE=WORK,VOICE:517-373-2420
-NOTE;CHARSET=UTF-8:MI Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:19.486510
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senltheis@senate.michigan.gov
+NOTE;CHARSET=UTF-8:Senator in MI Legislature\, District 22\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:56.410033
 END:VCARD

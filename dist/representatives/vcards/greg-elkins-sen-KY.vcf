@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Greg Elkins (Senate)
-N;CHARSET=UTF-8:Elkins (Senate);Greg;;;
+FN;CHARSET=UTF-8:Greg Elkins (KY Senate)
+N;CHARSET=UTF-8:Elkins (KY Senate);Greg;;;
 TEL;TYPE=WORK,VOICE:502-564-8100
-NOTE;CHARSET=UTF-8:KY Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:17.507840
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:greg.elkins@kylegislature.gov
+NOTE;CHARSET=UTF-8:Senator in KY Legislature\, District 28\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:58.052391
 END:VCARD

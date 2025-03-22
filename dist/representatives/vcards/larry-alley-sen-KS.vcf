@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Larry Alley (Senate)
-N;CHARSET=UTF-8:Alley (Senate);Larry;;;
+FN;CHARSET=UTF-8:Larry Alley (KS Senate)
+N;CHARSET=UTF-8:Alley (KS Senate);Larry;;;
 TEL;TYPE=WORK,VOICE:785-296-2497
-NOTE;CHARSET=UTF-8:KS Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:08.319036
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:larry.alley@senate.ks.gov
+NOTE;CHARSET=UTF-8:Senator in KS Legislature\, District 32\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:50.669064
 END:VCARD

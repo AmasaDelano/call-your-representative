@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Joe Bouie (Senate)
-N;CHARSET=UTF-8:Bouie (Senate);Joe;;;
+FN;CHARSET=UTF-8:Joe Bouie (LA Senate)
+N;CHARSET=UTF-8:Bouie (LA Senate);Joe;;;
 TEL;TYPE=WORK,VOICE:504-286-1033
-NOTE;CHARSET=UTF-8:LA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:41.326502
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bouiej@legis.la.gov
+NOTE;CHARSET=UTF-8:Senator in LA Legislature\, District 3\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:21.278803
 END:VCARD

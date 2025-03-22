@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bobby Scott (House)
-N;CHARSET=UTF-8:Scott (House);Bobby;;;
+FN;CHARSET=UTF-8:Bobby Scott (VA House)
+N;CHARSET=UTF-8:Scott (VA House);Bobby;;;
 TEL;TYPE=WORK,VOICE:202-225-8351
-NOTE;CHARSET=UTF-8:US Representative\, VA\n\nCommittees:\nThe Budget\nEducation and Workforce\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:28.712002
+URL;CHARSET=UTF-8:https://bobbyscott.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from VA\, District 3\n\nCommittees he's on:\n- The Budget\n- Education and Workforce\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:10.260107
 END:VCARD

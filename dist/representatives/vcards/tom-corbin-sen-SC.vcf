@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tom Corbin (Senate)
-N;CHARSET=UTF-8:Corbin (Senate);Tom;;;
+FN;CHARSET=UTF-8:Tom Corbin (SC Senate)
+N;CHARSET=UTF-8:Corbin (SC Senate);Tom;;;
 TEL;TYPE=WORK,VOICE:803-212-6100
-NOTE;CHARSET=UTF-8:SC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:26:24.713586
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tomcorbin@scsenate.gov
+NOTE;CHARSET=UTF-8:Senator in SC Legislature\, District 5\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:00.811679
 END:VCARD

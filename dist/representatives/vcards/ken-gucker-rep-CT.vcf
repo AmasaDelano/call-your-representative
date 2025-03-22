@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ken Gucker (House)
-N;CHARSET=UTF-8:Gucker (House);Ken;;;
+FN;CHARSET=UTF-8:Ken Gucker (CT House)
+N;CHARSET=UTF-8:Gucker (CT House);Ken;;;
 TEL;TYPE=WORK,VOICE:800-842-8267
-NOTE;CHARSET=UTF-8:CT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:45.478419
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ken.gucker@cga.ct.gov
+NOTE;CHARSET=UTF-8:Representative in CT Legislature\, District 138\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:28.144156
 END:VCARD

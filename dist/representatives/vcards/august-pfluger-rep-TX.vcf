@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:August Pfluger (House)
-N;CHARSET=UTF-8:Pfluger (House);August;;;
+FN;CHARSET=UTF-8:August Pfluger (TX House)
+N;CHARSET=UTF-8:Pfluger (TX House);August;;;
 TEL;TYPE=WORK,VOICE:202-225-3605
-NOTE;CHARSET=UTF-8:US Representative\, TX\n\nCommittees:\nHomeland Security\nEnergy and Commerce\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:33.940031
+URL;CHARSET=UTF-8:https://pfluger.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from TX\, District 11\n\nCommittees he's on:\n- Homeland Security\n- Energy and Commerce\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:16.280268
 END:VCARD

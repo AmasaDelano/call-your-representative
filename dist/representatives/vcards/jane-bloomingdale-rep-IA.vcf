@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jane Bloomingdale (House)
-N;CHARSET=UTF-8:Bloomingdale (House);Jane;;;
+FN;CHARSET=UTF-8:Jane Bloomingdale (IA House)
+N;CHARSET=UTF-8:Bloomingdale (IA House);Jane;;;
 TEL;TYPE=WORK,VOICE:515-281-3221
-NOTE;CHARSET=UTF-8:IA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:35.208265
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jane.bloomingdale@legis.iowa.gov
+NOTE;CHARSET=UTF-8:Representative in IA Legislature\, District 60\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:17.599566
 END:VCARD

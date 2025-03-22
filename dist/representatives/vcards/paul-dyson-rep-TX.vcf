@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Paul Dyson (House)
-N;CHARSET=UTF-8:Dyson (House);Paul;;;
+FN;CHARSET=UTF-8:Paul Dyson (TX House)
+N;CHARSET=UTF-8:Dyson (TX House);Paul;;;
 TEL;TYPE=WORK,VOICE:512-463-0698
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:45.722892
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:paul.dyson@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 14\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:46.742572
 END:VCARD

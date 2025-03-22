@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Catherine Cortez Masto (Senate)
-N;CHARSET=UTF-8:Cortez Masto (Senate);Catherine;;;
+FN;CHARSET=UTF-8:Catherine Cortez Masto (NV Senate)
+N;CHARSET=UTF-8:Cortez Masto (NV Senate);Catherine;;;
 TEL;TYPE=WORK,VOICE:202-224-3542
-NOTE;CHARSET=UTF-8:US Senator\, NV\n\nCommittees:\nIndian Affairs\nBanking, Housing, and Urban Affairs\nSecurities, Insurance, and Investment\nNational Security and International Trade and Finance\nFinancial Institutions and Consumer Protection\nEnergy and Natural Resources\nEnergy\nPublic Lands, Forests, and Mining\nWater and Power\nFinance\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:31.006033
+URL;CHARSET=UTF-8:https://www.cortezmasto.senate.gov/contact
+NOTE;CHARSET=UTF-8:US Senator for NV\n\nCommittees she's on:\n- Indian Affairs\n- Banking, Housing, and Urban Affairs\n- Securities, Insurance, and Investment\n- National Security and International Trade and Finance\n- Financial Institutions and Consumer Protection\n- Energy and Natural Resources\n- Energy\n- Public Lands, Forests, and Mining\n- Water and Power\n- Finance\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:12.968701
 END:VCARD

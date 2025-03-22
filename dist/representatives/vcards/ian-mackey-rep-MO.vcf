@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ian Mackey (House)
-N;CHARSET=UTF-8:Mackey (House);Ian;;;
+FN;CHARSET=UTF-8:Ian Mackey (MO House)
+N;CHARSET=UTF-8:Mackey (MO House);Ian;;;
 TEL;TYPE=WORK,VOICE:573-751-3859
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:35.489205
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ian.mackey@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 99\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:12.740828
 END:VCARD

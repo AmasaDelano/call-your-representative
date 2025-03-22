@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Keith Hodges (House)
-N;CHARSET=UTF-8:Hodges (House);Keith;;;
+FN;CHARSET=UTF-8:Keith Hodges (VA House)
+N;CHARSET=UTF-8:Hodges (VA House);Keith;;;
 TEL;TYPE=WORK,VOICE:804-698-1068
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:22.497914
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delkhodges@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 68\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:03.445625
 END:VCARD

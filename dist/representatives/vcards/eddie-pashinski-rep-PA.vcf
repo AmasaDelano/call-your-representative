@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Eddie Pashinski (House)
-N;CHARSET=UTF-8:Pashinski (House);Eddie;;;
+FN;CHARSET=UTF-8:Eddie Pashinski (PA House)
+N;CHARSET=UTF-8:Pashinski (PA House);Eddie;;;
 TEL;TYPE=WORK,VOICE:717-783-0686
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:56.644476
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:reppashinski@pahouse.net
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 121\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:34.760589
 END:VCARD

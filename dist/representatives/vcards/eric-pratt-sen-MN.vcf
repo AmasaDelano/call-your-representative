@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Eric Pratt (Senate)
-N;CHARSET=UTF-8:Pratt (Senate);Eric;;;
+FN;CHARSET=UTF-8:Eric Pratt (MN Senate)
+N;CHARSET=UTF-8:Pratt (MN Senate);Eric;;;
 TEL;TYPE=WORK,VOICE:651-296-4123
-NOTE;CHARSET=UTF-8:MN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:27.716053
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.eric.pratt@senate.mn
+NOTE;CHARSET=UTF-8:Senator in MN Legislature\, District 54\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:05.304060
 END:VCARD

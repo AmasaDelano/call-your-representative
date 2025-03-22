@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Cynthia Lummis (Senate)
-N;CHARSET=UTF-8:Lummis (Senate);Cynthia;;;
+FN;CHARSET=UTF-8:Cynthia Lummis (WY Senate)
+N;CHARSET=UTF-8:Lummis (WY Senate);Cynthia;;;
 TEL;TYPE=WORK,VOICE:202-224-3424
-NOTE;CHARSET=UTF-8:US Senator\, WY\n\nCommittees:\nBanking, Housing, and Urban Affairs\nSecurities, Insurance, and Investment\nFinancial Institutions and Consumer Protection\nDigital Assets\nCommerce, Science, and Transportation\nEnvironment and Public Works\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:33.119857
+URL;CHARSET=UTF-8:https://www.lummis.senate.gov/contact/contact-form/
+NOTE;CHARSET=UTF-8:US Senator for WY\n\nCommittees she's on:\n- Banking, Housing, and Urban Affairs\n- Securities, Insurance, and Investment\n- Financial Institutions and Consumer Protection\n- Digital Assets\n- Commerce, Science, and Transportation\n- Environment and Public Works\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:15.296386
 END:VCARD

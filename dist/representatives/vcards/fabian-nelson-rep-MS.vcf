@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Fabian Nelson (House)
-N;CHARSET=UTF-8:Nelson (House);Fabian;;;
+FN;CHARSET=UTF-8:Fabian Nelson (MS House)
+N;CHARSET=UTF-8:Nelson (MS House);Fabian;;;
 TEL;TYPE=WORK,VOICE:601-359-3728
-NOTE;CHARSET=UTF-8:MS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:31.544967
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:nelson@house.ms.gov
+NOTE;CHARSET=UTF-8:Representative in MS Legislature\, District 66\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:09.210099
 END:VCARD

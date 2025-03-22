@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jamie Pedersen (Senate)
-N;CHARSET=UTF-8:Pedersen (Senate);Jamie;;;
+FN;CHARSET=UTF-8:Jamie Pedersen (WA Senate)
+N;CHARSET=UTF-8:Pedersen (WA Senate);Jamie;;;
 TEL;TYPE=WORK,VOICE:206-729-3206
-NOTE;CHARSET=UTF-8:WA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:24.221831
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jamie.pedersen@leg.wa.gov
+NOTE;CHARSET=UTF-8:Senator in WA Legislature\, District 43\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:05.302313
 END:VCARD

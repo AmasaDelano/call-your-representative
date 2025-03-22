@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Reuben D'Silva (Assembly)
-N;CHARSET=UTF-8:D'Silva (Assembly);Reuben;;;
+FN;CHARSET=UTF-8:Reuben D'Silva (NV Assembly)
+N;CHARSET=UTF-8:D'Silva (NV Assembly);Reuben;;;
 TEL;TYPE=WORK,VOICE:775-684-8583
-NOTE;CHARSET=UTF-8:NV Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:39.770519
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:reuben.dsilva@asm.state.nv.us
+NOTE;CHARSET=UTF-8:Assembly Member in NV Legislature\, District 28\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:16.697100
 END:VCARD

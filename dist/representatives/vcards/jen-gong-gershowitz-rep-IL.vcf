@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jen Gong-Gershowitz (House)
-N;CHARSET=UTF-8:Gong-Gershowitz (House);Jen;;;
+FN;CHARSET=UTF-8:Jen Gong-Gershowitz (IL House)
+N;CHARSET=UTF-8:Gong-Gershowitz (IL House);Jen;;;
 TEL;TYPE=WORK,VOICE:217-782-4194
-NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:57.194142
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:info@gonggershowitz.com
+NOTE;CHARSET=UTF-8:Representative in IL Legislature\, District 17\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:38.800137
 END:VCARD

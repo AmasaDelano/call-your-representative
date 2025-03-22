@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Arch Beal (Senate)
-N;CHARSET=UTF-8:Beal (Senate);Arch;;;
+FN;CHARSET=UTF-8:Arch Beal (SD Senate)
+N;CHARSET=UTF-8:Beal (SD Senate);Arch;;;
 TEL;TYPE=WORK,VOICE:605-773-3821
-NOTE;CHARSET=UTF-8:SD Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:26:55.676983
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:arch.beal@sdlegislature.gov
+NOTE;CHARSET=UTF-8:Senator in SD Legislature\, District 12\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:01.186978
 END:VCARD

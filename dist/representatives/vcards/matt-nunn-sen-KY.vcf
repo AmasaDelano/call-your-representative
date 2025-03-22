@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Matt Nunn (Senate)
-N;CHARSET=UTF-8:Nunn (Senate);Matt;;;
+FN;CHARSET=UTF-8:Matt Nunn (KY Senate)
+N;CHARSET=UTF-8:Nunn (KY Senate);Matt;;;
 TEL;TYPE=WORK,VOICE:502-564-8100
-NOTE;CHARSET=UTF-8:KY Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:21.559297
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:matt.nunn@kylegislature.gov
+NOTE;CHARSET=UTF-8:Senator in KY Legislature\, District 17\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:02.271239
 END:VCARD

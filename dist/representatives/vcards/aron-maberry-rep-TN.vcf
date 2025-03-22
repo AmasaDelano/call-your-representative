@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Aron Maberry (House)
-N;CHARSET=UTF-8:Maberry (House);Aron;;;
+FN;CHARSET=UTF-8:Aron Maberry (TN House)
+N;CHARSET=UTF-8:Maberry (TN House);Aron;;;
 TEL;TYPE=WORK,VOICE:615-741-4341
-NOTE;CHARSET=UTF-8:TN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:02.365162
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.aron.maberry@capitol.tn.gov
+NOTE;CHARSET=UTF-8:Representative in TN Legislature\, District 68\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:06.905849
 END:VCARD

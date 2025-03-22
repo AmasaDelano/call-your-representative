@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Manny De Los Santos (Assembly)
-N;CHARSET=UTF-8:De Los Santos (Assembly);Manny;;;
+FN;CHARSET=UTF-8:Manny De Los Santos (NY Assembly)
+N;CHARSET=UTF-8:De Los Santos (NY Assembly);Manny;;;
 TEL;TYPE=WORK,VOICE:518-455-5807
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:00.647040
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delossm@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 72\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:37.178800
 END:VCARD

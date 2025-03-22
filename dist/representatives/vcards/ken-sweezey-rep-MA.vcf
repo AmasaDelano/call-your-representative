@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ken Sweezey (House)
-N;CHARSET=UTF-8:Sweezey (House);Ken;;;
+FN;CHARSET=UTF-8:Ken Sweezey (MA House)
+N;CHARSET=UTF-8:Sweezey (MA House);Ken;;;
 TEL;TYPE=WORK,VOICE:617-722-2800
-NOTE;CHARSET=UTF-8:MA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:05.052024
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ken.sweezey@mahouse.gov
+NOTE;CHARSET=UTF-8:Representative in MA Legislature\, District 6th Plymouth\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:43.167358
 END:VCARD

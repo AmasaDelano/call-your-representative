@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Sean Bennett (Senate)
-N;CHARSET=UTF-8:Bennett (Senate);Sean;;;
+FN;CHARSET=UTF-8:Sean Bennett (SC Senate)
+N;CHARSET=UTF-8:Bennett (SC Senate);Sean;;;
 TEL;TYPE=WORK,VOICE:803-212-6410
-NOTE;CHARSET=UTF-8:SC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:26:24.563230
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:seanbennett@scsenate.gov
+NOTE;CHARSET=UTF-8:Senator in SC Legislature\, District 38\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:00.620647
 END:VCARD

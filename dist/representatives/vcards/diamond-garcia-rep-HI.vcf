@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Diamond Garcia (House)
-N;CHARSET=UTF-8:Garcia (House);Diamond;;;
+FN;CHARSET=UTF-8:Diamond Garcia (HI House)
+N;CHARSET=UTF-8:Garcia (HI House);Diamond;;;
 TEL;TYPE=WORK,VOICE:808-586-8500
-NOTE;CHARSET=UTF-8:HI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:51.640161
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:repgarcia@capitol.hawaii.gov
+NOTE;CHARSET=UTF-8:Representative in HI Legislature\, District 42\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:33.510089
 END:VCARD

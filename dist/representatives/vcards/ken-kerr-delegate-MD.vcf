@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ken Kerr (House)
-N;CHARSET=UTF-8:Kerr (House);Ken;;;
+FN;CHARSET=UTF-8:Ken Kerr (MD House)
+N;CHARSET=UTF-8:Kerr (MD House);Ken;;;
 TEL;TYPE=WORK,VOICE:410-841-3240
-NOTE;CHARSET=UTF-8:MD Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:02.918232
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ken.kerr@house.state.md.us
+NOTE;CHARSET=UTF-8:Delegate in MD Legislature\, District 3\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:41.102241
 END:VCARD

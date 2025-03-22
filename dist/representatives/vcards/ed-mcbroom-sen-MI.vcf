@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ed McBroom (Senate)
-N;CHARSET=UTF-8:McBroom (Senate);Ed;;;
+FN;CHARSET=UTF-8:Ed McBroom (MI Senate)
+N;CHARSET=UTF-8:McBroom (MI Senate);Ed;;;
 TEL;TYPE=WORK,VOICE:517-373-7840
-NOTE;CHARSET=UTF-8:MI Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:12.218660
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senemcbroom@senate.michigan.gov
+NOTE;CHARSET=UTF-8:Senator in MI Legislature\, District 38\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:48.914471
 END:VCARD

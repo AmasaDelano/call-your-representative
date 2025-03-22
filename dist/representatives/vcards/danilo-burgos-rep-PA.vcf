@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Danilo Burgos (House)
-N;CHARSET=UTF-8:Burgos (House);Danilo;;;
+FN;CHARSET=UTF-8:Danilo Burgos (PA House)
+N;CHARSET=UTF-8:Burgos (PA House);Danilo;;;
 TEL;TYPE=WORK,VOICE:717-772-2004
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:52.514648
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:dburgos@pahouse.net
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 197\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:30.856633
 END:VCARD

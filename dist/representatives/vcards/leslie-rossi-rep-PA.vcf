@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Leslie Rossi (House)
-N;CHARSET=UTF-8:Rossi (House);Leslie;;;
+FN;CHARSET=UTF-8:Leslie Rossi (PA House)
+N;CHARSET=UTF-8:Rossi (PA House);Leslie;;;
 TEL;TYPE=WORK,VOICE:717-783-9311
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:18.794694
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lrossi@pahousegop.com
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 59\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:57.191747
 END:VCARD

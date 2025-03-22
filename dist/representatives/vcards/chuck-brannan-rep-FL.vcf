@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Chuck Brannan (House)
-N;CHARSET=UTF-8:Brannan (House);Chuck;;;
+FN;CHARSET=UTF-8:Chuck Brannan (FL House)
+N;CHARSET=UTF-8:Brannan (FL House);Chuck;;;
 TEL;TYPE=WORK,VOICE:850-717-5010
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:33.983530
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:chuck.brannan@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 10\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:16.612139
 END:VCARD

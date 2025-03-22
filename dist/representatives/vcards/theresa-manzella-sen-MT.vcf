@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Theresa Manzella (Senate)
-N;CHARSET=UTF-8:Manzella (Senate);Theresa;;;
+FN;CHARSET=UTF-8:Theresa Manzella (MT Senate)
+N;CHARSET=UTF-8:Manzella (MT Senate);Theresa;;;
 TEL;TYPE=WORK,VOICE:406-546-9462
-NOTE;CHARSET=UTF-8:MT Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:38.505780
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:theresa.manzella@legmt.gov
+NOTE;CHARSET=UTF-8:Senator in MT Legislature\, District 44\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:15.442724
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:David Borrero (House)
-N;CHARSET=UTF-8:Borrero (House);David;;;
+FN;CHARSET=UTF-8:David Borrero (FL House)
+N;CHARSET=UTF-8:Borrero (FL House);David;;;
 TEL;TYPE=WORK,VOICE:850-717-5111
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:05.348459
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:david.borrero@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 111\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:48.535965
 END:VCARD

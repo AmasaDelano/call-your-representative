@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kyle Yamashita (House)
-N;CHARSET=UTF-8:Yamashita (House);Kyle;;;
+FN;CHARSET=UTF-8:Kyle Yamashita (HI House)
+N;CHARSET=UTF-8:Yamashita (HI House);Kyle;;;
 TEL;TYPE=WORK,VOICE:808-586-6330
-NOTE;CHARSET=UTF-8:HI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:53.131622
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:repyamashita@capitol.hawaii.gov
+NOTE;CHARSET=UTF-8:Representative in HI Legislature\, District 12\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:34.891825
 END:VCARD

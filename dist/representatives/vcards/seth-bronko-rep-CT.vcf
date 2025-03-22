@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Seth Bronko (House)
-N;CHARSET=UTF-8:Bronko (House);Seth;;;
+FN;CHARSET=UTF-8:Seth Bronko (CT House)
+N;CHARSET=UTF-8:Bronko (CT House);Seth;;;
 TEL;TYPE=WORK,VOICE:860-240-8700
-NOTE;CHARSET=UTF-8:CT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:53.756380
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:seth.bronko@housegop.ct.gov
+NOTE;CHARSET=UTF-8:Representative in CT Legislature\, District 70\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:36.572280
 END:VCARD

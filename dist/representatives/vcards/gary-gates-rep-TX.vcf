@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Gary Gates (House)
-N;CHARSET=UTF-8:Gates (House);Gary;;;
+FN;CHARSET=UTF-8:Gary Gates (TX House)
+N;CHARSET=UTF-8:Gates (TX House);Gary;;;
 TEL;TYPE=WORK,VOICE:512-463-0657
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:26.233816
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:gary.gates@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 28\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:29.178217
 END:VCARD

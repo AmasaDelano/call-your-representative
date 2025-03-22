@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Annette Sweeney (Senate)
-N;CHARSET=UTF-8:Sweeney (Senate);Annette;;;
+FN;CHARSET=UTF-8:Annette Sweeney (IA Senate)
+N;CHARSET=UTF-8:Sweeney (IA Senate);Annette;;;
 TEL;TYPE=WORK,VOICE:515-281-3371
-NOTE;CHARSET=UTF-8:IA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:34.519432
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:annette.sweeney@legis.iowa.gov
+NOTE;CHARSET=UTF-8:Senator in IA Legislature\, District 27\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:16.999308
 END:VCARD

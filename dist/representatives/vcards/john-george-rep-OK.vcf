@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:John George (House)
-N;CHARSET=UTF-8:George (House);John;;;
+FN;CHARSET=UTF-8:John George (OK House)
+N;CHARSET=UTF-8:George (OK House);John;;;
 TEL;TYPE=WORK,VOICE:405-557-7322
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:27.347920
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:john.george@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 36\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:06.532001
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tim Burchett (House)
-N;CHARSET=UTF-8:Burchett (House);Tim;;;
+FN;CHARSET=UTF-8:Tim Burchett (TN House)
+N;CHARSET=UTF-8:Burchett (TN House);Tim;;;
 TEL;TYPE=WORK,VOICE:202-225-5435
-NOTE;CHARSET=UTF-8:US Representative\, TN\n\nCommittees:\nForeign Affairs\nOversight and Government Reform\nTransportation and Infrastructure\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:32.716833
+URL;CHARSET=UTF-8:https://burchett.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from TN\, District 2\n\nCommittees he's on:\n- Foreign Affairs\n- Oversight and Government Reform\n- Transportation and Infrastructure\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:14.825436
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Steve Wilson (Senate)
-N;CHARSET=UTF-8:Wilson (Senate);Steve;;;
+FN;CHARSET=UTF-8:Steve Wilson (OH Senate)
+N;CHARSET=UTF-8:Wilson (OH Senate);Steve;;;
 TEL;TYPE=WORK,VOICE:614-466-9737
-NOTE;CHARSET=UTF-8:OH Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:18.369941
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sd07@ohiosenate.gov
+NOTE;CHARSET=UTF-8:Senator in OH Legislature\, District 7\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:58.226799
 END:VCARD

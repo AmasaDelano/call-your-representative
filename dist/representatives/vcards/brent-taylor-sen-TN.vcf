@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brent Taylor (Senate)
-N;CHARSET=UTF-8:Taylor (Senate);Brent;;;
+FN;CHARSET=UTF-8:Brent Taylor (TN Senate)
+N;CHARSET=UTF-8:Taylor (TN Senate);Brent;;;
 TEL;TYPE=WORK,VOICE:615-741-3036
-NOTE;CHARSET=UTF-8:TN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:02.703039
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.brent.taylor@capitol.tn.gov
+NOTE;CHARSET=UTF-8:Senator in TN Legislature\, District 31\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:07.217254
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Cherie Cruz (House)
-N;CHARSET=UTF-8:Cruz (House);Cherie;;;
+FN;CHARSET=UTF-8:Cherie Cruz (RI House)
+N;CHARSET=UTF-8:Cruz (RI House);Cherie;;;
 TEL;TYPE=WORK,VOICE:401-222-3580
-NOTE;CHARSET=UTF-8:RI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:48.963791
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep-cruz@rilegislature.gov
+NOTE;CHARSET=UTF-8:Representative in RI Legislature\, District 58\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:25.327099
 END:VCARD

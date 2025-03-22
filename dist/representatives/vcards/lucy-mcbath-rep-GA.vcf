@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lucy McBath (House)
-N;CHARSET=UTF-8:McBath (House);Lucy;;;
+FN;CHARSET=UTF-8:Lucy McBath (GA House)
+N;CHARSET=UTF-8:McBath (GA House);Lucy;;;
 TEL;TYPE=WORK,VOICE:202-225-4501
-NOTE;CHARSET=UTF-8:US Representative\, GA\n\nCommittees:\nEducation and Workforce\nThe Judiciary\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:32.156169
+URL;CHARSET=UTF-8:https://mcbath.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from GA\, District 6\n\nCommittees she's on:\n- Education and Workforce\n- The Judiciary\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:14.145826
 END:VCARD

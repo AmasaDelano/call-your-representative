@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Clare Oumou Verbeten (Senate)
-N;CHARSET=UTF-8:Oumou Verbeten (Senate);Clare;;;
+FN;CHARSET=UTF-8:Clare Oumou Verbeten (MN Senate)
+N;CHARSET=UTF-8:Oumou Verbeten (MN Senate);Clare;;;
 TEL;TYPE=WORK,VOICE:651-296-8866
-NOTE;CHARSET=UTF-8:MN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:27.327205
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.clare.oumou.verbeten@senate.mn
+NOTE;CHARSET=UTF-8:Senator in MN Legislature\, District 66\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:05.184090
 END:VCARD

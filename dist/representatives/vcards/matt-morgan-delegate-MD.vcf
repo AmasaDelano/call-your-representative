@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Matt Morgan (House)
-N;CHARSET=UTF-8:Morgan (House);Matt;;;
+FN;CHARSET=UTF-8:Matt Morgan (MD House)
+N;CHARSET=UTF-8:Morgan (MD House);Matt;;;
 TEL;TYPE=WORK,VOICE:410-841-3170
-NOTE;CHARSET=UTF-8:MD Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:03.206185
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:matt.morgan@house.state.md.us
+NOTE;CHARSET=UTF-8:Delegate in MD Legislature\, District 29A\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:41.364043
 END:VCARD

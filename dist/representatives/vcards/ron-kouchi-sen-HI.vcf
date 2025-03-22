@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ron Kouchi (Senate)
-N;CHARSET=UTF-8:Kouchi (Senate);Ron;;;
+FN;CHARSET=UTF-8:Ron Kouchi (HI Senate)
+N;CHARSET=UTF-8:Kouchi (HI Senate);Ron;;;
 TEL;TYPE=WORK,VOICE:808-586-6030
-NOTE;CHARSET=UTF-8:HI Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:54.207763
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senkouchi@capitol.hawaii.gov
+NOTE;CHARSET=UTF-8:Senator in HI Legislature\, District 8\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:35.910066
 END:VCARD

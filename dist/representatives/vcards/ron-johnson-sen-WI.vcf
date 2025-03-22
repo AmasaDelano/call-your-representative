@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ron Johnson (Senate)
-N;CHARSET=UTF-8:Johnson (Senate);Ron;;;
+FN;CHARSET=UTF-8:Ron Johnson (WI Senate)
+N;CHARSET=UTF-8:Johnson (WI Senate);Ron;;;
 TEL;TYPE=WORK,VOICE:202-224-5323
-NOTE;CHARSET=UTF-8:US Senator\, WI\n\nCommittees:\nSenate Special Committee on Aging\nThe Budget\nFinance\nHomeland Security and Governmental Affairs\nPermanent Subcommittee on Investigations\nBorder Management, Federal Workforce, and Regulatory Affairs\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:27.842958
+URL;CHARSET=UTF-8:https://www.ronjohnson.senate.gov/public/index.cfm/email-the-senator
+NOTE;CHARSET=UTF-8:US Senator for WI\n\nCommittees he's on:\n- Senate Special Committee on Aging\n- The Budget\n- Finance\n- Homeland Security and Governmental Affairs\n- Permanent Subcommittee on Investigations\n- Border Management, Federal Workforce, and Regulatory Affairs\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:09.259200
 END:VCARD

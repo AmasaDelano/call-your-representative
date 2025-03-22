@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ramon Perez (House)
-N;CHARSET=UTF-8:Perez (House);Ramon;;;
+FN;CHARSET=UTF-8:Ramon Perez (RI House)
+N;CHARSET=UTF-8:Perez (RI House);Ramon;;;
 TEL;TYPE=WORK,VOICE:401-222-3580
-NOTE;CHARSET=UTF-8:RI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:51.194112
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep-perez@rilegislature.gov
+NOTE;CHARSET=UTF-8:Representative in RI Legislature\, District 13\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:27.496987
 END:VCARD

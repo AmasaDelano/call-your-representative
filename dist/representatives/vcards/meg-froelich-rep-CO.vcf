@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Meg Froelich (House)
-N;CHARSET=UTF-8:Froelich (House);Meg;;;
+FN;CHARSET=UTF-8:Meg Froelich (CO House)
+N;CHARSET=UTF-8:Froelich (CO House);Meg;;;
 TEL;TYPE=WORK,VOICE:303-866-2921
-NOTE;CHARSET=UTF-8:CO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:18.092352
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:meg.froelich.house@coleg.gov
+NOTE;CHARSET=UTF-8:Representative in CO Legislature\, District 3\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:02.537420
 END:VCARD

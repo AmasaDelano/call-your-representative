@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Julie Mayfield (Senate)
-N;CHARSET=UTF-8:Mayfield (Senate);Julie;;;
+FN;CHARSET=UTF-8:Julie Mayfield (NC Senate)
+N;CHARSET=UTF-8:Mayfield (NC Senate);Julie;;;
 TEL;TYPE=WORK,VOICE:919-715-3001
-NOTE;CHARSET=UTF-8:NC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:11.174960
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:julie.mayfield@ncleg.gov
+NOTE;CHARSET=UTF-8:Senator in NC Legislature\, District 49\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:49.358886
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Blake Johnson (House)
-N;CHARSET=UTF-8:Johnson (House);Blake;;;
+FN;CHARSET=UTF-8:Blake Johnson (IN House)
+N;CHARSET=UTF-8:Johnson (IN House);Blake;;;
 TEL;TYPE=WORK,VOICE:800-382-9842
-NOTE;CHARSET=UTF-8:IN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:59.561648
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:h100@iga.in.gov
+NOTE;CHARSET=UTF-8:Representative in IN Legislature\, District 100\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:41.159925
 END:VCARD

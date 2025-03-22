@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brad Stephens (House)
-N;CHARSET=UTF-8:Stephens (House);Brad;;;
+FN;CHARSET=UTF-8:Brad Stephens (IL House)
+N;CHARSET=UTF-8:Stephens (IL House);Brad;;;
 TEL;TYPE=WORK,VOICE:217-782-8182
-NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:56.590373
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:stephens@ilhousegop.org
+NOTE;CHARSET=UTF-8:Representative in IL Legislature\, District 20\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:38.190144
 END:VCARD

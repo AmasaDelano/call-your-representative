@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Sharon Santos (House)
-N;CHARSET=UTF-8:Santos (House);Sharon;;;
+FN;CHARSET=UTF-8:Sharon Santos (WA House)
+N;CHARSET=UTF-8:Santos (WA House);Sharon;;;
 TEL;TYPE=WORK,VOICE:360-786-7944
-NOTE;CHARSET=UTF-8:WA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:25.004319
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sharontomiko.santos@leg.wa.gov
+NOTE;CHARSET=UTF-8:Representative in WA Legislature\, District 37\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:06.189148
 END:VCARD

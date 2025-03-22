@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Angelica Guerrero-Cuellar (House)
-N;CHARSET=UTF-8:Guerrero-Cuellar (House);Angelica;;;
+FN;CHARSET=UTF-8:Angelica Guerrero-Cuellar (IL House)
+N;CHARSET=UTF-8:Guerrero-Cuellar (IL House);Angelica;;;
 TEL;TYPE=WORK,VOICE:217-782-0584
-NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:56.457635
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:angieguerrerocuellar22@gmail.com
+NOTE;CHARSET=UTF-8:Representative in IL Legislature\, District 22\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:38.050376
 END:VCARD

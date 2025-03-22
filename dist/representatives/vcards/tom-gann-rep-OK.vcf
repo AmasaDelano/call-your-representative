@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tom Gann (House)
-N;CHARSET=UTF-8:Gann (House);Tom;;;
+FN;CHARSET=UTF-8:Tom Gann (OK House)
+N;CHARSET=UTF-8:Gann (OK House);Tom;;;
 TEL;TYPE=WORK,VOICE:405-557-7364
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:35.546221
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tom.gann@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 8\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:14.243665
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Schietzelt (House)
-N;CHARSET=UTF-8:Schietzelt (House);Mike;;;
+FN;CHARSET=UTF-8:Mike Schietzelt (NC House)
+N;CHARSET=UTF-8:Schietzelt (NC House);Mike;;;
 TEL;TYPE=WORK,VOICE:919-715-3010
-NOTE;CHARSET=UTF-8:NC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:12.295008
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mike.schietzelt@ncleg.gov
+NOTE;CHARSET=UTF-8:Representative in NC Legislature\, District 35\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:50.879473
 END:VCARD

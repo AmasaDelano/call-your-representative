@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Paul Rosino (Senate)
-N;CHARSET=UTF-8:Rosino (Senate);Paul;;;
+FN;CHARSET=UTF-8:Paul Rosino (OK Senate)
+N;CHARSET=UTF-8:Rosino (OK Senate);Paul;;;
 TEL;TYPE=WORK,VOICE:405-521-5618
-NOTE;CHARSET=UTF-8:OK Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:33.012803
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rosino@oksenate.gov
+NOTE;CHARSET=UTF-8:Senator in OK Legislature\, District 45\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:11.760609
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Neese (House)
-N;CHARSET=UTF-8:Neese (House);Mike;;;
+FN;CHARSET=UTF-8:Mike Neese (SC House)
+N;CHARSET=UTF-8:Neese (SC House);Mike;;;
 TEL;TYPE=WORK,VOICE:803-212-6937
-NOTE;CHARSET=UTF-8:SC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:26:23.630726
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mikeneese@schouse.gov
+NOTE;CHARSET=UTF-8:Representative in SC Legislature\, District 44\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:59.619301
 END:VCARD

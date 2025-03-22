@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Leonard Christian (Senate)
-N;CHARSET=UTF-8:Christian (Senate);Leonard;;;
+FN;CHARSET=UTF-8:Leonard Christian (WA Senate)
+N;CHARSET=UTF-8:Christian (WA Senate);Leonard;;;
 TEL;TYPE=WORK,VOICE:360-786-7606
-NOTE;CHARSET=UTF-8:WA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:24.551996
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:leonard.christian@leg.wa.gov
+NOTE;CHARSET=UTF-8:Senator in WA Legislature\, District 4\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:05.721248
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tim Moore (House)
-N;CHARSET=UTF-8:Moore (House);Tim;;;
+FN;CHARSET=UTF-8:Tim Moore (NC House)
+N;CHARSET=UTF-8:Moore (NC House);Tim;;;
 TEL;TYPE=WORK,VOICE:202-225-5634
-NOTE;CHARSET=UTF-8:US Representative\, NC\n\nCommittees:\nFinancial Services\nThe Budget\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:42.956752
+URL;CHARSET=UTF-8:https://timmoore.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from NC\, District 14\n\nCommittees he's on:\n- Financial Services\n- The Budget\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:24.798361
 END:VCARD

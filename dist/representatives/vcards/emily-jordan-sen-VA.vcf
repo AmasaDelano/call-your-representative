@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Emily Jordan (Senate)
-N;CHARSET=UTF-8:Jordan (Senate);Emily;;;
+FN;CHARSET=UTF-8:Emily Jordan (VA Senate)
+N;CHARSET=UTF-8:Jordan (VA Senate);Emily;;;
 TEL;TYPE=WORK,VOICE:804-698-7517
-NOTE;CHARSET=UTF-8:VA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:21.908928
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senatorjordan@senate.virginia.gov
+NOTE;CHARSET=UTF-8:Senator in VA Legislature\, District 17\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:02.876396
 END:VCARD

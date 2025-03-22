@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Stephanie Hansen (Senate)
-N;CHARSET=UTF-8:Hansen (Senate);Stephanie;;;
+FN;CHARSET=UTF-8:Stephanie Hansen (DE Senate)
+N;CHARSET=UTF-8:Hansen (DE Senate);Stephanie;;;
 TEL;TYPE=WORK,VOICE:302-744-4138
-NOTE;CHARSET=UTF-8:DE Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:56.306538
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:stephanie.hansen@delaware.gov
+NOTE;CHARSET=UTF-8:Senator in DE Legislature\, District 10\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:38.839706
 END:VCARD

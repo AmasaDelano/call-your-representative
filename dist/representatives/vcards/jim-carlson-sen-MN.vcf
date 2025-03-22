@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jim Carlson (Senate)
-N;CHARSET=UTF-8:Carlson (Senate);Jim;;;
+FN;CHARSET=UTF-8:Jim Carlson (MN Senate)
+N;CHARSET=UTF-8:Carlson (MN Senate);Jim;;;
 TEL;TYPE=WORK,VOICE:651-297-8073
-NOTE;CHARSET=UTF-8:MN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:28.065966
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.jim.carlson@senate.mn
+NOTE;CHARSET=UTF-8:Senator in MN Legislature\, District 52\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:05.592589
 END:VCARD

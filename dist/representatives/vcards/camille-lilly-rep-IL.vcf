@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Camille Lilly (House)
-N;CHARSET=UTF-8:Lilly (House);Camille;;;
+FN;CHARSET=UTF-8:Camille Lilly (IL House)
+N;CHARSET=UTF-8:Lilly (IL House);Camille;;;
 TEL;TYPE=WORK,VOICE:217-782-6400
-NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:56.607855
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:staterepcamilleylilly@gmail.com
+NOTE;CHARSET=UTF-8:Representative in IL Legislature\, District 78\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:38.214910
 END:VCARD

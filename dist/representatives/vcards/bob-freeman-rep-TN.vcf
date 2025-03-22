@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bob Freeman (House)
-N;CHARSET=UTF-8:Freeman (House);Bob;;;
+FN;CHARSET=UTF-8:Bob Freeman (TN House)
+N;CHARSET=UTF-8:Freeman (TN House);Bob;;;
 TEL;TYPE=WORK,VOICE:615-741-0709
-NOTE;CHARSET=UTF-8:TN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:02.673784
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.bob.freeman@capitol.tn.gov
+NOTE;CHARSET=UTF-8:Representative in TN Legislature\, District 56\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:07.191517
 END:VCARD

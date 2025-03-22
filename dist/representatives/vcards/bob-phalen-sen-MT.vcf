@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bob Phalen (Senate)
-N;CHARSET=UTF-8:Phalen (Senate);Bob;;;
+FN;CHARSET=UTF-8:Bob Phalen (MT Senate)
+N;CHARSET=UTF-8:Phalen (MT Senate);Bob;;;
 TEL;TYPE=WORK,VOICE:406-939-1187
-NOTE;CHARSET=UTF-8:MT Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:37.045680
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bobby.phalen@legmt.gov
+NOTE;CHARSET=UTF-8:Senator in MT Legislature\, District 17\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:13.978583
 END:VCARD

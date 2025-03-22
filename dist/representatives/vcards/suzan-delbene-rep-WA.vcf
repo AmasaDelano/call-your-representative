@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Suzan DelBene (House)
-N;CHARSET=UTF-8:DelBene (House);Suzan;;;
+FN;CHARSET=UTF-8:Suzan DelBene (WA House)
+N;CHARSET=UTF-8:DelBene (WA House);Suzan;;;
 TEL;TYPE=WORK,VOICE:202-225-6311
-NOTE;CHARSET=UTF-8:US Representative\, WA\n\nCommittees:\nWays and Means\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:29.311774
+URL;CHARSET=UTF-8:https://delbene.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from WA\, District 1\n\nCommittees she's on:\n- Ways and Means\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:10.972411
 END:VCARD

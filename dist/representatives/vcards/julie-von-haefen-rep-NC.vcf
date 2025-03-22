@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Julie von Haefen (House)
-N;CHARSET=UTF-8:von Haefen (House);Julie;;;
+FN;CHARSET=UTF-8:Julie von Haefen (NC House)
+N;CHARSET=UTF-8:von Haefen (NC House);Julie;;;
 TEL;TYPE=WORK,VOICE:919-715-0795
-NOTE;CHARSET=UTF-8:NC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:11.185054
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:julie.vonhaefen@ncleg.gov
+NOTE;CHARSET=UTF-8:Representative in NC Legislature\, District 36\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:49.374588
 END:VCARD

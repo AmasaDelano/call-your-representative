@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Patrick Sheehan (House)
-N;CHARSET=UTF-8:Sheehan (House);Patrick;;;
+FN;CHARSET=UTF-8:Patrick Sheehan (IL House)
+N;CHARSET=UTF-8:Sheehan (IL House);Patrick;;;
 TEL;TYPE=WORK,VOICE:217-782-0424
-NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:57.907717
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:repsheehan@hrs.ilga.gov
+NOTE;CHARSET=UTF-8:Representative in IL Legislature\, District 37\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:39.530125
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Arturo Alonso (House)
-N;CHARSET=UTF-8:Alonso (House);Arturo;;;
+FN;CHARSET=UTF-8:Arturo Alonso (OK House)
+N;CHARSET=UTF-8:Alonso (OK House);Arturo;;;
 TEL;TYPE=WORK,VOICE:405-557-7397
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:19.894970
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:arturo.alonso@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 89\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:59.894725
 END:VCARD

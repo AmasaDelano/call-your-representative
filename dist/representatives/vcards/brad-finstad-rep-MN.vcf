@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brad Finstad (House)
-N;CHARSET=UTF-8:Finstad (House);Brad;;;
+FN;CHARSET=UTF-8:Brad Finstad (MN House)
+N;CHARSET=UTF-8:Finstad (MN House);Brad;;;
 TEL;TYPE=WORK,VOICE:202-225-2472
-NOTE;CHARSET=UTF-8:US Representative\, MN\n\nCommittees:\nAgriculture\nNutrition and Foreign Agriculture\nGeneral Farm Commodities, Risk Management, and Credit\nCommodity Markets, Digital Assets, and Rural Development\nLivestock, Dairy, and Poultry\nArmed Services\nSmall Business\nRural Development, Energy, and Supply Chains\nOversight, Investigations, and Regulations\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:34.450738
+URL;CHARSET=UTF-8:https://finstad.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from MN\, District 1\n\nCommittees he's on:\n- Agriculture\n- Nutrition and Foreign Agriculture\n- General Farm Commodities, Risk Management, and Credit\n- Commodity Markets, Digital Assets, and Rural Development\n- Livestock, Dairy, and Poultry\n- Armed Services\n- Small Business\n- Rural Development, Energy, and Supply Chains\n- Oversight, Investigations, and Regulations\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:16.739558
 END:VCARD

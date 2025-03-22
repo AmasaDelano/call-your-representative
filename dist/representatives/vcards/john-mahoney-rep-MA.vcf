@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:John Mahoney (House)
-N;CHARSET=UTF-8:Mahoney (House);John;;;
+FN;CHARSET=UTF-8:John Mahoney (MA House)
+N;CHARSET=UTF-8:Mahoney (MA House);John;;;
 TEL;TYPE=WORK,VOICE:617-722-2575
-NOTE;CHARSET=UTF-8:MA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:04.807816
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:john.mahoney@mahouse.gov
+NOTE;CHARSET=UTF-8:Representative in MA Legislature\, District 13th Worcester\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:42.996215
 END:VCARD

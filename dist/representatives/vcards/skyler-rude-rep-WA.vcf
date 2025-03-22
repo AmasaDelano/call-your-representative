@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Skyler Rude (House)
-N;CHARSET=UTF-8:Rude (House);Skyler;;;
+FN;CHARSET=UTF-8:Skyler Rude (WA House)
+N;CHARSET=UTF-8:Rude (WA House);Skyler;;;
 TEL;TYPE=WORK,VOICE:360-786-7828
-NOTE;CHARSET=UTF-8:WA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:25.056107
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:skyler.rude@leg.wa.gov
+NOTE;CHARSET=UTF-8:Representative in WA Legislature\, District 16\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:06.236258
 END:VCARD

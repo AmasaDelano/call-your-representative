@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rhodesia Ransom (Assembly)
-N;CHARSET=UTF-8:Ransom (Assembly);Rhodesia;;;
+FN;CHARSET=UTF-8:Rhodesia Ransom (CA Assembly)
+N;CHARSET=UTF-8:Ransom (CA Assembly);Rhodesia;;;
 TEL;TYPE=WORK,VOICE:916-319-2013
-NOTE;CHARSET=UTF-8:CA Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:41.946645
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:assemblymember.ransom@assembly.ca.gov
+NOTE;CHARSET=UTF-8:Assembly Member in CA Legislature\, District 13\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:34.541323
 END:VCARD

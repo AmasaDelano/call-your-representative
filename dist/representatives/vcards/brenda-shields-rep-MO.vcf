@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brenda Shields (House)
-N;CHARSET=UTF-8:Shields (House);Brenda;;;
+FN;CHARSET=UTF-8:Brenda Shields (MO House)
+N;CHARSET=UTF-8:Shields (MO House);Brenda;;;
 TEL;TYPE=WORK,VOICE:573-751-3643
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:34.937885
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:brenda.shields@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 11\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:12.200382
 END:VCARD

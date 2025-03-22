@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Eric Nelson (House)
-N;CHARSET=UTF-8:Nelson (House);Eric;;;
+FN;CHARSET=UTF-8:Eric Nelson (PA House)
+N;CHARSET=UTF-8:Nelson (PA House);Eric;;;
 TEL;TYPE=WORK,VOICE:717-260-6146
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:58.157690
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:enelson@pahousegop.com
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 57\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:36.269076
 END:VCARD

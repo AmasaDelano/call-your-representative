@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Shane Abbott (House)
-N;CHARSET=UTF-8:Abbott (House);Shane;;;
+FN;CHARSET=UTF-8:Shane Abbott (FL House)
+N;CHARSET=UTF-8:Abbott (FL House);Shane;;;
 TEL;TYPE=WORK,VOICE:850-717-5005
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:35.848065
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:shane.abbott@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 5\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:18.530282
 END:VCARD

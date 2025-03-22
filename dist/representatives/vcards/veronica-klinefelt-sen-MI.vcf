@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Veronica Klinefelt (Senate)
-N;CHARSET=UTF-8:Klinefelt (Senate);Veronica;;;
+FN;CHARSET=UTF-8:Veronica Klinefelt (MI Senate)
+N;CHARSET=UTF-8:Klinefelt (MI Senate);Veronica;;;
 TEL;TYPE=WORK,VOICE:517-373-7670
-NOTE;CHARSET=UTF-8:MI Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:26.720126
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senvklinefelt@senate.michigan.gov
+NOTE;CHARSET=UTF-8:Senator in MI Legislature\, District 11\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:04.460097
 END:VCARD

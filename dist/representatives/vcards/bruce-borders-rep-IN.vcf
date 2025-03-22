@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bruce Borders (House)
-N;CHARSET=UTF-8:Borders (House);Bruce;;;
+FN;CHARSET=UTF-8:Bruce Borders (IN House)
+N;CHARSET=UTF-8:Borders (IN House);Bruce;;;
 TEL;TYPE=WORK,VOICE:317-232-9647
-NOTE;CHARSET=UTF-8:IN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:00.994430
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:h45@iga.in.gov
+NOTE;CHARSET=UTF-8:Representative in IN Legislature\, District 45\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:42.556321
 END:VCARD

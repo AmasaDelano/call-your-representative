@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brandon Gill (House)
-N;CHARSET=UTF-8:Gill (House);Brandon;;;
+FN;CHARSET=UTF-8:Brandon Gill (TX House)
+N;CHARSET=UTF-8:Gill (TX House);Brandon;;;
 TEL;TYPE=WORK,VOICE:202-225-7772
-NOTE;CHARSET=UTF-8:US Representative\, TX\n\nCommittees:\nThe Budget\nOversight and Government Reform\nThe Judiciary\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:44.991910
+URL;CHARSET=UTF-8:https://gill.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from TX\, District 26\n\nCommittees he's on:\n- The Budget\n- Oversight and Government Reform\n- The Judiciary\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:26.715503
 END:VCARD

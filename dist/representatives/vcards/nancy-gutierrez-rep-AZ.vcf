@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Nancy Gutierrez (House)
-N;CHARSET=UTF-8:Gutierrez (House);Nancy;;;
+FN;CHARSET=UTF-8:Nancy Gutierrez (AZ House)
+N;CHARSET=UTF-8:Gutierrez (AZ House);Nancy;;;
 TEL;TYPE=WORK,VOICE:602-926-4134
-NOTE;CHARSET=UTF-8:AZ Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:24.789702
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ngutierrez@azleg.gov
+NOTE;CHARSET=UTF-8:Representative in AZ Legislature\, District 18\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:17.256653
 END:VCARD

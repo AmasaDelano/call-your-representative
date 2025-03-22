@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Liz May (House)
-N;CHARSET=UTF-8:May (House);Liz;;;
+FN;CHARSET=UTF-8:Liz May (SD House)
+N;CHARSET=UTF-8:May (SD House);Liz;;;
 TEL;TYPE=WORK,VOICE:605-773-3851
-NOTE;CHARSET=UTF-8:SD Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:00.133056
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:liz.may@sdlegislature.gov
+NOTE;CHARSET=UTF-8:Representative in SD Legislature\, District 27\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:04.725087
 END:VCARD

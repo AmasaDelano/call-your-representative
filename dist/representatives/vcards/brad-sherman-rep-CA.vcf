@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brad Sherman (House)
-N;CHARSET=UTF-8:Sherman (House);Brad;;;
+FN;CHARSET=UTF-8:Brad Sherman (CA House)
+N;CHARSET=UTF-8:Sherman (CA House);Brad;;;
 TEL;TYPE=WORK,VOICE:202-225-5911
-NOTE;CHARSET=UTF-8:US Representative\, CA\n\nCommittees:\nFinancial Services\nForeign Affairs\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:28.766115
+URL;CHARSET=UTF-8:https://sherman.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from CA\, District 32\n\nCommittees he's on:\n- Financial Services\n- Foreign Affairs\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:10.341061
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kelly Dooner (Senate)
-N;CHARSET=UTF-8:Dooner (Senate);Kelly;;;
+FN;CHARSET=UTF-8:Kelly Dooner (MA Senate)
+N;CHARSET=UTF-8:Dooner (MA Senate);Kelly;;;
 TEL;TYPE=WORK,VOICE:617-722-1551
-NOTE;CHARSET=UTF-8:MA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:05.024541
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:kelly.dooner@masenate.gov
+NOTE;CHARSET=UTF-8:Senator in MA Legislature\, District Third Bristol and Plymouth\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:43.143626
 END:VCARD

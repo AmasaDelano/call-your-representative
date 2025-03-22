@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Doc Rhett (Senate)
-N;CHARSET=UTF-8:Rhett (Senate);Doc;;;
+FN;CHARSET=UTF-8:Doc Rhett (GA Senate)
+N;CHARSET=UTF-8:Rhett (GA Senate);Doc;;;
 TEL;TYPE=WORK,VOICE:404-656-0054
-NOTE;CHARSET=UTF-8:GA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:46.027712
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:michael.rhett@senate.ga.gov
+NOTE;CHARSET=UTF-8:Senator in GA Legislature\, District 33\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:28.250201
 END:VCARD

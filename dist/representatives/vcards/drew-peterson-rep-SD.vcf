@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Drew Peterson (House)
-N;CHARSET=UTF-8:Peterson (House);Drew;;;
+FN;CHARSET=UTF-8:Drew Peterson (SD House)
+N;CHARSET=UTF-8:Peterson (SD House);Drew;;;
 TEL;TYPE=WORK,VOICE:605-773-3851
-NOTE;CHARSET=UTF-8:SD Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:26:55.872972
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:drew.peterson@sdlegislature.gov
+NOTE;CHARSET=UTF-8:Representative in SD Legislature\, District 19\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:01.353698
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Borris Miles (Senate)
-N;CHARSET=UTF-8:Miles (Senate);Borris;;;
+FN;CHARSET=UTF-8:Borris Miles (TX Senate)
+N;CHARSET=UTF-8:Miles (TX Senate);Borris;;;
 TEL;TYPE=WORK,VOICE:281-261-2360
-NOTE;CHARSET=UTF-8:TX Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:10.767555
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:borris.miles@senate.texas.gov
+NOTE;CHARSET=UTF-8:Senator in TX Legislature\, District 13\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:14.988948
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Boomer Wright (House)
-N;CHARSET=UTF-8:Wright (House);Boomer;;;
+FN;CHARSET=UTF-8:Boomer Wright (OR House)
+N;CHARSET=UTF-8:Wright (OR House);Boomer;;;
 TEL;TYPE=WORK,VOICE:503-986-1409
-NOTE;CHARSET=UTF-8:OR Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:36.535991
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.boomerwright@oregonlegislature.gov
+NOTE;CHARSET=UTF-8:Representative in OR Legislature\, District 9\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:15.322053
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mark Baisley (Senate)
-N;CHARSET=UTF-8:Baisley (Senate);Mark;;;
+FN;CHARSET=UTF-8:Mark Baisley (CO Senate)
+N;CHARSET=UTF-8:Baisley (CO Senate);Mark;;;
 TEL;TYPE=WORK,VOICE:303-866-4877
-NOTE;CHARSET=UTF-8:CO Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:15.319273
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mark.baisley@senate.co.com
+NOTE;CHARSET=UTF-8:Senator in CO Legislature\, District 4\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:00.427451
 END:VCARD

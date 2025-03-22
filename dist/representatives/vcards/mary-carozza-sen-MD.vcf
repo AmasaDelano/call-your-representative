@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mary Carozza (Senate)
-N;CHARSET=UTF-8:Carozza (Senate);Mary;;;
+FN;CHARSET=UTF-8:Mary Carozza (MD Senate)
+N;CHARSET=UTF-8:Carozza (MD Senate);Mary;;;
 TEL;TYPE=WORK,VOICE:410-841-3645
-NOTE;CHARSET=UTF-8:MD Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:03.174625
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:marybeth.carozza@senate.state.md.us
+NOTE;CHARSET=UTF-8:Senator in MD Legislature\, District 38\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:41.330891
 END:VCARD

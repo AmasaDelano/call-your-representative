@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kevin Sparks (Senate)
-N;CHARSET=UTF-8:Sparks (Senate);Kevin;;;
+FN;CHARSET=UTF-8:Kevin Sparks (TX Senate)
+N;CHARSET=UTF-8:Sparks (TX Senate);Kevin;;;
 TEL;TYPE=WORK,VOICE:432-685-6031
-NOTE;CHARSET=UTF-8:TX Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:39.138483
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:kevin.sparks@senate.texas.gov
+NOTE;CHARSET=UTF-8:Senator in TX Legislature\, District 31\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:40.923819
 END:VCARD

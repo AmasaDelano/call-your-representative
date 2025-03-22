@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Randy Bridges (House)
-N;CHARSET=UTF-8:Bridges (House);Randy;;;
+FN;CHARSET=UTF-8:Randy Bridges (KY House)
+N;CHARSET=UTF-8:Bridges (KY House);Randy;;;
 TEL;TYPE=WORK,VOICE:502-564-8100
-NOTE;CHARSET=UTF-8:KY Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:23.460145
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:randy.bridges@kylegislature.gov
+NOTE;CHARSET=UTF-8:Representative in KY Legislature\, District 3\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:04.110755
 END:VCARD

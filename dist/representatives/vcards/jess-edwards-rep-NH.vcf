@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jess Edwards (House)
-N;CHARSET=UTF-8:Edwards (House);Jess;;;
+FN;CHARSET=UTF-8:Jess Edwards (NH House)
+N;CHARSET=UTF-8:Edwards (NH House);Jess;;;
 TEL;TYPE=WORK,VOICE:603-370-7885
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:05.365983
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jess.edwards@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Rockingham 31\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:43.003175
 END:VCARD

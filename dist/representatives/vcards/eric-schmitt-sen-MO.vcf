@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Eric Schmitt (Senate)
-N;CHARSET=UTF-8:Schmitt (Senate);Eric;;;
+FN;CHARSET=UTF-8:Eric Schmitt (MO Senate)
+N;CHARSET=UTF-8:Schmitt (MO Senate);Eric;;;
 TEL;TYPE=WORK,VOICE:202-224-5721
-NOTE;CHARSET=UTF-8:US Senator\, MO\n\nCommittees:\nJoint Economic Committee (Joint)\nArmed Services\nAirland\nReadiness and Management Support\nEmerging Threats and Capabilities\nCybersecurity\nCommerce, Science, and Transportation\nThe Judiciary\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:34.682072
+URL;CHARSET=UTF-8:https://www.schmitt.senate.gov/contact/
+NOTE;CHARSET=UTF-8:US Senator for MO\n\nCommittees he's on:\n- Joint Economic Committee (Joint)\n- Armed Services\n- Airland\n- Readiness and Management Support\n- Emerging Threats and Capabilities\n- Cybersecurity\n- Commerce, Science, and Transportation\n- The Judiciary\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:17.004930
 END:VCARD

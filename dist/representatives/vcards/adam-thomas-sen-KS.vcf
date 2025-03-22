@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Adam Thomas (Senate)
-N;CHARSET=UTF-8:Thomas (Senate);Adam;;;
+FN;CHARSET=UTF-8:Adam Thomas (KS Senate)
+N;CHARSET=UTF-8:Thomas (KS Senate);Adam;;;
 TEL;TYPE=WORK,VOICE:785-296-7358
-NOTE;CHARSET=UTF-8:KS Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:36.089052
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:adam.thomas@senate.ks.gov
+NOTE;CHARSET=UTF-8:Senator in KS Legislature\, District 23\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:18.469377
 END:VCARD

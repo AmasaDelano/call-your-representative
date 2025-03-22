@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:LaVon Bracy Davis (House)
-N;CHARSET=UTF-8:Bracy Davis (House);LaVon;;;
+FN;CHARSET=UTF-8:LaVon Bracy Davis (FL House)
+N;CHARSET=UTF-8:Bracy Davis (FL House);LaVon;;;
 TEL;TYPE=WORK,VOICE:850-717-5040
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:23.729870
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lavon.bracydavis@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 40\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:06.571974
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Joseph Gullett (House)
-N;CHARSET=UTF-8:Gullett (House);Joseph;;;
+FN;CHARSET=UTF-8:Joseph Gullett (GA House)
+N;CHARSET=UTF-8:Gullett (GA House);Joseph;;;
 TEL;TYPE=WORK,VOICE:404-656-0178
-NOTE;CHARSET=UTF-8:GA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:45.363923
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:joseph.gullett@house.ga.gov
+NOTE;CHARSET=UTF-8:Representative in GA Legislature\, District 19\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:27.688192
 END:VCARD

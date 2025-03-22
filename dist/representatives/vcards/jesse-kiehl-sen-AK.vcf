@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jesse Kiehl (Senate)
-N;CHARSET=UTF-8:Kiehl (Senate);Jesse;;;
+FN;CHARSET=UTF-8:Jesse Kiehl (AK Senate)
+N;CHARSET=UTF-8:Kiehl (AK Senate);Jesse;;;
 TEL;TYPE=WORK,VOICE:907-465-4947
-NOTE;CHARSET=UTF-8:AK Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:21.932208
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senator.jesse.kiehl@akleg.gov
+NOTE;CHARSET=UTF-8:Senator in AK Legislature\, District B\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:14.995513
 END:VCARD

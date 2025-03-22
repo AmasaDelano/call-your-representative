@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mark Messmer (House)
-N;CHARSET=UTF-8:Messmer (House);Mark;;;
+FN;CHARSET=UTF-8:Mark Messmer (IN House)
+N;CHARSET=UTF-8:Messmer (IN House);Mark;;;
 TEL;TYPE=WORK,VOICE:202-225-4636
-NOTE;CHARSET=UTF-8:US Representative\, IN\n\nCommittees:\nAgriculture\nConservation, Research, and Biotechnology\nCommodity Markets, Digital Assets, and Rural Development\nLivestock, Dairy, and Poultry\nArmed Services\nEducation and Workforce\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:40.811871
+URL;CHARSET=UTF-8:https://messmer.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from IN\, District 8\n\nCommittees he's on:\n- Agriculture\n- Conservation, Research, and Biotechnology\n- Commodity Markets, Digital Assets, and Rural Development\n- Livestock, Dairy, and Poultry\n- Armed Services\n- Education and Workforce\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:22.957724
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mary Clardy (House)
-N;CHARSET=UTF-8:Clardy (House);Mary;;;
+FN;CHARSET=UTF-8:Mary Clardy (MN House)
+N;CHARSET=UTF-8:Clardy (MN House);Mary;;;
 TEL;TYPE=WORK,VOICE:651-296-3533
-NOTE;CHARSET=UTF-8:MN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:28.579573
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.mary.frances.clardy@house.mn.gov
+NOTE;CHARSET=UTF-8:Representative in MN Legislature\, District 53A\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:06.038440
 END:VCARD

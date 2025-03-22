@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Paul Lundeen (Senate)
-N;CHARSET=UTF-8:Lundeen (Senate);Paul;;;
+FN;CHARSET=UTF-8:Paul Lundeen (CO Senate)
+N;CHARSET=UTF-8:Lundeen (CO Senate);Paul;;;
 TEL;TYPE=WORK,VOICE:303-866-4835
-NOTE;CHARSET=UTF-8:CO Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:22.276943
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:paul.lundeen.senate@coleg.gov
+NOTE;CHARSET=UTF-8:Senator in CO Legislature\, District 9\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:06.266123
 END:VCARD

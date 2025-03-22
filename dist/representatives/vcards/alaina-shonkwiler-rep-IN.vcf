@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Alaina Shonkwiler (House)
-N;CHARSET=UTF-8:Shonkwiler (House);Alaina;;;
+FN;CHARSET=UTF-8:Alaina Shonkwiler (IN House)
+N;CHARSET=UTF-8:Shonkwiler (IN House);Alaina;;;
 TEL;TYPE=WORK,VOICE:317-232-9600
-NOTE;CHARSET=UTF-8:IN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:58.377772
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:h29@iga.in.gov
+NOTE;CHARSET=UTF-8:Representative in IN Legislature\, District 29\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:40.060043
 END:VCARD

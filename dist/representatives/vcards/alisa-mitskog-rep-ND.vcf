@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Alisa Mitskog (House)
-N;CHARSET=UTF-8:Mitskog (House);Alisa;;;
+FN;CHARSET=UTF-8:Alisa Mitskog (ND House)
+N;CHARSET=UTF-8:Mitskog (ND House);Alisa;;;
 TEL;TYPE=WORK,VOICE:701-328-3373
-NOTE;CHARSET=UTF-8:ND Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:13.181939
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:amitskog@ndlegis.gov
+NOTE;CHARSET=UTF-8:Representative in ND Legislature\, District 25\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:51.883362
 END:VCARD

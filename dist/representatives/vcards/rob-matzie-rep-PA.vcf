@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rob Matzie (House)
-N;CHARSET=UTF-8:Matzie (House);Rob;;;
+FN;CHARSET=UTF-8:Rob Matzie (PA House)
+N;CHARSET=UTF-8:Matzie (PA House);Rob;;;
 TEL;TYPE=WORK,VOICE:717-787-4444
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:35.369639
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rmatzie@pahouse.net
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 16\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:13.131889
 END:VCARD

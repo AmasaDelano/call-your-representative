@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Timm Ormsby (House)
-N;CHARSET=UTF-8:Ormsby (House);Timm;;;
+FN;CHARSET=UTF-8:Timm Ormsby (WA House)
+N;CHARSET=UTF-8:Ormsby (WA House);Timm;;;
 TEL;TYPE=WORK,VOICE:509-458-2122
-NOTE;CHARSET=UTF-8:WA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:25.161925
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:timm.ormsby@leg.wa.gov
+NOTE;CHARSET=UTF-8:Representative in WA Legislature\, District 3\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:06.484518
 END:VCARD

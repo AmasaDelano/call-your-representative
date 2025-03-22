@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Steve Otis (Assembly)
-N;CHARSET=UTF-8:Otis (Assembly);Steve;;;
+FN;CHARSET=UTF-8:Steve Otis (NY Assembly)
+N;CHARSET=UTF-8:Otis (NY Assembly);Steve;;;
 TEL;TYPE=WORK,VOICE:518-455-4897
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:08.748628
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:otiss@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 91\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:46.137503
 END:VCARD

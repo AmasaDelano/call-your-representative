@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Laura Gillen (House)
-N;CHARSET=UTF-8:Gillen (House);Laura;;;
+FN;CHARSET=UTF-8:Laura Gillen (NY House)
+N;CHARSET=UTF-8:Gillen (NY House);Laura;;;
 TEL;TYPE=WORK,VOICE:202-225-5516
-NOTE;CHARSET=UTF-8:US Representative\, NY\n\nCommittees:\nTransportation and Infrastructure\nScience, Space, and Technology\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:43.585002
+URL;CHARSET=UTF-8:https://gillen.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from NY\, District 4\n\nCommittees she's on:\n- Transportation and Infrastructure\n- Science, Space, and Technology\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:25.341120
 END:VCARD

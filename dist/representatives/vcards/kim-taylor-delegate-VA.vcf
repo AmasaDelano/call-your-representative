@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kim Taylor (House)
-N;CHARSET=UTF-8:Taylor (House);Kim;;;
+FN;CHARSET=UTF-8:Kim Taylor (VA House)
+N;CHARSET=UTF-8:Taylor (VA House);Kim;;;
 TEL;TYPE=WORK,VOICE:804-698-1082
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:22.403751
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delktaylor@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 82\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:03.353024
 END:VCARD

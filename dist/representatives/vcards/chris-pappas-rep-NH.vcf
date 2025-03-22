@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Chris Pappas (House)
-N;CHARSET=UTF-8:Pappas (House);Chris;;;
+FN;CHARSET=UTF-8:Chris Pappas (NH House)
+N;CHARSET=UTF-8:Pappas (NH House);Chris;;;
 TEL;TYPE=WORK,VOICE:202-225-5456
-NOTE;CHARSET=UTF-8:US Representative\, NH\n\nCommittees:\nTransportation and Infrastructure\nVeterans' Affairs\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:32.471803
+URL;CHARSET=UTF-8:https://pappas.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from NH\, District 1\n\nCommittees he's on:\n- Transportation and Infrastructure\n- Veterans' Affairs\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:14.504791
 END:VCARD

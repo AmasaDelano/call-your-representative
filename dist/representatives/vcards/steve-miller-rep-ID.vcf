@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Steve Miller (House)
-N;CHARSET=UTF-8:Miller (House);Steve;;;
+FN;CHARSET=UTF-8:Steve Miller (ID House)
+N;CHARSET=UTF-8:Miller (ID House);Steve;;;
 TEL;TYPE=WORK,VOICE:208-332-1061
-NOTE;CHARSET=UTF-8:ID Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:56.162630
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:smiller@house.idaho.gov
+NOTE;CHARSET=UTF-8:Representative in ID Legislature\, District 24B\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:37.844833
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jake Johnson (House)
-N;CHARSET=UTF-8:Johnson (House);Jake;;;
+FN;CHARSET=UTF-8:Jake Johnson (NC House)
+N;CHARSET=UTF-8:Johnson (NC House);Jake;;;
 TEL;TYPE=WORK,VOICE:919-715-4466
-NOTE;CHARSET=UTF-8:NC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:10.964858
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jake.johnson@ncleg.gov
+NOTE;CHARSET=UTF-8:Representative in NC Legislature\, District 113\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:49.098454
 END:VCARD

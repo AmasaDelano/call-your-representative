@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jack Chatfield (House)
-N;CHARSET=UTF-8:Chatfield (House);Jack;;;
+FN;CHARSET=UTF-8:Jack Chatfield (NM House)
+N;CHARSET=UTF-8:Chatfield (NM House);Jack;;;
 TEL;TYPE=WORK,VOICE:505-986-4467
-NOTE;CHARSET=UTF-8:NM Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:42.026305
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jack.chatfield@nmlegis.gov
+NOTE;CHARSET=UTF-8:Representative in NM Legislature\, District 67\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:18.006095
 END:VCARD

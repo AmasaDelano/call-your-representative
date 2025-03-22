@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Dan Blue (Senate)
-N;CHARSET=UTF-8:Blue (Senate);Dan;;;
+FN;CHARSET=UTF-8:Dan Blue (NC Senate)
+N;CHARSET=UTF-8:Blue (NC Senate);Dan;;;
 TEL;TYPE=WORK,VOICE:919-733-5752
-NOTE;CHARSET=UTF-8:NC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:10.566118
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:dan.blue@ncleg.gov
+NOTE;CHARSET=UTF-8:Senator in NC Legislature\, District 14\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:48.608209
 END:VCARD

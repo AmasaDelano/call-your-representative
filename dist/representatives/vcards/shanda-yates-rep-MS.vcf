@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Shanda Yates (House)
-N;CHARSET=UTF-8:Yates (House);Shanda;;;
+FN;CHARSET=UTF-8:Shanda Yates (MS House)
+N;CHARSET=UTF-8:Yates (MS House);Shanda;;;
 TEL;TYPE=WORK,VOICE:601-359-3360
-NOTE;CHARSET=UTF-8:MS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:34.043160
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:syates@house.ms.gov
+NOTE;CHARSET=UTF-8:Representative in MS Legislature\, District 64\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:11.476838
 END:VCARD

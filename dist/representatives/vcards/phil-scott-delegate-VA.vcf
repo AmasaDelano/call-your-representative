@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Phil Scott (House)
-N;CHARSET=UTF-8:Scott (House);Phil;;;
+FN;CHARSET=UTF-8:Phil Scott (VA House)
+N;CHARSET=UTF-8:Scott (VA House);Phil;;;
 TEL;TYPE=WORK,VOICE:804-698-1063
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:22.791947
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delpscott@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 63\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:03.740084
 END:VCARD

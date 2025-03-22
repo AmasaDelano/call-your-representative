@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Elizabeth Embry (House)
-N;CHARSET=UTF-8:Embry (House);Elizabeth;;;
+FN;CHARSET=UTF-8:Elizabeth Embry (MD House)
+N;CHARSET=UTF-8:Embry (MD House);Elizabeth;;;
 TEL;TYPE=WORK,VOICE:410-841-3638
-NOTE;CHARSET=UTF-8:MD Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:02.156364
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:elizabeth.embry@house.state.md.us
+NOTE;CHARSET=UTF-8:Delegate in MD Legislature\, District 43A\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:40.558466
 END:VCARD

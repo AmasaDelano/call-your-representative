@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Adam Bass (Senate)
-N;CHARSET=UTF-8:Bass (Senate);Adam;;;
+FN;CHARSET=UTF-8:Adam Bass (LA Senate)
+N;CHARSET=UTF-8:Bass (LA Senate);Adam;;;
 TEL;TYPE=WORK,VOICE:318-741-2812
-NOTE;CHARSET=UTF-8:LA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:28.116716
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen36@legis.la.gov
+NOTE;CHARSET=UTF-8:Senator in LA Legislature\, District 36\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:08.790274
 END:VCARD

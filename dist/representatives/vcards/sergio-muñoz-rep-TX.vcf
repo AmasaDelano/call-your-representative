@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Sergio Muñoz (House)
-N;CHARSET=UTF-8:Muñoz (House);Sergio;;;
+FN;CHARSET=UTF-8:Sergio Muñoz (TX House)
+N;CHARSET=UTF-8:Muñoz (TX House);Sergio;;;
 TEL;TYPE=WORK,VOICE:956-584-8999
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:52.444288
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sergio.munoz@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 36\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:52.506455
 END:VCARD

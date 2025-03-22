@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Judy Griffin (Assembly)
-N;CHARSET=UTF-8:Griffin (Assembly);Judy;;;
+FN;CHARSET=UTF-8:Judy Griffin (NY Assembly)
+N;CHARSET=UTF-8:Griffin (NY Assembly);Judy;;;
 TEL;TYPE=WORK,VOICE:518-455-5801
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:57.209814
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:griffij@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 21\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:34.099455
 END:VCARD

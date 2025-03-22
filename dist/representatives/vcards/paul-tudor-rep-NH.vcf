@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Paul Tudor (House)
-N;CHARSET=UTF-8:Tudor (House);Paul;;;
+FN;CHARSET=UTF-8:Paul Tudor (NH House)
+N;CHARSET=UTF-8:Tudor (NH House);Paul;;;
 TEL;TYPE=WORK,VOICE:781-953-6950
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:09.472679
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:paultudor.1strockingham@gmail.com
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Rockingham 1\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:46.299081
 END:VCARD

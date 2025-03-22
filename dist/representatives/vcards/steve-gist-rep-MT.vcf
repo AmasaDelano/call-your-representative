@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Steve Gist (House)
-N;CHARSET=UTF-8:Gist (House);Steve;;;
+FN;CHARSET=UTF-8:Steve Gist (MT House)
+N;CHARSET=UTF-8:Gist (MT House);Steve;;;
 TEL;TYPE=WORK,VOICE:406-231-4050
-NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:38.436072
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:steven.gist@legmt.gov
+NOTE;CHARSET=UTF-8:Representative in MT Legislature\, District 25\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:15.377980
 END:VCARD

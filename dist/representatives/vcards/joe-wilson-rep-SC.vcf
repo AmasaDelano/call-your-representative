@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Joe Wilson (House)
-N;CHARSET=UTF-8:Wilson (House);Joe;;;
+FN;CHARSET=UTF-8:Joe Wilson (SC House)
+N;CHARSET=UTF-8:Wilson (SC House);Joe;;;
 TEL;TYPE=WORK,VOICE:202-225-2452
-NOTE;CHARSET=UTF-8:US Representative\, SC\n\nCommittees:\nArmed Services\nEducation and Workforce\nForeign Affairs\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:29.158459
+URL;CHARSET=UTF-8:https://joewilson.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from SC\, District 2\n\nCommittees he's on:\n- Armed Services\n- Education and Workforce\n- Foreign Affairs\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:10.766869
 END:VCARD

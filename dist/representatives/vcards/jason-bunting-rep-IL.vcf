@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jason Bunting (House)
-N;CHARSET=UTF-8:Bunting (House);Jason;;;
+FN;CHARSET=UTF-8:Jason Bunting (IL House)
+N;CHARSET=UTF-8:Bunting (IL House);Jason;;;
 TEL;TYPE=WORK,VOICE:217-558-1039
-NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:57.107483
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bunting@ilhousegop.org
+NOTE;CHARSET=UTF-8:Representative in IL Legislature\, District 106\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:38.711015
 END:VCARD

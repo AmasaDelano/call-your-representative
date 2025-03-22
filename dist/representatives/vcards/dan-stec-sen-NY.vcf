@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Dan Stec (Senate)
-N;CHARSET=UTF-8:Stec (Senate);Dan;;;
+FN;CHARSET=UTF-8:Dan Stec (NY Senate)
+N;CHARSET=UTF-8:Stec (NY Senate);Dan;;;
 TEL;TYPE=WORK,VOICE:518-455-2811
-NOTE;CHARSET=UTF-8:NY Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:49.815101
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:stec@nysenate.gov
+NOTE;CHARSET=UTF-8:Senator in NY Legislature\, District 45\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:25.718816
 END:VCARD

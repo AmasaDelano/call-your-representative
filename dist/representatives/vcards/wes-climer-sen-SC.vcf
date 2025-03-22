@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Wes Climer (Senate)
-N;CHARSET=UTF-8:Climer (Senate);Wes;;;
+FN;CHARSET=UTF-8:Wes Climer (SC Senate)
+N;CHARSET=UTF-8:Climer (SC Senate);Wes;;;
 TEL;TYPE=WORK,VOICE:803-212-6230
-NOTE;CHARSET=UTF-8:SC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:26:55.504735
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:wesclimer@scsenate.gov
+NOTE;CHARSET=UTF-8:Senator in SC Legislature\, District 15\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:01.002307
 END:VCARD

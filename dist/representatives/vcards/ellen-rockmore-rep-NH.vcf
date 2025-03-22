@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ellen Rockmore (House)
-N;CHARSET=UTF-8:Rockmore (House);Ellen;;;
+FN;CHARSET=UTF-8:Ellen Rockmore (NH House)
+N;CHARSET=UTF-8:Rockmore (NH House);Ellen;;;
 TEL;TYPE=WORK,VOICE:603-643-0169
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:03.288526
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ellen.rockmore@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Grafton 12\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:40.607722
 END:VCARD

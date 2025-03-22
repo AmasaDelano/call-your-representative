@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tehmi Chassion (House)
-N;CHARSET=UTF-8:Chassion (House);Tehmi;;;
+FN;CHARSET=UTF-8:Tehmi Chassion (LA House)
+N;CHARSET=UTF-8:Chassion (LA House);Tehmi;;;
 TEL;TYPE=WORK,VOICE:337-262-2368
-NOTE;CHARSET=UTF-8:LA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:54.181826
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:hse044@legis.la.gov
+NOTE;CHARSET=UTF-8:Representative in LA Legislature\, District 44\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:33.698857
 END:VCARD

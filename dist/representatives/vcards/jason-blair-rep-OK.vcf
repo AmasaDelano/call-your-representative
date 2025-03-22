@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jason Blair (House)
-N;CHARSET=UTF-8:Blair (House);Jason;;;
+FN;CHARSET=UTF-8:Jason Blair (OK House)
+N;CHARSET=UTF-8:Blair (OK House);Jason;;;
 TEL;TYPE=WORK,VOICE:405-557-7346
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:26.646020
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jason.blair@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 53\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:05.846918
 END:VCARD

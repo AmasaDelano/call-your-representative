@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Norine Hammond (House)
-N;CHARSET=UTF-8:Hammond (House);Norine;;;
+FN;CHARSET=UTF-8:Norine Hammond (IL House)
+N;CHARSET=UTF-8:Hammond (IL House);Norine;;;
 TEL;TYPE=WORK,VOICE:217-782-0416
-NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:57.859947
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rephammond@macomb.com
+NOTE;CHARSET=UTF-8:Representative in IL Legislature\, District 94\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:39.471040
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Donald Beyer (House)
-N;CHARSET=UTF-8:Beyer (House);Donald;;;
+FN;CHARSET=UTF-8:Donald Beyer (VA House)
+N;CHARSET=UTF-8:Beyer (VA House);Donald;;;
 TEL;TYPE=WORK,VOICE:202-225-4376
-NOTE;CHARSET=UTF-8:US Representative\, VA\n\nCommittees:\nWays and Means\nJoint Economic Committee (Joint)\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:30.672150
+URL;CHARSET=UTF-8:https://beyer.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from VA\, District 8\n\nCommittees he's on:\n- Ways and Means\n- Joint Economic Committee (Joint)\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:12.571619
 END:VCARD

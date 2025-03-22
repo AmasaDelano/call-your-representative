@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:James Arena-DeRosa (House)
-N;CHARSET=UTF-8:Arena-DeRosa (House);James;;;
+FN;CHARSET=UTF-8:James Arena-DeRosa (MA House)
+N;CHARSET=UTF-8:Arena-DeRosa (MA House);James;;;
 TEL;TYPE=WORK,VOICE:617-722-2810
-NOTE;CHARSET=UTF-8:MA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:04.581959
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:james.arena-derosa@mahouse.gov
+NOTE;CHARSET=UTF-8:Representative in MA Legislature\, District 8th Middlesex\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:42.781867
 END:VCARD

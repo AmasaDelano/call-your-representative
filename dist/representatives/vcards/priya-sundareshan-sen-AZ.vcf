@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Priya Sundareshan (Senate)
-N;CHARSET=UTF-8:Sundareshan (Senate);Priya;;;
+FN;CHARSET=UTF-8:Priya Sundareshan (AZ Senate)
+N;CHARSET=UTF-8:Sundareshan (AZ Senate);Priya;;;
 TEL;TYPE=WORK,VOICE:602-926-3437
-NOTE;CHARSET=UTF-8:AZ Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:24.853613
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:psundareshan@azleg.gov
+NOTE;CHARSET=UTF-8:Senator in AZ Legislature\, District 18\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:17.323532
 END:VCARD

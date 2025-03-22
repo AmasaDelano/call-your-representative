@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Carlisle Kennedy (Senate)
-N;CHARSET=UTF-8:Kennedy (Senate);Carlisle;;;
+FN;CHARSET=UTF-8:Carlisle Kennedy (SC Senate)
+N;CHARSET=UTF-8:Kennedy (SC Senate);Carlisle;;;
 TEL;TYPE=WORK,VOICE:803-212-6116
-NOTE;CHARSET=UTF-8:SC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:52.897505
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:carlislekennedy@scsenate.gov
+NOTE;CHARSET=UTF-8:Senator in SC Legislature\, District 23\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:28.907858
 END:VCARD

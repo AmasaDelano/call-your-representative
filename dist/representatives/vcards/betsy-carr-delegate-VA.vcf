@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Betsy Carr (House)
-N;CHARSET=UTF-8:Carr (House);Betsy;;;
+FN;CHARSET=UTF-8:Betsy Carr (VA House)
+N;CHARSET=UTF-8:Carr (VA House);Betsy;;;
 TEL;TYPE=WORK,VOICE:804-698-1078
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:21.464376
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delbcarr@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 78\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:02.458676
 END:VCARD

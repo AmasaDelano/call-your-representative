@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Joe Casello (House)
-N;CHARSET=UTF-8:Casello (House);Joe;;;
+FN;CHARSET=UTF-8:Joe Casello (FL House)
+N;CHARSET=UTF-8:Casello (FL House);Joe;;;
 TEL;TYPE=WORK,VOICE:850-717-5090
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:17.282496
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:casello.joseph@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 90\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:00.095994
 END:VCARD

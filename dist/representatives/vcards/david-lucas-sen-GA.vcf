@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:David Lucas (Senate)
-N;CHARSET=UTF-8:Lucas (Senate);David;;;
+FN;CHARSET=UTF-8:David Lucas (GA Senate)
+N;CHARSET=UTF-8:Lucas (GA Senate);David;;;
 TEL;TYPE=WORK,VOICE:404-656-0150
-NOTE;CHARSET=UTF-8:GA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:44.680425
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:david.lucas@senate.ga.gov
+NOTE;CHARSET=UTF-8:Senator in GA Legislature\, District 26\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:26.960150
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:George Muñoz (Senate)
-N;CHARSET=UTF-8:Muñoz (Senate);George;;;
+FN;CHARSET=UTF-8:George Muñoz (NM Senate)
+N;CHARSET=UTF-8:Muñoz (NM Senate);George;;;
 TEL;TYPE=WORK,VOICE:505-986-4371
-NOTE;CHARSET=UTF-8:NM Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:41.985150
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:george.munoz@nmlegis.gov
+NOTE;CHARSET=UTF-8:Senator in NM Legislature\, District 4\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:17.951133
 END:VCARD

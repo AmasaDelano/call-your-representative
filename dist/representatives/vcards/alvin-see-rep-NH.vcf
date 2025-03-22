@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Alvin See (House)
-N;CHARSET=UTF-8:See (House);Alvin;;;
+FN;CHARSET=UTF-8:Alvin See (NH House)
+N;CHARSET=UTF-8:See (NH House);Alvin;;;
 TEL;TYPE=WORK,VOICE:603-798-3427
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:40.345901
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:alvin.see@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Merrimack 26\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:17.268435
 END:VCARD

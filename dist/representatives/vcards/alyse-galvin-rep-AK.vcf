@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Alyse Galvin (House)
-N;CHARSET=UTF-8:Galvin (House);Alyse;;;
+FN;CHARSET=UTF-8:Alyse Galvin (AK House)
+N;CHARSET=UTF-8:Galvin (AK House);Alyse;;;
 TEL;TYPE=WORK,VOICE:907-465-3875
-NOTE;CHARSET=UTF-8:AK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:20.779685
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:representative.alyse.galvin@akleg.gov
+NOTE;CHARSET=UTF-8:Representative in AK Legislature\, District 14\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:13.186227
 END:VCARD

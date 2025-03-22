@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jim Tedisco (Senate)
-N;CHARSET=UTF-8:Tedisco (Senate);Jim;;;
+FN;CHARSET=UTF-8:Jim Tedisco (NY Senate)
+N;CHARSET=UTF-8:Tedisco (NY Senate);Jim;;;
 TEL;TYPE=WORK,VOICE:518-455-2181
-NOTE;CHARSET=UTF-8:NY Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:53.880167
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tedisco@nysenate.gov
+NOTE;CHARSET=UTF-8:Senator in NY Legislature\, District 44\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:29.989649
 END:VCARD

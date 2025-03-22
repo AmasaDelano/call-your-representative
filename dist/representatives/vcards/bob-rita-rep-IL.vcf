@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bob Rita (House)
-N;CHARSET=UTF-8:Rita (House);Bob;;;
+FN;CHARSET=UTF-8:Bob Rita (IL House)
+N;CHARSET=UTF-8:Rita (IL House);Bob;;;
 TEL;TYPE=WORK,VOICE:217-558-1000
-NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:58.027688
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:robertbobrita@aol.com
+NOTE;CHARSET=UTF-8:Representative in IL Legislature\, District 28\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:39.664107
 END:VCARD

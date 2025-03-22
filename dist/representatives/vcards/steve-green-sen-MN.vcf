@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Steve Green (Senate)
-N;CHARSET=UTF-8:Green (Senate);Steve;;;
+FN;CHARSET=UTF-8:Steve Green (MN Senate)
+N;CHARSET=UTF-8:Green (MN Senate);Steve;;;
 TEL;TYPE=WORK,VOICE:651-297-8063
-NOTE;CHARSET=UTF-8:MN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:29.166270
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.steve.green@senate.mn
+NOTE;CHARSET=UTF-8:Senator in MN Legislature\, District 2\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:06.565001
 END:VCARD

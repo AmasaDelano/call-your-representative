@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jack Martins (Senate)
-N;CHARSET=UTF-8:Martins (Senate);Jack;;;
+FN;CHARSET=UTF-8:Jack Martins (NY Senate)
+N;CHARSET=UTF-8:Martins (NY Senate);Jack;;;
 TEL;TYPE=WORK,VOICE:518-455-2677
-NOTE;CHARSET=UTF-8:NY Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:52.165234
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:martins@nysenate.gov
+NOTE;CHARSET=UTF-8:Senator in NY Legislature\, District 7\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:27.784816
 END:VCARD

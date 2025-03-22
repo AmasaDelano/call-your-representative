@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Toni Weinstein (House)
-N;CHARSET=UTF-8:Weinstein (House);Toni;;;
+FN;CHARSET=UTF-8:Toni Weinstein (NH House)
+N;CHARSET=UTF-8:Weinstein (NH House);Toni;;;
 TEL;TYPE=WORK,VOICE:603-770-4867
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:12.277158
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:toni.weinstein@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Rockingham 10\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:49.069745
 END:VCARD

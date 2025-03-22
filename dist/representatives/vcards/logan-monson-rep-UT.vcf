@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Logan Monson (House)
-N;CHARSET=UTF-8:Monson (House);Logan;;;
+FN;CHARSET=UTF-8:Logan Monson (UT House)
+N;CHARSET=UTF-8:Monson (UT House);Logan;;;
 TEL;TYPE=WORK,VOICE:801-538-1029
-NOTE;CHARSET=UTF-8:UT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:04.453855
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lmonson@le.utah.gov
+NOTE;CHARSET=UTF-8:Representative in UT Legislature\, District 69\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:58:03.684971
 END:VCARD

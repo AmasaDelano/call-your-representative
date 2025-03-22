@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Earl Read (House)
-N;CHARSET=UTF-8:Read (House);Earl;;;
+FN;CHARSET=UTF-8:Earl Read (RI House)
+N;CHARSET=UTF-8:Read (RI House);Earl;;;
 TEL;TYPE=WORK,VOICE:401-222-3580
-NOTE;CHARSET=UTF-8:RI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:49.794701
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep-read@rilegislature.gov
+NOTE;CHARSET=UTF-8:Representative in RI Legislature\, District 26\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:26.226373
 END:VCARD

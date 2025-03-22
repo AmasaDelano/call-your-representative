@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ryan Nawrocki (House)
-N;CHARSET=UTF-8:Nawrocki (House);Ryan;;;
+FN;CHARSET=UTF-8:Ryan Nawrocki (MD House)
+N;CHARSET=UTF-8:Nawrocki (MD House);Ryan;;;
 TEL;TYPE=WORK,VOICE:410-841-3289
-NOTE;CHARSET=UTF-8:MD Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:03.489080
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ryan.nawrocki@house.state.md.us
+NOTE;CHARSET=UTF-8:Delegate in MD Legislature\, District 7A\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:41.704824
 END:VCARD

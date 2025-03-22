@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Molly Jenkins (House)
-N;CHARSET=UTF-8:Jenkins (House);Molly;;;
+FN;CHARSET=UTF-8:Molly Jenkins (OK House)
+N;CHARSET=UTF-8:Jenkins (OK House);Molly;;;
 TEL;TYPE=WORK,VOICE:405-557-7304
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:32.438022
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:molly.jenkins@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 33\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:11.218675
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Werner Reschke (House)
-N;CHARSET=UTF-8:Reschke (House);Werner;;;
+FN;CHARSET=UTF-8:Werner Reschke (OR House)
+N;CHARSET=UTF-8:Reschke (OR House);Werner;;;
 TEL;TYPE=WORK,VOICE:503-986-1455
-NOTE;CHARSET=UTF-8:OR Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:36.824871
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.ewernerreschke@oregonlegislature.gov
+NOTE;CHARSET=UTF-8:Representative in OR Legislature\, District 55\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:15.614070
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Cherry (House)
-N;CHARSET=UTF-8:Cherry (House);Mike;;;
+FN;CHARSET=UTF-8:Mike Cherry (VA House)
+N;CHARSET=UTF-8:Cherry (VA House);Mike;;;
 TEL;TYPE=WORK,VOICE:804-698-1074
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:22.681934
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delmcherry@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 74\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:03.628901
 END:VCARD

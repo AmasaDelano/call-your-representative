@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kristine Howard (House)
-N;CHARSET=UTF-8:Howard (House);Kristine;;;
+FN;CHARSET=UTF-8:Kristine Howard (PA House)
+N;CHARSET=UTF-8:Howard (PA House);Kristine;;;
 TEL;TYPE=WORK,VOICE:717-783-4088
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:17.164223
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:khoward@pahouse.net
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 167\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:55.666528
 END:VCARD

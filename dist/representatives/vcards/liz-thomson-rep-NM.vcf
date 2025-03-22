@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Liz Thomson (House)
-N;CHARSET=UTF-8:Thomson (House);Liz;;;
+FN;CHARSET=UTF-8:Liz Thomson (NM House)
+N;CHARSET=UTF-8:Thomson (NM House);Liz;;;
 TEL;TYPE=WORK,VOICE:505-986-4425
-NOTE;CHARSET=UTF-8:NM Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:41.933271
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:liz.thomson@nmlegis.gov
+NOTE;CHARSET=UTF-8:Representative in NM Legislature\, District 24\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:17.898306
 END:VCARD

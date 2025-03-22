@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Pat Miller (Senate)
-N;CHARSET=UTF-8:Miller (Senate);Pat;;;
+FN;CHARSET=UTF-8:Pat Miller (CT Senate)
+N;CHARSET=UTF-8:Miller (CT Senate);Pat;;;
 TEL;TYPE=WORK,VOICE:860-240-0589
-NOTE;CHARSET=UTF-8:CT Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:47.857587
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:patricia.miller@cga.ct.gov
+NOTE;CHARSET=UTF-8:Senator in CT Legislature\, District 27\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:31.007288
 END:VCARD

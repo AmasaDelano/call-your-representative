@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Dianne Hesselbein (Senate)
-N;CHARSET=UTF-8:Hesselbein (Senate);Dianne;;;
+FN;CHARSET=UTF-8:Dianne Hesselbein (WI Senate)
+N;CHARSET=UTF-8:Hesselbein (WI Senate);Dianne;;;
 TEL;TYPE=WORK,VOICE:608-266-6670
-NOTE;CHARSET=UTF-8:WI Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:25.872141
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.hesselbein@legis.wisconsin.gov
+NOTE;CHARSET=UTF-8:Senator in WI Legislature\, District 27\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:07.050846
 END:VCARD

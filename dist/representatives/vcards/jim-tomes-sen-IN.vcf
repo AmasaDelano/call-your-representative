@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jim Tomes (Senate)
-N;CHARSET=UTF-8:Tomes (Senate);Jim;;;
+FN;CHARSET=UTF-8:Jim Tomes (IN Senate)
+N;CHARSET=UTF-8:Tomes (IN Senate);Jim;;;
 TEL;TYPE=WORK,VOICE:317-232-9400
-NOTE;CHARSET=UTF-8:IN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:12.157546
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:s49@iga.in.gov
+NOTE;CHARSET=UTF-8:Senator in IN Legislature\, District 49\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:53.729616
 END:VCARD

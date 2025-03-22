@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Steve Horne (House)
-N;CHARSET=UTF-8:Horne (House);Steve;;;
+FN;CHARSET=UTF-8:Steve Horne (MS House)
+N;CHARSET=UTF-8:Horne (MS House);Steve;;;
 TEL;TYPE=WORK,VOICE:601-359-9392
-NOTE;CHARSET=UTF-8:MS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:34.147879
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:shorne@house.ms.gov
+NOTE;CHARSET=UTF-8:Representative in MS Legislature\, District 81\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:11.589924
 END:VCARD

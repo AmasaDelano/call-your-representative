@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:David Cannon (House)
-N;CHARSET=UTF-8:Cannon (House);David;;;
+FN;CHARSET=UTF-8:David Cannon (ID House)
+N;CHARSET=UTF-8:Cannon (ID House);David;;;
 TEL;TYPE=WORK,VOICE:208-332-1086
-NOTE;CHARSET=UTF-8:ID Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:55.432680
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:dcannon@house.idaho.gov
+NOTE;CHARSET=UTF-8:Representative in ID Legislature\, District 30A\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:37.070571
 END:VCARD

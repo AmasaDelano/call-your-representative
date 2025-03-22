@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:David Hackney (House)
-N;CHARSET=UTF-8:Hackney (House);David;;;
+FN;CHARSET=UTF-8:David Hackney (WA House)
+N;CHARSET=UTF-8:Hackney (WA House);David;;;
 TEL;TYPE=WORK,VOICE:360-786-7956
-NOTE;CHARSET=UTF-8:WA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:24.033283
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:david.hackney@leg.wa.gov
+NOTE;CHARSET=UTF-8:Representative in WA Legislature\, District 11\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:05.047493
 END:VCARD

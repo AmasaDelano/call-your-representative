@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Adam Anderson (House)
-N;CHARSET=UTF-8:Anderson (House);Adam;;;
+FN;CHARSET=UTF-8:Adam Anderson (FL House)
+N;CHARSET=UTF-8:Anderson (FL House);Adam;;;
 TEL;TYPE=WORK,VOICE:850-717-5057
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:56.445598
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:adam.anderson@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 57\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:38.914230
 END:VCARD

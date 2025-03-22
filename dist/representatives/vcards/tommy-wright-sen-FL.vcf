@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tommy Wright (Senate)
-N;CHARSET=UTF-8:Wright (Senate);Tommy;;;
+FN;CHARSET=UTF-8:Tommy Wright (FL Senate)
+N;CHARSET=UTF-8:Wright (FL Senate);Tommy;;;
 TEL;TYPE=WORK,VOICE:850-487-5008
-NOTE;CHARSET=UTF-8:FL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:40.161605
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:wright.tom.web@flsenate.gov
+NOTE;CHARSET=UTF-8:Senator in FL Legislature\, District 8\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:22.688877
 END:VCARD

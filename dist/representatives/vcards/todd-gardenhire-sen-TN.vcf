@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Todd Gardenhire (Senate)
-N;CHARSET=UTF-8:Gardenhire (Senate);Todd;;;
+FN;CHARSET=UTF-8:Todd Gardenhire (TN Senate)
+N;CHARSET=UTF-8:Gardenhire (TN Senate);Todd;;;
 TEL;TYPE=WORK,VOICE:615-741-6682
-NOTE;CHARSET=UTF-8:TN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:04.915599
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.todd.gardenhire@capitol.tn.gov
+NOTE;CHARSET=UTF-8:Senator in TN Legislature\, District 10\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:09.638908
 END:VCARD

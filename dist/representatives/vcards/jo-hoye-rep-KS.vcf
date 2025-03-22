@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jo Hoye (House)
-N;CHARSET=UTF-8:Hoye (House);Jo;;;
+FN;CHARSET=UTF-8:Jo Hoye (KS House)
+N;CHARSET=UTF-8:Hoye (KS House);Jo;;;
 TEL;TYPE=WORK,VOICE:785-296-7331
-NOTE;CHARSET=UTF-8:KS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:08.017163
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:joella.hoye@house.ks.gov
+NOTE;CHARSET=UTF-8:Representative in KS Legislature\, District 17\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:50.408995
 END:VCARD

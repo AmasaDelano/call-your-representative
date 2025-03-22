@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ranjeev Puri (House)
-N;CHARSET=UTF-8:Puri (House);Ranjeev;;;
+FN;CHARSET=UTF-8:Ranjeev Puri (MI House)
+N;CHARSET=UTF-8:Puri (MI House);Ranjeev;;;
 TEL;TYPE=WORK,VOICE:517-373-0113
-NOTE;CHARSET=UTF-8:MI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:24.226288
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ranjeevpuri@house.mi.gov
+NOTE;CHARSET=UTF-8:Representative in MI Legislature\, District 24\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:00.861272
 END:VCARD

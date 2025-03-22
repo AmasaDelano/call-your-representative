@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tammy Duckworth (Senate)
-N;CHARSET=UTF-8:Duckworth (Senate);Tammy;;;
+FN;CHARSET=UTF-8:Tammy Duckworth (IL Senate)
+N;CHARSET=UTF-8:Duckworth (IL Senate);Tammy;;;
 TEL;TYPE=WORK,VOICE:202-224-2854
-NOTE;CHARSET=UTF-8:US Senator\, IL\n\nCommittees:\nArmed Services\nAirland\nReadiness and Management Support\nPersonnel\nCommerce, Science, and Transportation\nForeign Relations\nVeterans' Affairs\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:29.648339
+URL;CHARSET=UTF-8:https://www.duckworth.senate.gov/content/contact-senator
+NOTE;CHARSET=UTF-8:US Senator for IL\n\nCommittees she's on:\n- Armed Services\n- Airland\n- Readiness and Management Support\n- Personnel\n- Commerce, Science, and Transportation\n- Foreign Relations\n- Veterans' Affairs\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:11.383906
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Keith Self (House)
-N;CHARSET=UTF-8:Self (House);Keith;;;
+FN;CHARSET=UTF-8:Keith Self (TX House)
+N;CHARSET=UTF-8:Self (TX House);Keith;;;
 TEL;TYPE=WORK,VOICE:202-225-4201
-NOTE;CHARSET=UTF-8:US Representative\, TX\n\nCommittees:\nForeign Affairs\nScience, Space, and Technology\nVeterans' Affairs\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:36.809512
+URL;CHARSET=UTF-8:https://keithself.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from TX\, District 3\n\nCommittees he's on:\n- Foreign Affairs\n- Science, Space, and Technology\n- Veterans' Affairs\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:19.149639
 END:VCARD

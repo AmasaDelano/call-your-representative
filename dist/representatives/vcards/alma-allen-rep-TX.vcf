@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Alma Allen (House)
-N;CHARSET=UTF-8:Allen (House);Alma;;;
+FN;CHARSET=UTF-8:Alma Allen (TX House)
+N;CHARSET=UTF-8:Allen (TX House);Alma;;;
 TEL;TYPE=WORK,VOICE:713-776-0505
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:05.293062
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:alma.allen@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 131\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:09.974217
 END:VCARD

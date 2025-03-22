@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Shannon Erickson (House)
-N;CHARSET=UTF-8:Erickson (House);Shannon;;;
+FN;CHARSET=UTF-8:Shannon Erickson (SC House)
+N;CHARSET=UTF-8:Erickson (SC House);Shannon;;;
 TEL;TYPE=WORK,VOICE:803-734-3053
-NOTE;CHARSET=UTF-8:SC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:26:24.593673
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:shannonerickson@schouse.gov
+NOTE;CHARSET=UTF-8:Representative in SC Legislature\, District 124\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:00.662679
 END:VCARD

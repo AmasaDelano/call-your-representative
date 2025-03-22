@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rudy Veit (House)
-N;CHARSET=UTF-8:Veit (House);Rudy;;;
+FN;CHARSET=UTF-8:Rudy Veit (MO House)
+N;CHARSET=UTF-8:Veit (MO House);Rudy;;;
 TEL;TYPE=WORK,VOICE:573-751-0665
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:36.585825
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rudy.veit@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 59\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:13.591492
 END:VCARD

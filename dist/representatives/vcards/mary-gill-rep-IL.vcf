@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mary Gill (House)
-N;CHARSET=UTF-8:Gill (House);Mary;;;
+FN;CHARSET=UTF-8:Mary Gill (IL House)
+N;CHARSET=UTF-8:Gill (IL House);Mary;;;
 TEL;TYPE=WORK,VOICE:217-782-8200
-NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:57.623602
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:repmarygill@gmail.com
+NOTE;CHARSET=UTF-8:Representative in IL Legislature\, District 35\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:39.229860
 END:VCARD

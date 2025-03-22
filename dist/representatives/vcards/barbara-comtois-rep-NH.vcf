@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Barbara Comtois (House)
-N;CHARSET=UTF-8:Comtois (House);Barbara;;;
+FN;CHARSET=UTF-8:Barbara Comtois (NH House)
+N;CHARSET=UTF-8:Comtois (NH House);Barbara;;;
 TEL;TYPE=WORK,VOICE:603-776-8989
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:40.367324
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:barbara.comtois@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Belknap 7\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:17.296485
 END:VCARD

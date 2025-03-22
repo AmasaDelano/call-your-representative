@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jennifer Boysko (Senate)
-N;CHARSET=UTF-8:Boysko (Senate);Jennifer;;;
+FN;CHARSET=UTF-8:Jennifer Boysko (VA Senate)
+N;CHARSET=UTF-8:Boysko (VA Senate);Jennifer;;;
 TEL;TYPE=WORK,VOICE:804-698-7533
-NOTE;CHARSET=UTF-8:VA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:22.202368
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senatorboysko@senate.virginia.gov
+NOTE;CHARSET=UTF-8:Senator in VA Legislature\, District 38\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:03.155044
 END:VCARD

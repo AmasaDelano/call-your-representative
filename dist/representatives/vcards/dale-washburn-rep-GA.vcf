@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Dale Washburn (House)
-N;CHARSET=UTF-8:Washburn (House);Dale;;;
+FN;CHARSET=UTF-8:Dale Washburn (GA House)
+N;CHARSET=UTF-8:Washburn (GA House);Dale;;;
 TEL;TYPE=WORK,VOICE:404-656-0152
-NOTE;CHARSET=UTF-8:GA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:44.575567
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:dale.washburn@house.ga.gov
+NOTE;CHARSET=UTF-8:Representative in GA Legislature\, District 144\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:26.880015
 END:VCARD

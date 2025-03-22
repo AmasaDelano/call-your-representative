@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brad Knott (House)
-N;CHARSET=UTF-8:Knott (House);Brad;;;
+FN;CHARSET=UTF-8:Brad Knott (NC House)
+N;CHARSET=UTF-8:Knott (NC House);Brad;;;
 TEL;TYPE=WORK,VOICE:202-225-4531
-NOTE;CHARSET=UTF-8:US Representative\, NC\n\nCommittees:\nHomeland Security\nThe Judiciary\nTransportation and Infrastructure\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:42.850251
+URL;CHARSET=UTF-8:https://knott.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from NC\, District 13\n\nCommittees he's on:\n- Homeland Security\n- The Judiciary\n- Transportation and Infrastructure\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:24.688136
 END:VCARD

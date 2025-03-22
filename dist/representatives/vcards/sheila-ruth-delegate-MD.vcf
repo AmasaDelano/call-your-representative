@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Sheila Ruth (House)
-N;CHARSET=UTF-8:Ruth (House);Sheila;;;
+FN;CHARSET=UTF-8:Sheila Ruth (MD House)
+N;CHARSET=UTF-8:Ruth (MD House);Sheila;;;
 TEL;TYPE=WORK,VOICE:410-841-3802
-NOTE;CHARSET=UTF-8:MD Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:03.559652
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sheila.ruth@house.state.md.us
+NOTE;CHARSET=UTF-8:Delegate in MD Legislature\, District 44B\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:41.788666
 END:VCARD

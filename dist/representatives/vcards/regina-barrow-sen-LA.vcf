@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Regina Barrow (Senate)
-N;CHARSET=UTF-8:Barrow (Senate);Regina;;;
+FN;CHARSET=UTF-8:Regina Barrow (LA Senate)
+N;CHARSET=UTF-8:Barrow (LA Senate);Regina;;;
 TEL;TYPE=WORK,VOICE:225-359-9400
-NOTE;CHARSET=UTF-8:LA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:50.703272
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:barrowr@legis.la.gov
+NOTE;CHARSET=UTF-8:Senator in LA Legislature\, District 15\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:30.547376
 END:VCARD

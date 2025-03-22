@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bill Bolton (House)
-N;CHARSET=UTF-8:Bolton (House);Bill;;;
+FN;CHARSET=UTF-8:Bill Bolton (NH House)
+N;CHARSET=UTF-8:Bolton (NH House);Bill;;;
 TEL;TYPE=WORK,VOICE:603-236-1812
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:40.436061
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bill.bolton@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Grafton 8\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:17.388693
 END:VCARD

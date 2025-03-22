@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Demicco (House)
-N;CHARSET=UTF-8:Demicco (House);Mike;;;
+FN;CHARSET=UTF-8:Mike Demicco (CT House)
+N;CHARSET=UTF-8:Demicco (CT House);Mike;;;
 TEL;TYPE=WORK,VOICE:860-240-8585
-NOTE;CHARSET=UTF-8:CT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:47.344720
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mike.demicco@cga.ct.gov
+NOTE;CHARSET=UTF-8:Representative in CT Legislature\, District 21\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:30.540859
 END:VCARD

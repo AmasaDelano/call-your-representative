@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Carol McGuire (House)
-N;CHARSET=UTF-8:McGuire (House);Carol;;;
+FN;CHARSET=UTF-8:Carol McGuire (NH House)
+N;CHARSET=UTF-8:McGuire (NH House);Carol;;;
 TEL;TYPE=WORK,VOICE:603-782-4918
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:40.545966
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:carol@mcguire4house.com
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Merrimack 27\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:17.529463
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mark Brody (House)
-N;CHARSET=UTF-8:Brody (House);Mark;;;
+FN;CHARSET=UTF-8:Mark Brody (NC House)
+N;CHARSET=UTF-8:Brody (NC House);Mark;;;
 TEL;TYPE=WORK,VOICE:919-715-3029
-NOTE;CHARSET=UTF-8:NC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:11.357052
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mark.brody@ncleg.gov
+NOTE;CHARSET=UTF-8:Representative in NC Legislature\, District 55\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:49.606801
 END:VCARD

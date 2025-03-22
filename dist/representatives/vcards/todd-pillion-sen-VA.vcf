@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Todd Pillion (Senate)
-N;CHARSET=UTF-8:Pillion (Senate);Todd;;;
+FN;CHARSET=UTF-8:Todd Pillion (VA Senate)
+N;CHARSET=UTF-8:Pillion (VA Senate);Todd;;;
 TEL;TYPE=WORK,VOICE:804-698-7506
-NOTE;CHARSET=UTF-8:VA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:23.095660
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senatorpillion@senate.virginia.gov
+NOTE;CHARSET=UTF-8:Senator in VA Legislature\, District 6\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:04.114390
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:P.K. O'Neill (Assembly)
-N;CHARSET=UTF-8:O'Neill (Assembly);P.K.;;;
+FN;CHARSET=UTF-8:P.K. O'Neill (NV Assembly)
+N;CHARSET=UTF-8:O'Neill (NV Assembly);P.K.;;;
 TEL;TYPE=WORK,VOICE:775-684-8825
-NOTE;CHARSET=UTF-8:NV Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:39.745914
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:pk.oneill@asm.state.nv.us
+NOTE;CHARSET=UTF-8:Assembly Member in NV Legislature\, District 40\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:16.678819
 END:VCARD

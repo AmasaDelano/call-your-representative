@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rick Brattin (Senate)
-N;CHARSET=UTF-8:Brattin (Senate);Rick;;;
+FN;CHARSET=UTF-8:Rick Brattin (MO Senate)
+N;CHARSET=UTF-8:Brattin (MO Senate);Rick;;;
 TEL;TYPE=WORK,VOICE:573-751-2108
-NOTE;CHARSET=UTF-8:MO Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:36.556111
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rick.brattin@senate.mo.gov
+NOTE;CHARSET=UTF-8:Senator in MO Legislature\, District 31\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:13.562311
 END:VCARD

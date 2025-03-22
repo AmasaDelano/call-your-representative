@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jason Barrett (Senate)
-N;CHARSET=UTF-8:Barrett (Senate);Jason;;;
+FN;CHARSET=UTF-8:Jason Barrett (MS Senate)
+N;CHARSET=UTF-8:Barrett (MS Senate);Jason;;;
 TEL;TYPE=WORK,VOICE:601-359-3237
-NOTE;CHARSET=UTF-8:MS Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:31.725278
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jbarrett@senate.ms.gov
+NOTE;CHARSET=UTF-8:Senator in MS Legislature\, District 39\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:09.371828
 END:VCARD

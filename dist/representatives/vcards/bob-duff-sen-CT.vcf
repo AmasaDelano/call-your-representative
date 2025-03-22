@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bob Duff (Senate)
-N;CHARSET=UTF-8:Duff (Senate);Bob;;;
+FN;CHARSET=UTF-8:Bob Duff (CT Senate)
+N;CHARSET=UTF-8:Duff (CT Senate);Bob;;;
 TEL;TYPE=WORK,VOICE:860-240-0414
-NOTE;CHARSET=UTF-8:CT Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:36.502801
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:duff@senatedems.ct.gov
+NOTE;CHARSET=UTF-8:Senator in CT Legislature\, District 25\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:18.301081
 END:VCARD

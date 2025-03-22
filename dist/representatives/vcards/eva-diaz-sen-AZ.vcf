@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Eva Diaz (Senate)
-N;CHARSET=UTF-8:Diaz (Senate);Eva;;;
+FN;CHARSET=UTF-8:Eva Diaz (AZ Senate)
+N;CHARSET=UTF-8:Diaz (AZ Senate);Eva;;;
 TEL;TYPE=WORK,VOICE:602-926-3473
-NOTE;CHARSET=UTF-8:AZ Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:24.050221
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:eva.diaz@azleg.gov
+NOTE;CHARSET=UTF-8:Senator in AZ Legislature\, District 22\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:16.501348
 END:VCARD

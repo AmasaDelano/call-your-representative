@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:John Boozman (Senate)
-N;CHARSET=UTF-8:Boozman (Senate);John;;;
+FN;CHARSET=UTF-8:John Boozman (AR Senate)
+N;CHARSET=UTF-8:Boozman (AR Senate);John;;;
 TEL;TYPE=WORK,VOICE:202-224-4843
-NOTE;CHARSET=UTF-8:US Senator\, AR\n\nCommittees:\nCommission on Security and Cooperation in Europe (Joint)\nAgriculture, Nutrition, and Forestry\nCommodities, Derivatives, Risk Management, and Trade\nConservation, Forestry, Natural Resources, and Biotechnology\nRural Development, Energy, and Credit\nFood and Nutrition, Specialty Crops, Organics, and Research\nLivestock, Dairy, Poultry, and Food Safety\nAppropriations\nEnvironment and Public Works\nRules and Administration\nVeterans' Affairs\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:27.001921
+URL;CHARSET=UTF-8:https://www.boozman.senate.gov/public/index.cfm/contact
+NOTE;CHARSET=UTF-8:US Senator for AR\n\nCommittees he's on:\n- Commission on Security and Cooperation in Europe (Joint)\n- Agriculture, Nutrition, and Forestry\n- Commodities, Derivatives, Risk Management, and Trade\n- Conservation, Forestry, Natural Resources, and Biotechnology\n- Rural Development, Energy, and Credit\n- Food and Nutrition, Specialty Crops, Organics, and Research\n- Livestock, Dairy, Poultry, and Food Safety\n- Appropriations\n- Environment and Public Works\n- Rules and Administration\n- Veterans' Affairs\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:08.222499
 END:VCARD

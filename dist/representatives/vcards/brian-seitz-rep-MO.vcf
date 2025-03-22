@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brian Seitz (House)
-N;CHARSET=UTF-8:Seitz (House);Brian;;;
+FN;CHARSET=UTF-8:Brian Seitz (MO House)
+N;CHARSET=UTF-8:Seitz (MO House);Brian;;;
 TEL;TYPE=WORK,VOICE:573-751-1309
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:34.956138
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:brian.seitz@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 156\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:12.212175
 END:VCARD

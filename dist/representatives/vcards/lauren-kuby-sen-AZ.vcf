@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lauren Kuby (Senate)
-N;CHARSET=UTF-8:Kuby (Senate);Lauren;;;
+FN;CHARSET=UTF-8:Lauren Kuby (AZ Senate)
+N;CHARSET=UTF-8:Kuby (AZ Senate);Lauren;;;
 TEL;TYPE=WORK,VOICE:602-926-4124
-NOTE;CHARSET=UTF-8:AZ Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:24.380582
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lkuby@azleg.gov
+NOTE;CHARSET=UTF-8:Senator in AZ Legislature\, District 8\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:16.756707
 END:VCARD

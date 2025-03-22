@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bob Freeman (House)
-N;CHARSET=UTF-8:Freeman (House);Bob;;;
+FN;CHARSET=UTF-8:Bob Freeman (PA House)
+N;CHARSET=UTF-8:Freeman (PA House);Bob;;;
 TEL;TYPE=WORK,VOICE:717-783-3815
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:35.689699
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rfreeman@pahouse.net
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 136\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:13.396197
 END:VCARD

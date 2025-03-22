@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Andrew Garrett (House)
-N;CHARSET=UTF-8:Garrett (House);Andrew;;;
+FN;CHARSET=UTF-8:Andrew Garrett (HI House)
+N;CHARSET=UTF-8:Garrett (HI House);Andrew;;;
 TEL;TYPE=WORK,VOICE:808-586-8475
-NOTE;CHARSET=UTF-8:HI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:50.704546
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:repgarrett@capitol.hawaii.gov
+NOTE;CHARSET=UTF-8:Representative in HI Legislature\, District 22\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:32.546764
 END:VCARD

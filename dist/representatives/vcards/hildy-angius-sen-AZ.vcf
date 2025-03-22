@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Hildy Angius (Senate)
-N;CHARSET=UTF-8:Angius (Senate);Hildy;;;
+FN;CHARSET=UTF-8:Hildy Angius (AZ Senate)
+N;CHARSET=UTF-8:Angius (AZ Senate);Hildy;;;
 TEL;TYPE=WORK,VOICE:602-926-5051
-NOTE;CHARSET=UTF-8:AZ Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:24.116699
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:hangius@azleg.gov
+NOTE;CHARSET=UTF-8:Senator in AZ Legislature\, District 30\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:16.555830
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Sydney Davis (Senate)
-N;CHARSET=UTF-8:Davis (Senate);Sydney;;;
+FN;CHARSET=UTF-8:Sydney Davis (SD Senate)
+N;CHARSET=UTF-8:Davis (SD Senate);Sydney;;;
 TEL;TYPE=WORK,VOICE:605-773-3821
-NOTE;CHARSET=UTF-8:SD Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:01.383385
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sydney.davis@sdlegislature.gov
+NOTE;CHARSET=UTF-8:Senator in SD Legislature\, District 17\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:06.207332
 END:VCARD

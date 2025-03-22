@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kevin Christie (House)
-N;CHARSET=UTF-8:Christie (House);Kevin;;;
+FN;CHARSET=UTF-8:Kevin Christie (VT House)
+N;CHARSET=UTF-8:Christie (VT House);Kevin;;;
 TEL;TYPE=WORK,VOICE:802-828-2228
-NOTE;CHARSET=UTF-8:VT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:12.763920
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:kchristie@leg.state.vt.us
+NOTE;CHARSET=UTF-8:Representative in VT Legislature\, District Windsor-6\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:02:19.998727
 END:VCARD

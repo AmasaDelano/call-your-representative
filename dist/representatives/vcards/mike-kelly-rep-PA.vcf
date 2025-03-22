@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Kelly (House)
-N;CHARSET=UTF-8:Kelly (House);Mike;;;
+FN;CHARSET=UTF-8:Mike Kelly (PA House)
+N;CHARSET=UTF-8:Kelly (PA House);Mike;;;
 TEL;TYPE=WORK,VOICE:202-225-5406
-NOTE;CHARSET=UTF-8:US Representative\, PA\n\nCommittees:\nWays and Means\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:27.922110
+URL;CHARSET=UTF-8:https://kelly.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from PA\, District 16\n\nCommittees he's on:\n- Ways and Means\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:09.364869
 END:VCARD

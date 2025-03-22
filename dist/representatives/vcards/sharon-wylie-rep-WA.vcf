@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Sharon Wylie (House)
-N;CHARSET=UTF-8:Wylie (House);Sharon;;;
+FN;CHARSET=UTF-8:Sharon Wylie (WA House)
+N;CHARSET=UTF-8:Wylie (WA House);Sharon;;;
 TEL;TYPE=WORK,VOICE:360-786-7924
-NOTE;CHARSET=UTF-8:WA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:25.012053
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sharon.wylie@leg.wa.gov
+NOTE;CHARSET=UTF-8:Representative in WA Legislature\, District 49\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:06.204377
 END:VCARD

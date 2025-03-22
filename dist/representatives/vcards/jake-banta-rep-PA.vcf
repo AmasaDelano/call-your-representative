@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jake Banta (House)
-N;CHARSET=UTF-8:Banta (House);Jake;;;
+FN;CHARSET=UTF-8:Jake Banta (PA House)
+N;CHARSET=UTF-8:Banta (PA House);Jake;;;
 TEL;TYPE=WORK,VOICE:717-783-9087
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:02.144260
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jbanta@pahousegop.com
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 4\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:40.281104
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Marie Woodson (House)
-N;CHARSET=UTF-8:Woodson (House);Marie;;;
+FN;CHARSET=UTF-8:Marie Woodson (FL House)
+N;CHARSET=UTF-8:Woodson (FL House);Marie;;;
 TEL;TYPE=WORK,VOICE:850-717-5105
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:26.935196
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:marie.woodson@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 105\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:09.470449
 END:VCARD

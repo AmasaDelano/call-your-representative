@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bill Gannon (Senate)
-N;CHARSET=UTF-8:Gannon (Senate);Bill;;;
+FN;CHARSET=UTF-8:Bill Gannon (NH Senate)
+N;CHARSET=UTF-8:Gannon (NH Senate);Bill;;;
 TEL;TYPE=WORK,VOICE:603-271-3077
-NOTE;CHARSET=UTF-8:NH Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:40.415662
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:william.gannon@gc.nh.gov
+NOTE;CHARSET=UTF-8:Senator in NH Legislature\, District 23\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:17.358284
 END:VCARD

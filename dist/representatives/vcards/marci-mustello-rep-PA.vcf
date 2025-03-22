@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Marci Mustello (House)
-N;CHARSET=UTF-8:Mustello (House);Marci;;;
+FN;CHARSET=UTF-8:Marci Mustello (PA House)
+N;CHARSET=UTF-8:Mustello (PA House);Marci;;;
 TEL;TYPE=WORK,VOICE:717-787-7686
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:22.664240
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mmustello@pahousegop.com
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 11\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:00.911328
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ruben Gallego (Senate)
-N;CHARSET=UTF-8:Gallego (Senate);Ruben;;;
+FN;CHARSET=UTF-8:Ruben Gallego (AZ Senate)
+N;CHARSET=UTF-8:Gallego (AZ Senate);Ruben;;;
 TEL;TYPE=WORK,VOICE:202-224-4521
-NOTE;CHARSET=UTF-8:US Senator\, AZ\n\nCommittees:\nBanking, Housing, and Urban Affairs\nFinancial Institutions and Consumer Protection\nHousing, Transportation, and Community Development\nDigital Assets\nEnergy and Natural Resources\nEnergy\nNational Parks\nWater and Power\nHomeland Security and Governmental Affairs\nBorder Management, Federal Workforce, and Regulatory Affairs\nVeterans' Affairs\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:30.312128
+URL;CHARSET=UTF-8:https://www.gallego.senate.gov
+NOTE;CHARSET=UTF-8:US Senator for AZ\n\nCommittees he's on:\n- Banking, Housing, and Urban Affairs\n- Financial Institutions and Consumer Protection\n- Housing, Transportation, and Community Development\n- Digital Assets\n- Energy and Natural Resources\n- Energy\n- National Parks\n- Water and Power\n- Homeland Security and Governmental Affairs\n- Border Management, Federal Workforce, and Regulatory Affairs\n- Veterans' Affairs\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:12.127949
 END:VCARD

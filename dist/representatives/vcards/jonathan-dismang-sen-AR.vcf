@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jonathan Dismang (Senate)
-N;CHARSET=UTF-8:Dismang (Senate);Jonathan;;;
+FN;CHARSET=UTF-8:Jonathan Dismang (AR Senate)
+N;CHARSET=UTF-8:Dismang (AR Senate);Jonathan;;;
 TEL;TYPE=WORK,VOICE:501-682-2902
-NOTE;CHARSET=UTF-8:AR Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:27.205978
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jonathan.dismang@senate.ar.gov
+NOTE;CHARSET=UTF-8:Senator in AR Legislature\, District 18\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:19.421279
 END:VCARD

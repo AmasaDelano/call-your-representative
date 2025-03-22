@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Josephine Garcia (House)
-N;CHARSET=UTF-8:Garcia (House);Josephine;;;
+FN;CHARSET=UTF-8:Josephine Garcia (SD House)
+N;CHARSET=UTF-8:Garcia (SD House);Josephine;;;
 TEL;TYPE=WORK,VOICE:605-773-3851
-NOTE;CHARSET=UTF-8:SD Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:26:59.423221
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:josephine.garcia@sdlegislature.gov
+NOTE;CHARSET=UTF-8:Representative in SD Legislature\, District 5\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:03.970203
 END:VCARD

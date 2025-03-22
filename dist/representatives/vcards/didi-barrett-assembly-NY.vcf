@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Didi Barrett (Assembly)
-N;CHARSET=UTF-8:Barrett (Assembly);Didi;;;
+FN;CHARSET=UTF-8:Didi Barrett (NY Assembly)
+N;CHARSET=UTF-8:Barrett (NY Assembly);Didi;;;
 TEL;TYPE=WORK,VOICE:518-455-5177
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:50.769428
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:barrettd@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 106\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:26.532951
 END:VCARD

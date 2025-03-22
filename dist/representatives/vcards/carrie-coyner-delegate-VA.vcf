@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Carrie Coyner (House)
-N;CHARSET=UTF-8:Coyner (House);Carrie;;;
+FN;CHARSET=UTF-8:Carrie Coyner (VA House)
+N;CHARSET=UTF-8:Coyner (VA House);Carrie;;;
 TEL;TYPE=WORK,VOICE:804-698-1075
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:21.572227
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delccoyner@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 75\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:02.559472
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Monica Duran (House)
-N;CHARSET=UTF-8:Duran (House);Monica;;;
+FN;CHARSET=UTF-8:Monica Duran (CO House)
+N;CHARSET=UTF-8:Duran (CO House);Monica;;;
 TEL;TYPE=WORK,VOICE:303-866-5522
-NOTE;CHARSET=UTF-8:CO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:20.459365
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:monica.duran.house@coleg.gov
+NOTE;CHARSET=UTF-8:Representative in CO Legislature\, District 23\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:04.565817
 END:VCARD

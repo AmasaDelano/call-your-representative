@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Marilyn Stark (House)
-N;CHARSET=UTF-8:Stark (House);Marilyn;;;
+FN;CHARSET=UTF-8:Marilyn Stark (OK House)
+N;CHARSET=UTF-8:Stark (OK House);Marilyn;;;
 TEL;TYPE=WORK,VOICE:405-557-7403
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:30.657287
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:marilyn.stark@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 100\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:09.647018
 END:VCARD

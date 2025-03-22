@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Sarge Pollock (House)
-N;CHARSET=UTF-8:Pollock (House);Sarge;;;
+FN;CHARSET=UTF-8:Sarge Pollock (KY House)
+N;CHARSET=UTF-8:Pollock (KY House);Sarge;;;
 TEL;TYPE=WORK,VOICE:502-564-8100
-NOTE;CHARSET=UTF-8:KY Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:22.110299
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sarge.pollock@kylegislature.gov
+NOTE;CHARSET=UTF-8:Representative in KY Legislature\, District 51\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:02.819444
 END:VCARD

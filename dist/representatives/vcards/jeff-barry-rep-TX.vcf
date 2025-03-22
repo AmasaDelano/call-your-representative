@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jeff Barry (House)
-N;CHARSET=UTF-8:Barry (House);Jeff;;;
+FN;CHARSET=UTF-8:Jeff Barry (TX House)
+N;CHARSET=UTF-8:Barry (TX House);Jeff;;;
 TEL;TYPE=WORK,VOICE:512-463-0707
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:33.105831
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jeff.barry@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 29\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:35.501732
 END:VCARD

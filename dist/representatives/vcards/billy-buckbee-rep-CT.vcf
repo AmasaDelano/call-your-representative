@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Billy Buckbee (House)
-N;CHARSET=UTF-8:Buckbee (House);Billy;;;
+FN;CHARSET=UTF-8:Billy Buckbee (CT House)
+N;CHARSET=UTF-8:Buckbee (CT House);Billy;;;
 TEL;TYPE=WORK,VOICE:860-240-8700
-NOTE;CHARSET=UTF-8:CT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:36.475364
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bill.buckbee@housegop.ct.gov
+NOTE;CHARSET=UTF-8:Representative in CT Legislature\, District 67\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:18.282140
 END:VCARD

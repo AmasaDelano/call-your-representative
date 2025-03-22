@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Charlie Melvin (House)
-N;CHARSET=UTF-8:Melvin (House);Charlie;;;
+FN;CHARSET=UTF-8:Charlie Melvin (NH House)
+N;CHARSET=UTF-8:Melvin (NH House);Charlie;;;
 TEL;TYPE=WORK,VOICE:603-819-6280
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:40.652482
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:charlie.melvin@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Rockingham 20\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:17.598484
 END:VCARD

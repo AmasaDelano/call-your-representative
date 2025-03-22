@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bob Smith (Senate)
-N;CHARSET=UTF-8:Smith (Senate);Bob;;;
+FN;CHARSET=UTF-8:Bob Smith (NJ Senate)
+N;CHARSET=UTF-8:Smith (NJ Senate);Bob;;;
 TEL;TYPE=WORK,VOICE:732-752-0770
-NOTE;CHARSET=UTF-8:NJ Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:15.393199
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senbsmith@njleg.org
+NOTE;CHARSET=UTF-8:Senator in NJ Legislature\, District 17\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:52.099139
 END:VCARD

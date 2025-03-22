@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Chris Obenshain (House)
-N;CHARSET=UTF-8:Obenshain (House);Chris;;;
+FN;CHARSET=UTF-8:Chris Obenshain (VA House)
+N;CHARSET=UTF-8:Obenshain (VA House);Chris;;;
 TEL;TYPE=WORK,VOICE:804-698-1041
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:21.612127
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delcobenshain@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 41\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:02.609212
 END:VCARD

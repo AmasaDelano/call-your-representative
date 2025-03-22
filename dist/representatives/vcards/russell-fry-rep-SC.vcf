@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Russell Fry (House)
-N;CHARSET=UTF-8:Fry (House);Russell;;;
+FN;CHARSET=UTF-8:Russell Fry (SC House)
+N;CHARSET=UTF-8:Fry (SC House);Russell;;;
 TEL;TYPE=WORK,VOICE:202-225-9895
-NOTE;CHARSET=UTF-8:US Representative\, SC\n\nCommittees:\nEnergy and Commerce\nThe Judiciary\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:36.736804
+URL;CHARSET=UTF-8:https://fry.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from SC\, District 7\n\nCommittees he's on:\n- Energy and Commerce\n- The Judiciary\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:19.065299
 END:VCARD

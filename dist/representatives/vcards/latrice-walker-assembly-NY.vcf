@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Latrice Walker (Assembly)
-N;CHARSET=UTF-8:Walker (Assembly);Latrice;;;
+FN;CHARSET=UTF-8:Latrice Walker (NY Assembly)
+N;CHARSET=UTF-8:Walker (NY Assembly);Latrice;;;
 TEL;TYPE=WORK,VOICE:518-455-4466
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:58.851561
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:walkerl@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 55\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:35.557485
 END:VCARD

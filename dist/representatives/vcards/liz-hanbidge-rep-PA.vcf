@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Liz Hanbidge (House)
-N;CHARSET=UTF-8:Hanbidge (House);Liz;;;
+FN;CHARSET=UTF-8:Liz Hanbidge (PA House)
+N;CHARSET=UTF-8:Hanbidge (PA House);Liz;;;
 TEL;TYPE=WORK,VOICE:717-783-4102
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:20.634219
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lhanbidge@pahouse.net
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 61\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:58.907754
 END:VCARD

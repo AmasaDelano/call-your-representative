@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Scott Peters (House)
-N;CHARSET=UTF-8:Peters (House);Scott;;;
+FN;CHARSET=UTF-8:Scott Peters (CA House)
+N;CHARSET=UTF-8:Peters (CA House);Scott;;;
 TEL;TYPE=WORK,VOICE:202-225-0508
-NOTE;CHARSET=UTF-8:US Representative\, CA\n\nCommittees:\nThe Budget\nEnergy and Commerce\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:29.612074
+URL;CHARSET=UTF-8:https://scottpeters.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from CA\, District 50\n\nCommittees he's on:\n- The Budget\n- Energy and Commerce\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:11.336516
 END:VCARD

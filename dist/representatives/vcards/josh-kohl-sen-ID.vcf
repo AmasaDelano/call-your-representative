@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Josh Kohl (Senate)
-N;CHARSET=UTF-8:Kohl (Senate);Josh;;;
+FN;CHARSET=UTF-8:Josh Kohl (ID Senate)
+N;CHARSET=UTF-8:Kohl (ID Senate);Josh;;;
 TEL;TYPE=WORK,VOICE:208-332-1318
-NOTE;CHARSET=UTF-8:ID Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:55.792093
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jkohl@senate.idaho.gov
+NOTE;CHARSET=UTF-8:Senator in ID Legislature\, District 25\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:37.459837
 END:VCARD

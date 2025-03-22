@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Amos Quick (House)
-N;CHARSET=UTF-8:Quick (House);Amos;;;
+FN;CHARSET=UTF-8:Amos Quick (NC House)
+N;CHARSET=UTF-8:Quick (NC House);Amos;;;
 TEL;TYPE=WORK,VOICE:919-733-5902
-NOTE;CHARSET=UTF-8:NC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:10.114856
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:amos.quick@ncleg.gov
+NOTE;CHARSET=UTF-8:Representative in NC Legislature\, District 58\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:48.167309
 END:VCARD

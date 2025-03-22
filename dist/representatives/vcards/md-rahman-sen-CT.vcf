@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:M.D. Rahman (Senate)
-N;CHARSET=UTF-8:Rahman (Senate);M.D.;;;
+FN;CHARSET=UTF-8:M.D. Rahman (CT Senate)
+N;CHARSET=UTF-8:Rahman (CT Senate);M.D.;;;
 TEL;TYPE=WORK,VOICE:860-240-1436
-NOTE;CHARSET=UTF-8:CT Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:47.290023
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:md.rahman@cga.ct.gov
+NOTE;CHARSET=UTF-8:Senator in CT Legislature\, District 4\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:30.490669
 END:VCARD

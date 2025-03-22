@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jay Dean (House)
-N;CHARSET=UTF-8:Dean (House);Jay;;;
+FN;CHARSET=UTF-8:Jay Dean (TX House)
+N;CHARSET=UTF-8:Dean (TX House);Jay;;;
 TEL;TYPE=WORK,VOICE:903-238-8452
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:32.602505
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jay.dean@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 7\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:35.068711
 END:VCARD

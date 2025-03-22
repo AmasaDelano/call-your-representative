@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Justin Ready (Senate)
-N;CHARSET=UTF-8:Ready (Senate);Justin;;;
+FN;CHARSET=UTF-8:Justin Ready (MD Senate)
+N;CHARSET=UTF-8:Ready (MD Senate);Justin;;;
 TEL;TYPE=WORK,VOICE:410-841-3683
-NOTE;CHARSET=UTF-8:MD Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:02.846324
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:justin.ready@senate.state.md.us
+NOTE;CHARSET=UTF-8:Senator in MD Legislature\, District 5\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:41.035668
 END:VCARD

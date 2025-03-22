@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Geoff Luxenberg (House)
-N;CHARSET=UTF-8:Luxenberg (House);Geoff;;;
+FN;CHARSET=UTF-8:Geoff Luxenberg (CT House)
+N;CHARSET=UTF-8:Luxenberg (CT House);Geoff;;;
 TEL;TYPE=WORK,VOICE:860-240-0449
-NOTE;CHARSET=UTF-8:CT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:42.398435
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:geoff.luxenberg@cga.ct.gov
+NOTE;CHARSET=UTF-8:Representative in CT Legislature\, District 12\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:24.902439
 END:VCARD

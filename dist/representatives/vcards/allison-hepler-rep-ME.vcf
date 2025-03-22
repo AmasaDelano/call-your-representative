@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Allison Hepler (House)
-N;CHARSET=UTF-8:Hepler (House);Allison;;;
+FN;CHARSET=UTF-8:Allison Hepler (ME House)
+N;CHARSET=UTF-8:Hepler (ME House);Allison;;;
 TEL;TYPE=WORK,VOICE:800-423-2900
-NOTE;CHARSET=UTF-8:ME Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:56.776746
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:allison.hepler@legislature.maine.gov
+NOTE;CHARSET=UTF-8:Representative in ME Legislature\, District 49\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:36.293332
 END:VCARD

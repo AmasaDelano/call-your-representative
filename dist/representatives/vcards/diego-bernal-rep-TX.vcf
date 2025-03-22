@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Diego Bernal (House)
-N;CHARSET=UTF-8:Bernal (House);Diego;;;
+FN;CHARSET=UTF-8:Diego Bernal (TX House)
+N;CHARSET=UTF-8:Bernal (TX House);Diego;;;
 TEL;TYPE=WORK,VOICE:210-308-9700
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:21.932813
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:diego.bernal@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 123\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:25.175553
 END:VCARD

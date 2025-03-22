@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Guy Guzzone (Senate)
-N;CHARSET=UTF-8:Guzzone (Senate);Guy;;;
+FN;CHARSET=UTF-8:Guy Guzzone (MD Senate)
+N;CHARSET=UTF-8:Guzzone (MD Senate);Guy;;;
 TEL;TYPE=WORK,VOICE:410-841-3572
-NOTE;CHARSET=UTF-8:MD Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:02.240042
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:guy.guzzone@senate.state.md.us
+NOTE;CHARSET=UTF-8:Senator in MD Legislature\, District 13\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:40.620216
 END:VCARD

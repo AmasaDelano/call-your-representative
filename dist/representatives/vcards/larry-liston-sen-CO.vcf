@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Larry Liston (Senate)
-N;CHARSET=UTF-8:Liston (Senate);Larry;;;
+FN;CHARSET=UTF-8:Larry Liston (CO Senate)
+N;CHARSET=UTF-8:Liston (CO Senate);Larry;;;
 TEL;TYPE=WORK,VOICE:303-866-2737
-NOTE;CHARSET=UTF-8:CO Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:08.995914
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:larry.liston.senate@coleg.gov
+NOTE;CHARSET=UTF-8:Senator in CO Legislature\, District 10\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:55.534299
 END:VCARD

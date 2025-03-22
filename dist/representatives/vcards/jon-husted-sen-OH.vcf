@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jon Husted (Senate)
-N;CHARSET=UTF-8:Husted (Senate);Jon;;;
+FN;CHARSET=UTF-8:Jon Husted (OH Senate)
+N;CHARSET=UTF-8:Husted (OH Senate);Jon;;;
 TEL;TYPE=WORK,VOICE:202-224-3353
-NOTE;CHARSET=UTF-8:US Senator\, OH\n\nCommittees:\nSenate Special Committee on Aging\nEnvironment and Public Works\nHealth, Education, Labor, and Pensions\nEducation and the American Family\nEmployment and Workplace Safety\nPrimary Health and Retirement Security\nSmall Business and Entrepreneurship\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:46.272710
+URL;CHARSET=UTF-8:https://www.husted.senate.gov
+NOTE;CHARSET=UTF-8:US Senator for OH\n\nCommittees he's on:\n- Senate Special Committee on Aging\n- Environment and Public Works\n- Health, Education, Labor, and Pensions\n- Education and the American Family\n- Employment and Workplace Safety\n- Primary Health and Retirement Security\n- Small Business and Entrepreneurship\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:27.822537
 END:VCARD

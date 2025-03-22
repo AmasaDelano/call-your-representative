@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bill Palmer (House)
-N;CHARSET=UTF-8:Palmer (House);Bill;;;
+FN;CHARSET=UTF-8:Bill Palmer (NH House)
+N;CHARSET=UTF-8:Palmer (NH House);Bill;;;
 TEL;TYPE=WORK,VOICE:603-675-2117
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:12.385407
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:william.palmer@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Sullivan 2\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:49.178056
 END:VCARD

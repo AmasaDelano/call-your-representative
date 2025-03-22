@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brian Lohse (House)
-N;CHARSET=UTF-8:Lohse (House);Brian;;;
+FN;CHARSET=UTF-8:Brian Lohse (IA House)
+N;CHARSET=UTF-8:Lohse (IA House);Brian;;;
 TEL;TYPE=WORK,VOICE:515-281-3221
-NOTE;CHARSET=UTF-8:IA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:34.677201
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:brian.lohse@legis.iowa.gov
+NOTE;CHARSET=UTF-8:Representative in IA Legislature\, District 45\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:17.119309
 END:VCARD

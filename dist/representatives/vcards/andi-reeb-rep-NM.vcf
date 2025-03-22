@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Andi Reeb (House)
-N;CHARSET=UTF-8:Reeb (House);Andi;;;
+FN;CHARSET=UTF-8:Andi Reeb (NM House)
+N;CHARSET=UTF-8:Reeb (NM House);Andi;;;
 TEL;TYPE=WORK,VOICE:505-986-4215
-NOTE;CHARSET=UTF-8:NM Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:40.375169
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:andrea.reeb@nmlegis.gov
+NOTE;CHARSET=UTF-8:Representative in NM Legislature\, District 64\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:16.396550
 END:VCARD

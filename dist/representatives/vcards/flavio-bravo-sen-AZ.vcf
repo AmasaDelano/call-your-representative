@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Flavio Bravo (Senate)
-N;CHARSET=UTF-8:Bravo (Senate);Flavio;;;
+FN;CHARSET=UTF-8:Flavio Bravo (AZ Senate)
+N;CHARSET=UTF-8:Bravo (AZ Senate);Flavio;;;
 TEL;TYPE=WORK,VOICE:602-926-4033
-NOTE;CHARSET=UTF-8:AZ Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:24.069567
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:fbravo@azleg.gov
+NOTE;CHARSET=UTF-8:Senator in AZ Legislature\, District 26\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:16.517989
 END:VCARD

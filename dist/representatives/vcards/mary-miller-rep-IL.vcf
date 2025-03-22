@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mary Miller (House)
-N;CHARSET=UTF-8:Miller (House);Mary;;;
+FN;CHARSET=UTF-8:Mary Miller (IL House)
+N;CHARSET=UTF-8:Miller (IL House);Mary;;;
 TEL;TYPE=WORK,VOICE:202-225-5271
-NOTE;CHARSET=UTF-8:US Representative\, IL\n\nCommittees:\nAgriculture\nNutrition and Foreign Agriculture\nConservation, Research, and Biotechnology\nGeneral Farm Commodities, Risk Management, and Credit\nLivestock, Dairy, and Poultry\nEducation and Workforce\nHouse Administration\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:33.565033
+URL;CHARSET=UTF-8:https://marymiller.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from IL\, District 15\n\nCommittees she's on:\n- Agriculture\n- Nutrition and Foreign Agriculture\n- Conservation, Research, and Biotechnology\n- General Farm Commodities, Risk Management, and Credit\n- Livestock, Dairy, and Poultry\n- Education and Workforce\n- House Administration\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:15.879162
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Joe Pittman (Senate)
-N;CHARSET=UTF-8:Pittman (Senate);Joe;;;
+FN;CHARSET=UTF-8:Joe Pittman (PA Senate)
+N;CHARSET=UTF-8:Pittman (PA Senate);Joe;;;
 TEL;TYPE=WORK,VOICE:717-787-8724
-NOTE;CHARSET=UTF-8:PA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:09.469115
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:joe.pittman@pasenator41.com
+NOTE;CHARSET=UTF-8:Senator in PA Legislature\, District 41\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:48.028395
 END:VCARD

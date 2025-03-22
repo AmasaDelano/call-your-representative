@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Alex Askew (House)
-N;CHARSET=UTF-8:Askew (House);Alex;;;
+FN;CHARSET=UTF-8:Alex Askew (VA House)
+N;CHARSET=UTF-8:Askew (VA House);Alex;;;
 TEL;TYPE=WORK,VOICE:804-698-1095
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:21.324466
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delaaskew@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 95\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:02.329760
 END:VCARD

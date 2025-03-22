@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Martine Gulick (Senate)
-N;CHARSET=UTF-8:Gulick (Senate);Martine;;;
+FN;CHARSET=UTF-8:Martine Gulick (VT Senate)
+N;CHARSET=UTF-8:Gulick (VT Senate);Martine;;;
 TEL;TYPE=WORK,VOICE:802-828-2228
-NOTE;CHARSET=UTF-8:VT Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:14.424394
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mgulick@leg.state.vt.us
+NOTE;CHARSET=UTF-8:Senator in VT Legislature\, District Chittenden Central\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:03:44.516995
 END:VCARD

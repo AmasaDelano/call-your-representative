@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lisa Shepherd (House)
-N;CHARSET=UTF-8:Shepherd (House);Lisa;;;
+FN;CHARSET=UTF-8:Lisa Shepherd (UT House)
+N;CHARSET=UTF-8:Shepherd (UT House);Lisa;;;
 TEL;TYPE=WORK,VOICE:801-538-1029
-NOTE;CHARSET=UTF-8:UT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:04.445493
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lshepherd@le.utah.gov
+NOTE;CHARSET=UTF-8:Representative in UT Legislature\, District 61\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:58:03.670935
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Janet Ellis (Senate)
-N;CHARSET=UTF-8:Ellis (Senate);Janet;;;
+FN;CHARSET=UTF-8:Janet Ellis (MT Senate)
+N;CHARSET=UTF-8:Ellis (MT Senate);Janet;;;
 TEL;TYPE=WORK,VOICE:406-444-4800
-NOTE;CHARSET=UTF-8:MT Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:37.630898
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:janet.ellis@legmt.gov
+NOTE;CHARSET=UTF-8:Senator in MT Legislature\, District 41\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:14.489925
 END:VCARD

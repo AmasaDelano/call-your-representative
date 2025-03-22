@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Preston Stinson (House)
-N;CHARSET=UTF-8:Stinson (House);Preston;;;
+FN;CHARSET=UTF-8:Preston Stinson (OK House)
+N;CHARSET=UTF-8:Stinson (OK House);Preston;;;
 TEL;TYPE=WORK,VOICE:405-557-7400
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:33.029138
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:preston.stinson@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 96\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:11.772032
 END:VCARD

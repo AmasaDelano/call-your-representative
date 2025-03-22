@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jim Spillane (House)
-N;CHARSET=UTF-8:Spillane (House);Jim;;;
+FN;CHARSET=UTF-8:Jim Spillane (NH House)
+N;CHARSET=UTF-8:Spillane (NH House);Jim;;;
 TEL;TYPE=WORK,VOICE:603-463-5623
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:05.127878
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:james@jamesspillane.org
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Rockingham 2\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:42.762414
 END:VCARD

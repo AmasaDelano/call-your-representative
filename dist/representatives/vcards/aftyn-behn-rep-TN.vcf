@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Aftyn Behn (House)
-N;CHARSET=UTF-8:Behn (House);Aftyn;;;
+FN;CHARSET=UTF-8:Aftyn Behn (TN House)
+N;CHARSET=UTF-8:Behn (TN House);Aftyn;;;
 TEL;TYPE=WORK,VOICE:615-741-3229
-NOTE;CHARSET=UTF-8:TN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:02.340379
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.aftyn.behn@capitol.tn.gov
+NOTE;CHARSET=UTF-8:Representative in TN Legislature\, District 51\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:06.878039
 END:VCARD

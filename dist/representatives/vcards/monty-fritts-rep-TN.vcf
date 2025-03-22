@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Monty Fritts (House)
-N;CHARSET=UTF-8:Fritts (House);Monty;;;
+FN;CHARSET=UTF-8:Monty Fritts (TN House)
+N;CHARSET=UTF-8:Fritts (TN House);Monty;;;
 TEL;TYPE=WORK,VOICE:615-741-7658
-NOTE;CHARSET=UTF-8:TN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:04.559094
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.monty.fritts@capitol.tn.gov
+NOTE;CHARSET=UTF-8:Representative in TN Legislature\, District 32\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:09.169198
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Nikki Rivera (House)
-N;CHARSET=UTF-8:Rivera (House);Nikki;;;
+FN;CHARSET=UTF-8:Nikki Rivera (PA House)
+N;CHARSET=UTF-8:Rivera (PA House);Nikki;;;
 TEL;TYPE=WORK,VOICE:717-787-3555
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:30.678338
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:reprivera@pahouse.net
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 96\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:08.626722
 END:VCARD

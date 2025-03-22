@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Clyde Shavers (House)
-N;CHARSET=UTF-8:Shavers (House);Clyde;;;
+FN;CHARSET=UTF-8:Clyde Shavers (WA House)
+N;CHARSET=UTF-8:Shavers (WA House);Clyde;;;
 TEL;TYPE=WORK,VOICE:360-786-7884
-NOTE;CHARSET=UTF-8:WA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:23.923681
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:clyde.shavers@leg.wa.gov
+NOTE;CHARSET=UTF-8:Representative in WA Legislature\, District 10\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:04.940405
 END:VCARD

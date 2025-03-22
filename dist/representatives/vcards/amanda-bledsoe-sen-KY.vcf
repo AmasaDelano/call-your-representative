@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Amanda Bledsoe (Senate)
-N;CHARSET=UTF-8:Bledsoe (Senate);Amanda;;;
+FN;CHARSET=UTF-8:Amanda Bledsoe (KY Senate)
+N;CHARSET=UTF-8:Bledsoe (KY Senate);Amanda;;;
 TEL;TYPE=WORK,VOICE:502-564-8100
-NOTE;CHARSET=UTF-8:KY Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:13.216765
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:amanda.maysbledsoe@kylegislature.gov
+NOTE;CHARSET=UTF-8:Senator in KY Legislature\, District 12\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:54.147534
 END:VCARD

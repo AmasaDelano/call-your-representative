@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tom Craddick (House)
-N;CHARSET=UTF-8:Craddick (House);Tom;;;
+FN;CHARSET=UTF-8:Tom Craddick (TX House)
+N;CHARSET=UTF-8:Craddick (TX House);Tom;;;
 TEL;TYPE=WORK,VOICE:432-682-3000
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:58.712212
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tom.craddick@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 82\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:58.186057
 END:VCARD

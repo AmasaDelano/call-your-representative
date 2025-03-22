@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Vivian Cook (Assembly)
-N;CHARSET=UTF-8:Cook (Assembly);Vivian;;;
+FN;CHARSET=UTF-8:Vivian Cook (NY Assembly)
+N;CHARSET=UTF-8:Cook (NY Assembly);Vivian;;;
 TEL;TYPE=WORK,VOICE:518-455-4203
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:09.647198
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:cookv@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 32\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:47.717498
 END:VCARD

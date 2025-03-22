@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Victoria Garcia Wilburn (House)
-N;CHARSET=UTF-8:Garcia Wilburn (House);Victoria;;;
+FN;CHARSET=UTF-8:Victoria Garcia Wilburn (IN House)
+N;CHARSET=UTF-8:Garcia Wilburn (IN House);Victoria;;;
 TEL;TYPE=WORK,VOICE:317-232-9798
-NOTE;CHARSET=UTF-8:IN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:33.258303
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:h32@iga.in.gov
+NOTE;CHARSET=UTF-8:Representative in IN Legislature\, District 32\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:15.479764
 END:VCARD

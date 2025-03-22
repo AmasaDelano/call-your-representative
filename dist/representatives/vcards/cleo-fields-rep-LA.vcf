@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Cleo Fields (House)
-N;CHARSET=UTF-8:Fields (House);Cleo;;;
+FN;CHARSET=UTF-8:Cleo Fields (LA House)
+N;CHARSET=UTF-8:Fields (LA House);Cleo;;;
 TEL;TYPE=WORK,VOICE:202-225-3901
-NOTE;CHARSET=UTF-8:US Representative\, LA\n\nCommittees:\nFinancial Services\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:37.731786
+URL;CHARSET=UTF-8:https://fields.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from LA\, District 6\n\nCommittees he's on:\n- Financial Services\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:20.093931
 END:VCARD

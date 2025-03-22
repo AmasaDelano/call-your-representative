@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ryan Williams (House)
-N;CHARSET=UTF-8:Williams (House);Ryan;;;
+FN;CHARSET=UTF-8:Ryan Williams (TN House)
+N;CHARSET=UTF-8:Williams (TN House);Ryan;;;
 TEL;TYPE=WORK,VOICE:615-741-1875
-NOTE;CHARSET=UTF-8:TN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:04.780083
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.ryan.williams@capitol.tn.gov
+NOTE;CHARSET=UTF-8:Representative in TN Legislature\, District 42\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:09.467512
 END:VCARD

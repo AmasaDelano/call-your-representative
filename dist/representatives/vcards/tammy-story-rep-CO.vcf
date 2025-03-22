@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tammy Story (House)
-N;CHARSET=UTF-8:Story (House);Tammy;;;
+FN;CHARSET=UTF-8:Tammy Story (CO House)
+N;CHARSET=UTF-8:Story (CO House);Tammy;;;
 TEL;TYPE=WORK,VOICE:303-866-2582
-NOTE;CHARSET=UTF-8:CO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:31.213009
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tammy.story.house@coleg.gov
+NOTE;CHARSET=UTF-8:Representative in CO Legislature\, District 25\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:13.371012
 END:VCARD

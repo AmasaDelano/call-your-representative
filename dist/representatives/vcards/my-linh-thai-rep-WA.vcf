@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:My-Linh Thai (House)
-N;CHARSET=UTF-8:Thai (House);My-Linh;;;
+FN;CHARSET=UTF-8:My-Linh Thai (WA House)
+N;CHARSET=UTF-8:Thai (WA House);My-Linh;;;
 TEL;TYPE=WORK,VOICE:360-786-7926
-NOTE;CHARSET=UTF-8:WA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:24.814194
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:my-linh.thai@leg.wa.gov
+NOTE;CHARSET=UTF-8:Representative in WA Legislature\, District 41\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:06.014868
 END:VCARD

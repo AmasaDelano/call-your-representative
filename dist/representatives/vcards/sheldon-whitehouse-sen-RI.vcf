@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Sheldon Whitehouse (Senate)
-N;CHARSET=UTF-8:Whitehouse (Senate);Sheldon;;;
+FN;CHARSET=UTF-8:Sheldon Whitehouse (RI Senate)
+N;CHARSET=UTF-8:Whitehouse (RI Senate);Sheldon;;;
 TEL;TYPE=WORK,VOICE:202-224-2921
-NOTE;CHARSET=UTF-8:US Senator\, RI\n\nCommittees:\nCommission on Security and Cooperation in Europe (Joint)\nUnited States Senate Caucus on International Narcotics Control\nThe Budget\nEnvironment and Public Works\nFinance\nThe Judiciary\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:26.564923
+URL;CHARSET=UTF-8:https://www.whitehouse.senate.gov/contact/email-sheldon
+NOTE;CHARSET=UTF-8:US Senator for RI\n\nCommittees he's on:\n- Commission on Security and Cooperation in Europe (Joint)\n- United States Senate Caucus on International Narcotics Control\n- The Budget\n- Environment and Public Works\n- Finance\n- The Judiciary\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:07.765074
 END:VCARD

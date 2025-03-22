@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Chip Fitzpatrick (House)
-N;CHARSET=UTF-8:Fitzpatrick (House);Chip;;;
+FN;CHARSET=UTF-8:Chip Fitzpatrick (MT House)
+N;CHARSET=UTF-8:Fitzpatrick (MT House);Chip;;;
 TEL;TYPE=WORK,VOICE:406-444-4800
-NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:37.145696
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sidney.fitzpatrick@legmt.gov
+NOTE;CHARSET=UTF-8:Representative in MT Legislature\, District 42\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:14.058310
 END:VCARD

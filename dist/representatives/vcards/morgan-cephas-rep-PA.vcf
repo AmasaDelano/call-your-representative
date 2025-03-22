@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Morgan Cephas (House)
-N;CHARSET=UTF-8:Cephas (House);Morgan;;;
+FN;CHARSET=UTF-8:Morgan Cephas (PA House)
+N;CHARSET=UTF-8:Cephas (PA House);Morgan;;;
 TEL;TYPE=WORK,VOICE:717-783-2192
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:28.624091
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mcephas@pahouse.net
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 192\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:06.676423
 END:VCARD

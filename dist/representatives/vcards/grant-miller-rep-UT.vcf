@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Grant Miller (House)
-N;CHARSET=UTF-8:Miller (House);Grant;;;
+FN;CHARSET=UTF-8:Grant Miller (UT House)
+N;CHARSET=UTF-8:Miller (UT House);Grant;;;
 TEL;TYPE=WORK,VOICE:801-538-1029
-NOTE;CHARSET=UTF-8:UT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:04.094752
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:gmiller@le.utah.gov
+NOTE;CHARSET=UTF-8:Representative in UT Legislature\, District 24\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:58:03.245293
 END:VCARD

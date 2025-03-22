@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ken Upchurch (House)
-N;CHARSET=UTF-8:Upchurch (House);Ken;;;
+FN;CHARSET=UTF-8:Ken Upchurch (KY House)
+N;CHARSET=UTF-8:Upchurch (KY House);Ken;;;
 TEL;TYPE=WORK,VOICE:502-564-8100
-NOTE;CHARSET=UTF-8:KY Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:19.966976
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ken.upchurch@kylegislature.gov
+NOTE;CHARSET=UTF-8:Representative in KY Legislature\, District 52\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:00.586930
 END:VCARD

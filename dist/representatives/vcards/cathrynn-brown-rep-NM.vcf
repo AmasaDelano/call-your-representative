@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Cathrynn Brown (House)
-N;CHARSET=UTF-8:Brown (House);Cathrynn;;;
+FN;CHARSET=UTF-8:Cathrynn Brown (NM House)
+N;CHARSET=UTF-8:Brown (NM House);Cathrynn;;;
 TEL;TYPE=WORK,VOICE:505-986-4227
-NOTE;CHARSET=UTF-8:NM Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:41.195502
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:c.brown.nm55@gmail.com
+NOTE;CHARSET=UTF-8:Representative in NM Legislature\, District 55\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:17.115483
 END:VCARD

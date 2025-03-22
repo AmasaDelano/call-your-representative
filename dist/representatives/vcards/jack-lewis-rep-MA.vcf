@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jack Lewis (House)
-N;CHARSET=UTF-8:Lewis (House);Jack;;;
+FN;CHARSET=UTF-8:Jack Lewis (MA House)
+N;CHARSET=UTF-8:Lewis (MA House);Jack;;;
 TEL;TYPE=WORK,VOICE:617-722-2582
-NOTE;CHARSET=UTF-8:MA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:04.538607
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jack.lewis@mahouse.gov
+NOTE;CHARSET=UTF-8:Representative in MA Legislature\, District 7th Middlesex\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:42.736629
 END:VCARD

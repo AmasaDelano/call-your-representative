@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Zack Fields (House)
-N;CHARSET=UTF-8:Fields (House);Zack;;;
+FN;CHARSET=UTF-8:Zack Fields (AK House)
+N;CHARSET=UTF-8:Fields (AK House);Zack;;;
 TEL;TYPE=WORK,VOICE:907-465-2647
-NOTE;CHARSET=UTF-8:AK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:22.294466
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:representative.zack.fields@akleg.gov
+NOTE;CHARSET=UTF-8:Representative in AK Legislature\, District 17\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:15.331523
 END:VCARD

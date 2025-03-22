@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Deanna Frazier Gordon (House)
-N;CHARSET=UTF-8:Frazier Gordon (House);Deanna;;;
+FN;CHARSET=UTF-8:Deanna Frazier Gordon (KY House)
+N;CHARSET=UTF-8:Frazier Gordon (KY House);Deanna;;;
 TEL;TYPE=WORK,VOICE:502-564-8100
-NOTE;CHARSET=UTF-8:KY Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:15.946928
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:deanna.gordon@kylegislature.gov
+NOTE;CHARSET=UTF-8:Representative in KY Legislature\, District 81\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:56.858292
 END:VCARD

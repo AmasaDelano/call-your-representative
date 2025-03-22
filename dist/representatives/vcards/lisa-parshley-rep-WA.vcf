@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lisa Parshley (House)
-N;CHARSET=UTF-8:Parshley (House);Lisa;;;
+FN;CHARSET=UTF-8:Lisa Parshley (WA House)
+N;CHARSET=UTF-8:Parshley (WA House);Lisa;;;
 TEL;TYPE=WORK,VOICE:360-786-7992
-NOTE;CHARSET=UTF-8:WA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:24.582010
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lisa.parshley@leg.wa.gov
+NOTE;CHARSET=UTF-8:Representative in WA Legislature\, District 22\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:05.761845
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mark Pless (House)
-N;CHARSET=UTF-8:Pless (House);Mark;;;
+FN;CHARSET=UTF-8:Mark Pless (NC House)
+N;CHARSET=UTF-8:Pless (NC House);Mark;;;
 TEL;TYPE=WORK,VOICE:919-733-5732
-NOTE;CHARSET=UTF-8:NC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:11.364856
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mark.pless@ncleg.gov
+NOTE;CHARSET=UTF-8:Representative in NC Legislature\, District 118\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:49.617031
 END:VCARD

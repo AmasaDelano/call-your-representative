@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Yolonda Fountain-Henderson (House)
-N;CHARSET=UTF-8:Fountain-Henderson (House);Yolonda;;;
+FN;CHARSET=UTF-8:Yolonda Fountain-Henderson (MO House)
+N;CHARSET=UTF-8:Fountain-Henderson (MO House);Yolonda;;;
 TEL;TYPE=WORK,VOICE:573-751-4468
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:36.935737
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:yolonda.fountainhend@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 85\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:13.883698
 END:VCARD

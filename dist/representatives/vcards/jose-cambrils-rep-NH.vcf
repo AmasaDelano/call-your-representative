@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jose Cambrils (House)
-N;CHARSET=UTF-8:Cambrils (House);Jose;;;
+FN;CHARSET=UTF-8:Jose Cambrils (NH House)
+N;CHARSET=UTF-8:Cambrils (NH House);Jose;;;
 TEL;TYPE=WORK,VOICE:603-731-8287
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:06.235517
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jose4nh@comcast.net
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Merrimack 4\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:44.101979
 END:VCARD

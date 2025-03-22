@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bruce Anderson (Senate)
-N;CHARSET=UTF-8:Anderson (Senate);Bruce;;;
+FN;CHARSET=UTF-8:Bruce Anderson (MN Senate)
+N;CHARSET=UTF-8:Anderson (MN Senate);Bruce;;;
 TEL;TYPE=WORK,VOICE:651-296-5981
-NOTE;CHARSET=UTF-8:MN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:27.206135
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.bruce.anderson@senate.mn
+NOTE;CHARSET=UTF-8:Senator in MN Legislature\, District 29\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:05.100118
 END:VCARD

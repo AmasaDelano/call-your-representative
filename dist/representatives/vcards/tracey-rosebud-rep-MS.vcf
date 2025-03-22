@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tracey Rosebud (House)
-N;CHARSET=UTF-8:Rosebud (House);Tracey;;;
+FN;CHARSET=UTF-8:Tracey Rosebud (MS House)
+N;CHARSET=UTF-8:Rosebud (MS House);Tracey;;;
 TEL;TYPE=WORK,VOICE:601-359-3360
-NOTE;CHARSET=UTF-8:MS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:34.296467
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:trosebud@house.ms.gov
+NOTE;CHARSET=UTF-8:Representative in MS Legislature\, District 30\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:11.680384
 END:VCARD

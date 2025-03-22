@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Gary Pretlow (Assembly)
-N;CHARSET=UTF-8:Pretlow (Assembly);Gary;;;
+FN;CHARSET=UTF-8:Gary Pretlow (NY Assembly)
+N;CHARSET=UTF-8:Pretlow (NY Assembly);Gary;;;
 TEL;TYPE=WORK,VOICE:518-455-5291
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:52.137461
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:pretloj@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 89\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:27.757465
 END:VCARD

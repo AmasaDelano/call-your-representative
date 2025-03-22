@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:John Cavanaugh (Senate)
-N;CHARSET=UTF-8:Cavanaugh (Senate);John;;;
+FN;CHARSET=UTF-8:John Cavanaugh (NE Senate)
+N;CHARSET=UTF-8:Cavanaugh (NE Senate);John;;;
 TEL;TYPE=WORK,VOICE:402-471-2723
-NOTE;CHARSET=UTF-8:NE Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:38.925967
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jcavanaugh@leg.ne.gov
+NOTE;CHARSET=UTF-8:Senator in NE Legislature\, District 9\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:15.824181
 END:VCARD

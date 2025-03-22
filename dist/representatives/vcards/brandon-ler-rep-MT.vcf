@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brandon Ler (House)
-N;CHARSET=UTF-8:Ler (House);Brandon;;;
+FN;CHARSET=UTF-8:Brandon Ler (MT House)
+N;CHARSET=UTF-8:Ler (MT House);Brandon;;;
 TEL;TYPE=WORK,VOICE:406-480-5687
-NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:37.065989
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:brandon.ler@legmt.gov
+NOTE;CHARSET=UTF-8:Representative in MT Legislature\, District 33\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:13.998203
 END:VCARD

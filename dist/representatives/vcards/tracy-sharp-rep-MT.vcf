@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tracy Sharp (House)
-N;CHARSET=UTF-8:Sharp (House);Tracy;;;
+FN;CHARSET=UTF-8:Tracy Sharp (MT House)
+N;CHARSET=UTF-8:Sharp (MT House);Tracy;;;
 TEL;TYPE=WORK,VOICE:406-444-4800
-NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:38.564087
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tracy.sharp@legmt.gov
+NOTE;CHARSET=UTF-8:Representative in MT Legislature\, District 12\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:15.497353
 END:VCARD

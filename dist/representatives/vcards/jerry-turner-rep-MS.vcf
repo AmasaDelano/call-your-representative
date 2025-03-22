@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jerry Turner (House)
-N;CHARSET=UTF-8:Turner (House);Jerry;;;
+FN;CHARSET=UTF-8:Jerry Turner (MS House)
+N;CHARSET=UTF-8:Turner (MS House);Jerry;;;
 TEL;TYPE=WORK,VOICE:601-359-3328
-NOTE;CHARSET=UTF-8:MS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:31.882266
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jturner@house.ms.gov
+NOTE;CHARSET=UTF-8:Representative in MS Legislature\, District 18\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:09.528357
 END:VCARD

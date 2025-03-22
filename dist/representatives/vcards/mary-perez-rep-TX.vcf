@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mary Perez (House)
-N;CHARSET=UTF-8:Perez (House);Mary;;;
+FN;CHARSET=UTF-8:Mary Perez (TX House)
+N;CHARSET=UTF-8:Perez (TX House);Mary;;;
 TEL;TYPE=WORK,VOICE:713-740-8153
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:41.078072
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:maryann.perez@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 144\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:42.735305
 END:VCARD

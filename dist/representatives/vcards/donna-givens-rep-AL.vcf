@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Donna Givens (House)
-N;CHARSET=UTF-8:Givens (House);Donna;;;
+FN;CHARSET=UTF-8:Donna Givens (AL House)
+N;CHARSET=UTF-8:Givens (AL House);Donna;;;
 TEL;TYPE=WORK,VOICE:334-261-0445
-NOTE;CHARSET=UTF-8:AL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:19.262101
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:donnagivens64@gmail.com
+NOTE;CHARSET=UTF-8:Representative in AL Legislature\, District 64\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:11.187771
 END:VCARD

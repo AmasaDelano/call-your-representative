@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Alexis Hansen (Assembly)
-N;CHARSET=UTF-8:Hansen (Assembly);Alexis;;;
+FN;CHARSET=UTF-8:Alexis Hansen (NV Assembly)
+N;CHARSET=UTF-8:Hansen (NV Assembly);Alexis;;;
 TEL;TYPE=WORK,VOICE:775-684-8851
-NOTE;CHARSET=UTF-8:NV Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:39.217765
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:alexis.hansen@asm.state.nv.us
+NOTE;CHARSET=UTF-8:Assembly Member in NV Legislature\, District 32\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:16.208373
 END:VCARD

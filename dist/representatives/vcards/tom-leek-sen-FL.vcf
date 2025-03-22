@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tom Leek (Senate)
-N;CHARSET=UTF-8:Leek (Senate);Tom;;;
+FN;CHARSET=UTF-8:Tom Leek (FL Senate)
+N;CHARSET=UTF-8:Leek (FL Senate);Tom;;;
 TEL;TYPE=WORK,VOICE:850-487-5007
-NOTE;CHARSET=UTF-8:FL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:38.220132
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:leek.tom.web@flsenate.gov
+NOTE;CHARSET=UTF-8:Senator in FL Legislature\, District 7\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:20.824213
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Gil Gatch (House)
-N;CHARSET=UTF-8:Gatch (House);Gil;;;
+FN;CHARSET=UTF-8:Gil Gatch (SC House)
+N;CHARSET=UTF-8:Gatch (SC House);Gil;;;
 TEL;TYPE=WORK,VOICE:803-212-6871
-NOTE;CHARSET=UTF-8:SC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:26:23.423573
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:gilgatch@schouse.gov
+NOTE;CHARSET=UTF-8:Representative in SC Legislature\, District 94\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:59.428290
 END:VCARD

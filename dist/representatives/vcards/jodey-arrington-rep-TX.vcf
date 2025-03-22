@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jodey Arrington (House)
-N;CHARSET=UTF-8:Arrington (House);Jodey;;;
+FN;CHARSET=UTF-8:Jodey Arrington (TX House)
+N;CHARSET=UTF-8:Arrington (TX House);Jodey;;;
 TEL;TYPE=WORK,VOICE:202-225-4005
-NOTE;CHARSET=UTF-8:US Representative\, TX\n\nCommittees:\nThe Budget\nWays and Means\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:31.716989
+URL;CHARSET=UTF-8:https://arrington.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from TX\, District 19\n\nCommittees he's on:\n- The Budget\n- Ways and Means\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:13.723608
 END:VCARD

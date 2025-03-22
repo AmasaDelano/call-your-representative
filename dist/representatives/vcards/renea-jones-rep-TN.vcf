@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Renea Jones (House)
-N;CHARSET=UTF-8:Jones (House);Renea;;;
+FN;CHARSET=UTF-8:Renea Jones (TN House)
+N;CHARSET=UTF-8:Jones (TN House);Renea;;;
 TEL;TYPE=WORK,VOICE:615-741-7450
-NOTE;CHARSET=UTF-8:TN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:04.652984
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.renea.jones@capitol.tn.gov
+NOTE;CHARSET=UTF-8:Representative in TN Legislature\, District 4\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:09.295404
 END:VCARD

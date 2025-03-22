@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lindsey Tichenor (Senate)
-N;CHARSET=UTF-8:Tichenor (Senate);Lindsey;;;
+FN;CHARSET=UTF-8:Lindsey Tichenor (KY Senate)
+N;CHARSET=UTF-8:Tichenor (KY Senate);Lindsey;;;
 TEL;TYPE=WORK,VOICE:502-564-8100
-NOTE;CHARSET=UTF-8:KY Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:20.789948
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lindsey.tichenor@kylegislature.gov
+NOTE;CHARSET=UTF-8:Senator in KY Legislature\, District 6\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:01.438949
 END:VCARD

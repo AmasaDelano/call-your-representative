@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:David Hinkins (Senate)
-N;CHARSET=UTF-8:Hinkins (Senate);David;;;
+FN;CHARSET=UTF-8:David Hinkins (UT Senate)
+N;CHARSET=UTF-8:Hinkins (UT Senate);David;;;
 TEL;TYPE=WORK,VOICE:801-538-1035
-NOTE;CHARSET=UTF-8:UT Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:03.966215
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:dhinkins@le.utah.gov
+NOTE;CHARSET=UTF-8:Senator in UT Legislature\, District 26\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:58:03.139511
 END:VCARD

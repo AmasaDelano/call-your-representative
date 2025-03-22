@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jane Timken (Senate)
-N;CHARSET=UTF-8:Timken (Senate);Jane;;;
+FN;CHARSET=UTF-8:Jane Timken (OH Senate)
+N;CHARSET=UTF-8:Timken (OH Senate);Jane;;;
 TEL;TYPE=WORK,VOICE:614-466-0626
-NOTE;CHARSET=UTF-8:OH Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:16.362400
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sd29@ohiosenate.gov
+NOTE;CHARSET=UTF-8:Senator in OH Legislature\, District 29\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:55.016321
 END:VCARD

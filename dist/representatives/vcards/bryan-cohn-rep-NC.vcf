@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bryan Cohn (House)
-N;CHARSET=UTF-8:Cohn (House);Bryan;;;
+FN;CHARSET=UTF-8:Bryan Cohn (NC House)
+N;CHARSET=UTF-8:Cohn (NC House);Bryan;;;
 TEL;TYPE=WORK,VOICE:919-733-5824
-NOTE;CHARSET=UTF-8:NC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:10.385152
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bryan.cohn@ncleg.gov
+NOTE;CHARSET=UTF-8:Representative in NC Legislature\, District 32\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:48.417382
 END:VCARD

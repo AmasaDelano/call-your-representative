@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Matt Simpson (House)
-N;CHARSET=UTF-8:Simpson (House);Matt;;;
+FN;CHARSET=UTF-8:Matt Simpson (AL House)
+N;CHARSET=UTF-8:Simpson (AL House);Matt;;;
 TEL;TYPE=WORK,VOICE:334-261-0424
-NOTE;CHARSET=UTF-8:AL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:20.184895
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:matt.simpson@alhouse.gov
+NOTE;CHARSET=UTF-8:Representative in AL Legislature\, District 96\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:12.644327
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Alex Marszalkowski (House)
-N;CHARSET=UTF-8:Marszalkowski (House);Alex;;;
+FN;CHARSET=UTF-8:Alex Marszalkowski (RI House)
+N;CHARSET=UTF-8:Marszalkowski (RI House);Alex;;;
 TEL;TYPE=WORK,VOICE:401-222-3580
-NOTE;CHARSET=UTF-8:RI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:48.089064
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep-marszalkowski@rilegislature.gov
+NOTE;CHARSET=UTF-8:Representative in RI Legislature\, District 52\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:24.484003
 END:VCARD

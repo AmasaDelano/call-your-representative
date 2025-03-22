@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tracy McCreery (Senate)
-N;CHARSET=UTF-8:McCreery (Senate);Tracy;;;
+FN;CHARSET=UTF-8:Tracy McCreery (MO Senate)
+N;CHARSET=UTF-8:McCreery (MO Senate);Tracy;;;
 TEL;TYPE=WORK,VOICE:573-751-9762
-NOTE;CHARSET=UTF-8:MO Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:36.832444
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tracy.mccreery@senate.mo.gov
+NOTE;CHARSET=UTF-8:Senator in MO Legislature\, District 24\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:13.797415
 END:VCARD

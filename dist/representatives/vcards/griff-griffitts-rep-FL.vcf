@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Griff Griffitts (House)
-N;CHARSET=UTF-8:Griffitts (House);Griff;;;
+FN;CHARSET=UTF-8:Griff Griffitts (FL House)
+N;CHARSET=UTF-8:Griffitts (FL House);Griff;;;
 TEL;TYPE=WORK,VOICE:850-717-5006
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:31.208144
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:griff.griffitts@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 6\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:13.700258
 END:VCARD

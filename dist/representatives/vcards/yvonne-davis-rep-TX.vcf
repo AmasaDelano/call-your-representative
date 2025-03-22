@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Yvonne Davis (House)
-N;CHARSET=UTF-8:Davis (House);Yvonne;;;
+FN;CHARSET=UTF-8:Yvonne Davis (TX House)
+N;CHARSET=UTF-8:Davis (TX House);Yvonne;;;
 TEL;TYPE=WORK,VOICE:214-941-3895
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:03.622121
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:yvonne.davis@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 111\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:58:02.807550
 END:VCARD

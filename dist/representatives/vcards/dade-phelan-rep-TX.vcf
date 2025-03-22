@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Dade Phelan (House)
-N;CHARSET=UTF-8:Phelan (House);Dade;;;
+FN;CHARSET=UTF-8:Dade Phelan (TX House)
+N;CHARSET=UTF-8:Phelan (TX House);Dade;;;
 TEL;TYPE=WORK,VOICE:409-745-2777
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:19.951915
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:dade.phelan@speaker.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 21\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:23.410529
 END:VCARD

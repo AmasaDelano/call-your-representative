@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Sarah Garriott (Senate)
-N;CHARSET=UTF-8:Garriott (Senate);Sarah;;;
+FN;CHARSET=UTF-8:Sarah Garriott (IA Senate)
+N;CHARSET=UTF-8:Garriott (IA Senate);Sarah;;;
 TEL;TYPE=WORK,VOICE:515-281-3371
-NOTE;CHARSET=UTF-8:IA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:35.817337
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sarah.trone.garriott@legis.iowa.gov
+NOTE;CHARSET=UTF-8:Senator in IA Legislature\, District 14\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:18.210941
 END:VCARD

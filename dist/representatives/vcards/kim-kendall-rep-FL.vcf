@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kim Kendall (House)
-N;CHARSET=UTF-8:Kendall (House);Kim;;;
+FN;CHARSET=UTF-8:Kim Kendall (FL House)
+N;CHARSET=UTF-8:Kendall (FL House);Kim;;;
 TEL;TYPE=WORK,VOICE:850-717-5018
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:21.292833
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:kim.kendall@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 18\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:04.414418
 END:VCARD

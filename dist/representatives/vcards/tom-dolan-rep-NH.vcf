@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tom Dolan (House)
-N;CHARSET=UTF-8:Dolan (House);Tom;;;
+FN;CHARSET=UTF-8:Tom Dolan (NH House)
+N;CHARSET=UTF-8:Dolan (NH House);Tom;;;
 TEL;TYPE=WORK,VOICE:603-434-5461
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:12.248474
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tom.dolan@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Rockingham 16\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:49.044606
 END:VCARD

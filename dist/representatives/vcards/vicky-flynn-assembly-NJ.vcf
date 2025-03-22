@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Vicky Flynn (Assembly)
-N;CHARSET=UTF-8:Flynn (Assembly);Vicky;;;
+FN;CHARSET=UTF-8:Vicky Flynn (NJ Assembly)
+N;CHARSET=UTF-8:Flynn (NJ Assembly);Vicky;;;
 TEL;TYPE=WORK,VOICE:732-856-9833
-NOTE;CHARSET=UTF-8:NJ Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:38.297137
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:aswflynn@njleg.org
+NOTE;CHARSET=UTF-8:Assembly Member in NJ Legislature\, District 13\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:14.397653
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lino Avellani (House)
-N;CHARSET=UTF-8:Avellani (House);Lino;;;
+FN;CHARSET=UTF-8:Lino Avellani (NH House)
+N;CHARSET=UTF-8:Avellani (NH House);Lino;;;
 TEL;TYPE=WORK,VOICE:603-858-5196
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:07.825683
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lino.avellani@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Carroll 4\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:44.742031
 END:VCARD

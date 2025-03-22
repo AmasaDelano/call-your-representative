@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Joanne Stehr (House)
-N;CHARSET=UTF-8:Stehr (House);Joanne;;;
+FN;CHARSET=UTF-8:Joanne Stehr (PA House)
+N;CHARSET=UTF-8:Stehr (PA House);Joanne;;;
 TEL;TYPE=WORK,VOICE:717-260-6134
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:07.389329
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jstehr@pahousegop.com
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 107\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:45.892206
 END:VCARD

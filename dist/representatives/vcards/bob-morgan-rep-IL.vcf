@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bob Morgan (House)
-N;CHARSET=UTF-8:Morgan (House);Bob;;;
+FN;CHARSET=UTF-8:Bob Morgan (IL House)
+N;CHARSET=UTF-8:Morgan (IL House);Bob;;;
 TEL;TYPE=WORK,VOICE:217-782-0902
-NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:56.552056
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:info@repbobmorgan.com
+NOTE;CHARSET=UTF-8:Representative in IL Legislature\, District 58\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:38.150130
 END:VCARD

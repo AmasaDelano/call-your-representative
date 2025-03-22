@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jerry Cirino (Senate)
-N;CHARSET=UTF-8:Cirino (Senate);Jerry;;;
+FN;CHARSET=UTF-8:Jerry Cirino (OH Senate)
+N;CHARSET=UTF-8:Cirino (OH Senate);Jerry;;;
 TEL;TYPE=WORK,VOICE:614-644-7718
-NOTE;CHARSET=UTF-8:OH Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:16.435044
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sd18@ohiosenate.gov
+NOTE;CHARSET=UTF-8:Senator in OH Legislature\, District 18\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:55.080276
 END:VCARD

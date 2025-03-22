@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brad Pollitt (House)
-N;CHARSET=UTF-8:Pollitt (House);Brad;;;
+FN;CHARSET=UTF-8:Brad Pollitt (MO House)
+N;CHARSET=UTF-8:Pollitt (MO House);Brad;;;
 TEL;TYPE=WORK,VOICE:573-751-9774
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:34.906144
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bradley.pollitt@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 52\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:12.176247
 END:VCARD

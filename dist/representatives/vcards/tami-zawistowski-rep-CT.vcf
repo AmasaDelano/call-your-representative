@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tami Zawistowski (House)
-N;CHARSET=UTF-8:Zawistowski (House);Tami;;;
+FN;CHARSET=UTF-8:Tami Zawistowski (CT House)
+N;CHARSET=UTF-8:Zawistowski (CT House);Tami;;;
 TEL;TYPE=WORK,VOICE:860-240-8700
-NOTE;CHARSET=UTF-8:CT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:54.238554
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tami.zawistowski@housegop.ct.gov
+NOTE;CHARSET=UTF-8:Representative in CT Legislature\, District 61\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:37.186009
 END:VCARD

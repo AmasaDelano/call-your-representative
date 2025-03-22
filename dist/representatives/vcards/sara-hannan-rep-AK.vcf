@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Sara Hannan (House)
-N;CHARSET=UTF-8:Hannan (House);Sara;;;
+FN;CHARSET=UTF-8:Sara Hannan (AK House)
+N;CHARSET=UTF-8:Hannan (AK House);Sara;;;
 TEL;TYPE=WORK,VOICE:907-465-4766
-NOTE;CHARSET=UTF-8:AK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:22.232316
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:representative.sara.hannan@akleg.gov
+NOTE;CHARSET=UTF-8:Representative in AK Legislature\, District 4\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:15.265669
 END:VCARD

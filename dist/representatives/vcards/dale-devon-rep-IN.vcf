@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Dale DeVon (House)
-N;CHARSET=UTF-8:DeVon (House);Dale;;;
+FN;CHARSET=UTF-8:Dale DeVon (IN House)
+N;CHARSET=UTF-8:DeVon (IN House);Dale;;;
 TEL;TYPE=WORK,VOICE:317-232-9816
-NOTE;CHARSET=UTF-8:IN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:06.397940
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:h5@iga.in.gov
+NOTE;CHARSET=UTF-8:Representative in IN Legislature\, District 5\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:48.051560
 END:VCARD

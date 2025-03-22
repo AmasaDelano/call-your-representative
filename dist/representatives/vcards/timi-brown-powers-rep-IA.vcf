@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Timi Brown-Powers (House)
-N;CHARSET=UTF-8:Brown-Powers (House);Timi;;;
+FN;CHARSET=UTF-8:Timi Brown-Powers (IA House)
+N;CHARSET=UTF-8:Brown-Powers (IA House);Timi;;;
 TEL;TYPE=WORK,VOICE:515-281-3221
-NOTE;CHARSET=UTF-8:IA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:35.947333
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:timi.brown-powers@legis.iowa.gov
+NOTE;CHARSET=UTF-8:Representative in IA Legislature\, District 61\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:18.342495
 END:VCARD

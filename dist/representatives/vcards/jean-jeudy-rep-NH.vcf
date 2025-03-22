@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jean Jeudy (House)
-N;CHARSET=UTF-8:Jeudy (House);Jean;;;
+FN;CHARSET=UTF-8:Jean Jeudy (NH House)
+N;CHARSET=UTF-8:Jeudy (NH House);Jean;;;
 TEL;TYPE=WORK,VOICE:603-645-5290
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:05.296461
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jean.jeudy@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Hillsborough 23\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:42.933054
 END:VCARD

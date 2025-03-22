@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Larry Kraft (House)
-N;CHARSET=UTF-8:Kraft (House);Larry;;;
+FN;CHARSET=UTF-8:Larry Kraft (MN House)
+N;CHARSET=UTF-8:Kraft (MN House);Larry;;;
 TEL;TYPE=WORK,VOICE:651-296-7026
-NOTE;CHARSET=UTF-8:MN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:28.408208
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.larry.kraft@house.mn.gov
+NOTE;CHARSET=UTF-8:Representative in MN Legislature\, District 46A\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:05.872698
 END:VCARD

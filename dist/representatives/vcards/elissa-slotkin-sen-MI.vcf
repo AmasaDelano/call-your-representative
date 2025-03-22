@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Elissa Slotkin (Senate)
-N;CHARSET=UTF-8:Slotkin (Senate);Elissa;;;
+FN;CHARSET=UTF-8:Elissa Slotkin (MI Senate)
+N;CHARSET=UTF-8:Slotkin (MI Senate);Elissa;;;
 TEL;TYPE=WORK,VOICE:202-224-4822
-NOTE;CHARSET=UTF-8:US Senator\, MI\n\nCommittees:\nAgriculture, Nutrition, and Forestry\nCommodities, Derivatives, Risk Management, and Trade\nLivestock, Dairy, Poultry, and Food Safety\nArmed Services\nAirland\nEmerging Threats and Capabilities\nCybersecurity\nHomeland Security and Governmental Affairs\nDisaster Management, District of Columbia, and Census\nBorder Management, Federal Workforce, and Regulatory Affairs\nVeterans' Affairs\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:32.333001
+URL;CHARSET=UTF-8:https://www.slotkin.senate.gov
+NOTE;CHARSET=UTF-8:US Senator for MI\n\nCommittees she's on:\n- Agriculture, Nutrition, and Forestry\n- Commodities, Derivatives, Risk Management, and Trade\n- Livestock, Dairy, Poultry, and Food Safety\n- Armed Services\n- Airland\n- Emerging Threats and Capabilities\n- Cybersecurity\n- Homeland Security and Governmental Affairs\n- Disaster Management, District of Columbia, and Census\n- Border Management, Federal Workforce, and Regulatory Affairs\n- Veterans' Affairs\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:14.352760
 END:VCARD

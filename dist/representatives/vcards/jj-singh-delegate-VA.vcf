@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:J.J. Singh (House)
-N;CHARSET=UTF-8:Singh (House);J.J.;;;
+FN;CHARSET=UTF-8:J.J. Singh (VA House)
+N;CHARSET=UTF-8:Singh (VA House);J.J.;;;
 TEL;TYPE=WORK,VOICE:804-698-1026
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:22.247674
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:deljsingh@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 26\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:03.202348
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Nolan West (House)
-N;CHARSET=UTF-8:West (House);Nolan;;;
+FN;CHARSET=UTF-8:Nolan West (MN House)
+N;CHARSET=UTF-8:West (MN House);Nolan;;;
 TEL;TYPE=WORK,VOICE:651-296-4226
-NOTE;CHARSET=UTF-8:MN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:28.806225
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.nolan.west@house.mn.gov
+NOTE;CHARSET=UTF-8:Representative in MN Legislature\, District 32A\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:06.237149
 END:VCARD

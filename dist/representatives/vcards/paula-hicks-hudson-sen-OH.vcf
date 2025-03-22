@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Paula Hicks-Hudson (Senate)
-N;CHARSET=UTF-8:Hicks-Hudson (Senate);Paula;;;
+FN;CHARSET=UTF-8:Paula Hicks-Hudson (OH Senate)
+N;CHARSET=UTF-8:Hicks-Hudson (OH Senate);Paula;;;
 TEL;TYPE=WORK,VOICE:614-466-5204
-NOTE;CHARSET=UTF-8:OH Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:17.856555
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sd11@ohiosenate.gov
+NOTE;CHARSET=UTF-8:Senator in OH Legislature\, District 11\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:57.752218
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Carolyn Comitta (Senate)
-N;CHARSET=UTF-8:Comitta (Senate);Carolyn;;;
+FN;CHARSET=UTF-8:Carolyn Comitta (PA Senate)
+N;CHARSET=UTF-8:Comitta (PA Senate);Carolyn;;;
 TEL;TYPE=WORK,VOICE:717-787-5709
-NOTE;CHARSET=UTF-8:PA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:46.810339
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:carolyn@carolyncomitta.com
+NOTE;CHARSET=UTF-8:Senator in PA Legislature\, District 19\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:25.286967
 END:VCARD

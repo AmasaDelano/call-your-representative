@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Nasif Majeed (House)
-N;CHARSET=UTF-8:Majeed (House);Nasif;;;
+FN;CHARSET=UTF-8:Nasif Majeed (NC House)
+N;CHARSET=UTF-8:Majeed (NC House);Nasif;;;
 TEL;TYPE=WORK,VOICE:919-733-5606
-NOTE;CHARSET=UTF-8:NC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:12.355049
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:nasif.majeed@ncleg.gov
+NOTE;CHARSET=UTF-8:Representative in NC Legislature\, District 99\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:50.949731
 END:VCARD

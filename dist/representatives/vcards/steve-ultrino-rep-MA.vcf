@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Steve Ultrino (House)
-N;CHARSET=UTF-8:Ultrino (House);Steve;;;
+FN;CHARSET=UTF-8:Steve Ultrino (MA House)
+N;CHARSET=UTF-8:Ultrino (MA House);Steve;;;
 TEL;TYPE=WORK,VOICE:617-722-2070
-NOTE;CHARSET=UTF-8:MA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:06.406290
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:steven.ultrino@mahouse.gov
+NOTE;CHARSET=UTF-8:Representative in MA Legislature\, District 33rd Middlesex\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:44.438634
 END:VCARD

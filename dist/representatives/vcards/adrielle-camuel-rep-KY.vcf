@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Adrielle Camuel (House)
-N;CHARSET=UTF-8:Camuel (House);Adrielle;;;
+FN;CHARSET=UTF-8:Adrielle Camuel (KY House)
+N;CHARSET=UTF-8:Camuel (KY House);Adrielle;;;
 TEL;TYPE=WORK,VOICE:502-564-8100
-NOTE;CHARSET=UTF-8:KY Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:12.980538
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:adrielle.camuel@kylegislature.gov
+NOTE;CHARSET=UTF-8:Representative in KY Legislature\, District 93\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:53.923591
 END:VCARD

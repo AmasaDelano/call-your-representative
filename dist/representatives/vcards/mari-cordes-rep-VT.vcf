@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mari Cordes (House)
-N;CHARSET=UTF-8:Cordes (House);Mari;;;
+FN;CHARSET=UTF-8:Mari Cordes (VT House)
+N;CHARSET=UTF-8:Cordes (VT House);Mari;;;
 TEL;TYPE=WORK,VOICE:802-828-2228
-NOTE;CHARSET=UTF-8:VT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:13.916000
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mcordes@leg.state.vt.us
+NOTE;CHARSET=UTF-8:Representative in VT Legislature\, District Addison-4\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:03:23.407996
 END:VCARD

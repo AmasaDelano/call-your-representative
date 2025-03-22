@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Joe Hohenstein (House)
-N;CHARSET=UTF-8:Hohenstein (House);Joe;;;
+FN;CHARSET=UTF-8:Joe Hohenstein (PA House)
+N;CHARSET=UTF-8:Hohenstein (PA House);Joe;;;
 TEL;TYPE=WORK,VOICE:717-783-4087
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:12.294849
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jhohenstein@pahouse.net
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 177\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:50.802030
 END:VCARD

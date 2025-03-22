@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Reena Szczepanski (House)
-N;CHARSET=UTF-8:Szczepanski (House);Reena;;;
+FN;CHARSET=UTF-8:Reena Szczepanski (NM House)
+N;CHARSET=UTF-8:Szczepanski (NM House);Reena;;;
 TEL;TYPE=WORK,VOICE:505-986-4777
-NOTE;CHARSET=UTF-8:NM Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:44.592300
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:reena.szczepanski@nmlegis.gov
+NOTE;CHARSET=UTF-8:Representative in NM Legislature\, District 47\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:20.267680
 END:VCARD

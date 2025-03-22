@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Robert Rivas (Assembly)
-N;CHARSET=UTF-8:Rivas (Assembly);Robert;;;
+FN;CHARSET=UTF-8:Robert Rivas (CA Assembly)
+N;CHARSET=UTF-8:Rivas (CA Assembly);Robert;;;
 TEL;TYPE=WORK,VOICE:916-319-2029
-NOTE;CHARSET=UTF-8:CA Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:43.057093
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:assemblymember.robertrivas@assembly.ca.gov
+NOTE;CHARSET=UTF-8:Assembly Member in CA Legislature\, District 29\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:35.491169
 END:VCARD

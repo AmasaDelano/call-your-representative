@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Dana Jones (Senate)
-N;CHARSET=UTF-8:Jones (Senate);Dana;;;
+FN;CHARSET=UTF-8:Dana Jones (NC Senate)
+N;CHARSET=UTF-8:Jones (NC Senate);Dana;;;
 TEL;TYPE=WORK,VOICE:919-733-7850
-NOTE;CHARSET=UTF-8:NC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:10.574715
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:dana.jones@ncleg.gov
+NOTE;CHARSET=UTF-8:Senator in NC Legislature\, District 31\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:48.623004
 END:VCARD

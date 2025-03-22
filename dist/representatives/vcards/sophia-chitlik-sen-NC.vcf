@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Sophia Chitlik (Senate)
-N;CHARSET=UTF-8:Chitlik (Senate);Sophia;;;
+FN;CHARSET=UTF-8:Sophia Chitlik (NC Senate)
+N;CHARSET=UTF-8:Chitlik (NC Senate);Sophia;;;
 TEL;TYPE=WORK,VOICE:919-733-4809
-NOTE;CHARSET=UTF-8:NC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:12.674225
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sophia.chitlik@ncleg.gov
+NOTE;CHARSET=UTF-8:Senator in NC Legislature\, District 22\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:51.467328
 END:VCARD

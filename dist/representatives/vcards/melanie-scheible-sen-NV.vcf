@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Melanie Scheible (Senate)
-N;CHARSET=UTF-8:Scheible (Senate);Melanie;;;
+FN;CHARSET=UTF-8:Melanie Scheible (NV Senate)
+N;CHARSET=UTF-8:Scheible (NV Senate);Melanie;;;
 TEL;TYPE=WORK,VOICE:775-684-1421
-NOTE;CHARSET=UTF-8:NV Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:39.699199
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:melanie.scheible@sen.state.nv.us
+NOTE;CHARSET=UTF-8:Senator in NV Legislature\, District 9\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:16.639361
 END:VCARD

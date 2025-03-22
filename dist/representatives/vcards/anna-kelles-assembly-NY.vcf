@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Anna Kelles (Assembly)
-N;CHARSET=UTF-8:Kelles (Assembly);Anna;;;
+FN;CHARSET=UTF-8:Anna Kelles (NY Assembly)
+N;CHARSET=UTF-8:Kelles (NY Assembly);Anna;;;
 TEL;TYPE=WORK,VOICE:518-455-5444
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:46.505292
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:kellesa@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 125\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:22.310550
 END:VCARD

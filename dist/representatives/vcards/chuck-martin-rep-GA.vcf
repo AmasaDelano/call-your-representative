@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Chuck Martin (House)
-N;CHARSET=UTF-8:Martin (House);Chuck;;;
+FN;CHARSET=UTF-8:Chuck Martin (GA House)
+N;CHARSET=UTF-8:Martin (GA House);Chuck;;;
 TEL;TYPE=WORK,VOICE:404-656-5146
-NOTE;CHARSET=UTF-8:GA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:44.456543
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:chuck.martin@house.ga.gov
+NOTE;CHARSET=UTF-8:Representative in GA Legislature\, District 49\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:26.791286
 END:VCARD

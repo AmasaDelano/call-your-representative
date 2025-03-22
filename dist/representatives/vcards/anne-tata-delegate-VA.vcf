@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Anne Tata (House)
-N;CHARSET=UTF-8:Tata (House);Anne;;;
+FN;CHARSET=UTF-8:Anne Tata (VA House)
+N;CHARSET=UTF-8:Tata (VA House);Anne;;;
 TEL;TYPE=WORK,VOICE:804-698-1099
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:21.396729
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delaftata@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 99\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:02.395865
 END:VCARD

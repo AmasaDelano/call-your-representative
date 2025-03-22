@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Briana Sewell (House)
-N;CHARSET=UTF-8:Sewell (House);Briana;;;
+FN;CHARSET=UTF-8:Briana Sewell (VA House)
+N;CHARSET=UTF-8:Sewell (VA House);Briana;;;
 TEL;TYPE=WORK,VOICE:804-698-1025
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:21.509695
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delbsewell@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 25\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:02.506726
 END:VCARD

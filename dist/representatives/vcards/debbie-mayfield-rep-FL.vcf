@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Debbie Mayfield (House)
-N;CHARSET=UTF-8:Mayfield (House);Debbie;;;
+FN;CHARSET=UTF-8:Debbie Mayfield (FL House)
+N;CHARSET=UTF-8:Mayfield (FL House);Debbie;;;
 TEL;TYPE=WORK,VOICE:850-717-5032
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:06.848443
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:debbie.mayfield@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 32\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:49.927775
 END:VCARD

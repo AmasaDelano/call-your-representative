@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Michele Brooks (Senate)
-N;CHARSET=UTF-8:Brooks (Senate);Michele;;;
+FN;CHARSET=UTF-8:Michele Brooks (PA Senate)
+N;CHARSET=UTF-8:Brooks (PA Senate);Michele;;;
 TEL;TYPE=WORK,VOICE:717-787-1322
-NOTE;CHARSET=UTF-8:PA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:27.174152
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mbrooks@pasen.gov
+NOTE;CHARSET=UTF-8:Senator in PA Legislature\, District 50\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:05.301783
 END:VCARD

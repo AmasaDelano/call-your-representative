@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:David Tikoian (Senate)
-N;CHARSET=UTF-8:Tikoian (Senate);David;;;
+FN;CHARSET=UTF-8:David Tikoian (RI Senate)
+N;CHARSET=UTF-8:Tikoian (RI Senate);David;;;
 TEL;TYPE=WORK,VOICE:401-222-3580
-NOTE;CHARSET=UTF-8:RI Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:49.365157
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen-tikoian@rilegislature.gov
+NOTE;CHARSET=UTF-8:Senator in RI Legislature\, District 22\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:25.735819
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lucy Rehm (House)
-N;CHARSET=UTF-8:Rehm (House);Lucy;;;
+FN;CHARSET=UTF-8:Lucy Rehm (MN House)
+N;CHARSET=UTF-8:Rehm (MN House);Lucy;;;
 TEL;TYPE=WORK,VOICE:651-296-5066
-NOTE;CHARSET=UTF-8:MN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:28.505928
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.lucy.rehm@house.mn.gov
+NOTE;CHARSET=UTF-8:Representative in MN Legislature\, District 48B\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:05.965114
 END:VCARD

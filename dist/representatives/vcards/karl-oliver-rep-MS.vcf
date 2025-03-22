@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Karl Oliver (House)
-N;CHARSET=UTF-8:Oliver (House);Karl;;;
+FN;CHARSET=UTF-8:Karl Oliver (MS House)
+N;CHARSET=UTF-8:Oliver (MS House);Karl;;;
 TEL;TYPE=WORK,VOICE:601-359-3340
-NOTE;CHARSET=UTF-8:MS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:32.226095
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:koliver@house.ms.gov
+NOTE;CHARSET=UTF-8:Representative in MS Legislature\, District 46\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:09.785591
 END:VCARD

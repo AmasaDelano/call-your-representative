@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Susannah Whipps (House)
-N;CHARSET=UTF-8:Whipps (House);Susannah;;;
+FN;CHARSET=UTF-8:Susannah Whipps (MA House)
+N;CHARSET=UTF-8:Whipps (MA House);Susannah;;;
 TEL;TYPE=WORK,VOICE:617-722-2090
-NOTE;CHARSET=UTF-8:MA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:06.417576
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:susannah.whipps@mahouse.gov
+NOTE;CHARSET=UTF-8:Representative in MA Legislature\, District 2nd Franklin\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:44.449585
 END:VCARD

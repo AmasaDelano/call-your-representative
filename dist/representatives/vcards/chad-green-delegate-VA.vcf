@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Chad Green (House)
-N;CHARSET=UTF-8:Green (House);Chad;;;
+FN;CHARSET=UTF-8:Chad Green (VA House)
+N;CHARSET=UTF-8:Green (VA House);Chad;;;
 TEL;TYPE=WORK,VOICE:804-698-1069
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:23.142020
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delcgreen@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 69\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:04.163170
 END:VCARD

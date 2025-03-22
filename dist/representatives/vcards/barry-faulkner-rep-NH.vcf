@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Barry Faulkner (House)
-N;CHARSET=UTF-8:Faulkner (House);Barry;;;
+FN;CHARSET=UTF-8:Barry Faulkner (NH House)
+N;CHARSET=UTF-8:Faulkner (NH House);Barry;;;
 TEL;TYPE=WORK,VOICE:603-352-2729
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:40.376492
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:fbfaulkner@outlook.com
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Cheshire 10\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:17.314896
 END:VCARD

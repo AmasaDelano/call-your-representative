@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Cam Cavitt (House)
-N;CHARSET=UTF-8:Cavitt (House);Cam;;;
+FN;CHARSET=UTF-8:Cam Cavitt (MI House)
+N;CHARSET=UTF-8:Cavitt (MI House);Cam;;;
 TEL;TYPE=WORK,VOICE:517-373-0833
-NOTE;CHARSET=UTF-8:MI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:11.509260
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:camcavitt@house.mi.gov
+NOTE;CHARSET=UTF-8:Representative in MI Legislature\, District 106\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:48.270241
 END:VCARD

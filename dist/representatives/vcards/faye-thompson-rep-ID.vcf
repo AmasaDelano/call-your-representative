@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Faye Thompson (House)
-N;CHARSET=UTF-8:Thompson (House);Faye;;;
+FN;CHARSET=UTF-8:Faye Thompson (ID House)
+N;CHARSET=UTF-8:Thompson (ID House);Faye;;;
 TEL;TYPE=WORK,VOICE:208-332-1054
-NOTE;CHARSET=UTF-8:ID Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:55.517975
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:fthompson@house.idaho.gov
+NOTE;CHARSET=UTF-8:Representative in ID Legislature\, District 8B\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:37.161213
 END:VCARD

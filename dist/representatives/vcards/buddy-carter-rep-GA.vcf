@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Buddy Carter (House)
-N;CHARSET=UTF-8:Carter (House);Buddy;;;
+FN;CHARSET=UTF-8:Buddy Carter (GA House)
+N;CHARSET=UTF-8:Carter (GA House);Buddy;;;
 TEL;TYPE=WORK,VOICE:202-225-5831
-NOTE;CHARSET=UTF-8:US Representative\, GA\n\nCommittees:\nThe Budget\nEnergy and Commerce\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:30.415950
+URL;CHARSET=UTF-8:https://buddycarter.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from GA\, District 1\n\nCommittees he's on:\n- The Budget\n- Energy and Commerce\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:12.254939
 END:VCARD

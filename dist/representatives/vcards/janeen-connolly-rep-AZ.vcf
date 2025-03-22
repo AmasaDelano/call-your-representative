@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Janeen Connolly (House)
-N;CHARSET=UTF-8:Connolly (House);Janeen;;;
+FN;CHARSET=UTF-8:Janeen Connolly (AZ House)
+N;CHARSET=UTF-8:Connolly (AZ House);Janeen;;;
 TEL;TYPE=WORK,VOICE:602-926-3300
-NOTE;CHARSET=UTF-8:AZ Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:24.179344
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jconnolly@azleg.gov
+NOTE;CHARSET=UTF-8:Representative in AZ Legislature\, District 8\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:16.601268
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Carl Ford (Senate)
-N;CHARSET=UTF-8:Ford (Senate);Carl;;;
+FN;CHARSET=UTF-8:Carl Ford (NC Senate)
+N;CHARSET=UTF-8:Ford (NC Senate);Carl;;;
 TEL;TYPE=WORK,VOICE:919-733-5665
-NOTE;CHARSET=UTF-8:NC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:10.414941
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:carl.ford@ncleg.gov
+NOTE;CHARSET=UTF-8:Senator in NC Legislature\, District 33\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:48.443366
 END:VCARD

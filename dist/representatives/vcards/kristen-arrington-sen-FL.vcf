@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kristen Arrington (Senate)
-N;CHARSET=UTF-8:Arrington (Senate);Kristen;;;
+FN;CHARSET=UTF-8:Kristen Arrington (FL Senate)
+N;CHARSET=UTF-8:Arrington (FL Senate);Kristen;;;
 TEL;TYPE=WORK,VOICE:850-487-5025
-NOTE;CHARSET=UTF-8:FL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:22.723146
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:arrington.kristen@flsenate.gov
+NOTE;CHARSET=UTF-8:Senator in FL Legislature\, District 25\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:05.772336
 END:VCARD

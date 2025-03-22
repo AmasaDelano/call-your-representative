@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Casey Weinstein (Senate)
-N;CHARSET=UTF-8:Weinstein (Senate);Casey;;;
+FN;CHARSET=UTF-8:Casey Weinstein (OH Senate)
+N;CHARSET=UTF-8:Weinstein (OH Senate);Casey;;;
 TEL;TYPE=WORK,VOICE:614-466-7041
-NOTE;CHARSET=UTF-8:OH Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:15.136929
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sd28@ohiosenate.gov
+NOTE;CHARSET=UTF-8:Senator in OH Legislature\, District 28\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:53.807729
 END:VCARD

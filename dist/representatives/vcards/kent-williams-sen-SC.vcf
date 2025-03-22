@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kent Williams (Senate)
-N;CHARSET=UTF-8:Williams (Senate);Kent;;;
+FN;CHARSET=UTF-8:Kent Williams (SC Senate)
+N;CHARSET=UTF-8:Williams (SC Senate);Kent;;;
 TEL;TYPE=WORK,VOICE:803-212-6000
-NOTE;CHARSET=UTF-8:SC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:26:23.965162
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:kentwilliams@scsenate.gov
+NOTE;CHARSET=UTF-8:Senator in SC Legislature\, District 30\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:59.945613
 END:VCARD

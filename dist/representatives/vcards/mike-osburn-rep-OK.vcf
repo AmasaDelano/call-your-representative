@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Osburn (House)
-N;CHARSET=UTF-8:Osburn (House);Mike;;;
+FN;CHARSET=UTF-8:Mike Osburn (OK House)
+N;CHARSET=UTF-8:Osburn (OK House);Mike;;;
 TEL;TYPE=WORK,VOICE:405-557-7360
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:32.284940
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mike.osburn@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 81\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:11.082746
 END:VCARD

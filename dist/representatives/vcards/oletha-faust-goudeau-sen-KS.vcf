@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Oletha Faust-Goudeau (Senate)
-N;CHARSET=UTF-8:Faust-Goudeau (Senate);Oletha;;;
+FN;CHARSET=UTF-8:Oletha Faust-Goudeau (KS Senate)
+N;CHARSET=UTF-8:Faust-Goudeau (KS Senate);Oletha;;;
 TEL;TYPE=WORK,VOICE:785-296-7387
-NOTE;CHARSET=UTF-8:KS Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:10.638143
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:oletha.faust-goudeau@senate.ks.gov
+NOTE;CHARSET=UTF-8:Senator in KS Legislature\, District 29\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:52.593299
 END:VCARD

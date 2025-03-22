@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jill Cohenour (House)
-N;CHARSET=UTF-8:Cohenour (House);Jill;;;
+FN;CHARSET=UTF-8:Jill Cohenour (MT House)
+N;CHARSET=UTF-8:Cohenour (MT House);Jill;;;
 TEL;TYPE=WORK,VOICE:406-431-0912
-NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:37.709831
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jill.cohenour@legmt.gov
+NOTE;CHARSET=UTF-8:Representative in MT Legislature\, District 83\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:14.552911
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Amy Galey (Senate)
-N;CHARSET=UTF-8:Galey (Senate);Amy;;;
+FN;CHARSET=UTF-8:Amy Galey (NC Senate)
+N;CHARSET=UTF-8:Galey (NC Senate);Amy;;;
 TEL;TYPE=WORK,VOICE:919-301-1446
-NOTE;CHARSET=UTF-8:NC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:10.125004
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:amy.galey@ncleg.gov
+NOTE;CHARSET=UTF-8:Senator in NC Legislature\, District 25\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:48.179948
 END:VCARD

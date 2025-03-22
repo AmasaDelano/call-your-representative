@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Larry Brewster (House)
-N;CHARSET=UTF-8:Brewster (House);Larry;;;
+FN;CHARSET=UTF-8:Larry Brewster (MT House)
+N;CHARSET=UTF-8:Brewster (MT House);Larry;;;
 TEL;TYPE=WORK,VOICE:406-670-0929
-NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:37.926217
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:larry.brewster@legmt.gov
+NOTE;CHARSET=UTF-8:Representative in MT Legislature\, District 43\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:14.769286
 END:VCARD

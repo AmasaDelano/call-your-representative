@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Candice Pierucci (House)
-N;CHARSET=UTF-8:Pierucci (House);Candice;;;
+FN;CHARSET=UTF-8:Candice Pierucci (UT House)
+N;CHARSET=UTF-8:Pierucci (UT House);Candice;;;
 TEL;TYPE=WORK,VOICE:801-538-1029
-NOTE;CHARSET=UTF-8:UT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:03.793863
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:cpierucci@le.utah.gov
+NOTE;CHARSET=UTF-8:Representative in UT Legislature\, District 49\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:58:02.979882
 END:VCARD

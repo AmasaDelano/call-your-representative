@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Meredith Craig (House)
-N;CHARSET=UTF-8:Craig (House);Meredith;;;
+FN;CHARSET=UTF-8:Meredith Craig (OH House)
+N;CHARSET=UTF-8:Craig (OH House);Meredith;;;
 TEL;TYPE=WORK,VOICE:614-466-1474
-NOTE;CHARSET=UTF-8:OH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:17.167279
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep77@ohiohouse.gov
+NOTE;CHARSET=UTF-8:Representative in OH Legislature\, District 77\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:55.827711
 END:VCARD

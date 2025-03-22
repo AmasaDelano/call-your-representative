@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brent Jackson (Senate)
-N;CHARSET=UTF-8:Jackson (Senate);Brent;;;
+FN;CHARSET=UTF-8:Brent Jackson (NC Senate)
+N;CHARSET=UTF-8:Jackson (NC Senate);Brent;;;
 TEL;TYPE=WORK,VOICE:919-733-5705
-NOTE;CHARSET=UTF-8:NC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:10.327413
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:brent.jackson@ncleg.gov
+NOTE;CHARSET=UTF-8:Senator in NC Legislature\, District 9\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:48.361474
 END:VCARD

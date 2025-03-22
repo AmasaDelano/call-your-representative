@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jim Fedolfi (House)
-N;CHARSET=UTF-8:Fedolfi (House);Jim;;;
+FN;CHARSET=UTF-8:Jim Fedolfi (NH House)
+N;CHARSET=UTF-8:Fedolfi (NH House);Jim;;;
 TEL;TYPE=WORK,VOICE:603-568-3872
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:05.387053
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jimfornh@gmail.com
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Hillsborough 30\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:43.032249
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Carden Summers (Senate)
-N;CHARSET=UTF-8:Summers (Senate);Carden;;;
+FN;CHARSET=UTF-8:Carden Summers (GA Senate)
+N;CHARSET=UTF-8:Summers (GA Senate);Carden;;;
 TEL;TYPE=WORK,VOICE:404-463-5258
-NOTE;CHARSET=UTF-8:GA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:44.318220
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:carden.summers@senate.ga.gov
+NOTE;CHARSET=UTF-8:Senator in GA Legislature\, District 13\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:26.692824
 END:VCARD

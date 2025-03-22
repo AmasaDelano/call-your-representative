@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bill Conerly (House)
-N;CHARSET=UTF-8:Conerly (House);Bill;;;
+FN;CHARSET=UTF-8:Bill Conerly (FL House)
+N;CHARSET=UTF-8:Conerly (FL House);Bill;;;
 TEL;TYPE=WORK,VOICE:850-717-5072
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:00.338308
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bill.conerly@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 72\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:43.092588
 END:VCARD

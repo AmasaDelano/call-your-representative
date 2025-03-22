@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rita Mayfield (House)
-N;CHARSET=UTF-8:Mayfield (House);Rita;;;
+FN;CHARSET=UTF-8:Rita Mayfield (IL House)
+N;CHARSET=UTF-8:Mayfield (IL House);Rita;;;
 TEL;TYPE=WORK,VOICE:217-558-1012
-NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:57.990383
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:60thdistrict@gmail.com
+NOTE;CHARSET=UTF-8:Representative in IL Legislature\, District 60\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:39.630063
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Sean Lynn (House)
-N;CHARSET=UTF-8:Lynn (House);Sean;;;
+FN;CHARSET=UTF-8:Sean Lynn (DE House)
+N;CHARSET=UTF-8:Lynn (DE House);Sean;;;
 TEL;TYPE=WORK,VOICE:302-744-4351
-NOTE;CHARSET=UTF-8:DE Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:56.222613
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sean.lynn@delaware.gov
+NOTE;CHARSET=UTF-8:Representative in DE Legislature\, District 31\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:38.786797
 END:VCARD

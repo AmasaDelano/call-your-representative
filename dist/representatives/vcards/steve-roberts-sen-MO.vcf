@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Steve Roberts (Senate)
-N;CHARSET=UTF-8:Roberts (Senate);Steve;;;
+FN;CHARSET=UTF-8:Steve Roberts (MO Senate)
+N;CHARSET=UTF-8:Roberts (MO Senate);Steve;;;
 TEL;TYPE=WORK,VOICE:573-751-4415
-NOTE;CHARSET=UTF-8:MO Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:36.726848
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:steven.roberts@senate.mo.gov
+NOTE;CHARSET=UTF-8:Senator in MO Legislature\, District 5\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:13.708260
 END:VCARD

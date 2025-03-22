@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lauren Boebert (House)
-N;CHARSET=UTF-8:Boebert (House);Lauren;;;
+FN;CHARSET=UTF-8:Lauren Boebert (CO House)
+N;CHARSET=UTF-8:Boebert (CO House);Lauren;;;
 TEL;TYPE=WORK,VOICE:202-225-4761
-NOTE;CHARSET=UTF-8:US Representative\, CO\n\nCommittees:\nOversight and Government Reform\nNatural Resources\nWater, Wildlife and Fisheries\nOversight and Investigations\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:33.333214
+URL;CHARSET=UTF-8:https://boebert.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from CO\, District 4\n\nCommittees she's on:\n- Oversight and Government Reform\n- Natural Resources\n- Water, Wildlife and Fisheries\n- Oversight and Investigations\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:15.565394
 END:VCARD

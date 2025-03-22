@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jenny Meltzer (House)
-N;CHARSET=UTF-8:Meltzer (House);Jenny;;;
+FN;CHARSET=UTF-8:Jenny Meltzer (IN House)
+N;CHARSET=UTF-8:Meltzer (IN House);Jenny;;;
 TEL;TYPE=WORK,VOICE:317-232-9657
-NOTE;CHARSET=UTF-8:IN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:12.714221
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:h73@iga.in.gov
+NOTE;CHARSET=UTF-8:Representative in IN Legislature\, District 73\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:54.284883
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mitchell Scoggins (House)
-N;CHARSET=UTF-8:Scoggins (House);Mitchell;;;
+FN;CHARSET=UTF-8:Mitchell Scoggins (GA House)
+N;CHARSET=UTF-8:Scoggins (GA House);Mitchell;;;
 TEL;TYPE=WORK,VOICE:404-656-0254
-NOTE;CHARSET=UTF-8:GA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:46.117632
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mitchell.scoggins@house.ga.gov
+NOTE;CHARSET=UTF-8:Representative in GA Legislature\, District 14\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:28.350109
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jack Reed (Senate)
-N;CHARSET=UTF-8:Reed (Senate);Jack;;;
+FN;CHARSET=UTF-8:Jack Reed (RI Senate)
+N;CHARSET=UTF-8:Reed (RI Senate);Jack;;;
 TEL;TYPE=WORK,VOICE:202-224-4642
-NOTE;CHARSET=UTF-8:US Senator\, RI\n\nCommittees:\nSenate Select Committee on Intelligence\nAppropriations\nArmed Services\nSeapower\nAirland\nReadiness and Management Support\nStrategic Forces\nPersonnel\nEmerging Threats and Capabilities\nCybersecurity\nBanking, Housing, and Urban Affairs\nSecurities, Insurance, and Investment\nFinancial Institutions and Consumer Protection\nEconomic Policy\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:26.751980
+URL;CHARSET=UTF-8:https://www.reed.senate.gov/contact/
+NOTE;CHARSET=UTF-8:US Senator for RI\n\nCommittees he's on:\n- Senate Select Committee on Intelligence\n- Appropriations\n- Armed Services\n- Seapower\n- Airland\n- Readiness and Management Support\n- Strategic Forces\n- Personnel\n- Emerging Threats and Capabilities\n- Cybersecurity\n- Banking, Housing, and Urban Affairs\n- Securities, Insurance, and Investment\n- Financial Institutions and Consumer Protection\n- Economic Policy\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:07.944099
 END:VCARD

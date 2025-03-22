@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lori Berman (Senate)
-N;CHARSET=UTF-8:Berman (Senate);Lori;;;
+FN;CHARSET=UTF-8:Lori Berman (FL Senate)
+N;CHARSET=UTF-8:Berman (FL Senate);Lori;;;
 TEL;TYPE=WORK,VOICE:850-487-5026
-NOTE;CHARSET=UTF-8:FL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:26.138134
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:berman.lori.web@flsenate.gov
+NOTE;CHARSET=UTF-8:Senator in FL Legislature\, District 26\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:08.630294
 END:VCARD

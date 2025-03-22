@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Marc Berman (Assembly)
-N;CHARSET=UTF-8:Berman (Assembly);Marc;;;
+FN;CHARSET=UTF-8:Marc Berman (CA Assembly)
+N;CHARSET=UTF-8:Berman (CA Assembly);Marc;;;
 TEL;TYPE=WORK,VOICE:916-319-2023
-NOTE;CHARSET=UTF-8:CA Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:39.937519
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:assemblymember.berman@assembly.ca.gov
+NOTE;CHARSET=UTF-8:Assembly Member in CA Legislature\, District 23\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:32.682669
 END:VCARD

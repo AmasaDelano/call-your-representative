@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Regina English (House)
-N;CHARSET=UTF-8:English (House);Regina;;;
+FN;CHARSET=UTF-8:Regina English (CO House)
+N;CHARSET=UTF-8:English (CO House);Regina;;;
 TEL;TYPE=WORK,VOICE:303-866-3069
-NOTE;CHARSET=UTF-8:CO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:23.043141
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:regina.english.house@coleg.gov
+NOTE;CHARSET=UTF-8:Representative in CO Legislature\, District 17\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:06.787336
 END:VCARD

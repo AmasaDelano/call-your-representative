@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brian Stewart (House)
-N;CHARSET=UTF-8:Stewart (House);Brian;;;
+FN;CHARSET=UTF-8:Brian Stewart (OH House)
+N;CHARSET=UTF-8:Stewart (OH House);Brian;;;
 TEL;TYPE=WORK,VOICE:614-466-1464
-NOTE;CHARSET=UTF-8:OH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:15.091282
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep12@ohiohouse.gov
+NOTE;CHARSET=UTF-8:Representative in OH Legislature\, District 12\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:53.761039
 END:VCARD

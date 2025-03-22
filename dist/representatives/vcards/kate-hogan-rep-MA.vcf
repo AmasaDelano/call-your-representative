@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kate Hogan (House)
-N;CHARSET=UTF-8:Hogan (House);Kate;;;
+FN;CHARSET=UTF-8:Kate Hogan (MA House)
+N;CHARSET=UTF-8:Hogan (MA House);Kate;;;
 TEL;TYPE=WORK,VOICE:617-722-2600
-NOTE;CHARSET=UTF-8:MA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:04.956344
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:kate.hogan@mahouse.gov
+NOTE;CHARSET=UTF-8:Representative in MA Legislature\, District 3rd Middlesex\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:43.113609
 END:VCARD

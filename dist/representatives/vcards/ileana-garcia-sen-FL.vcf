@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ileana Garcia (Senate)
-N;CHARSET=UTF-8:Garcia (Senate);Ileana;;;
+FN;CHARSET=UTF-8:Ileana Garcia (FL Senate)
+N;CHARSET=UTF-8:Garcia (FL Senate);Ileana;;;
 TEL;TYPE=WORK,VOICE:850-487-5036
-NOTE;CHARSET=UTF-8:FL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:11.658314
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:garcia.ileana.web@flsenate.gov
+NOTE;CHARSET=UTF-8:Senator in FL Legislature\, District 36\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:54.738278
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Warren Petersen (Senate)
-N;CHARSET=UTF-8:Petersen (Senate);Warren;;;
+FN;CHARSET=UTF-8:Warren Petersen (AZ Senate)
+N;CHARSET=UTF-8:Petersen (AZ Senate);Warren;;;
 TEL;TYPE=WORK,VOICE:602-926-4136
-NOTE;CHARSET=UTF-8:AZ Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:25.779325
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:wpetersen@azleg.gov
+NOTE;CHARSET=UTF-8:Senator in AZ Legislature\, District 14\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:17.816208
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Renee Burgess (Senate)
-N;CHARSET=UTF-8:Burgess (Senate);Renee;;;
+FN;CHARSET=UTF-8:Renee Burgess (NJ Senate)
+N;CHARSET=UTF-8:Burgess (NJ Senate);Renee;;;
 TEL;TYPE=WORK,VOICE:862-231-6577
-NOTE;CHARSET=UTF-8:NJ Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:33.348263
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senburgess@njleg.org
+NOTE;CHARSET=UTF-8:Senator in NJ Legislature\, District 28\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:09.570386
 END:VCARD

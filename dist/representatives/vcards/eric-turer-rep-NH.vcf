@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Eric Turer (House)
-N;CHARSET=UTF-8:Turer (House);Eric;;;
+FN;CHARSET=UTF-8:Eric Turer (NH House)
+N;CHARSET=UTF-8:Turer (NH House);Eric;;;
 TEL;TYPE=WORK,VOICE:603-642-4888
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:03.302154
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:eric.turer@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Rockingham 6\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:40.622482
 END:VCARD

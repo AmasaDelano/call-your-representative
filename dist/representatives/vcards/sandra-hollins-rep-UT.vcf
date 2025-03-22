@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Sandra Hollins (House)
-N;CHARSET=UTF-8:Hollins (House);Sandra;;;
+FN;CHARSET=UTF-8:Sandra Hollins (UT House)
+N;CHARSET=UTF-8:Hollins (UT House);Sandra;;;
 TEL;TYPE=WORK,VOICE:801-538-1029
-NOTE;CHARSET=UTF-8:UT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:04.689851
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:shollins@le.utah.gov
+NOTE;CHARSET=UTF-8:Representative in UT Legislature\, District 21\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:58:03.974566
 END:VCARD

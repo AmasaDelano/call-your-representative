@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Owen Henry (Senate)
-N;CHARSET=UTF-8:Henry (Senate);Owen;;;
+FN;CHARSET=UTF-8:Owen Henry (NJ Senate)
+N;CHARSET=UTF-8:Henry (NJ Senate);Owen;;;
 TEL;TYPE=WORK,VOICE:732-607-7580
-NOTE;CHARSET=UTF-8:NJ Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:31.287151
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senhenry@njleg.org
+NOTE;CHARSET=UTF-8:Senator in NJ Legislature\, District 12\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:07.607652
 END:VCARD

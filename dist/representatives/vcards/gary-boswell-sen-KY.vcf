@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Gary Boswell (Senate)
-N;CHARSET=UTF-8:Boswell (Senate);Gary;;;
+FN;CHARSET=UTF-8:Gary Boswell (KY Senate)
+N;CHARSET=UTF-8:Boswell (KY Senate);Gary;;;
 TEL;TYPE=WORK,VOICE:502-564-8100
-NOTE;CHARSET=UTF-8:KY Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:17.062262
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:gary.boswell@kylegislature.gov
+NOTE;CHARSET=UTF-8:Senator in KY Legislature\, District 8\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:57.552595
 END:VCARD

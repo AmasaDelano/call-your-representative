@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tim Scott (Senate)
-N;CHARSET=UTF-8:Scott (Senate);Tim;;;
+FN;CHARSET=UTF-8:Tim Scott (SC Senate)
+N;CHARSET=UTF-8:Scott (SC Senate);Tim;;;
 TEL;TYPE=WORK,VOICE:202-224-6121
-NOTE;CHARSET=UTF-8:US Senator\, SC\n\nCommittees:\nCommission on Security and Cooperation in Europe (Joint)\nBanking, Housing, and Urban Affairs\nSecurities, Insurance, and Investment\nNational Security and International Trade and Finance\nFinancial Institutions and Consumer Protection\nHousing, Transportation, and Community Development\nEconomic Policy\nDigital Assets\nFinance\nHealth, Education, Labor, and Pensions\nEducation and the American Family\nEmployment and Workplace Safety\nSmall Business and Entrepreneurship\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:28.724794
+URL;CHARSET=UTF-8:https://www.scott.senate.gov/contact/email-me
+NOTE;CHARSET=UTF-8:US Senator for SC\n\nCommittees he's on:\n- Commission on Security and Cooperation in Europe (Joint)\n- Banking, Housing, and Urban Affairs\n- Securities, Insurance, and Investment\n- National Security and International Trade and Finance\n- Financial Institutions and Consumer Protection\n- Housing, Transportation, and Community Development\n- Economic Policy\n- Digital Assets\n- Finance\n- Health, Education, Labor, and Pensions\n- Education and the American Family\n- Employment and Workplace Safety\n- Small Business and Entrepreneurship\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:10.290042
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brad Roae (House)
-N;CHARSET=UTF-8:Roae (House);Brad;;;
+FN;CHARSET=UTF-8:Brad Roae (PA House)
+N;CHARSET=UTF-8:Roae (PA House);Brad;;;
 TEL;TYPE=WORK,VOICE:717-787-2353
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:42.934780
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:broae@pahousegop.com
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 6\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:21.606941
 END:VCARD

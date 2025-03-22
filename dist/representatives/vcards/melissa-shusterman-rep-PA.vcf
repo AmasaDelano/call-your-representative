@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Melissa Shusterman (House)
-N;CHARSET=UTF-8:Shusterman (House);Melissa;;;
+FN;CHARSET=UTF-8:Melissa Shusterman (PA House)
+N;CHARSET=UTF-8:Shusterman (PA House);Melissa;;;
 TEL;TYPE=WORK,VOICE:717-787-7524
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:26.250817
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:repshusterman@pahouse.net
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 157\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:04.482241
 END:VCARD

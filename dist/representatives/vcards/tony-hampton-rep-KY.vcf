@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tony Hampton (House)
-N;CHARSET=UTF-8:Hampton (House);Tony;;;
+FN;CHARSET=UTF-8:Tony Hampton (KY House)
+N;CHARSET=UTF-8:Hampton (KY House);Tony;;;
 TEL;TYPE=WORK,VOICE:502-564-8100
-NOTE;CHARSET=UTF-8:KY Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:27.762298
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tony.hampton@kylegislature.gov
+NOTE;CHARSET=UTF-8:Representative in KY Legislature\, District 62\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:08.358832
 END:VCARD

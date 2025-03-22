@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Nicole Macri (House)
-N;CHARSET=UTF-8:Macri (House);Nicole;;;
+FN;CHARSET=UTF-8:Nicole Macri (WA House)
+N;CHARSET=UTF-8:Macri (WA House);Nicole;;;
 TEL;TYPE=WORK,VOICE:206-729-3241
-NOTE;CHARSET=UTF-8:WA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:24.841953
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:nicole.macri@leg.wa.gov
+NOTE;CHARSET=UTF-8:Representative in WA Legislature\, District 43\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:06.030280
 END:VCARD

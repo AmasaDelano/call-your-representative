@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Camera Bartolotta (Senate)
-N;CHARSET=UTF-8:Bartolotta (Senate);Camera;;;
+FN;CHARSET=UTF-8:Camera Bartolotta (PA Senate)
+N;CHARSET=UTF-8:Bartolotta (PA Senate);Camera;;;
 TEL;TYPE=WORK,VOICE:717-787-1463
-NOTE;CHARSET=UTF-8:PA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:45.571157
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:cbartolotta@pasen.gov
+NOTE;CHARSET=UTF-8:Senator in PA Legislature\, District 46\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:24.137650
 END:VCARD

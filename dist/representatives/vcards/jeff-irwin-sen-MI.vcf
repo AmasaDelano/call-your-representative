@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jeff Irwin (Senate)
-N;CHARSET=UTF-8:Irwin (Senate);Jeff;;;
+FN;CHARSET=UTF-8:Jeff Irwin (MI Senate)
+N;CHARSET=UTF-8:Irwin (MI Senate);Jeff;;;
 TEL;TYPE=WORK,VOICE:517-373-2406
-NOTE;CHARSET=UTF-8:MI Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:12.483713
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senjirwin@senate.michigan.gov
+NOTE;CHARSET=UTF-8:Senator in MI Legislature\, District 15\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:49.151833
 END:VCARD

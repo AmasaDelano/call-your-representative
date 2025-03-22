@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Al Stirpe (Assembly)
-N;CHARSET=UTF-8:Stirpe (Assembly);Al;;;
+FN;CHARSET=UTF-8:Al Stirpe (NY Assembly)
+N;CHARSET=UTF-8:Stirpe (NY Assembly);Al;;;
 TEL;TYPE=WORK,VOICE:518-455-4505
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:44.806167
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:stirpea@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 127\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:20.463030
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Don McLaughlin (House)
-N;CHARSET=UTF-8:McLaughlin (House);Don;;;
+FN;CHARSET=UTF-8:Don McLaughlin (TX House)
+N;CHARSET=UTF-8:McLaughlin (TX House);Don;;;
 TEL;TYPE=WORK,VOICE:512-463-0194
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:22.383000
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:don.mclaughlin@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 80\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:25.607676
 END:VCARD

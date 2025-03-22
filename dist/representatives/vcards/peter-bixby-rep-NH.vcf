@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Peter Bixby (House)
-N;CHARSET=UTF-8:Bixby (House);Peter;;;
+FN;CHARSET=UTF-8:Peter Bixby (NH House)
+N;CHARSET=UTF-8:Bixby (NH House);Peter;;;
 TEL;TYPE=WORK,VOICE:603-749-5659
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:09.618573
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:peter.bixby@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Strafford 13\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:46.423067
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Nydia Velázquez (House)
-N;CHARSET=UTF-8:Velázquez (House);Nydia;;;
+FN;CHARSET=UTF-8:Nydia Velázquez (NY House)
+N;CHARSET=UTF-8:Velázquez (NY House);Nydia;;;
 TEL;TYPE=WORK,VOICE:202-225-2361
-NOTE;CHARSET=UTF-8:US Representative\, NY\n\nCommittees:\nFinancial Services\nNatural Resources\nEnergy and Mineral Resources\nIndian and Insular Affairs\nSmall Business\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:29.023452
+URL;CHARSET=UTF-8:https://velazquez.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from NY\, District 7\n\nCommittees she's on:\n- Financial Services\n- Natural Resources\n- Energy and Mineral Resources\n- Indian and Insular Affairs\n- Small Business\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:10.655811
 END:VCARD

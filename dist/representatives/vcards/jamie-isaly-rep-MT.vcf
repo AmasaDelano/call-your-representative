@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jamie Isaly (House)
-N;CHARSET=UTF-8:Isaly (House);Jamie;;;
+FN;CHARSET=UTF-8:Jamie Isaly (MT House)
+N;CHARSET=UTF-8:Isaly (MT House);Jamie;;;
 TEL;TYPE=WORK,VOICE:406-209-2568
-NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:37.608102
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jamie.isaly@legmt.gov
+NOTE;CHARSET=UTF-8:Representative in MT Legislature\, District 58\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:14.470823
 END:VCARD

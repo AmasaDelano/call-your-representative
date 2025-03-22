@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Elizabeth Velasco (House)
-N;CHARSET=UTF-8:Velasco (House);Elizabeth;;;
+FN;CHARSET=UTF-8:Elizabeth Velasco (CO House)
+N;CHARSET=UTF-8:Velasco (CO House);Elizabeth;;;
 TEL;TYPE=WORK,VOICE:303-866-2949
-NOTE;CHARSET=UTF-8:CO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:55.049351
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:elizabeth.velasco.house@coleg.gov
+NOTE;CHARSET=UTF-8:Representative in CO Legislature\, District 57\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:45.438396
 END:VCARD

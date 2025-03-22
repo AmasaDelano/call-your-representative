@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Melissa Ratcliff (Senate)
-N;CHARSET=UTF-8:Ratcliff (Senate);Melissa;;;
+FN;CHARSET=UTF-8:Melissa Ratcliff (WI Senate)
+N;CHARSET=UTF-8:Ratcliff (WI Senate);Melissa;;;
 TEL;TYPE=WORK,VOICE:608-266-9170
-NOTE;CHARSET=UTF-8:WI Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:26.121929
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.ratcliff@legis.wisconsin.gov
+NOTE;CHARSET=UTF-8:Senator in WI Legislature\, District 16\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:07.291737
 END:VCARD

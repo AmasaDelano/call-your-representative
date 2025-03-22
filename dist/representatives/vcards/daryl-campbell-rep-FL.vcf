@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Daryl Campbell (House)
-N;CHARSET=UTF-8:Campbell (House);Daryl;;;
+FN;CHARSET=UTF-8:Daryl Campbell (FL House)
+N;CHARSET=UTF-8:Campbell (FL House);Daryl;;;
 TEL;TYPE=WORK,VOICE:850-717-5099
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:04.945068
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:daryl.campbell@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 99\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:48.050571
 END:VCARD

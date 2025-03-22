@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kevin Olickal (House)
-N;CHARSET=UTF-8:Olickal (House);Kevin;;;
+FN;CHARSET=UTF-8:Kevin Olickal (IL House)
+N;CHARSET=UTF-8:Olickal (IL House);Kevin;;;
 TEL;TYPE=WORK,VOICE:217-782-1252
-NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:57.339588
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:info@repkevinolickal.com
+NOTE;CHARSET=UTF-8:Representative in IL Legislature\, District 16\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:38.950033
 END:VCARD

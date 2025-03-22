@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:David Rochefort (Senate)
-N;CHARSET=UTF-8:Rochefort (Senate);David;;;
+FN;CHARSET=UTF-8:David Rochefort (NH Senate)
+N;CHARSET=UTF-8:Rochefort (NH Senate);David;;;
 TEL;TYPE=WORK,VOICE:603-271-8631
-NOTE;CHARSET=UTF-8:NH Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:41.181431
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:david.rochefort@gc.nh.gov
+NOTE;CHARSET=UTF-8:Senator in NH Legislature\, District 1\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:18.144807
 END:VCARD

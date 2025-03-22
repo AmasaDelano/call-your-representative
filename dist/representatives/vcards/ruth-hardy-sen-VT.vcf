@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ruth Hardy (Senate)
-N;CHARSET=UTF-8:Hardy (Senate);Ruth;;;
+FN;CHARSET=UTF-8:Ruth Hardy (VT Senate)
+N;CHARSET=UTF-8:Hardy (VT Senate);Ruth;;;
 TEL;TYPE=WORK,VOICE:802-828-2228
-NOTE;CHARSET=UTF-8:VT Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:17.387166
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rhardy@leg.state.vt.us
+NOTE;CHARSET=UTF-8:Senator in VT Legislature\, District Addison\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:06:12.626681
 END:VCARD

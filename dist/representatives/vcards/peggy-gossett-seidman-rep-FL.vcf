@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Peggy Gossett-Seidman (House)
-N;CHARSET=UTF-8:Gossett-Seidman (House);Peggy;;;
+FN;CHARSET=UTF-8:Peggy Gossett-Seidman (FL House)
+N;CHARSET=UTF-8:Gossett-Seidman (FL House);Peggy;;;
 TEL;TYPE=WORK,VOICE:850-717-5091
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:30.749549
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:peggy.gossettseidman@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 91\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:13.242383
 END:VCARD

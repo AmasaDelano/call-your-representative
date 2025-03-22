@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Dallas Kephart (House)
-N;CHARSET=UTF-8:Kephart (House);Dallas;;;
+FN;CHARSET=UTF-8:Dallas Kephart (PA House)
+N;CHARSET=UTF-8:Kephart (PA House);Dallas;;;
 TEL;TYPE=WORK,VOICE:717-787-7099
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:49.984565
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:dkephart@pahousegop.com
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 73\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:28.369709
 END:VCARD

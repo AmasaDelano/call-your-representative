@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Helen Kerwin (House)
-N;CHARSET=UTF-8:Kerwin (House);Helen;;;
+FN;CHARSET=UTF-8:Helen Kerwin (TX House)
+N;CHARSET=UTF-8:Kerwin (TX House);Helen;;;
 TEL;TYPE=WORK,VOICE:512-463-0538
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:29.598170
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:helen.kerwin@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 58\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:32.445698
 END:VCARD

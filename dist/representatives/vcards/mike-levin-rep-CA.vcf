@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Levin (House)
-N;CHARSET=UTF-8:Levin (House);Mike;;;
+FN;CHARSET=UTF-8:Mike Levin (CA House)
+N;CHARSET=UTF-8:Levin (CA House);Mike;;;
 TEL;TYPE=WORK,VOICE:202-225-3906
-NOTE;CHARSET=UTF-8:US Representative\, CA\n\nCommittees:\nAppropriations\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:32.057010
+URL;CHARSET=UTF-8:https://levin.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from CA\, District 49\n\nCommittees he's on:\n- Appropriations\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:14.044840
 END:VCARD

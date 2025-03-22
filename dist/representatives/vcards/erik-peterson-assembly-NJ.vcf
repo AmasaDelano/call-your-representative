@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Erik Peterson (Assembly)
-N;CHARSET=UTF-8:Peterson (Assembly);Erik;;;
+FN;CHARSET=UTF-8:Erik Peterson (NJ Assembly)
+N;CHARSET=UTF-8:Peterson (NJ Assembly);Erik;;;
 TEL;TYPE=WORK,VOICE:908-238-0251
-NOTE;CHARSET=UTF-8:NJ Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:20.307524
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:asmpeterson@njleg.org
+NOTE;CHARSET=UTF-8:Assembly Member in NJ Legislature\, District 23\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:56.807725
 END:VCARD

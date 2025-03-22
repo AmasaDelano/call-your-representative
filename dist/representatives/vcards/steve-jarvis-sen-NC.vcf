@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Steve Jarvis (Senate)
-N;CHARSET=UTF-8:Jarvis (Senate);Steve;;;
+FN;CHARSET=UTF-8:Steve Jarvis (NC Senate)
+N;CHARSET=UTF-8:Jarvis (NC Senate);Steve;;;
 TEL;TYPE=WORK,VOICE:919-733-5743
-NOTE;CHARSET=UTF-8:NC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:12.704851
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:steve.jarvis@ncleg.gov
+NOTE;CHARSET=UTF-8:Senator in NC Legislature\, District 30\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:51.500310
 END:VCARD

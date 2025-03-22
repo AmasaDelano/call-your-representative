@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:John Curtis (Senate)
-N;CHARSET=UTF-8:Curtis (Senate);John;;;
+FN;CHARSET=UTF-8:John Curtis (UT Senate)
+N;CHARSET=UTF-8:Curtis (UT Senate);John;;;
 TEL;TYPE=WORK,VOICE:202-224-5251
-NOTE;CHARSET=UTF-8:US Senator\, UT\n\nCommittees:\nCommerce, Science, and Transportation\nEnvironment and Public Works\nForeign Relations\nSmall Business and Entrepreneurship\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:31.812070
+URL;CHARSET=UTF-8:https://www.curtis.senate.gov
+NOTE;CHARSET=UTF-8:US Senator for UT\n\nCommittees he's on:\n- Commerce, Science, and Transportation\n- Environment and Public Works\n- Foreign Relations\n- Small Business and Entrepreneurship\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:13.811870
 END:VCARD

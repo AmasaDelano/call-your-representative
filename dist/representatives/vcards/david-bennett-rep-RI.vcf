@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:David Bennett (House)
-N;CHARSET=UTF-8:Bennett (House);David;;;
+FN;CHARSET=UTF-8:David Bennett (RI House)
+N;CHARSET=UTF-8:Bennett (RI House);David;;;
 TEL;TYPE=WORK,VOICE:401-222-3580
-NOTE;CHARSET=UTF-8:RI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:49.333823
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep-bennett@rilegislature.gov
+NOTE;CHARSET=UTF-8:Representative in RI Legislature\, District 20\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:25.689243
 END:VCARD

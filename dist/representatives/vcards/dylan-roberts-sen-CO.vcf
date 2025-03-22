@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Dylan Roberts (Senate)
-N;CHARSET=UTF-8:Roberts (Senate);Dylan;;;
+FN;CHARSET=UTF-8:Dylan Roberts (CO Senate)
+N;CHARSET=UTF-8:Roberts (CO Senate);Dylan;;;
 TEL;TYPE=WORK,VOICE:303-866-4871
-NOTE;CHARSET=UTF-8:CO Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:53.495296
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:dylan.roberts.senate@coleg.gov
+NOTE;CHARSET=UTF-8:Senator in CO Legislature\, District 8\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:44.169309
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jose Alvarez (House)
-N;CHARSET=UTF-8:Alvarez (House);Jose;;;
+FN;CHARSET=UTF-8:Jose Alvarez (FL House)
+N;CHARSET=UTF-8:Alvarez (FL House);Jose;;;
 TEL;TYPE=WORK,VOICE:850-717-5046
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:17.268356
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jose.alvarez@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 46\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:00.084657
 END:VCARD

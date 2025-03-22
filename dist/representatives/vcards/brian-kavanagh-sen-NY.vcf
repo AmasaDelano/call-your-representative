@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brian Kavanagh (Senate)
-N;CHARSET=UTF-8:Kavanagh (Senate);Brian;;;
+FN;CHARSET=UTF-8:Brian Kavanagh (NY Senate)
+N;CHARSET=UTF-8:Kavanagh (NY Senate);Brian;;;
 TEL;TYPE=WORK,VOICE:518-455-2625
-NOTE;CHARSET=UTF-8:NY Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:48.308868
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:kavanagh@nysenate.gov
+NOTE;CHARSET=UTF-8:Senator in NY Legislature\, District 27\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:24.273810
 END:VCARD

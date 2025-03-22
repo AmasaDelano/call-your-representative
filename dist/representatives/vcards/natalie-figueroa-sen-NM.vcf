@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Natalie Figueroa (Senate)
-N;CHARSET=UTF-8:Figueroa (Senate);Natalie;;;
+FN;CHARSET=UTF-8:Natalie Figueroa (NM Senate)
+N;CHARSET=UTF-8:Figueroa (NM Senate);Natalie;;;
 TEL;TYPE=WORK,VOICE:505-986-4266
-NOTE;CHARSET=UTF-8:NM Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:43.893869
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:natalie.figueroa@nmlegis.gov
+NOTE;CHARSET=UTF-8:Senator in NM Legislature\, District 18\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:19.707427
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Greg Vitali (House)
-N;CHARSET=UTF-8:Vitali (House);Greg;;;
+FN;CHARSET=UTF-8:Greg Vitali (PA House)
+N;CHARSET=UTF-8:Vitali (PA House);Greg;;;
 TEL;TYPE=WORK,VOICE:717-787-7647
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:01.040005
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:gvitali@pahouse.net
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 166\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:38.986920
 END:VCARD

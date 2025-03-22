@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:John Lombardi (House)
-N;CHARSET=UTF-8:Lombardi (House);John;;;
+FN;CHARSET=UTF-8:John Lombardi (RI House)
+N;CHARSET=UTF-8:Lombardi (RI House);John;;;
 TEL;TYPE=WORK,VOICE:401-222-3580
-NOTE;CHARSET=UTF-8:RI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:50.395902
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep-lombardi@rilegislature.gov
+NOTE;CHARSET=UTF-8:Representative in RI Legislature\, District 8\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:26.729236
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:S.J. Howell (House)
-N;CHARSET=UTF-8:Howell (House);S.J.;;;
+FN;CHARSET=UTF-8:S.J. Howell (MT House)
+N;CHARSET=UTF-8:Howell (MT House);S.J.;;;
 TEL;TYPE=WORK,VOICE:406-444-4800
-NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:38.418837
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sj.howell@legmt.gov
+NOTE;CHARSET=UTF-8:Representative in MT Legislature\, District 100\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:15.348193
 END:VCARD

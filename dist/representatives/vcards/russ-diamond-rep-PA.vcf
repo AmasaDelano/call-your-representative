@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Russ Diamond (House)
-N;CHARSET=UTF-8:Diamond (House);Russ;;;
+FN;CHARSET=UTF-8:Russ Diamond (PA House)
+N;CHARSET=UTF-8:Diamond (PA House);Russ;;;
 TEL;TYPE=WORK,VOICE:717-787-2686
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:36.615906
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rdiamond@pahousegop.com
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 102\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:14.410294
 END:VCARD

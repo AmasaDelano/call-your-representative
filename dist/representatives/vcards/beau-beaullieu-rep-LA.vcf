@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Beau Beaullieu (House)
-N;CHARSET=UTF-8:Beaullieu (House);Beau;;;
+FN;CHARSET=UTF-8:Beau Beaullieu (LA House)
+N;CHARSET=UTF-8:Beaullieu (LA House);Beau;;;
 TEL;TYPE=WORK,VOICE:337-373-4051
-NOTE;CHARSET=UTF-8:LA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:36.956463
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:hse048@legis.la.gov
+NOTE;CHARSET=UTF-8:Representative in LA Legislature\, District 48\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:17.568755
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Natalie Ziegler (House)
-N;CHARSET=UTF-8:Ziegler (House);Natalie;;;
+FN;CHARSET=UTF-8:Natalie Ziegler (MD House)
+N;CHARSET=UTF-8:Ziegler (MD House);Natalie;;;
 TEL;TYPE=WORK,VOICE:410-841-3352
-NOTE;CHARSET=UTF-8:MD Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:03.317359
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:natalie.ziegler@house.state.md.us
+NOTE;CHARSET=UTF-8:Delegate in MD Legislature\, District 9A\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:41.465899
 END:VCARD

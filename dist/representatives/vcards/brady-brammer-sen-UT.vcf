@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brady Brammer (Senate)
-N;CHARSET=UTF-8:Brammer (Senate);Brady;;;
+FN;CHARSET=UTF-8:Brady Brammer (UT Senate)
+N;CHARSET=UTF-8:Brammer (UT Senate);Brady;;;
 TEL;TYPE=WORK,VOICE:801-538-1035
-NOTE;CHARSET=UTF-8:UT Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:03.733224
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bbrammer@le.utah.gov
+NOTE;CHARSET=UTF-8:Senator in UT Legislature\, District 21\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:58:02.926164
 END:VCARD

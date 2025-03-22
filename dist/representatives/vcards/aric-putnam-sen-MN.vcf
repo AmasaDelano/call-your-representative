@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Aric Putnam (Senate)
-N;CHARSET=UTF-8:Putnam (Senate);Aric;;;
+FN;CHARSET=UTF-8:Aric Putnam (MN Senate)
+N;CHARSET=UTF-8:Putnam (MN Senate);Aric;;;
 TEL;TYPE=WORK,VOICE:651-296-6455
-NOTE;CHARSET=UTF-8:MN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:26.997343
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.aric.putnam@senate.mn
+NOTE;CHARSET=UTF-8:Senator in MN Legislature\, District 14\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:04.923048
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Cecelia Espenoza (House)
-N;CHARSET=UTF-8:Espenoza (House);Cecelia;;;
+FN;CHARSET=UTF-8:Cecelia Espenoza (CO House)
+N;CHARSET=UTF-8:Espenoza (CO House);Cecelia;;;
 TEL;TYPE=WORK,VOICE:303-866-2954
-NOTE;CHARSET=UTF-8:CO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:50.719288
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:cecelia.espenoza.house@coleg.gov
+NOTE;CHARSET=UTF-8:Representative in CO Legislature\, District 4\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:42.011552
 END:VCARD

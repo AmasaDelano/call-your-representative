@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mary Dunwell (Senate)
-N;CHARSET=UTF-8:Dunwell (Senate);Mary;;;
+FN;CHARSET=UTF-8:Mary Dunwell (MT Senate)
+N;CHARSET=UTF-8:Dunwell (MT Senate);Mary;;;
 TEL;TYPE=WORK,VOICE:406-461-5358
-NOTE;CHARSET=UTF-8:MT Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:38.076126
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:maryann.dunwell@legmt.gov
+NOTE;CHARSET=UTF-8:Senator in MT Legislature\, District 42\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:14.940720
 END:VCARD

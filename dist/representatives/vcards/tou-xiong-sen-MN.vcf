@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tou Xiong (Senate)
-N;CHARSET=UTF-8:Xiong (Senate);Tou;;;
+FN;CHARSET=UTF-8:Tou Xiong (MN Senate)
+N;CHARSET=UTF-8:Xiong (MN Senate);Tou;;;
 TEL;TYPE=WORK,VOICE:651-296-6820
-NOTE;CHARSET=UTF-8:MN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:29.280625
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.tou.xiong@senate.mn
+NOTE;CHARSET=UTF-8:Senator in MN Legislature\, District 44\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:06.668283
 END:VCARD

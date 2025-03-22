@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Monika Johnson-Hostler (House)
-N;CHARSET=UTF-8:Johnson-Hostler (House);Monika;;;
+FN;CHARSET=UTF-8:Monika Johnson-Hostler (NC House)
+N;CHARSET=UTF-8:Johnson-Hostler (NC House);Monika;;;
 TEL;TYPE=WORK,VOICE:919-733-5880
-NOTE;CHARSET=UTF-8:NC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:12.327845
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:monika.johnson-hostler@ncleg.gov
+NOTE;CHARSET=UTF-8:Representative in NC Legislature\, District 33\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:50.918060
 END:VCARD

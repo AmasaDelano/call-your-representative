@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lisa Murkowski (Senate)
-N;CHARSET=UTF-8:Murkowski (Senate);Lisa;;;
+FN;CHARSET=UTF-8:Lisa Murkowski (AK Senate)
+N;CHARSET=UTF-8:Murkowski (AK Senate);Lisa;;;
 TEL;TYPE=WORK,VOICE:202-224-6665
-NOTE;CHARSET=UTF-8:US Senator\, AK\n\nCommittees:\nIndian Affairs\nAppropriations\nEnergy and Natural Resources\nPublic Lands, Forests, and Mining\nNational Parks\nHealth, Education, Labor, and Pensions\nEducation and the American Family\nPrimary Health and Retirement Security\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:28.302207
+URL;CHARSET=UTF-8:https://www.murkowski.senate.gov/public/index.cfm/contact
+NOTE;CHARSET=UTF-8:US Senator for AK\n\nCommittees she's on:\n- Indian Affairs\n- Appropriations\n- Energy and Natural Resources\n- Public Lands, Forests, and Mining\n- National Parks\n- Health, Education, Labor, and Pensions\n- Education and the American Family\n- Primary Health and Retirement Security\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:09.766019
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Joey Hensley (Senate)
-N;CHARSET=UTF-8:Hensley (Senate);Joey;;;
+FN;CHARSET=UTF-8:Joey Hensley (TN Senate)
+N;CHARSET=UTF-8:Hensley (TN Senate);Joey;;;
 TEL;TYPE=WORK,VOICE:615-741-3100
-NOTE;CHARSET=UTF-8:TN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:03.484538
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.joey.hensley@capitol.tn.gov
+NOTE;CHARSET=UTF-8:Senator in TN Legislature\, District 28\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:08.078850
 END:VCARD

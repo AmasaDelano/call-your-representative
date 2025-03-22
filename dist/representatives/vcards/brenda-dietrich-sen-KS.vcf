@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brenda Dietrich (Senate)
-N;CHARSET=UTF-8:Dietrich (Senate);Brenda;;;
+FN;CHARSET=UTF-8:Brenda Dietrich (KS Senate)
+N;CHARSET=UTF-8:Dietrich (KS Senate);Brenda;;;
 TEL;TYPE=WORK,VOICE:785-296-7648
-NOTE;CHARSET=UTF-8:KS Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:36.980260
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:brenda.dietrich@senate.ks.gov
+NOTE;CHARSET=UTF-8:Senator in KS Legislature\, District 20\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:19.369315
 END:VCARD

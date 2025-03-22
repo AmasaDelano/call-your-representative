@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bruce Starr (Senate)
-N;CHARSET=UTF-8:Starr (Senate);Bruce;;;
+FN;CHARSET=UTF-8:Bruce Starr (OR Senate)
+N;CHARSET=UTF-8:Starr (OR Senate);Bruce;;;
 TEL;TYPE=WORK,VOICE:503-986-1712
-NOTE;CHARSET=UTF-8:OR Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:36.549631
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.brucestarr@oregonlegislature.gov
+NOTE;CHARSET=UTF-8:Senator in OR Legislature\, District 12\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:15.336738
 END:VCARD

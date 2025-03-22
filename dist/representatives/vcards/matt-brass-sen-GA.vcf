@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Matt Brass (Senate)
-N;CHARSET=UTF-8:Brass (Senate);Matt;;;
+FN;CHARSET=UTF-8:Matt Brass (GA Senate)
+N;CHARSET=UTF-8:Brass (GA Senate);Matt;;;
 TEL;TYPE=WORK,VOICE:404-656-0057
-NOTE;CHARSET=UTF-8:GA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:45.947920
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:matt.brass@senate.ga.gov
+NOTE;CHARSET=UTF-8:Senator in GA Legislature\, District 6\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:28.170094
 END:VCARD

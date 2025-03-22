@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Carolyn Caton (House)
-N;CHARSET=UTF-8:Caton (House);Carolyn;;;
+FN;CHARSET=UTF-8:Carolyn Caton (MO House)
+N;CHARSET=UTF-8:Caton (MO House);Carolyn;;;
 TEL;TYPE=WORK,VOICE:573-751-9766
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:35.065998
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:carolyn.caton@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 33\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:12.296654
 END:VCARD

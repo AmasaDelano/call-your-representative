@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Neal Collins (House)
-N;CHARSET=UTF-8:Collins (House);Neal;;;
+FN;CHARSET=UTF-8:Neal Collins (SC House)
+N;CHARSET=UTF-8:Collins (SC House);Neal;;;
 TEL;TYPE=WORK,VOICE:803-212-6913
-NOTE;CHARSET=UTF-8:SC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:26:24.306406
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:nealcollins@schouse.gov
+NOTE;CHARSET=UTF-8:Representative in SC Legislature\, District 5\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:00.300476
 END:VCARD

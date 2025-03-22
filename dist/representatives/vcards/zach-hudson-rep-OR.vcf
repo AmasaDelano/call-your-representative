@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Zach Hudson (House)
-N;CHARSET=UTF-8:Hudson (House);Zach;;;
+FN;CHARSET=UTF-8:Zach Hudson (OR House)
+N;CHARSET=UTF-8:Hudson (OR House);Zach;;;
 TEL;TYPE=WORK,VOICE:503-986-1449
-NOTE;CHARSET=UTF-8:OR Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:37.653727
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.zachhudson@oregonlegislature.gov
+NOTE;CHARSET=UTF-8:Representative in OR Legislature\, District 49\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:16.466852
 END:VCARD

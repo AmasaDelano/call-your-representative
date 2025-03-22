@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Scott Sandall (Senate)
-N;CHARSET=UTF-8:Sandall (Senate);Scott;;;
+FN;CHARSET=UTF-8:Scott Sandall (UT Senate)
+N;CHARSET=UTF-8:Sandall (UT Senate);Scott;;;
 TEL;TYPE=WORK,VOICE:801-538-1035
-NOTE;CHARSET=UTF-8:UT Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:04.698761
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ssandall@le.utah.gov
+NOTE;CHARSET=UTF-8:Senator in UT Legislature\, District 1\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:58:03.987608
 END:VCARD

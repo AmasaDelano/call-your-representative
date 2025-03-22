@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kimberly Remak (House)
-N;CHARSET=UTF-8:Remak (House);Kimberly;;;
+FN;CHARSET=UTF-8:Kimberly Remak (MS House)
+N;CHARSET=UTF-8:Remak (MS House);Kimberly;;;
 TEL;TYPE=WORK,VOICE:601-359-3728
-NOTE;CHARSET=UTF-8:MS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:33.206334
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:remak@house.ms.gov
+NOTE;CHARSET=UTF-8:Representative in MS Legislature\, District 7\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:10.708239
 END:VCARD

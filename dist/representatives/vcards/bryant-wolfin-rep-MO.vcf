@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bryant Wolfin (House)
-N;CHARSET=UTF-8:Wolfin (House);Bryant;;;
+FN;CHARSET=UTF-8:Bryant Wolfin (MO House)
+N;CHARSET=UTF-8:Wolfin (MO House);Bryant;;;
 TEL;TYPE=WORK,VOICE:573-751-5912
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:35.027195
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bryant.wolfin@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 145\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:12.260586
 END:VCARD

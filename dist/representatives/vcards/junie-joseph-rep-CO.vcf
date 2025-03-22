@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Junie Joseph (House)
-N;CHARSET=UTF-8:Joseph (House);Junie;;;
+FN;CHARSET=UTF-8:Junie Joseph (CO House)
+N;CHARSET=UTF-8:Joseph (CO House);Junie;;;
 TEL;TYPE=WORK,VOICE:303-866-2915
-NOTE;CHARSET=UTF-8:CO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:05.660558
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:junie.joseph.house@coleg.gov
+NOTE;CHARSET=UTF-8:Representative in CO Legislature\, District 10\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:52.941221
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Trey Wharton (House)
-N;CHARSET=UTF-8:Wharton (House);Trey;;;
+FN;CHARSET=UTF-8:Trey Wharton (TX House)
+N;CHARSET=UTF-8:Wharton (TX House);Trey;;;
 TEL;TYPE=WORK,VOICE:512-463-0412
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:01.602925
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:trey.wharton@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 12\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:58:00.937037
 END:VCARD

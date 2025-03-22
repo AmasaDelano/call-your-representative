@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ben Adams (Senate)
-N;CHARSET=UTF-8:Adams (Senate);Ben;;;
+FN;CHARSET=UTF-8:Ben Adams (ID Senate)
+N;CHARSET=UTF-8:Adams (ID Senate);Ben;;;
 TEL;TYPE=WORK,VOICE:208-332-1336
-NOTE;CHARSET=UTF-8:ID Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:54.851986
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:badams@senate.idaho.gov
+NOTE;CHARSET=UTF-8:Senator in ID Legislature\, District 12\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:36.572016
 END:VCARD

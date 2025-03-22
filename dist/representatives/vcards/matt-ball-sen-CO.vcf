@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Matt Ball (Senate)
-N;CHARSET=UTF-8:Ball (Senate);Matt;;;
+FN;CHARSET=UTF-8:Matt Ball (CO Senate)
+N;CHARSET=UTF-8:Ball (CO Senate);Matt;;;
 TEL;TYPE=WORK,VOICE:303-866-4861
-NOTE;CHARSET=UTF-8:CO Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:16.541848
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:matt.ball.senate@coleg.gov
+NOTE;CHARSET=UTF-8:Senator in CO Legislature\, District 31\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:01.341390
 END:VCARD

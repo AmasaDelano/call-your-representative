@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Moffett (House)
-N;CHARSET=UTF-8:Moffett (House);Mike;;;
+FN;CHARSET=UTF-8:Mike Moffett (NH House)
+N;CHARSET=UTF-8:Moffett (NH House);Mike;;;
 TEL;TYPE=WORK,VOICE:603-491-0553
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:08.575611
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:michael.moffett@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Merrimack 4\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:45.187320
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tiff Bluemle (House)
-N;CHARSET=UTF-8:Bluemle (House);Tiff;;;
+FN;CHARSET=UTF-8:Tiff Bluemle (VT House)
+N;CHARSET=UTF-8:Bluemle (VT House);Tiff;;;
 TEL;TYPE=WORK,VOICE:802-828-2228
-NOTE;CHARSET=UTF-8:VT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:19.092384
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tbluemle@leg.state.vt.us
+NOTE;CHARSET=UTF-8:Representative in VT Legislature\, District Chittenden-13\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:07:16.474514
 END:VCARD

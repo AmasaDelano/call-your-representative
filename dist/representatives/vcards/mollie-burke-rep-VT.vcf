@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mollie Burke (House)
-N;CHARSET=UTF-8:Burke (House);Mollie;;;
+FN;CHARSET=UTF-8:Mollie Burke (VT House)
+N;CHARSET=UTF-8:Burke (VT House);Mollie;;;
 TEL;TYPE=WORK,VOICE:802-828-2228
-NOTE;CHARSET=UTF-8:VT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:15.702282
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mburke@leg.state.vt.us
+NOTE;CHARSET=UTF-8:Representative in VT Legislature\, District Windham-8\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:04:47.899608
 END:VCARD

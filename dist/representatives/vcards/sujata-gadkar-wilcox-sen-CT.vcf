@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Sujata Gadkar-Wilcox (Senate)
-N;CHARSET=UTF-8:Gadkar-Wilcox (Senate);Sujata;;;
+FN;CHARSET=UTF-8:Sujata Gadkar-Wilcox (CT Senate)
+N;CHARSET=UTF-8:Gadkar-Wilcox (CT Senate);Sujata;;;
 TEL;TYPE=WORK,VOICE:860-240-0425
-NOTE;CHARSET=UTF-8:CT Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:54.211554
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:gadkarwilcox@senatedems.ct.gov
+NOTE;CHARSET=UTF-8:Senator in CT Legislature\, District 22\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:37.164457
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tom Schamberg (House)
-N;CHARSET=UTF-8:Schamberg (House);Tom;;;
+FN;CHARSET=UTF-8:Tom Schamberg (NH House)
+N;CHARSET=UTF-8:Schamberg (NH House);Tom;;;
 TEL;TYPE=WORK,VOICE:603-715-6778
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:12.093546
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tom.schamberg@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Merrimack 6\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:48.878058
 END:VCARD

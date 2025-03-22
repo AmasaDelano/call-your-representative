@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Carol Dalby (House)
-N;CHARSET=UTF-8:Dalby (House);Carol;;;
+FN;CHARSET=UTF-8:Carol Dalby (AR House)
+N;CHARSET=UTF-8:Dalby (AR House);Carol;;;
 TEL;TYPE=WORK,VOICE:501-682-6211
-NOTE;CHARSET=UTF-8:AR Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:25.999501
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:carol.dalby@arkansashouse.org
+NOTE;CHARSET=UTF-8:Representative in AR Legislature\, District 100\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:18.031462
 END:VCARD

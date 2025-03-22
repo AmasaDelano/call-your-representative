@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jahana Hayes (House)
-N;CHARSET=UTF-8:Hayes (House);Jahana;;;
+FN;CHARSET=UTF-8:Jahana Hayes (CT House)
+N;CHARSET=UTF-8:Hayes (CT House);Jahana;;;
 TEL;TYPE=WORK,VOICE:202-225-4476
-NOTE;CHARSET=UTF-8:US Representative\, CT\n\nCommittees:\nAgriculture\nNutrition and Foreign Agriculture\nLivestock, Dairy, and Poultry\nEducation and Workforce\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:32.112002
+URL;CHARSET=UTF-8:https://hayes.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from CT\, District 5\n\nCommittees she's on:\n- Agriculture\n- Nutrition and Foreign Agriculture\n- Livestock, Dairy, and Poultry\n- Education and Workforce\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:14.107886
 END:VCARD

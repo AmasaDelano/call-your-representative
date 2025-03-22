@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Keresa Richardson (House)
-N;CHARSET=UTF-8:Richardson (House);Keresa;;;
+FN;CHARSET=UTF-8:Keresa Richardson (TX House)
+N;CHARSET=UTF-8:Richardson (TX House);Keresa;;;
 TEL;TYPE=WORK,VOICE:512-463-0738
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:39.122603
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:keresa.richardson@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 61\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:40.909805
 END:VCARD

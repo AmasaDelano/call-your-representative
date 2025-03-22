@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Lee (House)
-N;CHARSET=UTF-8:Lee (House);Mike;;;
+FN;CHARSET=UTF-8:Mike Lee (HI House)
+N;CHARSET=UTF-8:Lee (HI House);Mike;;;
 TEL;TYPE=WORK,VOICE:808-586-6480
-NOTE;CHARSET=UTF-8:HI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:54.037721
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:replee@capitol.hawaii.gov
+NOTE;CHARSET=UTF-8:Representative in HI Legislature\, District 50\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:35.710023
 END:VCARD

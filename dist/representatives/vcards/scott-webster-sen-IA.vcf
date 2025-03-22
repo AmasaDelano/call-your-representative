@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Scott Webster (Senate)
-N;CHARSET=UTF-8:Webster (Senate);Scott;;;
+FN;CHARSET=UTF-8:Scott Webster (IA Senate)
+N;CHARSET=UTF-8:Webster (IA Senate);Scott;;;
 TEL;TYPE=WORK,VOICE:515-281-3371
-NOTE;CHARSET=UTF-8:IA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:35.831578
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:scott.webster@legis.iowa.gov
+NOTE;CHARSET=UTF-8:Senator in IA Legislature\, District 47\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:18.219799
 END:VCARD

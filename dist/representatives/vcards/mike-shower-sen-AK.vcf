@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Shower (Senate)
-N;CHARSET=UTF-8:Shower (Senate);Mike;;;
+FN;CHARSET=UTF-8:Mike Shower (AK Senate)
+N;CHARSET=UTF-8:Shower (AK Senate);Mike;;;
 TEL;TYPE=WORK,VOICE:907-465-6600
-NOTE;CHARSET=UTF-8:AK Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:22.151487
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senator.mike.shower@akleg.gov
+NOTE;CHARSET=UTF-8:Senator in AK Legislature\, District O\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:15.181345
 END:VCARD

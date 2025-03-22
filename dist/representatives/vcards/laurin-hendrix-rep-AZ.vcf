@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Laurin Hendrix (House)
-N;CHARSET=UTF-8:Hendrix (House);Laurin;;;
+FN;CHARSET=UTF-8:Laurin Hendrix (AZ House)
+N;CHARSET=UTF-8:Hendrix (AZ House);Laurin;;;
 TEL;TYPE=WORK,VOICE:602-926-4209
-NOTE;CHARSET=UTF-8:AZ Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:24.394323
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lhendrix@azleg.gov
+NOTE;CHARSET=UTF-8:Representative in AZ Legislature\, District 14\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:16.768045
 END:VCARD

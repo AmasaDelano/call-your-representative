@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Roberta Lange (Senate)
-N;CHARSET=UTF-8:Lange (Senate);Roberta;;;
+FN;CHARSET=UTF-8:Roberta Lange (NV Senate)
+N;CHARSET=UTF-8:Lange (NV Senate);Roberta;;;
 TEL;TYPE=WORK,VOICE:775-684-6504
-NOTE;CHARSET=UTF-8:NV Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:39.795995
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:roberta.lange@sen.state.nv.us
+NOTE;CHARSET=UTF-8:Senator in NV Legislature\, District 7\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:16.718319
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Wiener (House)
-N;CHARSET=UTF-8:Wiener (House);Mike;;;
+FN;CHARSET=UTF-8:Mike Wiener (MN House)
+N;CHARSET=UTF-8:Wiener (MN House);Mike;;;
 TEL;TYPE=WORK,VOICE:651-296-4293
-NOTE;CHARSET=UTF-8:MN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:28.706063
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.mike.wiener@house.mn.gov
+NOTE;CHARSET=UTF-8:Representative in MN Legislature\, District 5B\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:06.147545
 END:VCARD

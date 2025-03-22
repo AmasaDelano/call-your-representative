@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Vanessa Sheehan (House)
-N;CHARSET=UTF-8:Sheehan (House);Vanessa;;;
+FN;CHARSET=UTF-8:Vanessa Sheehan (NH House)
+N;CHARSET=UTF-8:Sheehan (NH House);Vanessa;;;
 TEL;TYPE=WORK,VOICE:603-320-6111
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:12.318582
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:vanessa@vanessa4nh.com
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Hillsborough 43\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:49.110831
 END:VCARD

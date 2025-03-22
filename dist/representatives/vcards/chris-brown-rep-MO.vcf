@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Chris Brown (House)
-N;CHARSET=UTF-8:Brown (House);Chris;;;
+FN;CHARSET=UTF-8:Chris Brown (MO House)
+N;CHARSET=UTF-8:Brown (MO House);Chris;;;
 TEL;TYPE=WORK,VOICE:573-751-9458
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:35.127299
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:chris.brown@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 16\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:12.353555
 END:VCARD

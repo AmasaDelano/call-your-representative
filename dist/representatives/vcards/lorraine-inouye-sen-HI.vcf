@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lorraine Inouye (Senate)
-N;CHARSET=UTF-8:Inouye (Senate);Lorraine;;;
+FN;CHARSET=UTF-8:Lorraine Inouye (HI Senate)
+N;CHARSET=UTF-8:Inouye (HI Senate);Lorraine;;;
 TEL;TYPE=WORK,VOICE:808-586-7335
-NOTE;CHARSET=UTF-8:HI Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:53.551144
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:seninouye@capitol.hawaii.gov
+NOTE;CHARSET=UTF-8:Senator in HI Legislature\, District 1\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:35.278681
 END:VCARD

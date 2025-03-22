@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Angie Button (House)
-N;CHARSET=UTF-8:Button (House);Angie;;;
+FN;CHARSET=UTF-8:Angie Button (TX House)
+N;CHARSET=UTF-8:Button (TX House);Angie;;;
 TEL;TYPE=WORK,VOICE:972-234-8980
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:07.312903
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:angie.button@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 112\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:11.869996
 END:VCARD

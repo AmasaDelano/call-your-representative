@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tony Williams (Senate)
-N;CHARSET=UTF-8:Williams (Senate);Tony;;;
+FN;CHARSET=UTF-8:Tony Williams (PA Senate)
+N;CHARSET=UTF-8:Williams (PA Senate);Tony;;;
 TEL;TYPE=WORK,VOICE:717-787-5970
-NOTE;CHARSET=UTF-8:PA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:41.057850
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:williams@pasenate.com
+NOTE;CHARSET=UTF-8:Senator in PA Legislature\, District 8\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:19.836937
 END:VCARD

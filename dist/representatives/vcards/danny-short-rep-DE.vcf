@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Danny Short (House)
-N;CHARSET=UTF-8:Short (House);Danny;;;
+FN;CHARSET=UTF-8:Danny Short (DE House)
+N;CHARSET=UTF-8:Short (DE House);Danny;;;
 TEL;TYPE=WORK,VOICE:302-744-4172
-NOTE;CHARSET=UTF-8:DE Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:55.064418
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:daniel.short@delaware.gov
+NOTE;CHARSET=UTF-8:Representative in DE Legislature\, District 39\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:37.848198
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jenna Persons-Mulicka (House)
-N;CHARSET=UTF-8:Persons-Mulicka (House);Jenna;;;
+FN;CHARSET=UTF-8:Jenna Persons-Mulicka (FL House)
+N;CHARSET=UTF-8:Persons-Mulicka (FL House);Jenna;;;
 TEL;TYPE=WORK,VOICE:850-717-5078
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:13.308197
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jenna.persons@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 78\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:56.400360
 END:VCARD

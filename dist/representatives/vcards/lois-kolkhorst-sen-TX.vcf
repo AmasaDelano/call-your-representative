@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lois Kolkhorst (Senate)
-N;CHARSET=UTF-8:Kolkhorst (Senate);Lois;;;
+FN;CHARSET=UTF-8:Lois Kolkhorst (TX Senate)
+N;CHARSET=UTF-8:Kolkhorst (TX Senate);Lois;;;
 TEL;TYPE=WORK,VOICE:281-259-8513
-NOTE;CHARSET=UTF-8:TX Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:39.652751
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lois.kolkhorst@senate.texas.gov
+NOTE;CHARSET=UTF-8:Senator in TX Legislature\, District 18\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:41.409526
 END:VCARD

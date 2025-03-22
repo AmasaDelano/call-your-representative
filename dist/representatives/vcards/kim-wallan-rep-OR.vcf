@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kim Wallan (House)
-N;CHARSET=UTF-8:Wallan (House);Kim;;;
+FN;CHARSET=UTF-8:Kim Wallan (OR House)
+N;CHARSET=UTF-8:Wallan (OR House);Kim;;;
 TEL;TYPE=WORK,VOICE:503-986-1406
-NOTE;CHARSET=UTF-8:OR Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:37.219287
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.kimwallan@oregonlegislature.gov
+NOTE;CHARSET=UTF-8:Representative in OR Legislature\, District 6\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:16.041788
 END:VCARD

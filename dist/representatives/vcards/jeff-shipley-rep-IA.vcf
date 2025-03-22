@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jeff Shipley (House)
-N;CHARSET=UTF-8:Shipley (House);Jeff;;;
+FN;CHARSET=UTF-8:Jeff Shipley (IA House)
+N;CHARSET=UTF-8:Shipley (IA House);Jeff;;;
 TEL;TYPE=WORK,VOICE:515-281-3221
-NOTE;CHARSET=UTF-8:IA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:35.290040
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jeff.shipley@legis.iowa.gov
+NOTE;CHARSET=UTF-8:Representative in IA Legislature\, District 87\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:17.679736
 END:VCARD

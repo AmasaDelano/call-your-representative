@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lee Ware (House)
-N;CHARSET=UTF-8:Ware (House);Lee;;;
+FN;CHARSET=UTF-8:Lee Ware (VA House)
+N;CHARSET=UTF-8:Ware (VA House);Lee;;;
 TEL;TYPE=WORK,VOICE:804-698-1072
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:22.815629
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:dellware@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 72\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:03.773958
 END:VCARD

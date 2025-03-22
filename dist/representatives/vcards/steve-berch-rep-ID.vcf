@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Steve Berch (House)
-N;CHARSET=UTF-8:Berch (House);Steve;;;
+FN;CHARSET=UTF-8:Steve Berch (ID House)
+N;CHARSET=UTF-8:Berch (ID House);Steve;;;
 TEL;TYPE=WORK,VOICE:208-332-1039
-NOTE;CHARSET=UTF-8:ID Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:56.140738
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sberch@house.idaho.gov
+NOTE;CHARSET=UTF-8:Representative in ID Legislature\, District 15A\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:37.824293
 END:VCARD

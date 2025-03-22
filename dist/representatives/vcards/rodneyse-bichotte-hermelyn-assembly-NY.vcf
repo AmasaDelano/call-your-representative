@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rodneyse Bichotte Hermelyn (Assembly)
-N;CHARSET=UTF-8:Bichotte Hermelyn (Assembly);Rodneyse;;;
+FN;CHARSET=UTF-8:Rodneyse Bichotte Hermelyn (NY Assembly)
+N;CHARSET=UTF-8:Bichotte Hermelyn (NY Assembly);Rodneyse;;;
 TEL;TYPE=WORK,VOICE:518-455-5385
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:06.905155
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bichotter@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 42\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:44.483498
 END:VCARD

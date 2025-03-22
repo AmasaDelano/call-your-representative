@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Monique Limón (Senate)
-N;CHARSET=UTF-8:Limón (Senate);Monique;;;
+FN;CHARSET=UTF-8:Monique Limón (CA Senate)
+N;CHARSET=UTF-8:Limón (CA Senate);Monique;;;
 TEL;TYPE=WORK,VOICE:916-651-4021
-NOTE;CHARSET=UTF-8:CA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:41.049566
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senator.limon@senate.ca.gov
+NOTE;CHARSET=UTF-8:Senator in CA Legislature\, District 21\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:33.617043
 END:VCARD

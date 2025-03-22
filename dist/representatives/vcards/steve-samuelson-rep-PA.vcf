@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Steve Samuelson (House)
-N;CHARSET=UTF-8:Samuelson (House);Steve;;;
+FN;CHARSET=UTF-8:Steve Samuelson (PA House)
+N;CHARSET=UTF-8:Samuelson (PA House);Steve;;;
 TEL;TYPE=WORK,VOICE:717-705-1881
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:40.317849
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ssamuels@pahouse.net
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 135\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:17.646051
 END:VCARD

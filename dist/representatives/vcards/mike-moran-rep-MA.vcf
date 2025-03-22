@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Moran (House)
-N;CHARSET=UTF-8:Moran (House);Mike;;;
+FN;CHARSET=UTF-8:Mike Moran (MA House)
+N;CHARSET=UTF-8:Moran (MA House);Mike;;;
 TEL;TYPE=WORK,VOICE:617-722-2300
-NOTE;CHARSET=UTF-8:MA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:05.827451
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:michael.moran@mahouse.gov
+NOTE;CHARSET=UTF-8:Representative in MA Legislature\, District 18th Suffolk\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:43.904164
 END:VCARD

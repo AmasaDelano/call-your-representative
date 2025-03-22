@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Gary VanDeaver (House)
-N;CHARSET=UTF-8:VanDeaver (House);Gary;;;
+FN;CHARSET=UTF-8:Gary VanDeaver (TX House)
+N;CHARSET=UTF-8:VanDeaver (TX House);Gary;;;
 TEL;TYPE=WORK,VOICE:903-628-0361
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:26.693321
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:gary.vandeaver@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 1\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:29.613560
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lisa Baker (Senate)
-N;CHARSET=UTF-8:Baker (Senate);Lisa;;;
+FN;CHARSET=UTF-8:Lisa Baker (PA Senate)
+N;CHARSET=UTF-8:Baker (PA Senate);Lisa;;;
 TEL;TYPE=WORK,VOICE:717-787-7428
-NOTE;CHARSET=UTF-8:PA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:19.952229
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lbaker@pasen.gov
+NOTE;CHARSET=UTF-8:Senator in PA Legislature\, District 20\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:58.376611
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Glenneda Zuiderveld (Senate)
-N;CHARSET=UTF-8:Zuiderveld (Senate);Glenneda;;;
+FN;CHARSET=UTF-8:Glenneda Zuiderveld (ID Senate)
+N;CHARSET=UTF-8:Zuiderveld (ID Senate);Glenneda;;;
 TEL;TYPE=WORK,VOICE:208-332-1347
-NOTE;CHARSET=UTF-8:ID Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:55.529411
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:gzuiderveld@senate.idaho.gov
+NOTE;CHARSET=UTF-8:Senator in ID Legislature\, District 24\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:37.175175
 END:VCARD

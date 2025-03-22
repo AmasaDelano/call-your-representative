@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Cornel Rasor (House)
-N;CHARSET=UTF-8:Rasor (House);Cornel;;;
+FN;CHARSET=UTF-8:Cornel Rasor (ID House)
+N;CHARSET=UTF-8:Rasor (ID House);Cornel;;;
 TEL;TYPE=WORK,VOICE:208-332-1185
-NOTE;CHARSET=UTF-8:ID Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:55.359388
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:crasor@house.idaho.gov
+NOTE;CHARSET=UTF-8:Representative in ID Legislature\, District 1B\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:36.999842
 END:VCARD

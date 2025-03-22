@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ceci Maher (Senate)
-N;CHARSET=UTF-8:Maher (Senate);Ceci;;;
+FN;CHARSET=UTF-8:Ceci Maher (CT Senate)
+N;CHARSET=UTF-8:Maher (CT Senate);Ceci;;;
 TEL;TYPE=WORK,VOICE:860-240-1436
-NOTE;CHARSET=UTF-8:CT Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:37.776695
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ceci.maher@cga.ct.gov
+NOTE;CHARSET=UTF-8:Senator in CT Legislature\, District 26\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:19.330570
 END:VCARD

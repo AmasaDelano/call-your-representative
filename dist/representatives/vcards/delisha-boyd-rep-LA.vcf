@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Delisha Boyd (House)
-N;CHARSET=UTF-8:Boyd (House);Delisha;;;
+FN;CHARSET=UTF-8:Delisha Boyd (LA House)
+N;CHARSET=UTF-8:Boyd (LA House);Delisha;;;
 TEL;TYPE=WORK,VOICE:504-605-5622
-NOTE;CHARSET=UTF-8:LA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:33.955126
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:hse102@legis.la.gov
+NOTE;CHARSET=UTF-8:Representative in LA Legislature\, District 102\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:14.637100
 END:VCARD

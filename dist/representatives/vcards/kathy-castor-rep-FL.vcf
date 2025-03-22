@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kathy Castor (House)
-N;CHARSET=UTF-8:Castor (House);Kathy;;;
+FN;CHARSET=UTF-8:Kathy Castor (FL House)
+N;CHARSET=UTF-8:Castor (FL House);Kathy;;;
 TEL;TYPE=WORK,VOICE:202-225-3376
-NOTE;CHARSET=UTF-8:US Representative\, FL\n\nCommittees:\nEnergy and Commerce\nHouse Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:27.135642
+URL;CHARSET=UTF-8:https://castor.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from FL\, District 14\n\nCommittees she's on:\n- Energy and Commerce\n- House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:08.381392
 END:VCARD

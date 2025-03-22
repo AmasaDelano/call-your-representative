@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tom Butler (Senate)
-N;CHARSET=UTF-8:Butler (Senate);Tom;;;
+FN;CHARSET=UTF-8:Tom Butler (AL Senate)
+N;CHARSET=UTF-8:Butler (AL Senate);Tom;;;
 TEL;TYPE=WORK,VOICE:334-261-0884
-NOTE;CHARSET=UTF-8:AL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:20.696618
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senbutler@aol.com
+NOTE;CHARSET=UTF-8:Senator in AL Legislature\, District 2\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:13.112599
 END:VCARD

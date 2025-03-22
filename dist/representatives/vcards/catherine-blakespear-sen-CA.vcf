@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Catherine Blakespear (Senate)
-N;CHARSET=UTF-8:Blakespear (Senate);Catherine;;;
+FN;CHARSET=UTF-8:Catherine Blakespear (CA Senate)
+N;CHARSET=UTF-8:Blakespear (CA Senate);Catherine;;;
 TEL;TYPE=WORK,VOICE:916-651-4038
-NOTE;CHARSET=UTF-8:CA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:31.392592
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:catherine.blakespear@sen.ca.gov
+NOTE;CHARSET=UTF-8:Senator in CA Legislature\, District 38\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:23.661466
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Greg Sargent (House)
-N;CHARSET=UTF-8:Sargent (House);Greg;;;
+FN;CHARSET=UTF-8:Greg Sargent (NH House)
+N;CHARSET=UTF-8:Sargent (NH House);Greg;;;
 TEL;TYPE=WORK,VOICE:603-674-5253
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:03.506681
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:gregory.sargent@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Merrimack 7\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:41.037993
 END:VCARD

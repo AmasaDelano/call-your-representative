@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bud Hulsey (House)
-N;CHARSET=UTF-8:Hulsey (House);Bud;;;
+FN;CHARSET=UTF-8:Bud Hulsey (TN House)
+N;CHARSET=UTF-8:Hulsey (TN House);Bud;;;
 TEL;TYPE=WORK,VOICE:615-741-2886
-NOTE;CHARSET=UTF-8:TN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:02.743108
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.bud.hulsey@capitol.tn.gov
+NOTE;CHARSET=UTF-8:Representative in TN Legislature\, District 2\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:07.258591
 END:VCARD

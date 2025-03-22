@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Dan Innis (Senate)
-N;CHARSET=UTF-8:Innis (Senate);Dan;;;
+FN;CHARSET=UTF-8:Dan Innis (NH Senate)
+N;CHARSET=UTF-8:Innis (NH Senate);Dan;;;
 TEL;TYPE=WORK,VOICE:603-285-1150
-NOTE;CHARSET=UTF-8:NH Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:41.057871
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:daniel.innis@gc.nh.gov
+NOTE;CHARSET=UTF-8:Senator in NH Legislature\, District 7\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:18.035434
 END:VCARD

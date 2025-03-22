@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Donny Lambeth (House)
-N;CHARSET=UTF-8:Lambeth (House);Donny;;;
+FN;CHARSET=UTF-8:Donny Lambeth (NC House)
+N;CHARSET=UTF-8:Lambeth (NC House);Donny;;;
 TEL;TYPE=WORK,VOICE:919-733-5747
-NOTE;CHARSET=UTF-8:NC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:10.764878
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:donny.lambeth@ncleg.gov
+NOTE;CHARSET=UTF-8:Representative in NC Legislature\, District 75\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:48.821225
 END:VCARD

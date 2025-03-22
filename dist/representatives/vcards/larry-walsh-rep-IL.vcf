@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Larry Walsh (House)
-N;CHARSET=UTF-8:Walsh (House);Larry;;;
+FN;CHARSET=UTF-8:Larry Walsh (IL House)
+N;CHARSET=UTF-8:Walsh (IL House);Larry;;;
 TEL;TYPE=WORK,VOICE:217-782-8090
-NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:57.468626
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:statereplarrywalshjr@gmail.com
+NOTE;CHARSET=UTF-8:Representative in IL Legislature\, District 86\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:39.071883
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Barry Finegold (Senate)
-N;CHARSET=UTF-8:Finegold (Senate);Barry;;;
+FN;CHARSET=UTF-8:Barry Finegold (MA Senate)
+N;CHARSET=UTF-8:Finegold (MA Senate);Barry;;;
 TEL;TYPE=WORK,VOICE:617-722-1612
-NOTE;CHARSET=UTF-8:MA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:03.956197
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:barry.finegold@masenate.gov
+NOTE;CHARSET=UTF-8:Senator in MA Legislature\, District Second Essex and Middlesex\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:42.198102
 END:VCARD

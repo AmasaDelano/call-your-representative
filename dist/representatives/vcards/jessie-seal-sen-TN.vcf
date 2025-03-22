@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jessie Seal (Senate)
-N;CHARSET=UTF-8:Seal (Senate);Jessie;;;
+FN;CHARSET=UTF-8:Jessie Seal (TN Senate)
+N;CHARSET=UTF-8:Seal (TN Senate);Jessie;;;
 TEL;TYPE=WORK,VOICE:615-741-2061
-NOTE;CHARSET=UTF-8:TN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:03.453025
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.jessie.seal@capitol.tn.gov
+NOTE;CHARSET=UTF-8:Senator in TN Legislature\, District 8\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:08.037431
 END:VCARD

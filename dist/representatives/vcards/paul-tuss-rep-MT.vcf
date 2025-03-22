@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Paul Tuss (House)
-N;CHARSET=UTF-8:Tuss (House);Paul;;;
+FN;CHARSET=UTF-8:Paul Tuss (MT House)
+N;CHARSET=UTF-8:Tuss (MT House);Paul;;;
 TEL;TYPE=WORK,VOICE:406-945-0412
-NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:38.236159
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:paul.tuss@legmt.gov
+NOTE;CHARSET=UTF-8:Representative in MT Legislature\, District 27\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:15.160328
 END:VCARD

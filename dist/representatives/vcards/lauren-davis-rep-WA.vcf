@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lauren Davis (House)
-N;CHARSET=UTF-8:Davis (House);Lauren;;;
+FN;CHARSET=UTF-8:Lauren Davis (WA House)
+N;CHARSET=UTF-8:Davis (WA House);Lauren;;;
 TEL;TYPE=WORK,VOICE:206-466-5742
-NOTE;CHARSET=UTF-8:WA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:24.529276
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lauren.davis@leg.wa.gov
+NOTE;CHARSET=UTF-8:Representative in WA Legislature\, District 32\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:05.684688
 END:VCARD

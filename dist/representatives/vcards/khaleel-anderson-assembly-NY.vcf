@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Khaleel Anderson (Assembly)
-N;CHARSET=UTF-8:Anderson (Assembly);Khaleel;;;
+FN;CHARSET=UTF-8:Khaleel Anderson (NY Assembly)
+N;CHARSET=UTF-8:Anderson (NY Assembly);Khaleel;;;
 TEL;TYPE=WORK,VOICE:518-455-5668
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:58.555416
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:andersonk@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 31\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:34.977592
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lindsey Williams (Senate)
-N;CHARSET=UTF-8:Williams (Senate);Lindsey;;;
+FN;CHARSET=UTF-8:Lindsey Williams (PA Senate)
+N;CHARSET=UTF-8:Williams (PA Senate);Lindsey;;;
 TEL;TYPE=WORK,VOICE:717-787-6538
-NOTE;CHARSET=UTF-8:PA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:19.374436
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senatorlindseywilliams@pasenate.com
+NOTE;CHARSET=UTF-8:Senator in PA Legislature\, District 38\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:57.796356
 END:VCARD

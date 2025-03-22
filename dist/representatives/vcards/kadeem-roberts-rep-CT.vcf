@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kadeem Roberts (House)
-N;CHARSET=UTF-8:Roberts (House);Kadeem;;;
+FN;CHARSET=UTF-8:Kadeem Roberts (CT House)
+N;CHARSET=UTF-8:Roberts (CT House);Kadeem;;;
 TEL;TYPE=WORK,VOICE:860-240-8585
-NOTE;CHARSET=UTF-8:CT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:45.020806
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:kadeem.roberts@cga.ct.gov
+NOTE;CHARSET=UTF-8:Representative in CT Legislature\, District 137\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:27.635367
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Zaynab Mohamed (Senate)
-N;CHARSET=UTF-8:Mohamed (Senate);Zaynab;;;
+FN;CHARSET=UTF-8:Zaynab Mohamed (MN Senate)
+N;CHARSET=UTF-8:Mohamed (MN Senate);Zaynab;;;
 TEL;TYPE=WORK,VOICE:651-296-4274
-NOTE;CHARSET=UTF-8:MN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:29.346462
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen.zaynab.mohamed@senate.mn
+NOTE;CHARSET=UTF-8:Senator in MN Legislature\, District 63\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:06.730750
 END:VCARD

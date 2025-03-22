@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Josh Schriver (House)
-N;CHARSET=UTF-8:Schriver (House);Josh;;;
+FN;CHARSET=UTF-8:Josh Schriver (MI House)
+N;CHARSET=UTF-8:Schriver (MI House);Josh;;;
 TEL;TYPE=WORK,VOICE:517-373-0839
-NOTE;CHARSET=UTF-8:MI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:14.396433
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:joshschriver@house.mi.gov
+NOTE;CHARSET=UTF-8:Representative in MI Legislature\, District 66\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:50.885355
 END:VCARD

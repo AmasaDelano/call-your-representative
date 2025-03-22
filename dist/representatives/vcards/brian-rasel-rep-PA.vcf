@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brian Rasel (House)
-N;CHARSET=UTF-8:Rasel (House);Brian;;;
+FN;CHARSET=UTF-8:Brian Rasel (PA House)
+N;CHARSET=UTF-8:Rasel (PA House);Brian;;;
 TEL;TYPE=WORK,VOICE:717-260-6132
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:44.154605
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:brasel@pahousegop.com
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 56\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:22.796668
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Monica Church (House)
-N;CHARSET=UTF-8:Church (House);Monica;;;
+FN;CHARSET=UTF-8:Monica Church (ID House)
+N;CHARSET=UTF-8:Church (ID House);Monica;;;
 TEL;TYPE=WORK,VOICE:208-332-1078
-NOTE;CHARSET=UTF-8:ID Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:56.027707
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mchurch@house.idaho.gov
+NOTE;CHARSET=UTF-8:Representative in ID Legislature\, District 19A\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:37.703458
 END:VCARD

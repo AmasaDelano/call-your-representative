@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:John Waldron (House)
-N;CHARSET=UTF-8:Waldron (House);John;;;
+FN;CHARSET=UTF-8:John Waldron (OK House)
+N;CHARSET=UTF-8:Waldron (OK House);John;;;
 TEL;TYPE=WORK,VOICE:405-557-7410
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:27.920073
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:john.waldron@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 77\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:06.977416
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Josh Morris (House)
-N;CHARSET=UTF-8:Morris (House);Josh;;;
+FN;CHARSET=UTF-8:Josh Morris (ME House)
+N;CHARSET=UTF-8:Morris (ME House);Josh;;;
 TEL;TYPE=WORK,VOICE:800-423-2900
-NOTE;CHARSET=UTF-8:ME Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:57.925847
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:joshua.morris@legislature.maine.gov
+NOTE;CHARSET=UTF-8:Representative in ME Legislature\, District 91\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:36.958795
 END:VCARD

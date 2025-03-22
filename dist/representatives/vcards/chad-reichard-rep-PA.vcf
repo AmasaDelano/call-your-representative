@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Chad Reichard (House)
-N;CHARSET=UTF-8:Reichard (House);Chad;;;
+FN;CHARSET=UTF-8:Chad Reichard (PA House)
+N;CHARSET=UTF-8:Reichard (PA House);Chad;;;
 TEL;TYPE=WORK,VOICE:717-783-5218
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:47.094594
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:creichard@pahousegop.com
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 90\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:25.556858
 END:VCARD

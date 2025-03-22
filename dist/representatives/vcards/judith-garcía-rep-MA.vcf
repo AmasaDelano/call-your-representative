@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Judith García (House)
-N;CHARSET=UTF-8:García (House);Judith;;;
+FN;CHARSET=UTF-8:Judith García (MA House)
+N;CHARSET=UTF-8:García (MA House);Judith;;;
 TEL;TYPE=WORK,VOICE:617-722-2582
-NOTE;CHARSET=UTF-8:MA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:04.873956
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:judith.garcia@mahouse.gov
+NOTE;CHARSET=UTF-8:Representative in MA Legislature\, District 11th Suffolk\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:43.060522
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Michelle DuBois (House)
-N;CHARSET=UTF-8:DuBois (House);Michelle;;;
+FN;CHARSET=UTF-8:Michelle DuBois (MA House)
+N;CHARSET=UTF-8:DuBois (MA House);Michelle;;;
 TEL;TYPE=WORK,VOICE:617-722-2017
-NOTE;CHARSET=UTF-8:MA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:05.926303
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:michelle.dubois@mahouse.gov
+NOTE;CHARSET=UTF-8:Representative in MA Legislature\, District 10th Plymouth\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:43.988516
 END:VCARD

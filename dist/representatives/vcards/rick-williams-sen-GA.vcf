@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rick Williams (Senate)
-N;CHARSET=UTF-8:Williams (Senate);Rick;;;
+FN;CHARSET=UTF-8:Rick Williams (GA Senate)
+N;CHARSET=UTF-8:Williams (GA Senate);Rick;;;
 TEL;TYPE=WORK,VOICE:404-656-0082
-NOTE;CHARSET=UTF-8:GA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:46.890016
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rick.williams@senate.ga.gov
+NOTE;CHARSET=UTF-8:Senator in GA Legislature\, District 25\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:29.171718
 END:VCARD

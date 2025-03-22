@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mary Cavanagh (Senate)
-N;CHARSET=UTF-8:Cavanagh (Senate);Mary;;;
+FN;CHARSET=UTF-8:Mary Cavanagh (MI Senate)
+N;CHARSET=UTF-8:Cavanagh (MI Senate);Mary;;;
 TEL;TYPE=WORK,VOICE:517-373-7748
-NOTE;CHARSET=UTF-8:MI Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:21.081375
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senmcavanagh@senate.michigan.gov
+NOTE;CHARSET=UTF-8:Senator in MI Legislature\, District 6\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:58.409501
 END:VCARD

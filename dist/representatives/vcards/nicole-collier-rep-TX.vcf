@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Nicole Collier (House)
-N;CHARSET=UTF-8:Collier (House);Nicole;;;
+FN;CHARSET=UTF-8:Nicole Collier (TX House)
+N;CHARSET=UTF-8:Collier (TX House);Nicole;;;
 TEL;TYPE=WORK,VOICE:817-332-1180
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:44.710139
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:nicole.collier@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 95\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:45.877357
 END:VCARD

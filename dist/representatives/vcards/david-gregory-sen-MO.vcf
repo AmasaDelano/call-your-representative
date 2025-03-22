@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:David Gregory (Senate)
-N;CHARSET=UTF-8:Gregory (Senate);David;;;
+FN;CHARSET=UTF-8:David Gregory (MO Senate)
+N;CHARSET=UTF-8:Gregory (MO Senate);David;;;
 TEL;TYPE=WORK,VOICE:573-751-5568
-NOTE;CHARSET=UTF-8:MO Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:35.275792
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:david.gregory@senate.mo.gov
+NOTE;CHARSET=UTF-8:Senator in MO Legislature\, District 15\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:12.526521
 END:VCARD

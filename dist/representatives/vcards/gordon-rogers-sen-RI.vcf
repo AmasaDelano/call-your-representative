@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Gordon Rogers (Senate)
-N;CHARSET=UTF-8:Rogers (Senate);Gordon;;;
+FN;CHARSET=UTF-8:Gordon Rogers (RI Senate)
+N;CHARSET=UTF-8:Rogers (RI Senate);Gordon;;;
 TEL;TYPE=WORK,VOICE:401-222-3580
-NOTE;CHARSET=UTF-8:RI Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:49.913687
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sen-rogers@rilegislature.gov
+NOTE;CHARSET=UTF-8:Senator in RI Legislature\, District 21\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:26.322432
 END:VCARD

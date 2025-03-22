@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Scott Fitzgerald (House)
-N;CHARSET=UTF-8:Fitzgerald (House);Scott;;;
+FN;CHARSET=UTF-8:Scott Fitzgerald (WI House)
+N;CHARSET=UTF-8:Fitzgerald (WI House);Scott;;;
 TEL;TYPE=WORK,VOICE:202-225-5101
-NOTE;CHARSET=UTF-8:US Representative\, WI\n\nCommittees:\nFinancial Services\nThe Judiciary\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:34.122173
+URL;CHARSET=UTF-8:https://fitzgerald.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from WI\, District 5\n\nCommittees he's on:\n- Financial Services\n- The Judiciary\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:16.470103
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Terry Wanzek (Senate)
-N;CHARSET=UTF-8:Wanzek (Senate);Terry;;;
+FN;CHARSET=UTF-8:Terry Wanzek (ND Senate)
+N;CHARSET=UTF-8:Wanzek (ND Senate);Terry;;;
 TEL;TYPE=WORK,VOICE:701-328-3373
-NOTE;CHARSET=UTF-8:ND Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:14.458028
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tmwanzek@ndlegis.gov
+NOTE;CHARSET=UTF-8:Senator in ND Legislature\, District 29\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:53.017008
 END:VCARD

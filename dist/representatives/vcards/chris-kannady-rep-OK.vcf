@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Chris Kannady (House)
-N;CHARSET=UTF-8:Kannady (House);Chris;;;
+FN;CHARSET=UTF-8:Chris Kannady (OK House)
+N;CHARSET=UTF-8:Kannady (OK House);Chris;;;
 TEL;TYPE=WORK,VOICE:405-557-7337
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:22.044648
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:chris.kannady@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 91\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:01.192488
 END:VCARD

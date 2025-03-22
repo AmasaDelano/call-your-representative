@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rita Mendes (House)
-N;CHARSET=UTF-8:Mendes (House);Rita;;;
+FN;CHARSET=UTF-8:Rita Mendes (MA House)
+N;CHARSET=UTF-8:Mendes (MA House);Rita;;;
 TEL;TYPE=WORK,VOICE:617-722-2400
-NOTE;CHARSET=UTF-8:MA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:06.204635
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rita.mendes@mahouse.gov
+NOTE;CHARSET=UTF-8:Representative in MA Legislature\, District 11th Plymouth\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:44.247245
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jennifer Lynch (House)
-N;CHARSET=UTF-8:Lynch (House);Jennifer;;;
+FN;CHARSET=UTF-8:Jennifer Lynch (MT House)
+N;CHARSET=UTF-8:Lynch (MT House);Jennifer;;;
 TEL;TYPE=WORK,VOICE:406-491-7523
-NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:37.676023
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jennifer.lynch@legmt.gov
+NOTE;CHARSET=UTF-8:Representative in MT Legislature\, District 73\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:14.527999
 END:VCARD

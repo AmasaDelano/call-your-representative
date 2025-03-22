@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jason Lowe (House)
-N;CHARSET=UTF-8:Lowe (House);Jason;;;
+FN;CHARSET=UTF-8:Jason Lowe (OK House)
+N;CHARSET=UTF-8:Lowe (OK House);Jason;;;
 TEL;TYPE=WORK,VOICE:405-557-7367
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:26.674927
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jason.lowe@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 97\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:05.869998
 END:VCARD

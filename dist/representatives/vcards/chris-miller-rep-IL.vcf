@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Chris Miller (House)
-N;CHARSET=UTF-8:Miller (House);Chris;;;
+FN;CHARSET=UTF-8:Chris Miller (IL House)
+N;CHARSET=UTF-8:Miller (IL House);Chris;;;
 TEL;TYPE=WORK,VOICE:217-558-1040
-NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:56.689278
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:miller@ilhousegop.org
+NOTE;CHARSET=UTF-8:Representative in IL Legislature\, District 101\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:38.291991
 END:VCARD

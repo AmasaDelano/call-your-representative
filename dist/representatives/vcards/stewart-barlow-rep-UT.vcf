@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Stewart Barlow (House)
-N;CHARSET=UTF-8:Barlow (House);Stewart;;;
+FN;CHARSET=UTF-8:Stewart Barlow (UT House)
+N;CHARSET=UTF-8:Barlow (UT House);Stewart;;;
 TEL;TYPE=WORK,VOICE:801-538-1029
-NOTE;CHARSET=UTF-8:UT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:04.762054
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sbarlow@le.utah.gov
+NOTE;CHARSET=UTF-8:Representative in UT Legislature\, District 17\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:58:04.068339
 END:VCARD

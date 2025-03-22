@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bill Essayli (Assembly)
-N;CHARSET=UTF-8:Essayli (Assembly);Bill;;;
+FN;CHARSET=UTF-8:Bill Essayli (CA Assembly)
+N;CHARSET=UTF-8:Essayli (CA Assembly);Bill;;;
 TEL;TYPE=WORK,VOICE:916-319-2063
-NOTE;CHARSET=UTF-8:CA Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:30.409230
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:assemblymember.essayli@assembly.ca.gov
+NOTE;CHARSET=UTF-8:Assembly Member in CA Legislature\, District 63\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:22.725415
 END:VCARD

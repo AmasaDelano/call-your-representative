@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kent Haden (House)
-N;CHARSET=UTF-8:Haden (House);Kent;;;
+FN;CHARSET=UTF-8:Kent Haden (MO House)
+N;CHARSET=UTF-8:Haden (MO House);Kent;;;
 TEL;TYPE=WORK,VOICE:573-751-3649
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:35.846148
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:kent.haden@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 43\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:13.068027
 END:VCARD

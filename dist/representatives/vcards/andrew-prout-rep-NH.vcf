@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Andrew Prout (House)
-N;CHARSET=UTF-8:Prout (House);Andrew;;;
+FN;CHARSET=UTF-8:Andrew Prout (NH House)
+N;CHARSET=UTF-8:Prout (NH House);Andrew;;;
 TEL;TYPE=WORK,VOICE:603-265-0771
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:40.355651
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:andrew.prout@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Hillsborough 13\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:17.278295
 END:VCARD

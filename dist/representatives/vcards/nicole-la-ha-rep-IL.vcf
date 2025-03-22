@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Nicole La Ha (House)
-N;CHARSET=UTF-8:La Ha (House);Nicole;;;
+FN;CHARSET=UTF-8:Nicole La Ha (IL House)
+N;CHARSET=UTF-8:La Ha (IL House);Nicole;;;
 TEL;TYPE=WORK,VOICE:217-782-0494
-NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:57.837885
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:repnicolelaha@gmail.com
+NOTE;CHARSET=UTF-8:Representative in IL Legislature\, District 82\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:39.449731
 END:VCARD

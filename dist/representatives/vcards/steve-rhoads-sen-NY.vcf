@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Steve Rhoads (Senate)
-N;CHARSET=UTF-8:Rhoads (Senate);Steve;;;
+FN;CHARSET=UTF-8:Steve Rhoads (NY Senate)
+N;CHARSET=UTF-8:Rhoads (NY Senate);Steve;;;
 TEL;TYPE=WORK,VOICE:518-455-3161
-NOTE;CHARSET=UTF-8:NY Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:08.497472
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rhoads@nysenate.gov
+NOTE;CHARSET=UTF-8:Senator in NY Legislature\, District 5\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:45.888198
 END:VCARD

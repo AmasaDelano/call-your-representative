@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jamie Gragg (House)
-N;CHARSET=UTF-8:Gragg (House);Jamie;;;
+FN;CHARSET=UTF-8:Jamie Gragg (MO House)
+N;CHARSET=UTF-8:Gragg (MO House);Jamie;;;
 TEL;TYPE=WORK,VOICE:573-751-2565
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:35.523026
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jamieray.gragg@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 140\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:12.774102
 END:VCARD

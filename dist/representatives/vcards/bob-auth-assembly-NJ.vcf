@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bob Auth (Assembly)
-N;CHARSET=UTF-8:Auth (Assembly);Bob;;;
+FN;CHARSET=UTF-8:Bob Auth (NJ Assembly)
+N;CHARSET=UTF-8:Auth (NJ Assembly);Bob;;;
 TEL;TYPE=WORK,VOICE:862-248-0491
-NOTE;CHARSET=UTF-8:NJ Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:33.362886
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:asmauth@njleg.org
+NOTE;CHARSET=UTF-8:Assembly Member in NJ Legislature\, District 39\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:09.584146
 END:VCARD

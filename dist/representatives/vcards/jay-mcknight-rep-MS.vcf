@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jay McKnight (House)
-N;CHARSET=UTF-8:McKnight (House);Jay;;;
+FN;CHARSET=UTF-8:Jay McKnight (MS House)
+N;CHARSET=UTF-8:McKnight (MS House);Jay;;;
 TEL;TYPE=WORK,VOICE:601-359-3360
-NOTE;CHARSET=UTF-8:MS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:31.751953
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jmcknight@house.ms.gov
+NOTE;CHARSET=UTF-8:Representative in MS Legislature\, District 95\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:09.398168
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Earle Banks (House)
-N;CHARSET=UTF-8:Banks (House);Earle;;;
+FN;CHARSET=UTF-8:Earle Banks (MS House)
+N;CHARSET=UTF-8:Banks (MS House);Earle;;;
 TEL;TYPE=WORK,VOICE:601-359-3399
-NOTE;CHARSET=UTF-8:MS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:31.508733
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ebankslaw@aol.com
+NOTE;CHARSET=UTF-8:Representative in MS Legislature\, District 67\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:09.178748
 END:VCARD

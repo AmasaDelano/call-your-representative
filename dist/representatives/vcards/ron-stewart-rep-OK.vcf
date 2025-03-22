@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ron Stewart (House)
-N;CHARSET=UTF-8:Stewart (House);Ron;;;
+FN;CHARSET=UTF-8:Ron Stewart (OK House)
+N;CHARSET=UTF-8:Stewart (OK House);Ron;;;
 TEL;TYPE=WORK,VOICE:405-557-7406
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:33.865732
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ronald.stewart@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 73\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:12.623922
 END:VCARD

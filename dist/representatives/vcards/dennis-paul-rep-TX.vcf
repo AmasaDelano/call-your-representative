@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Dennis Paul (House)
-N;CHARSET=UTF-8:Paul (House);Dennis;;;
+FN;CHARSET=UTF-8:Dennis Paul (TX House)
+N;CHARSET=UTF-8:Paul (TX House);Dennis;;;
 TEL;TYPE=WORK,VOICE:281-488-8900
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:21.402941
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:dennis.paul@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 129\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:24.751351
 END:VCARD

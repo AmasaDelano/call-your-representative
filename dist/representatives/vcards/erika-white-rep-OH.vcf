@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Erika White (House)
-N;CHARSET=UTF-8:White (House);Erika;;;
+FN;CHARSET=UTF-8:Erika White (OH House)
+N;CHARSET=UTF-8:White (OH House);Erika;;;
 TEL;TYPE=WORK,VOICE:614-466-1731
-NOTE;CHARSET=UTF-8:OH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:15.978872
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep41@ohiohouse.gov
+NOTE;CHARSET=UTF-8:Representative in OH Legislature\, District 41\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:54.656162
 END:VCARD

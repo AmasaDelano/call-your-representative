@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Phillip Ensler (House)
-N;CHARSET=UTF-8:Ensler (House);Phillip;;;
+FN;CHARSET=UTF-8:Phillip Ensler (AL House)
+N;CHARSET=UTF-8:Ensler (AL House);Phillip;;;
 TEL;TYPE=WORK,VOICE:334-261-0569
-NOTE;CHARSET=UTF-8:AL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:20.350893
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:phillip.ensler@gmail.com
+NOTE;CHARSET=UTF-8:Representative in AL Legislature\, District 74\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:12.805460
 END:VCARD

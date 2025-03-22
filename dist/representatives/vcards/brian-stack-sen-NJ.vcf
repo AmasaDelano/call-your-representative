@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brian Stack (Senate)
-N;CHARSET=UTF-8:Stack (Senate);Brian;;;
+FN;CHARSET=UTF-8:Brian Stack (NJ Senate)
+N;CHARSET=UTF-8:Stack (NJ Senate);Brian;;;
 TEL;TYPE=WORK,VOICE:201-721-5263
-NOTE;CHARSET=UTF-8:NJ Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:16.558639
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senstack@njleg.org
+NOTE;CHARSET=UTF-8:Senator in NJ Legislature\, District 33\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:53.231286
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lou Schmitt (House)
-N;CHARSET=UTF-8:Schmitt (House);Lou;;;
+FN;CHARSET=UTF-8:Lou Schmitt (PA House)
+N;CHARSET=UTF-8:Schmitt (PA House);Lou;;;
 TEL;TYPE=WORK,VOICE:717-787-6419
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:20.926044
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lschmitt@pahousegop.com
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 79\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:59.226489
 END:VCARD

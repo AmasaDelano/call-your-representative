@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Frances Jackson (House)
-N;CHARSET=UTF-8:Jackson (House);Frances;;;
+FN;CHARSET=UTF-8:Frances Jackson (NC House)
+N;CHARSET=UTF-8:Jackson (NC House);Frances;;;
 TEL;TYPE=WORK,VOICE:919-733-9892
-NOTE;CHARSET=UTF-8:NC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:10.837779
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:frances.jackson@ncleg.gov
+NOTE;CHARSET=UTF-8:Representative in NC Legislature\, District 45\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:48.936159
 END:VCARD

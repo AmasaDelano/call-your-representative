@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Gary Daniels (House)
-N;CHARSET=UTF-8:Daniels (House);Gary;;;
+FN;CHARSET=UTF-8:Gary Daniels (NH House)
+N;CHARSET=UTF-8:Daniels (NH House);Gary;;;
 TEL;TYPE=WORK,VOICE:603-673-3065
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:03.377953
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:gary.daniels@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Hillsborough 43\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:40.851964
 END:VCARD

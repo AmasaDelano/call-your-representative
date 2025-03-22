@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Chipalo Street (House)
-N;CHARSET=UTF-8:Street (House);Chipalo;;;
+FN;CHARSET=UTF-8:Chipalo Street (WA House)
+N;CHARSET=UTF-8:Street (WA House);Chipalo;;;
 TEL;TYPE=WORK,VOICE:360-786-7838
-NOTE;CHARSET=UTF-8:WA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:23.812232
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:chipalo.street@leg.wa.gov
+NOTE;CHARSET=UTF-8:Representative in WA Legislature\, District 37\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:04.842931
 END:VCARD

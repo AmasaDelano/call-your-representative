@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jesse Green (Senate)
-N;CHARSET=UTF-8:Green (Senate);Jesse;;;
+FN;CHARSET=UTF-8:Jesse Green (IA Senate)
+N;CHARSET=UTF-8:Green (IA Senate);Jesse;;;
 TEL;TYPE=WORK,VOICE:515-281-3371
-NOTE;CHARSET=UTF-8:IA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:35.339206
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jesse.green@legis.iowa.gov
+NOTE;CHARSET=UTF-8:Senator in IA Legislature\, District 24\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:17.729586
 END:VCARD

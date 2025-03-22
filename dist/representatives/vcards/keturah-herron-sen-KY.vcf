@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Keturah Herron (Senate)
-N;CHARSET=UTF-8:Herron (Senate);Keturah;;;
+FN;CHARSET=UTF-8:Keturah Herron (KY Senate)
+N;CHARSET=UTF-8:Herron (KY Senate);Keturah;;;
 TEL;TYPE=WORK,VOICE:502-564-8100
-NOTE;CHARSET=UTF-8:KY Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:20.086983
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:keturah.herron@kylegislature.gov
+NOTE;CHARSET=UTF-8:Senator in KY Legislature\, District 35\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:00.729118
 END:VCARD

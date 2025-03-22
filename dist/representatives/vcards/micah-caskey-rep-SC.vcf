@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Micah Caskey (House)
-N;CHARSET=UTF-8:Caskey (House);Micah;;;
+FN;CHARSET=UTF-8:Micah Caskey (SC House)
+N;CHARSET=UTF-8:Caskey (SC House);Micah;;;
 TEL;TYPE=WORK,VOICE:803-734-3113
-NOTE;CHARSET=UTF-8:SC Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:26:24.223397
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:micahcaskey@schouse.gov
+NOTE;CHARSET=UTF-8:Representative in SC Legislature\, District 89\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:00.225692
 END:VCARD

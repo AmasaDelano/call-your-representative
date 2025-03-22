@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jo Doll (House)
-N;CHARSET=UTF-8:Doll (House);Jo;;;
+FN;CHARSET=UTF-8:Jo Doll (MO House)
+N;CHARSET=UTF-8:Doll (MO House);Jo;;;
 TEL;TYPE=WORK,VOICE:573-751-1285
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:35.663077
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jo.doll@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 91\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:12.904028
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Allison Russo (House)
-N;CHARSET=UTF-8:Russo (House);Allison;;;
+FN;CHARSET=UTF-8:Allison Russo (OH House)
+N;CHARSET=UTF-8:Russo (OH House);Allison;;;
 TEL;TYPE=WORK,VOICE:614-466-8012
-NOTE;CHARSET=UTF-8:OH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:15.120541
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep07@ohiohouse.gov
+NOTE;CHARSET=UTF-8:Representative in OH Legislature\, District 7\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:53.792883
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:John Hickenlooper (Senate)
-N;CHARSET=UTF-8:Hickenlooper (Senate);John;;;
+FN;CHARSET=UTF-8:John Hickenlooper (CO Senate)
+N;CHARSET=UTF-8:Hickenlooper (CO Senate);John;;;
 TEL;TYPE=WORK,VOICE:202-224-5941
-NOTE;CHARSET=UTF-8:US Senator\, CO\n\nCommittees:\nCommerce, Science, and Transportation\nEnergy and Natural Resources\nEnergy\nPublic Lands, Forests, and Mining\nWater and Power\nHealth, Education, Labor, and Pensions\nEmployment and Workplace Safety\nPrimary Health and Retirement Security\nSmall Business and Entrepreneurship\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:33.218656
+URL;CHARSET=UTF-8:https://www.hickenlooper.senate.gov/contact/
+NOTE;CHARSET=UTF-8:US Senator for CO\n\nCommittees he's on:\n- Commerce, Science, and Transportation\n- Energy and Natural Resources\n- Energy\n- Public Lands, Forests, and Mining\n- Water and Power\n- Health, Education, Labor, and Pensions\n- Employment and Workplace Safety\n- Primary Health and Retirement Security\n- Small Business and Entrepreneurship\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:15.426590
 END:VCARD

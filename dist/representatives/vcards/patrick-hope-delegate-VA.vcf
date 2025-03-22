@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Patrick Hope (House)
-N;CHARSET=UTF-8:Hope (House);Patrick;;;
+FN;CHARSET=UTF-8:Patrick Hope (VA House)
+N;CHARSET=UTF-8:Hope (VA House);Patrick;;;
 TEL;TYPE=WORK,VOICE:804-698-1001
-NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:22.734847
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:delphope@house.virginia.gov
+NOTE;CHARSET=UTF-8:Delegate in VA Legislature\, District 1\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:03.683821
 END:VCARD

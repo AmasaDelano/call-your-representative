@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rande Worthen (House)
-N;CHARSET=UTF-8:Worthen (House);Rande;;;
+FN;CHARSET=UTF-8:Rande Worthen (OK House)
+N;CHARSET=UTF-8:Worthen (OK House);Rande;;;
 TEL;TYPE=WORK,VOICE:405-557-7398
-NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:33.204510
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rande.worthen@okhouse.gov
+NOTE;CHARSET=UTF-8:Representative in OK Legislature\, District 64\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:11.927325
 END:VCARD

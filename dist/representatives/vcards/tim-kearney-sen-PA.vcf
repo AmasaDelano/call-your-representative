@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tim Kearney (Senate)
-N;CHARSET=UTF-8:Kearney (Senate);Tim;;;
+FN;CHARSET=UTF-8:Tim Kearney (PA Senate)
+N;CHARSET=UTF-8:Kearney (PA Senate);Tim;;;
 TEL;TYPE=WORK,VOICE:717-787-1350
-NOTE;CHARSET=UTF-8:PA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:44.124855
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senatorkearney@pasenate.com
+NOTE;CHARSET=UTF-8:Senator in PA Legislature\, District 26\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:56:20.931455
 END:VCARD

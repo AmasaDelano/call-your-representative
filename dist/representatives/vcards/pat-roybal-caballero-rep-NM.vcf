@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Pat Roybal Caballero (House)
-N;CHARSET=UTF-8:Roybal Caballero (House);Pat;;;
+FN;CHARSET=UTF-8:Pat Roybal Caballero (NM House)
+N;CHARSET=UTF-8:Roybal Caballero (NM House);Pat;;;
 TEL;TYPE=WORK,VOICE:505-986-4416
-NOTE;CHARSET=UTF-8:NM Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:44.479159
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:pat.roybalcaballero@nmlegis.gov
+NOTE;CHARSET=UTF-8:Representative in NM Legislature\, District 13\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:20.174967
 END:VCARD

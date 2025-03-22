@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Nikki Nice (Senate)
-N;CHARSET=UTF-8:Nice (Senate);Nikki;;;
+FN;CHARSET=UTF-8:Nikki Nice (OK Senate)
+N;CHARSET=UTF-8:Nice (OK Senate);Nikki;;;
 TEL;TYPE=WORK,VOICE:405-521-5531
-NOTE;CHARSET=UTF-8:OK Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:32.997025
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:nikki.nice@oksenate.gov
+NOTE;CHARSET=UTF-8:Senator in OK Legislature\, District 48\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:11.747575
 END:VCARD

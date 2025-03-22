@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jeff Dotseth (House)
-N;CHARSET=UTF-8:Dotseth (House);Jeff;;;
+FN;CHARSET=UTF-8:Jeff Dotseth (MN House)
+N;CHARSET=UTF-8:Dotseth (MN House);Jeff;;;
 TEL;TYPE=WORK,VOICE:651-296-4308
-NOTE;CHARSET=UTF-8:MN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:27.996127
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rep.jeff.dotseth@house.mn.gov
+NOTE;CHARSET=UTF-8:Representative in MN Legislature\, District 11A\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:05.535035
 END:VCARD

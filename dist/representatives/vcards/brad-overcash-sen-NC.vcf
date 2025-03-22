@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brad Overcash (Senate)
-N;CHARSET=UTF-8:Overcash (Senate);Brad;;;
+FN;CHARSET=UTF-8:Brad Overcash (NC Senate)
+N;CHARSET=UTF-8:Overcash (NC Senate);Brad;;;
 TEL;TYPE=WORK,VOICE:919-733-5734
-NOTE;CHARSET=UTF-8:NC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:10.286747
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:brad.overcash@ncleg.gov
+NOTE;CHARSET=UTF-8:Senator in NC Legislature\, District 43\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:48.323699
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Randy Rushing (House)
-N;CHARSET=UTF-8:Rushing (House);Randy;;;
+FN;CHARSET=UTF-8:Randy Rushing (MS House)
+N;CHARSET=UTF-8:Rushing (MS House);Randy;;;
 TEL;TYPE=WORK,VOICE:601-359-3371
-NOTE;CHARSET=UTF-8:MS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:33.568816
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rrushing@house.ms.gov
+NOTE;CHARSET=UTF-8:Representative in MS Legislature\, District 78\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:10.930134
 END:VCARD

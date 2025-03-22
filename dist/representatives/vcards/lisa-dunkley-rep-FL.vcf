@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lisa Dunkley (House)
-N;CHARSET=UTF-8:Dunkley (House);Lisa;;;
+FN;CHARSET=UTF-8:Lisa Dunkley (FL House)
+N;CHARSET=UTF-8:Dunkley (FL House);Lisa;;;
 TEL;TYPE=WORK,VOICE:850-717-5097
-NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:25.639732
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lisa.dunkley@flhouse.gov
+NOTE;CHARSET=UTF-8:Representative in FL Legislature\, District 97\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:08.258556
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Zach Payne (House)
-N;CHARSET=UTF-8:Payne (House);Zach;;;
+FN;CHARSET=UTF-8:Zach Payne (IN House)
+N;CHARSET=UTF-8:Payne (IN House);Zach;;;
 TEL;TYPE=WORK,VOICE:317-234-9028
-NOTE;CHARSET=UTF-8:IN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:34.177198
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:h66@iga.in.gov
+NOTE;CHARSET=UTF-8:Representative in IN Legislature\, District 66\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:16.659560
 END:VCARD

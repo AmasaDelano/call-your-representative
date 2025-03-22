@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Aundré Bumgardner (House)
-N;CHARSET=UTF-8:Bumgardner (House);Aundré;;;
+FN;CHARSET=UTF-8:Aundré Bumgardner (CT House)
+N;CHARSET=UTF-8:Bumgardner (CT House);Aundré;;;
 TEL;TYPE=WORK,VOICE:860-240-8585
-NOTE;CHARSET=UTF-8:CT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:18:36.445228
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:aundre.bumgardner@cga.ct.gov
+NOTE;CHARSET=UTF-8:Representative in CT Legislature\, District 41\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:49:18.258997
 END:VCARD

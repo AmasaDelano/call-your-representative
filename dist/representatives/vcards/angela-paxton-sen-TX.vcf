@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Angela Paxton (Senate)
-N;CHARSET=UTF-8:Paxton (Senate);Angela;;;
+FN;CHARSET=UTF-8:Angela Paxton (TX Senate)
+N;CHARSET=UTF-8:Paxton (TX Senate);Angela;;;
 TEL;TYPE=WORK,VOICE:972-908-3424
-NOTE;CHARSET=UTF-8:TX Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:06.736633
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:angela.paxton@senate.texas.gov
+NOTE;CHARSET=UTF-8:Senator in TX Legislature\, District 8\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:11.425360
 END:VCARD

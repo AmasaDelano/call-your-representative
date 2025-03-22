@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Marianne Proctor (House)
-N;CHARSET=UTF-8:Proctor (House);Marianne;;;
+FN;CHARSET=UTF-8:Marianne Proctor (KY House)
+N;CHARSET=UTF-8:Proctor (KY House);Marianne;;;
 TEL;TYPE=WORK,VOICE:502-564-8100
-NOTE;CHARSET=UTF-8:KY Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:21.011026
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:marianne.proctor@kylegislature.gov
+NOTE;CHARSET=UTF-8:Representative in KY Legislature\, District 60\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:01.668972
 END:VCARD

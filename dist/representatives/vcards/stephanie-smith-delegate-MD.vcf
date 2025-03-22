@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Stephanie Smith (House)
-N;CHARSET=UTF-8:Smith (House);Stephanie;;;
+FN;CHARSET=UTF-8:Stephanie Smith (MD House)
+N;CHARSET=UTF-8:Smith (MD House);Stephanie;;;
 TEL;TYPE=WORK,VOICE:410-841-3486
-NOTE;CHARSET=UTF-8:MD Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:03.596201
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:stephanie.smith@house.state.md.us
+NOTE;CHARSET=UTF-8:Delegate in MD Legislature\, District 45\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:41.828657
 END:VCARD

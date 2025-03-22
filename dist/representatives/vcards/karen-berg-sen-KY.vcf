@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Karen Berg (Senate)
-N;CHARSET=UTF-8:Berg (Senate);Karen;;;
+FN;CHARSET=UTF-8:Karen Berg (KY Senate)
+N;CHARSET=UTF-8:Berg (KY Senate);Karen;;;
 TEL;TYPE=WORK,VOICE:502-564-8100
-NOTE;CHARSET=UTF-8:KY Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:19.676920
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:karen.berg@kylegislature.gov
+NOTE;CHARSET=UTF-8:Senator in KY Legislature\, District 26\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:00.355844
 END:VCARD

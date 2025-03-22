@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Graciela Guzmán (Senate)
-N;CHARSET=UTF-8:Guzmán (Senate);Graciela;;;
+FN;CHARSET=UTF-8:Graciela Guzmán (IL Senate)
+N;CHARSET=UTF-8:Guzmán (IL Senate);Graciela;;;
 TEL;TYPE=WORK,VOICE:217-782-8191
-NOTE;CHARSET=UTF-8:IL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:57.027647
+URL;CHARSET=UTF-8:https://www.ilga.gov/senate/Senator.asp?GA=104&MemberID=3442
+NOTE;CHARSET=UTF-8:Senator in IL Legislature\, District 20\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:38.635128
 END:VCARD

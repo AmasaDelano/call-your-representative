@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jason Anavitarte (Senate)
-N;CHARSET=UTF-8:Anavitarte (Senate);Jason;;;
+FN;CHARSET=UTF-8:Jason Anavitarte (GA Senate)
+N;CHARSET=UTF-8:Anavitarte (GA Senate);Jason;;;
 TEL;TYPE=WORK,VOICE:404-656-0085
-NOTE;CHARSET=UTF-8:GA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:45.206419
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jason.anavitarte@senate.ga.gov
+NOTE;CHARSET=UTF-8:Senator in GA Legislature\, District 31\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:27.523134
 END:VCARD

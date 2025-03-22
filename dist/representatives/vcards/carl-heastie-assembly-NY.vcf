@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Carl Heastie (Assembly)
-N;CHARSET=UTF-8:Heastie (Assembly);Carl;;;
+FN;CHARSET=UTF-8:Carl Heastie (NY Assembly)
+N;CHARSET=UTF-8:Heastie (NY Assembly);Carl;;;
 TEL;TYPE=WORK,VOICE:518-455-3791
-NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:48.779299
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:speaker@nyassembly.gov
+NOTE;CHARSET=UTF-8:Assembly Member in NY Legislature\, District 83\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:24.909614
 END:VCARD

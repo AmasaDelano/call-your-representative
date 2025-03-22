@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:César Blanco (Senate)
-N;CHARSET=UTF-8:Blanco (Senate);César;;;
+FN;CHARSET=UTF-8:César Blanco (TX Senate)
+N;CHARSET=UTF-8:Blanco (TX Senate);César;;;
 TEL;TYPE=WORK,VOICE:512-463-0129
-NOTE;CHARSET=UTF-8:TX Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:19.932992
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:cesar.blanco@senate.texas.gov
+NOTE;CHARSET=UTF-8:Senator in TX Legislature\, District 29\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:23.402187
 END:VCARD

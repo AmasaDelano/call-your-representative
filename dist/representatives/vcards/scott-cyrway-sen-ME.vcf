@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Scott Cyrway (Senate)
-N;CHARSET=UTF-8:Cyrway (Senate);Scott;;;
+FN;CHARSET=UTF-8:Scott Cyrway (ME Senate)
+N;CHARSET=UTF-8:Cyrway (ME Senate);Scott;;;
 TEL;TYPE=WORK,VOICE:207-287-1505
-NOTE;CHARSET=UTF-8:ME Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:00.419662
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:scott.cyrway@legislature.maine.gov
+NOTE;CHARSET=UTF-8:Senator in ME Legislature\, District 16\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:38.892298
 END:VCARD

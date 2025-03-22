@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tony Kayser (House)
-N;CHARSET=UTF-8:Kayser (House);Tony;;;
+FN;CHARSET=UTF-8:Tony Kayser (SD House)
+N;CHARSET=UTF-8:Kayser (SD House);Tony;;;
 TEL;TYPE=WORK,VOICE:605-773-3851
-NOTE;CHARSET=UTF-8:SD Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:02.243521
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tony.kayser@sdlegislature.gov
+NOTE;CHARSET=UTF-8:Representative in SD Legislature\, District 14\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:06.777162
 END:VCARD

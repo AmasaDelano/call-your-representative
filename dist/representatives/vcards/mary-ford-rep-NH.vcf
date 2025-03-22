@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mary Ford (House)
-N;CHARSET=UTF-8:Ford (House);Mary;;;
+FN;CHARSET=UTF-8:Mary Ford (NH House)
+N;CHARSET=UTF-8:Ford (NH House);Mary;;;
 TEL;TYPE=WORK,VOICE:603-722-5775
-NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:23:08.087649
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mary.ford@gc.nh.gov
+NOTE;CHARSET=UTF-8:Representative in NH Legislature\, District Rockingham 3\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:44.993435
 END:VCARD

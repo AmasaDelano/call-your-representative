@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Dalya Attar (Senate)
-N;CHARSET=UTF-8:Attar (Senate);Dalya;;;
+FN;CHARSET=UTF-8:Dalya Attar (MD Senate)
+N;CHARSET=UTF-8:Attar (MD Senate);Dalya;;;
 TEL;TYPE=WORK,VOICE:410-841-3697
-NOTE;CHARSET=UTF-8:MD Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:01.976589
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:dalya.attar@senate.state.md.us
+NOTE;CHARSET=UTF-8:Senator in MD Legislature\, District 41\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:40.429568
 END:VCARD

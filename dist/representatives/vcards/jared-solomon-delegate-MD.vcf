@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jared Solomon (House)
-N;CHARSET=UTF-8:Solomon (House);Jared;;;
+FN;CHARSET=UTF-8:Jared Solomon (MD House)
+N;CHARSET=UTF-8:Solomon (MD House);Jared;;;
 TEL;TYPE=WORK,VOICE:410-841-3130
-NOTE;CHARSET=UTF-8:MD Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:02.386359
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jared.solomon@house.state.md.us
+NOTE;CHARSET=UTF-8:Delegate in MD Legislature\, District 18\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:40.719996
 END:VCARD

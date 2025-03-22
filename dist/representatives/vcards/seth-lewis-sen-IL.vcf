@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Seth Lewis (Senate)
-N;CHARSET=UTF-8:Lewis (Senate);Seth;;;
+FN;CHARSET=UTF-8:Seth Lewis (IL Senate)
+N;CHARSET=UTF-8:Lewis (IL Senate);Seth;;;
 TEL;TYPE=WORK,VOICE:217-782-9463
-NOTE;CHARSET=UTF-8:IL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:58.080008
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lewis@ilsenategop.org
+NOTE;CHARSET=UTF-8:Senator in IL Legislature\, District 24\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:39.722291
 END:VCARD

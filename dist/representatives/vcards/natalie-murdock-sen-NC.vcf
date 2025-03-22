@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Natalie Murdock (Senate)
-N;CHARSET=UTF-8:Murdock (Senate);Natalie;;;
+FN;CHARSET=UTF-8:Natalie Murdock (NC Senate)
+N;CHARSET=UTF-8:Murdock (NC Senate);Natalie;;;
 TEL;TYPE=WORK,VOICE:919-733-4599
-NOTE;CHARSET=UTF-8:NC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:12.375073
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:natalie.murdock@ncleg.gov
+NOTE;CHARSET=UTF-8:Senator in NC Legislature\, District 20\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:50.967254
 END:VCARD

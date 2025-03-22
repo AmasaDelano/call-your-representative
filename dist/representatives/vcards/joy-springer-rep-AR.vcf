@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Joy Springer (House)
-N;CHARSET=UTF-8:Springer (House);Joy;;;
+FN;CHARSET=UTF-8:Joy Springer (AR House)
+N;CHARSET=UTF-8:Springer (AR House);Joy;;;
 TEL;TYPE=WORK,VOICE:501-682-6211
-NOTE;CHARSET=UTF-8:AR Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:27.229403
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:joy.springer@arkansashouse.org
+NOTE;CHARSET=UTF-8:Representative in AR Legislature\, District 76\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:19.444415
 END:VCARD

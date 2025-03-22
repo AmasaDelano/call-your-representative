@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jonathan Fritz (House)
-N;CHARSET=UTF-8:Fritz (House);Jonathan;;;
+FN;CHARSET=UTF-8:Jonathan Fritz (PA House)
+N;CHARSET=UTF-8:Fritz (PA House);Jonathan;;;
 TEL;TYPE=WORK,VOICE:717-783-2910
-NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:25:11.474464
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jfritz@pahousegop.com
+NOTE;CHARSET=UTF-8:Representative in PA Legislature\, District 111\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:49.948918
 END:VCARD

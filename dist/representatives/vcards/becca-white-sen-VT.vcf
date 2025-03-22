@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Becca White (Senate)
-N;CHARSET=UTF-8:White (Senate);Becca;;;
+FN;CHARSET=UTF-8:Becca White (VT Senate)
+N;CHARSET=UTF-8:White (VT Senate);Becca;;;
 TEL;TYPE=WORK,VOICE:802-828-2228
-NOTE;CHARSET=UTF-8:VT Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:16.156166
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rwhite@leg.state.vt.us
+NOTE;CHARSET=UTF-8:Senator in VT Legislature\, District Windsor\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:05:09.087558
 END:VCARD

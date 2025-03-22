@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tracey Mann (House)
-N;CHARSET=UTF-8:Mann (House);Tracey;;;
+FN;CHARSET=UTF-8:Tracey Mann (KS House)
+N;CHARSET=UTF-8:Mann (KS House);Tracey;;;
 TEL;TYPE=WORK,VOICE:202-225-2715
-NOTE;CHARSET=UTF-8:US Representative\, KS\n\nCommittees:\nAgriculture\nNutrition and Foreign Agriculture\nCommodity Markets, Digital Assets, and Rural Development\nLivestock, Dairy, and Poultry\nTransportation and Infrastructure\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:33.631794
+URL;CHARSET=UTF-8:https://mann.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from KS\, District 1\n\nCommittees he's on:\n- Agriculture\n- Nutrition and Foreign Agriculture\n- Commodity Markets, Digital Assets, and Rural Development\n- Livestock, Dairy, and Poultry\n- Transportation and Infrastructure\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:15.945312
 END:VCARD

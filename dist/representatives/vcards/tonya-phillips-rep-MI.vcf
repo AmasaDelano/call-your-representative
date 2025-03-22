@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tonya Phillips (House)
-N;CHARSET=UTF-8:Phillips (House);Tonya;;;
+FN;CHARSET=UTF-8:Tonya Phillips (MI House)
+N;CHARSET=UTF-8:Phillips (MI House);Tonya;;;
 TEL;TYPE=WORK,VOICE:517-373-2276
-NOTE;CHARSET=UTF-8:MI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:24.984578
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tonyamyersphillips@house.mi.gov
+NOTE;CHARSET=UTF-8:Representative in MI Legislature\, District 7\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:01.711431
 END:VCARD

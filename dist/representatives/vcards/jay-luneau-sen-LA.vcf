@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jay Luneau (Senate)
-N;CHARSET=UTF-8:Luneau (Senate);Jay;;;
+FN;CHARSET=UTF-8:Jay Luneau (LA Senate)
+N;CHARSET=UTF-8:Luneau (LA Senate);Jay;;;
 TEL;TYPE=WORK,VOICE:318-484-2288
-NOTE;CHARSET=UTF-8:LA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:55.668558
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:luneauj@legis.la.gov
+NOTE;CHARSET=UTF-8:Senator in LA Legislature\, District 29\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:35.054996
 END:VCARD

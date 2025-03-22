@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kimberly-Ann Collins (House)
-N;CHARSET=UTF-8:Collins (House);Kimberly-Ann;;;
+FN;CHARSET=UTF-8:Kimberly-Ann Collins (MO House)
+N;CHARSET=UTF-8:Collins (MO House);Kimberly-Ann;;;
 TEL;TYPE=WORK,VOICE:573-751-1400
-NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:35.948154
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:kimberlyann.collins@house.mo.gov
+NOTE;CHARSET=UTF-8:Representative in MO Legislature\, District 77\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:13.088316
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rudy Yakym (House)
-N;CHARSET=UTF-8:Yakym (House);Rudy;;;
+FN;CHARSET=UTF-8:Rudy Yakym (IN House)
+N;CHARSET=UTF-8:Yakym (IN House);Rudy;;;
 TEL;TYPE=WORK,VOICE:202-225-3915
-NOTE;CHARSET=UTF-8:US Representative\, IN\n\nCommittees:\nWays and Means\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:34.501753
+URL;CHARSET=UTF-8:https://yakym.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from IN\, District 2\n\nCommittees he's on:\n- Ways and Means\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:16.770949
 END:VCARD

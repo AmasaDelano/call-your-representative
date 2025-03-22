@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brian Fernandez (Senate)
-N;CHARSET=UTF-8:Fernandez (Senate);Brian;;;
+FN;CHARSET=UTF-8:Brian Fernandez (AZ Senate)
+N;CHARSET=UTF-8:Fernandez (AZ Senate);Brian;;;
 TEL;TYPE=WORK,VOICE:602-926-3098
-NOTE;CHARSET=UTF-8:AZ Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:22.585166
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bfernandez@azleg.gov
+NOTE;CHARSET=UTF-8:Senator in AZ Legislature\, District 23\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:15.603622
 END:VCARD

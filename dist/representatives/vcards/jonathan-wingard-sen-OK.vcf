@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jonathan Wingard (Senate)
-N;CHARSET=UTF-8:Wingard (Senate);Jonathan;;;
+FN;CHARSET=UTF-8:Jonathan Wingard (OK Senate)
+N;CHARSET=UTF-8:Wingard (OK Senate);Jonathan;;;
 TEL;TYPE=WORK,VOICE:405-521-5541
-NOTE;CHARSET=UTF-8:OK Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:28.096470
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jonathan.wingard@oksenate.gov
+NOTE;CHARSET=UTF-8:Senator in OK Legislature\, District 13\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:55:07.159361
 END:VCARD

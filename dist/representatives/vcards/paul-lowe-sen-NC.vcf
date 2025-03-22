@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Paul Lowe (Senate)
-N;CHARSET=UTF-8:Lowe (Senate);Paul;;;
+FN;CHARSET=UTF-8:Paul Lowe (NC Senate)
+N;CHARSET=UTF-8:Lowe (NC Senate);Paul;;;
 TEL;TYPE=WORK,VOICE:919-733-5620
-NOTE;CHARSET=UTF-8:NC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:12.422586
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:paul.lowe@ncleg.gov
+NOTE;CHARSET=UTF-8:Senator in NC Legislature\, District 32\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:51.017233
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Amos O'Neal (House)
-N;CHARSET=UTF-8:O'Neal (House);Amos;;;
+FN;CHARSET=UTF-8:Amos O'Neal (MI House)
+N;CHARSET=UTF-8:O'Neal (MI House);Amos;;;
 TEL;TYPE=WORK,VOICE:517-373-0837
-NOTE;CHARSET=UTF-8:MI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:06.597523
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:amosoneal@house.mi.gov
+NOTE;CHARSET=UTF-8:Representative in MI Legislature\, District 94\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:44.623397
 END:VCARD

@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rebecca Saldaña (Senate)
-N;CHARSET=UTF-8:Saldaña (Senate);Rebecca;;;
+FN;CHARSET=UTF-8:Rebecca Saldaña (WA Senate)
+N;CHARSET=UTF-8:Saldaña (WA Senate);Rebecca;;;
 TEL;TYPE=WORK,VOICE:360-786-7688
-NOTE;CHARSET=UTF-8:WA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:24.928970
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rebecca.saldana@leg.wa.gov
+NOTE;CHARSET=UTF-8:Senator in WA Legislature\, District 37\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:06.114714
 END:VCARD

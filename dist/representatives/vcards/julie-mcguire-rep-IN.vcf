@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Julie McGuire (House)
-N;CHARSET=UTF-8:McGuire (House);Julie;;;
+FN;CHARSET=UTF-8:Julie McGuire (IN House)
+N;CHARSET=UTF-8:McGuire (IN House);Julie;;;
 TEL;TYPE=WORK,VOICE:317-232-9619
-NOTE;CHARSET=UTF-8:IN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:20:14.422508
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:h93@iga.in.gov
+NOTE;CHARSET=UTF-8:Representative in IN Legislature\, District 93\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:55.952233
 END:VCARD

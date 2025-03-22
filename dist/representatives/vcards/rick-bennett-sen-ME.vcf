@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rick Bennett (Senate)
-N;CHARSET=UTF-8:Bennett (Senate);Rick;;;
+FN;CHARSET=UTF-8:Rick Bennett (ME Senate)
+N;CHARSET=UTF-8:Bennett (ME Senate);Rick;;;
 TEL;TYPE=WORK,VOICE:207-287-1505
-NOTE;CHARSET=UTF-8:ME Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:58.838775
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:richard.bennett@legislature.maine.gov
+NOTE;CHARSET=UTF-8:Senator in ME Legislature\, District 18\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:37.928840
 END:VCARD

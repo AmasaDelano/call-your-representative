@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Emily Callaway (House)
-N;CHARSET=UTF-8:Callaway (House);Emily;;;
+FN;CHARSET=UTF-8:Emily Callaway (KY House)
+N;CHARSET=UTF-8:Callaway (KY House);Emily;;;
 TEL;TYPE=WORK,VOICE:502-564-8100
-NOTE;CHARSET=UTF-8:KY Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:21:16.777053
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:emily.callaway@kylegislature.gov
+NOTE;CHARSET=UTF-8:Representative in KY Legislature\, District 37\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:51:57.309531
 END:VCARD

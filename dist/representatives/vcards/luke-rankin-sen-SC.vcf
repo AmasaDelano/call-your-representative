@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Luke Rankin (Senate)
-N;CHARSET=UTF-8:Rankin (Senate);Luke;;;
+FN;CHARSET=UTF-8:Luke Rankin (SC Senate)
+N;CHARSET=UTF-8:Rankin (SC Senate);Luke;;;
 TEL;TYPE=WORK,VOICE:803-212-6610
-NOTE;CHARSET=UTF-8:SC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:26:24.108420
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lukerankin@scsenate.gov
+NOTE;CHARSET=UTF-8:Senator in SC Legislature\, District 33\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:00.098123
 END:VCARD

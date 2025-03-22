@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Schofield (House)
-N;CHARSET=UTF-8:Schofield (House);Mike;;;
+FN;CHARSET=UTF-8:Mike Schofield (TX House)
+N;CHARSET=UTF-8:Schofield (TX House);Mike;;;
 TEL;TYPE=WORK,VOICE:281-492-0684
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:43.094113
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mike.schofield@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 132\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:44.475269
 END:VCARD

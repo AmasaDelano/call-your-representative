@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Valerie Moore (House)
-N;CHARSET=UTF-8:Moore (House);Valerie;;;
+FN;CHARSET=UTF-8:Valerie Moore (MT House)
+N;CHARSET=UTF-8:Moore (MT House);Valerie;;;
 TEL;TYPE=WORK,VOICE:406-385-7983
-NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:38.585981
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:valerie.moore@legmt.gov
+NOTE;CHARSET=UTF-8:Representative in MT Legislature\, District 29\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:15.519479
 END:VCARD

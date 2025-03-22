@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Marty Harbin (Senate)
-N;CHARSET=UTF-8:Harbin (Senate);Marty;;;
+FN;CHARSET=UTF-8:Marty Harbin (GA Senate)
+N;CHARSET=UTF-8:Harbin (GA Senate);Marty;;;
 TEL;TYPE=WORK,VOICE:404-656-0078
-NOTE;CHARSET=UTF-8:GA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:45.887812
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:marty.harbin@senate.ga.gov
+NOTE;CHARSET=UTF-8:Senator in GA Legislature\, District 16\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:28.096313
 END:VCARD

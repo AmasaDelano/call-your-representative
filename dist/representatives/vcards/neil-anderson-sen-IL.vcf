@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Neil Anderson (Senate)
-N;CHARSET=UTF-8:Anderson (Senate);Neil;;;
+FN;CHARSET=UTF-8:Neil Anderson (IL Senate)
+N;CHARSET=UTF-8:Anderson (IL Senate);Neil;;;
 TEL;TYPE=WORK,VOICE:217-782-5957
-NOTE;CHARSET=UTF-8:IL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:19:57.817451
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:senatorneilanderson@gmail.com
+NOTE;CHARSET=UTF-8:Senator in IL Legislature\, District 47\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:50:39.422475
 END:VCARD

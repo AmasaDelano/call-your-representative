@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Kennedy (House)
-N;CHARSET=UTF-8:Kennedy (House);Mike;;;
+FN;CHARSET=UTF-8:Mike Kennedy (UT House)
+N;CHARSET=UTF-8:Kennedy (UT House);Mike;;;
 TEL;TYPE=WORK,VOICE:202-225-7751
-NOTE;CHARSET=UTF-8:US Representative\, UT\n\nCommittees:\nNatural Resources\nFederal Lands\nIndian and Insular Affairs\nTransportation and Infrastructure\nScience, Space, and Technology\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:28:45.272307
+URL;CHARSET=UTF-8:https://mikekennedy.house.gov
+NOTE;CHARSET=UTF-8:US Congress, Representative from UT\, District 3\n\nCommittees he's on:\n- Natural Resources\n- Federal Lands\n- Indian and Insular Affairs\n- Transportation and Infrastructure\n- Science, Space, and Technology\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T15:09:26.930680
 END:VCARD

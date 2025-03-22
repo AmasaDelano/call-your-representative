@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Pat Jehlen (Senate)
-N;CHARSET=UTF-8:Jehlen (Senate);Pat;;;
+FN;CHARSET=UTF-8:Pat Jehlen (MA Senate)
+N;CHARSET=UTF-8:Jehlen (MA Senate);Pat;;;
 TEL;TYPE=WORK,VOICE:617-722-1578
-NOTE;CHARSET=UTF-8:MA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:06.048410
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:patricia.jehlen@masenate.gov
+NOTE;CHARSET=UTF-8:Senator in MA Legislature\, District Second Middlesex\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:52:44.108112
 END:VCARD

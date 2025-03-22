@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:John McQueeney (House)
-N;CHARSET=UTF-8:McQueeney (House);John;;;
+FN;CHARSET=UTF-8:John McQueeney (TX House)
+N;CHARSET=UTF-8:McQueeney (TX House);John;;;
 TEL;TYPE=WORK,VOICE:512-463-0608
-NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:36.124692
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:john.mcqueeney@house.texas.gov
+NOTE;CHARSET=UTF-8:Representative in TX Legislature\, District 97\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:38.168765
 END:VCARD

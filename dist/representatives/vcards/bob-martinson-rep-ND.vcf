@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bob Martinson (House)
-N;CHARSET=UTF-8:Martinson (House);Bob;;;
+FN;CHARSET=UTF-8:Bob Martinson (ND House)
+N;CHARSET=UTF-8:Martinson (ND House);Bob;;;
 TEL;TYPE=WORK,VOICE:701-328-3373
-NOTE;CHARSET=UTF-8:ND Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:24:13.219847
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bmartinson@ndlegis.gov
+NOTE;CHARSET=UTF-8:Representative in ND Legislature\, District 35\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:54:51.916946
 END:VCARD

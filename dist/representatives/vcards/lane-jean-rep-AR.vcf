@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lane Jean (House)
-N;CHARSET=UTF-8:Jean (House);Lane;;;
+FN;CHARSET=UTF-8:Lane Jean (AR House)
+N;CHARSET=UTF-8:Jean (AR House);Lane;;;
 TEL;TYPE=WORK,VOICE:501-682-6211
-NOTE;CHARSET=UTF-8:AR Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:17:27.331655
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:l_jean@sbcglobal.net
+NOTE;CHARSET=UTF-8:Representative in AR Legislature\, District 99\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:48:19.559951
 END:VCARD

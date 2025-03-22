@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Karla May (Senate)
-N;CHARSET=UTF-8:May (Senate);Karla;;;
+FN;CHARSET=UTF-8:Karla May (MO Senate)
+N;CHARSET=UTF-8:May (MO Senate);Karla;;;
 TEL;TYPE=WORK,VOICE:573-751-3599
-NOTE;CHARSET=UTF-8:MO Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:22:35.766198
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:karla.may@senate.mo.gov
+NOTE;CHARSET=UTF-8:Senator in MO Legislature\, District 4\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:53:13.000364
 END:VCARD

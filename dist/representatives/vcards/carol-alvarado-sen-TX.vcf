@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Carol Alvarado (Senate)
-N;CHARSET=UTF-8:Alvarado (Senate);Carol;;;
+FN;CHARSET=UTF-8:Carol Alvarado (TX Senate)
+N;CHARSET=UTF-8:Alvarado (TX Senate);Carol;;;
 TEL;TYPE=WORK,VOICE:713-926-6257
-NOTE;CHARSET=UTF-8:TX Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
-REV:2025-03-22T12:27:14.096344
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:carol.alvarado@senate.texas.gov
+NOTE;CHARSET=UTF-8:Senator in TX Legislature\, District 6\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
+REV:2025-03-22T14:57:18.009864
 END:VCARD
