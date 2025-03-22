@@ -38,9 +38,9 @@
             <label for="address">To start, enter your street address (US only):</label>
             <input name="address" id="address" type="text" v-model="address" v-on:keydown.enter="searchWithAddress" />
             <button type="button" v-bind:class="{ 'outline': addressTooShort }" v-on:click="searchWithAddress"><i class="fa fa-search"></i> FIND REPRESENTATIVES</button>
-            <article v-cloak v-if="addressInvalid || addressAccuracy < 1">
-                <p class="error">Please enter your full address!</p>
-                <p v-if="addressAccuracy < 1">Otherwise I can't accurately find your representatives.</p>
+            <article class="error" v-cloak v-if="addressInvalid || addressAccuracy < 1">
+                <span >Please enter your full address! </span>
+                <span v-if="addressAccuracy < 1">Otherwise I can't accurately find your representatives.</span>
                 <!-- <p v-if="addressAccuracy < 1"><a href="/by-state">Lookup representatives by state instead</a></p> -->
             </article>
         </div>

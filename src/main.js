@@ -55,10 +55,16 @@ var repLookup = require("./data/rep_lookup");
 
                 var response = await lookupRepresentatives(this.address);
 
-                this.address = response.input.formatted_address;
-
+                if (response.error) {
+                    this.addressInvalid = true;
+                    this.addressAccuracy = 0;
+                    return;
+                }
+                
                 var repsFromApi = response.results[0];
 
+                this.address = repsFromApi.formatted_address;
+                
                 this.state = repsFromApi.address_components.state;
                 this.congressionalDistrict = repsFromApi.fields.congressional_districts[0].district_number.toString();
                 function mapStateLegislativeDistrict(district) {
