@@ -38,7 +38,7 @@
             <label for="address">To start, enter your street address (US only):</label>
             <input name="address" id="address" type="text" v-model="address" v-on:keydown.enter="searchWithAddress" />
             <button type="button" v-bind:class="{ 'outline': addressTooShort }" v-on:click="searchWithAddress"><i class="fa fa-search"></i> FIND REPRESENTATIVES</button>
-            <article v-if="addressInvalid || addressAccuracy < 1">
+            <article v-cloak v-if="addressInvalid || addressAccuracy < 1">
                 <p class="error">Please enter your full address!</p>
                 <p v-if="addressAccuracy < 1">Otherwise I can't accurately find your representatives.</p>
                 <!-- <p v-if="addressAccuracy < 1"><a href="/by-state">Lookup representatives by state instead</a></p> -->
@@ -56,7 +56,7 @@
                 <button type="button" class="secondary" v-on:click="loadReps(state, congressionalDistrict, stateDistricts)">GO AHEAD AND GUESS <i class="fa fa-arrow-right"></i></button>
             </div>
         </div> -->
-        <div v-if="hasSearched">
+        <div v-cloak v-if="hasSearched">
             <article v-if="address">
                 <small><em>For address: <strong>{{ address }}</strong></em> <span v-if="addressAccuracy < 1">(Could be inaccurate)</span></small>
             </article>
