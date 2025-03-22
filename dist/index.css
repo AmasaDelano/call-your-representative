@@ -1,0 +1,68 @@
+section {
+    display: grid;
+    margin-bottom: 0;
+}
+
+.rep-title > :nth-child(1) {
+    align-self: end;
+}
+
+.rep-title > :nth-child(2) {
+    align-self: start;
+    margin-bottom: 0;
+}
+
+.rep-button,
+.rep-button > i {
+    align-self: center;
+    font-size: 1.25rem;
+}
+
+section > a[role=button] > i {
+    padding-top: 0.5em;
+}
+
+.fa-address-card {
+    padding-left: 10px;
+}
+
+.contact-photo {
+    height: 250px;
+    font-size: 8em;
+    text-align: center;
+    border: 0;
+    margin: 0 auto;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.container.wide {
+    max-width: 800px;
+}
+
+header a {
+    font-size: 0.7em;
+    text-decoration: none;
+    color: gray;
+}
+
+footer p {
+    color: gray;
+}
+
+@media (min-width: 768px) {
+    .only-small {
+        display: none;
+        overflow: hidden;
+    }
+}
+
+@media (max-width: 767px) {
+    .only-big {
+        display: none;
+        overflow: hidden;
+    }
+}

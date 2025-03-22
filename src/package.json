@@ -1,0 +1,37 @@
+{
+    "name": "call_your_representative",
+    "version": "1.0.0",
+    "description": "Can be found at https://callyourrepresentative.us",
+    "main": "main.js",
+    "scripts": {
+        "start": "webpack --config ./webpack.config.js --watch --mode development",
+        "build": "webpack --config ./webpack.config.js --mode production",
+        "lint-js": "jslint --edition=latest \"src/main.js\"",
+        "lint-html": "html-validate dist/index.html"
+    },
+    "comments": [
+        "JSLint CLI documentation here: https://www.npmjs.com/package/jslint#user-content-usage-examples, Pattern Matching documentation here: https://www.gnu.org/software/bash/manual/html_node/Pattern-Matching.html#Pattern-Matching",
+        "HTML-validate documentation here: https://gitlab.com/html-validate/html-validate/-/tree/master/docs/rules"
+    ],
+    "keywords": [],
+    "author": {
+        "name": "Alex Leone",
+        "email": "me@alexjleone.com",
+        "url": "https://callyourrepresentative.us"
+    },
+    "license": "MIT",
+    "homepage": "https://callyourrepresentative.us",
+    "dependencies": {
+        "vue": "^3.3.13",
+        "webpack": "^5.89.0",
+        "yaml-import-loader": "^1.3.6"
+    },
+    "devDependencies": {
+        "html-validate": "^8.7.4",
+        "jasmine": "^5.1.0",
+        "jslint": "^0.12.1",
+        "webpack-cli": "^5.1.4",
+        "webpack-dev-server": "^4.15.1",
+        "yaml": "^2.3.4"
+    }
+}

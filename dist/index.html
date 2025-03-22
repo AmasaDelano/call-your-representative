@@ -1,0 +1,105 @@
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Call Your Representative - easy and low-pressure</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description"
+        content="Add your US representatives to your phone as contacts. Call them casually whenever you like.">
+        
+    <link
+        rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+    >
+
+    <link
+        rel="stylesheet"
+        href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    >
+    
+    <link
+        rel="stylesheet"
+        href="/index.css"
+    >
+</head>
+
+<body id="app">
+    <header class="container">
+        <h1 v-if="hasSearched"><a href="./">Home</a></h1>
+    </header>
+
+    <main class="container" v-bind:class="{ 'wide': hasSearched }">
+        <div v-if="!hasSearched">
+            <h2>Get your representatives' deets.</h2>
+            <h3>Add them to your contact list.</h3>
+            <h4>Call them when you have something to say.</h4>
+            <!-- <h3>Let them know what you want.</h3> -->
+            <label for="address">To start, enter your street address (US only):</label>
+            <input name="address" id="address" type="text" v-model="address" v-on:keydown.enter="searchWithAddress" />
+            <button type="button" v-bind:class="{ 'outline': addressTooShort }" v-on:click="searchWithAddress"><i class="fa fa-search"></i> FIND REPRESENTATIVES</button>
+            <article v-if="addressInvalid || addressAccuracy < 1">
+                <p class="error">Please enter your full address!</p>
+                <p v-if="addressAccuracy < 1">Otherwise I can't accurately find your representatives.</p>
+                <!-- <p v-if="addressAccuracy < 1"><a href="/by-state">Lookup representatives by state instead</a></p> -->
+            </article>
+        </div>
+        <!-- <div v-if="!hasSearched && accuracyScore > 0">
+            <h3>Just so you know...</h3>
+            <h2>{{ address }}</h2>
+            <h3 v-if="accuracyScore === 1">... is kind of a big area.</h3>
+            <h3 v-if="accuracyScore > 1">... is a really big area.</h3>
+            <h3>We'll have to guess who your representatives are.</h3>
+            <h3>Your full address is most accurate!</h3>
+            <div class="grid">
+                <a role="button" class="primary" v-on:click="addressInaccurate = false">ENTER FULL ADDRESS <i class="fa fa-arrow-left"></i></a>
+                <button type="button" class="secondary" v-on:click="loadReps(state, congressionalDistrict, stateDistricts)">GO AHEAD AND GUESS <i class="fa fa-arrow-right"></i></button>
+            </div>
+        </div> -->
+        <div v-if="hasSearched">
+            <article v-if="address">
+                <small><em>For address: <strong>{{ address }}</strong></em> <span v-if="addressAccuracy < 1">(Could be inaccurate)</span></small>
+            </article>
+            <p>
+                <small>Copy and share <a v-bind:href="currentUrl">this URL</a> with others in your household. Share <a href="./">this page</a> with everyone else.</small>
+            </p>
+            <p>
+                <small></small>
+            </p>
+            <article class="grid" v-for="rep in reps">
+                <section class="rep-pic grid">
+                    <img
+                        v-if="rep.img_found"
+                        class="contact-photo"
+                        v-bind:src="file('pics', rep.id, 'jpg')"
+                        alt="👤">
+                    <p v-if="!rep.img_found" class="contact-photo">👤</p>
+                </section>
+                <section class="rep-title">
+                    <h3>{{ title(rep) }} {{ rep.first_name }} {{ rep.last_name }}</h3>
+                    <p>{{ location(rep) }}</p>
+                </section>
+                <section>
+                    <a role="button" class="rep-button" v-bind:href="file('vcards', rep.contact_file, 'vcf')">
+                        <!-- <i class="fa fa-download" aria-hidden="true"></i> -->
+                        Download Contact Card 
+                        <i class="fa fa-address-card" aria-hidden="true"></i>
+                    </a>
+                </section>
+            </div>
+        </div>
+        <hr>
+    </main>
+
+
+    <footer class="container">
+        <p>Copyright © Leone Software 2025</p>
+        <p><a href="https://www.paypal.com/donate/?hosted_button_id=555987ZW7T7WU" target="_blank">Donate</a>, if you want.</p>
+        <!-- <p><a href="/by-state">Lookup representatives by state</a></p> -->
+        <p><a href="/privacy">Privacy</a></p>
+    </footer>
+
+    <script src="/main.js"></script>
+</body>
+
+</html>
