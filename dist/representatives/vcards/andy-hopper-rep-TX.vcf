@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Hopper (House),Andy
-    TEL;TYPE=WORK,VOICE:512-463-0582
-    NOTE:TX Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Andy Hopper (House)
+N;CHARSET=UTF-8:Hopper (House);Andy;;;
+TEL;TYPE=WORK,VOICE:512-463-0582
+NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:27:06.723128
+END:VCARD

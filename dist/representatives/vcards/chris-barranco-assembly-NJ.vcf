@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Barranco (Assembly),Chris
-    TEL;TYPE=WORK,VOICE:973-810-2695
-    NOTE:NJ Assembly Member\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Chris Barranco (Assembly)
+N;CHARSET=UTF-8:Barranco (Assembly);Chris;;;
+TEL;TYPE=WORK,VOICE:973-810-2695
+NOTE;CHARSET=UTF-8:NJ Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:23:17.835637
+END:VCARD

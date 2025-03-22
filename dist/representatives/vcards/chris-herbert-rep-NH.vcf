@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Herbert (House),Chris
-    TEL;TYPE=WORK,VOICE:603-867-4711
-    NOTE:NH Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Chris Herbert (House)
+N;CHARSET=UTF-8:Herbert (House);Chris;;;
+TEL;TYPE=WORK,VOICE:603-867-4711
+NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:40.905787
+END:VCARD

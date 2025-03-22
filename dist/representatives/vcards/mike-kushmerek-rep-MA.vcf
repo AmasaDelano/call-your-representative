@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Kushmerek (House),Mike
-    TEL;TYPE=WORK,VOICE:617-722-2396
-    NOTE:MA Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Mike Kushmerek (House)
+N;CHARSET=UTF-8:Kushmerek (House);Mike;;;
+TEL;TYPE=WORK,VOICE:617-722-2396
+NOTE;CHARSET=UTF-8:MA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:05.876369
+END:VCARD

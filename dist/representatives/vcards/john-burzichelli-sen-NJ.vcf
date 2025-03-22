@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Burzichelli (Senate),John
-    TEL;TYPE=WORK,VOICE:856-226-3530
-    NOTE:NJ Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:John Burzichelli (Senate)
+N;CHARSET=UTF-8:Burzichelli (Senate);John;;;
+TEL;TYPE=WORK,VOICE:856-226-3530
+NOTE;CHARSET=UTF-8:NJ Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:23:25.509047
+END:VCARD

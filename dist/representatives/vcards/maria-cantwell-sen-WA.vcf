@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Cantwell (Senate),Maria
-    TEL;TYPE=WORK,VOICE:202-224-3441
-    NOTE:US Senator, WA\n\nCommittees:\nTaxation (Joint)\nIndian Affairs\nCommerce, Science, and Transportation\nEnergy and Natural Resources\nFinance\nSmall Business and Entrepreneurship\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Maria Cantwell (Senate)
+N;CHARSET=UTF-8:Cantwell (Senate);Maria;;;
+TEL;TYPE=WORK,VOICE:202-224-3441
+NOTE;CHARSET=UTF-8:US Senator\, WA\n\nCommittees:\nTaxation (Joint)\nIndian Affairs\nCommerce, Science, and Transportation\nEnergy and Natural Resources\nFinance\nSmall Business and Entrepreneurship\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:26.491989
+END:VCARD

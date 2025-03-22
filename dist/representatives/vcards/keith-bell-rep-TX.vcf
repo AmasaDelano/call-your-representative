@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Bell (House),Keith
-    TEL;TYPE=WORK,VOICE:903-675-3069
-    NOTE:TX Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Keith Bell (House)
+N;CHARSET=UTF-8:Bell (House);Keith;;;
+TEL;TYPE=WORK,VOICE:903-675-3069
+NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:27:38.116702
+END:VCARD

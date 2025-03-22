@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Luján (Senate),Ben
-    TEL;TYPE=WORK,VOICE:202-224-6621
-    NOTE:US Senator, NM\n\nCommittees:\nUnited States Senate Caucus on International Narcotics Control\nIndian Affairs\nAgriculture, Nutrition, and Forestry\nConservation, Forestry, Natural Resources, and Biotechnology\nRural Development, Energy, and Credit\nFood and Nutrition, Specialty Crops, Organics, and Research\nThe Budget\nCommerce, Science, and Transportation\nFinance\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Ben Luján (Senate)
+N;CHARSET=UTF-8:Luján (Senate);Ben;;;
+TEL;TYPE=WORK,VOICE:202-224-6621
+NOTE;CHARSET=UTF-8:US Senator\, NM\n\nCommittees:\nUnited States Senate Caucus on International Narcotics Control\nIndian Affairs\nAgriculture, Nutrition, and Forestry\nConservation, Forestry, Natural Resources, and Biotechnology\nRural Development, Energy, and Credit\nFood and Nutrition, Specialty Crops, Organics, and Research\nThe Budget\nCommerce, Science, and Transportation\nFinance\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:28.072091
+END:VCARD

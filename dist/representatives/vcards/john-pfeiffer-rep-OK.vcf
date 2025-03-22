@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Pfeiffer (House),John
-    TEL;TYPE=WORK,VOICE:405-557-7332
-    NOTE:OK Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:John Pfeiffer (House)
+N;CHARSET=UTF-8:Pfeiffer (House);John;;;
+TEL;TYPE=WORK,VOICE:405-557-7332
+NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:24:27.684805
+END:VCARD

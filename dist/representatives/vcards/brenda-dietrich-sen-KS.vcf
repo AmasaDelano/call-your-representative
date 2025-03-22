@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Dietrich (Senate),Brenda
-    TEL;TYPE=WORK,VOICE:785-296-7648
-    NOTE:KS Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Brenda Dietrich (Senate)
+N;CHARSET=UTF-8:Dietrich (Senate);Brenda;;;
+TEL;TYPE=WORK,VOICE:785-296-7648
+NOTE;CHARSET=UTF-8:KS Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:20:36.980260
+END:VCARD

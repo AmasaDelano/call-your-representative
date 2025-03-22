@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Carlin (House),Sydney
-    TEL;TYPE=WORK,VOICE:785-296-7657
-    NOTE:KS Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Sydney Carlin (House)
+N;CHARSET=UTF-8:Carlin (House);Sydney;;;
+TEL;TYPE=WORK,VOICE:785-296-7657
+NOTE;CHARSET=UTF-8:KS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:21:12.381082
+END:VCARD

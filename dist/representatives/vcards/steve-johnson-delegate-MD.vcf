@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Johnson (House),Steve
-    TEL;TYPE=WORK,VOICE:410-841-3280
-    NOTE:MD Delegate\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Steve Johnson (House)
+N;CHARSET=UTF-8:Johnson (House);Steve;;;
+TEL;TYPE=WORK,VOICE:410-841-3280
+NOTE;CHARSET=UTF-8:MD Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:03.606223
+END:VCARD

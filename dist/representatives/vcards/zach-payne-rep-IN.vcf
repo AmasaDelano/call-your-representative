@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Payne (House),Zach
-    TEL;TYPE=WORK,VOICE:317-234-9028
-    NOTE:IN Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Zach Payne (House)
+N;CHARSET=UTF-8:Payne (House);Zach;;;
+TEL;TYPE=WORK,VOICE:317-234-9028
+NOTE;CHARSET=UTF-8:IN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:20:34.177198
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Waters (House),Kevin
-    TEL;TYPE=WORK,VOICE:360-786-7994
-    NOTE:WA Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Kevin Waters (House)
+N;CHARSET=UTF-8:Waters (House);Kevin;;;
+TEL;TYPE=WORK,VOICE:360-786-7994
+NOTE;CHARSET=UTF-8:WA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:24.493657
+END:VCARD

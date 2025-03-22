@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Fedorchak (House),Julie
-    TEL;TYPE=WORK,VOICE:202-225-2611
-    NOTE:US Representative, ND\n\nCommittees:\nEnergy and Commerce\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Julie Fedorchak (House)
+N;CHARSET=UTF-8:Fedorchak (House);Julie;;;
+TEL;TYPE=WORK,VOICE:202-225-2611
+NOTE;CHARSET=UTF-8:US Representative\, ND\n\nCommittees:\nEnergy and Commerce\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:43.083476
+END:VCARD

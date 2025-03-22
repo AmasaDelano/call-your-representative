@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Evans (House),Brian
-    TEL;TYPE=WORK,VOICE:501-682-6211
-    NOTE:AR Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Brian Evans (House)
+N;CHARSET=UTF-8:Evans (House);Brian;;;
+TEL;TYPE=WORK,VOICE:501-682-6211
+NOTE;CHARSET=UTF-8:AR Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:17:25.939627
+END:VCARD

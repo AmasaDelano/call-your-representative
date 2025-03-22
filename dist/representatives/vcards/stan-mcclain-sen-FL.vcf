@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:McClain (Senate),Stan
-    TEL;TYPE=WORK,VOICE:850-487-5009
-    NOTE:FL Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Stan McClain (Senate)
+N;CHARSET=UTF-8:McClain (Senate);Stan;;;
+TEL;TYPE=WORK,VOICE:850-487-5009
+NOTE;CHARSET=UTF-8:FL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:19:36.332248
+END:VCARD

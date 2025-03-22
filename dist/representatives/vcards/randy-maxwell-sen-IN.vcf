@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Maxwell (Senate),Randy
-    TEL;TYPE=WORK,VOICE:800-382-9467
-    NOTE:IN Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Randy Maxwell (Senate)
+N;CHARSET=UTF-8:Maxwell (Senate);Randy;;;
+TEL;TYPE=WORK,VOICE:800-382-9467
+NOTE;CHARSET=UTF-8:IN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:20:25.437557
+END:VCARD

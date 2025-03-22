@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Riley (House),Josh
-    TEL;TYPE=WORK,VOICE:202-225-5441
-    NOTE:US Representative, NY\n\nCommittees:\nAgriculture\nForestry and Horticulture\nLivestock, Dairy, and Poultry\nScience, Space, and Technology\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Josh Riley (House)
+N;CHARSET=UTF-8:Riley (House);Josh;;;
+TEL;TYPE=WORK,VOICE:202-225-5441
+NOTE;CHARSET=UTF-8:US Representative\, NY\n\nCommittees:\nAgriculture\nForestry and Horticulture\nLivestock, Dairy, and Poultry\nScience, Space, and Technology\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:43.822073
+END:VCARD

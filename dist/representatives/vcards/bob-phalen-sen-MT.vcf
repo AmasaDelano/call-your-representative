@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Phalen (Senate),Bob
-    TEL;TYPE=WORK,VOICE:406-939-1187
-    NOTE:MT Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Bob Phalen (Senate)
+N;CHARSET=UTF-8:Phalen (Senate);Bob;;;
+TEL;TYPE=WORK,VOICE:406-939-1187
+NOTE;CHARSET=UTF-8:MT Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:37.045680
+END:VCARD

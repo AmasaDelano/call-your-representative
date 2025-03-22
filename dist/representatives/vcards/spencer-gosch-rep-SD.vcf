@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Gosch (House),Spencer
-    TEL;TYPE=WORK,VOICE:605-773-3851
-    NOTE:SD Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Spencer Gosch (House)
+N;CHARSET=UTF-8:Gosch (House);Spencer;;;
+TEL;TYPE=WORK,VOICE:605-773-3851
+NOTE;CHARSET=UTF-8:SD Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:27:00.653002
+END:VCARD

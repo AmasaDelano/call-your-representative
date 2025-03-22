@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Heinrich (Senate),Martin
-    TEL;TYPE=WORK,VOICE:202-224-5521
-    NOTE:US Senator, NM\n\nCommittees:\nJoint Economic Committee (Joint)\nSenate Select Committee on Intelligence\nAppropriations\nEnergy and Natural Resources\nEnergy\nPublic Lands, Forests, and Mining\nNational Parks\nWater and Power\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Martin Heinrich (Senate)
+N;CHARSET=UTF-8:Heinrich (Senate);Martin;;;
+TEL;TYPE=WORK,VOICE:202-224-5521
+NOTE;CHARSET=UTF-8:US Senator\, NM\n\nCommittees:\nJoint Economic Committee (Joint)\nSenate Select Committee on Intelligence\nAppropriations\nEnergy and Natural Resources\nEnergy\nPublic Lands, Forests, and Mining\nNational Parks\nWater and Power\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:27.704818
+END:VCARD

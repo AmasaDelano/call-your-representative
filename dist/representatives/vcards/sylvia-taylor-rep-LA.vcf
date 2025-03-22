@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Taylor (House),Sylvia
-    TEL;TYPE=WORK,VOICE:985-618-0166
-    NOTE:LA Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Sylvia Taylor (House)
+N;CHARSET=UTF-8:Taylor (House);Sylvia;;;
+TEL;TYPE=WORK,VOICE:985-618-0166
+NOTE;CHARSET=UTF-8:LA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:21:53.906501
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Liguori (House),Sarah
-    TEL;TYPE=WORK,VOICE:602-926-3264
-    NOTE:AZ Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Sarah Liguori (House)
+N;CHARSET=UTF-8:Liguori (House);Sarah;;;
+TEL;TYPE=WORK,VOICE:602-926-3264
+NOTE;CHARSET=UTF-8:AZ Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:17:25.470604
+END:VCARD

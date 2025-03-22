@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Grall (Senate),Erin
-    TEL;TYPE=WORK,VOICE:850-487-5029
-    NOTE:FL Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Erin Grall (Senate)
+N;CHARSET=UTF-8:Grall (Senate);Erin;;;
+TEL;TYPE=WORK,VOICE:850-487-5029
+NOTE;CHARSET=UTF-8:FL Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:19:08.818255
+END:VCARD

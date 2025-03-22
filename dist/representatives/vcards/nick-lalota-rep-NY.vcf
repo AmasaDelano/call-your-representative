@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:LaLota (House),Nick
-    TEL;TYPE=WORK,VOICE:202-225-3826
-    NOTE:US Representative, NY\n\nCommittees:\nAppropriations\nSmall Business\nContracting and Infrastructure\nEconomic Growth, Tax, and Capital Access\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Nick LaLota (House)
+N;CHARSET=UTF-8:LaLota (House);Nick;;;
+TEL;TYPE=WORK,VOICE:202-225-3826
+NOTE;CHARSET=UTF-8:US Representative\, NY\n\nCommittees:\nAppropriations\nSmall Business\nContracting and Infrastructure\nEconomic Growth, Tax, and Capital Access\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:36.031919
+END:VCARD

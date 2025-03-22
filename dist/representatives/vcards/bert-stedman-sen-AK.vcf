@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Stedman (Senate),Bert
-    TEL;TYPE=WORK,VOICE:907-465-3873
-    NOTE:AK Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Bert Stedman (Senate)
+N;CHARSET=UTF-8:Stedman (Senate);Bert;;;
+TEL;TYPE=WORK,VOICE:907-465-3873
+NOTE;CHARSET=UTF-8:AK Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:17:20.848424
+END:VCARD

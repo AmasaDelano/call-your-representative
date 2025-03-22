@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Carter (House),Wilford
-    TEL;TYPE=WORK,VOICE:337-491-2320
-    NOTE:LA Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Wilford Carter (House)
+N;CHARSET=UTF-8:Carter (House);Wilford;;;
+TEL;TYPE=WORK,VOICE:337-491-2320
+NOTE;CHARSET=UTF-8:LA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:21:56.188489
+END:VCARD

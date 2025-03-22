@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Fox (House),Dru
-    TEL;TYPE=WORK,VOICE:603-352-2332
-    NOTE:NH Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Dru Fox (House)
+N;CHARSET=UTF-8:Fox (House);Dru;;;
+TEL;TYPE=WORK,VOICE:603-352-2332
+NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:23:02.985814
+END:VCARD

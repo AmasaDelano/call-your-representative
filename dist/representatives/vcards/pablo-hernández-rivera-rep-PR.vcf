@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Hernández Rivera (House),Pablo
-    TEL;TYPE=WORK,VOICE:202-225-2615
-    NOTE:US Representative, PR\n\nCommittees:\nHomeland Security\nNatural Resources\nOversight and Investigations\nIndian and Insular Affairs\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Pablo Hernández Rivera (House)
+N;CHARSET=UTF-8:Hernández Rivera (House);Pablo;;;
+TEL;TYPE=WORK,VOICE:202-225-2615
+NOTE;CHARSET=UTF-8:US Representative\, PR\n\nCommittees:\nHomeland Security\nNatural Resources\nOversight and Investigations\nIndian and Insular Affairs\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:44.653120
+END:VCARD

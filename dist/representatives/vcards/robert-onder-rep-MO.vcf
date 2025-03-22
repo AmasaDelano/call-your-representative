@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Onder (House),Robert
-    TEL;TYPE=WORK,VOICE:202-225-2956
-    NOTE:US Representative, MO\n\nCommittees:\nEducation and Workforce\nThe Judiciary\nTransportation and Infrastructure\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Robert Onder (House)
+N;CHARSET=UTF-8:Onder (House);Robert;;;
+TEL;TYPE=WORK,VOICE:202-225-2956
+NOTE;CHARSET=UTF-8:US Representative\, MO\n\nCommittees:\nEducation and Workforce\nThe Judiciary\nTransportation and Infrastructure\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:41.976758
+END:VCARD

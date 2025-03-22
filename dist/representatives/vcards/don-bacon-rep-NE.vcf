@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Bacon (House),Don
-    TEL;TYPE=WORK,VOICE:202-225-4155
-    NOTE:US Representative, NE\n\nCommittees:\nAgriculture\nConservation, Research, and Biotechnology\nLivestock, Dairy, and Poultry\nArmed Services\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Don Bacon (House)
+N;CHARSET=UTF-8:Bacon (House);Don;;;
+TEL;TYPE=WORK,VOICE:202-225-4155
+NOTE;CHARSET=UTF-8:US Representative\, NE\n\nCommittees:\nAgriculture\nConservation, Research, and Biotechnology\nLivestock, Dairy, and Poultry\nArmed Services\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:31.557535
+END:VCARD

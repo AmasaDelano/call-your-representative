@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Boldyga (House),Nick
-    TEL;TYPE=WORK,VOICE:413-274-8084
-    NOTE:MA Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Nick Boldyga (House)
+N;CHARSET=UTF-8:Boldyga (House);Nick;;;
+TEL;TYPE=WORK,VOICE:413-274-8084
+NOTE;CHARSET=UTF-8:MA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:05.986382
+END:VCARD

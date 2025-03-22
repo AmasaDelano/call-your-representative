@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Pintor Marin (Assembly),Eliana
-    TEL;TYPE=WORK,VOICE:973-589-0713
-    NOTE:NJ Assembly Member\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Eliana Pintor Marin (Assembly)
+N;CHARSET=UTF-8:Pintor Marin (Assembly);Eliana;;;
+TEL;TYPE=WORK,VOICE:973-589-0713
+NOTE;CHARSET=UTF-8:NJ Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:23:19.913656
+END:VCARD

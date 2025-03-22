@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Freitas (House),Nick
-    TEL;TYPE=WORK,VOICE:804-698-1062
-    NOTE:VA Delegate\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Nick Freitas (House)
+N;CHARSET=UTF-8:Freitas (House);Nick;;;
+TEL;TYPE=WORK,VOICE:804-698-1062
+NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:22.722191
+END:VCARD

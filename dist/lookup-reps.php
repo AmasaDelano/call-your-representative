@@ -22,7 +22,7 @@ function get_from_url($url) {
     return $result;
 };
 
-$api_key = "{{API_KEY}}";
+$api_key = "d5b7e2732ee62e5533d6372e33be545665d252b";
 $address = urlencode($_GET["address"]);
 
 echo get_from_url("https://api.geocod.io/v1.7/geocode?fields=cd,stateleg&q=" . $address . "&api_key=" . $api_key);

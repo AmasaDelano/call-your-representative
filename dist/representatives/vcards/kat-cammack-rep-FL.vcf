@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Cammack (House),Kat
-    TEL;TYPE=WORK,VOICE:202-225-5744
-    NOTE:US Representative, FL\n\nCommittees:\nAgriculture\nCommodity Markets, Digital Assets, and Rural Development\nEnergy and Commerce\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Kat Cammack (House)
+N;CHARSET=UTF-8:Cammack (House);Kat;;;
+TEL;TYPE=WORK,VOICE:202-225-5744
+NOTE;CHARSET=UTF-8:US Representative\, FL\n\nCommittees:\nAgriculture\nCommodity Markets, Digital Assets, and Rural Development\nEnergy and Commerce\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:33.351844
+END:VCARD

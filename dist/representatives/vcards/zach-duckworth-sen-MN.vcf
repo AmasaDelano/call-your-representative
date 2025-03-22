@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Duckworth (Senate),Zach
-    TEL;TYPE=WORK,VOICE:651-296-7633
-    NOTE:MN Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Zach Duckworth (Senate)
+N;CHARSET=UTF-8:Duckworth (Senate);Zach;;;
+TEL;TYPE=WORK,VOICE:651-296-7633
+NOTE;CHARSET=UTF-8:MN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:29.325903
+END:VCARD

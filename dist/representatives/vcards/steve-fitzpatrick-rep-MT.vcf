@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Fitzpatrick (House),Steve
-    TEL;TYPE=WORK,VOICE:406-750-6764
-    NOTE:MT Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Steve Fitzpatrick (House)
+N;CHARSET=UTF-8:Fitzpatrick (House);Steve;;;
+TEL;TYPE=WORK,VOICE:406-750-6764
+NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:38.430006
+END:VCARD

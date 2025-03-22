@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Gebhard (Senate),Chris
-    TEL;TYPE=WORK,VOICE:717-787-5708
-    NOTE:PA Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Chris Gebhard (Senate)
+N;CHARSET=UTF-8:Gebhard (Senate);Chris;;;
+TEL;TYPE=WORK,VOICE:717-787-5708
+NOTE;CHARSET=UTF-8:PA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:24:48.241391
+END:VCARD

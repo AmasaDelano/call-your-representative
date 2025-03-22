@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Ball (House),Lorie
-    TEL;TYPE=WORK,VOICE:603-770-7319
-    NOTE:NH Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Lorie Ball (House)
+N;CHARSET=UTF-8:Ball (House);Lorie;;;
+TEL;TYPE=WORK,VOICE:603-770-7319
+NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:23:07.867949
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Gallé (House),Jay
-    TEL;TYPE=WORK,VOICE:985-624-4603
-    NOTE:LA Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Jay Gallé (House)
+N;CHARSET=UTF-8:Gallé (House);Jay;;;
+TEL;TYPE=WORK,VOICE:985-624-4603
+NOTE;CHARSET=UTF-8:LA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:21:39.051107
+END:VCARD

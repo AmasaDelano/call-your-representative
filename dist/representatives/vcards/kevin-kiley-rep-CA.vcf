@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Kiley (House),Kevin
-    TEL;TYPE=WORK,VOICE:202-225-2523
-    NOTE:US Representative, CA\n\nCommittees:\nEducation and Workforce\nThe Judiciary\nTransportation and Infrastructure\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Kevin Kiley (House)
+N;CHARSET=UTF-8:Kiley (House);Kevin;;;
+TEL;TYPE=WORK,VOICE:202-225-2523
+NOTE;CHARSET=UTF-8:US Representative\, CA\n\nCommittees:\nEducation and Workforce\nThe Judiciary\nTransportation and Infrastructure\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:34.791776
+END:VCARD

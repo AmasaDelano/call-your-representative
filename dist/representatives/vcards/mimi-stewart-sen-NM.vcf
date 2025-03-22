@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Stewart (Senate),Mimi
-    TEL;TYPE=WORK,VOICE:505-986-4734
-    NOTE:NM Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Mimi Stewart (Senate)
+N;CHARSET=UTF-8:Stewart (Senate);Mimi;;;
+TEL;TYPE=WORK,VOICE:505-986-4734
+NOTE;CHARSET=UTF-8:NM Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:23:43.867147
+END:VCARD

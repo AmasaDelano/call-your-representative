@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Johnson (Senate),Nathan
-    TEL;TYPE=WORK,VOICE:972-701-0349
-    NOTE:TX Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Nathan Johnson (Senate)
+N;CHARSET=UTF-8:Johnson (Senate);Nathan;;;
+TEL;TYPE=WORK,VOICE:972-701-0349
+NOTE;CHARSET=UTF-8:TX Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:27:44.694162
+END:VCARD

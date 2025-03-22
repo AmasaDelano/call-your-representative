@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Perez (House),Mary
-    TEL;TYPE=WORK,VOICE:713-740-8153
-    NOTE:TX Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Mary Perez (House)
+N;CHARSET=UTF-8:Perez (House);Mary;;;
+TEL;TYPE=WORK,VOICE:713-740-8153
+NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:27:41.078072
+END:VCARD

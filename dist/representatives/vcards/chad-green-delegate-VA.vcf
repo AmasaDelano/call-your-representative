@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Green (House),Chad
-    TEL;TYPE=WORK,VOICE:804-698-1069
-    NOTE:VA Delegate\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Chad Green (House)
+N;CHARSET=UTF-8:Green (House);Chad;;;
+TEL;TYPE=WORK,VOICE:804-698-1069
+NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:23.142020
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Snyder (House),John
-    TEL;TYPE=WORK,VOICE:850-717-5086
-    NOTE:FL Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:John Snyder (House)
+N;CHARSET=UTF-8:Snyder (House);John;;;
+TEL;TYPE=WORK,VOICE:850-717-5086
+NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:19:16.786136
+END:VCARD

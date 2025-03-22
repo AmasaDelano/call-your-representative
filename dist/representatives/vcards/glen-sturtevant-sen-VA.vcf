@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Sturtevant (Senate),Glen
-    TEL;TYPE=WORK,VOICE:804-698-7512
-    NOTE:VA Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Glen Sturtevant (Senate)
+N;CHARSET=UTF-8:Sturtevant (Senate);Glen;;;
+TEL;TYPE=WORK,VOICE:804-698-7512
+NOTE;CHARSET=UTF-8:VA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:21.982258
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Burgess (Senate),Renee
-    TEL;TYPE=WORK,VOICE:862-231-6577
-    NOTE:NJ Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Renee Burgess (Senate)
+N;CHARSET=UTF-8:Burgess (Senate);Renee;;;
+TEL;TYPE=WORK,VOICE:862-231-6577
+NOTE;CHARSET=UTF-8:NJ Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:23:33.348263
+END:VCARD

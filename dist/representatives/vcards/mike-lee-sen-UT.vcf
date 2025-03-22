@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Lee (Senate),Mike
-    TEL;TYPE=WORK,VOICE:202-224-5444
-    NOTE:US Senator, UT\n\nCommittees:\nThe Budget\nEnergy and Natural Resources\nEnergy\nPublic Lands, Forests, and Mining\nNational Parks\nWater and Power\nForeign Relations\nThe Judiciary\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Mike Lee (Senate)
+N;CHARSET=UTF-8:Lee (Senate);Mike;;;
+TEL;TYPE=WORK,VOICE:202-224-5444
+NOTE;CHARSET=UTF-8:US Senator\, UT\n\nCommittees:\nThe Budget\nEnergy and Natural Resources\nEnergy\nPublic Lands, Forests, and Mining\nNational Parks\nWater and Power\nForeign Relations\nThe Judiciary\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:28.016826
+END:VCARD

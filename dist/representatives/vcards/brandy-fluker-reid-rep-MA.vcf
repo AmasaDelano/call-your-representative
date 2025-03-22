@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Fluker-Reid (House),Brandy
-    TEL;TYPE=WORK,VOICE:617-722-2430
-    NOTE:MA Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Brandy Fluker-Reid (House)
+N;CHARSET=UTF-8:Fluker-Reid (House);Brandy;;;
+TEL;TYPE=WORK,VOICE:617-722-2430
+NOTE;CHARSET=UTF-8:MA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:03.979454
+END:VCARD

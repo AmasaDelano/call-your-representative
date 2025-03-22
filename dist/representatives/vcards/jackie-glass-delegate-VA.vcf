@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Glass (House),Jackie
-    TEL;TYPE=WORK,VOICE:804-698-1093
-    NOTE:VA Delegate\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Jackie Glass (House)
+N;CHARSET=UTF-8:Glass (House);Jackie;;;
+TEL;TYPE=WORK,VOICE:804-698-1093
+NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:22.112010
+END:VCARD

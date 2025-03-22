@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Caldwell (House),Chad
-    TEL;TYPE=WORK,VOICE:405-557-7317
-    NOTE:OK Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Chad Caldwell (House)
+N;CHARSET=UTF-8:Caldwell (House);Chad;;;
+TEL;TYPE=WORK,VOICE:405-557-7317
+NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:24:21.689831
+END:VCARD

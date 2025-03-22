@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Lujan (House),John
-    TEL;TYPE=WORK,VOICE:210-595-0068
-    NOTE:TX Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:John Lujan (House)
+N;CHARSET=UTF-8:Lujan (House);John;;;
+TEL;TYPE=WORK,VOICE:210-595-0068
+NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:27:35.662170
+END:VCARD

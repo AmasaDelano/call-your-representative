@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Parshall (House),Lucius
-    TEL;TYPE=WORK,VOICE:603-876-3696
-    NOTE:NH Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Lucius Parshall (House)
+N;CHARSET=UTF-8:Parshall (House);Lucius;;;
+TEL;TYPE=WORK,VOICE:603-876-3696
+NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:23:07.915856
+END:VCARD

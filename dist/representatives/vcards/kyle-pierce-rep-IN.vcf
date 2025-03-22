@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Pierce (House),Kyle
-    TEL;TYPE=WORK,VOICE:317-234-0931
-    NOTE:IN Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Kyle Pierce (House)
+N;CHARSET=UTF-8:Pierce (House);Kyle;;;
+TEL;TYPE=WORK,VOICE:317-234-0931
+NOTE;CHARSET=UTF-8:IN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:20:16.923117
+END:VCARD

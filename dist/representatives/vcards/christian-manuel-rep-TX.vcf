@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Manuel (House),Christian
-    TEL;TYPE=WORK,VOICE:409-344-4022
-    NOTE:TX Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Christian Manuel (House)
+N;CHARSET=UTF-8:Manuel (House);Christian;;;
+TEL;TYPE=WORK,VOICE:409-344-4022
+NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:27:17.071317
+END:VCARD

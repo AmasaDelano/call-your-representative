@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Hong (Assembly),Francesca
-    TEL;TYPE=WORK,VOICE:608-237-9176
-    NOTE:WI Assembly Member\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Francesca Hong (Assembly)
+N;CHARSET=UTF-8:Hong (Assembly);Francesca;;;
+TEL;TYPE=WORK,VOICE:608-237-9176
+NOTE;CHARSET=UTF-8:WI Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:25.916361
+END:VCARD

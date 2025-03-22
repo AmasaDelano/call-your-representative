@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Dotson (Senate),Jim
-    TEL;TYPE=WORK,VOICE:501-682-2902
-    NOTE:AR Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Jim Dotson (Senate)
+N;CHARSET=UTF-8:Dotson (Senate);Jim;;;
+TEL;TYPE=WORK,VOICE:501-682-2902
+NOTE;CHARSET=UTF-8:AR Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:17:27.063995
+END:VCARD

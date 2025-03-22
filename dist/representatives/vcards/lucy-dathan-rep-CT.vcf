@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Dathan (House),Lucy
-    TEL;TYPE=WORK,VOICE:800-842-8267
-    NOTE:CT Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Lucy Dathan (House)
+N;CHARSET=UTF-8:Dathan (House);Lucy;;;
+TEL;TYPE=WORK,VOICE:800-842-8267
+NOTE;CHARSET=UTF-8:CT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:18:45.590302
+END:VCARD

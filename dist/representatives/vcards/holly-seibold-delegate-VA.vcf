@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Seibold (House),Holly
-    TEL;TYPE=WORK,VOICE:804-698-1012
-    NOTE:VA Delegate\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Holly Seibold (House)
+N;CHARSET=UTF-8:Seibold (House);Holly;;;
+TEL;TYPE=WORK,VOICE:804-698-1012
+NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:22.032101
+END:VCARD

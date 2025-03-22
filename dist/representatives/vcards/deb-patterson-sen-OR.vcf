@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Patterson (Senate),Deb
-    TEL;TYPE=WORK,VOICE:503-986-1710
-    NOTE:OR Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Deb Patterson (Senate)
+N;CHARSET=UTF-8:Patterson (Senate);Deb;;;
+TEL;TYPE=WORK,VOICE:503-986-1710
+NOTE;CHARSET=UTF-8:OR Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:24:36.766213
+END:VCARD

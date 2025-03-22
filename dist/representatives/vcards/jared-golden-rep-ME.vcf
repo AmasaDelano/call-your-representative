@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Golden (House),Jared
-    TEL;TYPE=WORK,VOICE:202-225-6306
-    NOTE:US Representative, ME\n\nCommittees:\nArmed Services\nNatural Resources\nEnergy and Mineral Resources\nFederal Lands\nWater, Wildlife and Fisheries\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Jared Golden (House)
+N;CHARSET=UTF-8:Golden (House);Jared;;;
+TEL;TYPE=WORK,VOICE:202-225-6306
+NOTE;CHARSET=UTF-8:US Representative\, ME\n\nCommittees:\nArmed Services\nNatural Resources\nEnergy and Mineral Resources\nFederal Lands\nWater, Wildlife and Fisheries\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:33.022090
+END:VCARD

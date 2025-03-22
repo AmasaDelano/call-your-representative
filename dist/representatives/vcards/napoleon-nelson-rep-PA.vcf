@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Nelson (House),Napoleon
-    TEL;TYPE=WORK,VOICE:717-783-1079
-    NOTE:PA Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Napoleon Nelson (House)
+N;CHARSET=UTF-8:Nelson (House);Napoleon;;;
+TEL;TYPE=WORK,VOICE:717-783-1079
+NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:25:29.202237
+END:VCARD

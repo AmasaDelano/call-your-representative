@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Deuter (House),Marti
-    TEL;TYPE=WORK,VOICE:217-782-1448
-    NOTE:IL Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Marti Deuter (House)
+N;CHARSET=UTF-8:Deuter (House);Marti;;;
+TEL;TYPE=WORK,VOICE:217-782-1448
+NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:19:57.567659
+END:VCARD

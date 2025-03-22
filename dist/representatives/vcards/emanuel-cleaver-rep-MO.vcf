@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Cleaver (House),Emanuel
-    TEL;TYPE=WORK,VOICE:202-225-4535
-    NOTE:US Representative, MO\n\nCommittees:\nFinancial Services\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Emanuel Cleaver (House)
+N;CHARSET=UTF-8:Cleaver (House);Emanuel;;;
+TEL;TYPE=WORK,VOICE:202-225-4535
+NOTE;CHARSET=UTF-8:US Representative\, MO\n\nCommittees:\nFinancial Services\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:27.194023
+END:VCARD

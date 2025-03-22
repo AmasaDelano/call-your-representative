@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Lawson‐Rowe (House),Meredith
-    TEL;TYPE=WORK,VOICE:614-644-6002
-    NOTE:OH Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Meredith Lawson‐Rowe (House)
+N;CHARSET=UTF-8:Lawson‐Rowe (House);Meredith;;;
+TEL;TYPE=WORK,VOICE:614-644-6002
+NOTE;CHARSET=UTF-8:OH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:24:17.182185
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Rodriguez (Assembly),Gabe
-    TEL;TYPE=WORK,VOICE:201-223-4247
-    NOTE:NJ Assembly Member\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Gabe Rodriguez (Assembly)
+N;CHARSET=UTF-8:Rodriguez (Assembly);Gabe;;;
+TEL;TYPE=WORK,VOICE:201-223-4247
+NOTE;CHARSET=UTF-8:NJ Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:23:21.020442
+END:VCARD

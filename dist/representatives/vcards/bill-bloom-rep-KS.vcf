@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Bloom (House),Bill
-    TEL;TYPE=WORK,VOICE:785-296-7654
-    NOTE:KS Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Bill Bloom (House)
+N;CHARSET=UTF-8:Bloom (House);Bill;;;
+TEL;TYPE=WORK,VOICE:785-296-7654
+NOTE;CHARSET=UTF-8:KS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:21:08.397061
+END:VCARD

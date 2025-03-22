@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Blumenthal (Senate),Richard
-    TEL;TYPE=WORK,VOICE:202-224-2823
-    NOTE:US Senator, CT\n\nCommittees:\nUnited States Senate Caucus on International Narcotics Control\nArmed Services\nSeapower\nAirland\nPersonnel\nHomeland Security and Governmental Affairs\nPermanent Subcommittee on Investigations\nDisaster Management, District of Columbia, and Census\nThe Judiciary\nVeterans' Affairs\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Richard Blumenthal (Senate)
+N;CHARSET=UTF-8:Blumenthal (Senate);Richard;;;
+TEL;TYPE=WORK,VOICE:202-224-2823
+NOTE;CHARSET=UTF-8:US Senator\, CT\n\nCommittees:\nUnited States Senate Caucus on International Narcotics Control\nArmed Services\nSeapower\nAirland\nPersonnel\nHomeland Security and Governmental Affairs\nPermanent Subcommittee on Investigations\nDisaster Management, District of Columbia, and Census\nThe Judiciary\nVeterans' Affairs\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:26.982020
+END:VCARD

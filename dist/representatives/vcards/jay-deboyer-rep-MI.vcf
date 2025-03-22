@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:DeBoyer (House),Jay
-    TEL;TYPE=WORK,VOICE:517-373-1787
-    NOTE:MI Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Jay DeBoyer (House)
+N;CHARSET=UTF-8:DeBoyer (House);Jay;;;
+TEL;TYPE=WORK,VOICE:517-373-1787
+NOTE;CHARSET=UTF-8:MI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:12.458283
+END:VCARD

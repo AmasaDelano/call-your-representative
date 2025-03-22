@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Haridopolos (House),Mike
-    TEL;TYPE=WORK,VOICE:202-225-3671
-    NOTE:US Representative, FL\n\nCommittees:\nFinancial Services\nScience, Space, and Technology\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Mike Haridopolos (House)
+N;CHARSET=UTF-8:Haridopolos (House);Mike;;;
+TEL;TYPE=WORK,VOICE:202-225-3671
+NOTE;CHARSET=UTF-8:US Representative\, FL\n\nCommittees:\nFinancial Services\nScience, Space, and Technology\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:40.484342
+END:VCARD

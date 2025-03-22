@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Smith (Senate),Tina
-    TEL;TYPE=WORK,VOICE:202-224-5641
-    NOTE:US Senator, MN\n\nCommittees:\nCommission on Security and Cooperation in Europe (Joint)\nIndian Affairs\nAgriculture, Nutrition, and Forestry\nRural Development, Energy, and Credit\nFood and Nutrition, Specialty Crops, Organics, and Research\nLivestock, Dairy, Poultry, and Food Safety\nBanking, Housing, and Urban Affairs\nHousing, Transportation, and Community Development\nEconomic Policy\nDigital Assets\nFinance\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Tina Smith (Senate)
+N;CHARSET=UTF-8:Smith (Senate);Tina;;;
+TEL;TYPE=WORK,VOICE:202-224-5641
+NOTE;CHARSET=UTF-8:US Senator\, MN\n\nCommittees:\nCommission on Security and Cooperation in Europe (Joint)\nIndian Affairs\nAgriculture, Nutrition, and Forestry\nRural Development, Energy, and Credit\nFood and Nutrition, Specialty Crops, Organics, and Research\nLivestock, Dairy, Poultry, and Food Safety\nBanking, Housing, and Urban Affairs\nHousing, Transportation, and Community Development\nEconomic Policy\nDigital Assets\nFinance\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:31.831817
+END:VCARD

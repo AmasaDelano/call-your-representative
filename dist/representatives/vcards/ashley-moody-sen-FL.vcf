@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Moody (Senate),Ashley
-    TEL;TYPE=WORK,VOICE:202-224-3041
-    NOTE:US Senator, FL\n\nCommittees:\nJoint Economic Committee (Joint)\nSenate Special Committee on Aging\nHomeland Security and Governmental Affairs\nDisaster Management, District of Columbia, and Census\nBorder Management, Federal Workforce, and Regulatory Affairs\nHealth, Education, Labor, and Pensions\nEducation and the American Family\nPrimary Health and Retirement Security\nThe Judiciary\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Ashley Moody (Senate)
+N;CHARSET=UTF-8:Moody (Senate);Ashley;;;
+TEL;TYPE=WORK,VOICE:202-224-3041
+NOTE;CHARSET=UTF-8:US Senator\, FL\n\nCommittees:\nJoint Economic Committee (Joint)\nSenate Special Committee on Aging\nHomeland Security and Governmental Affairs\nDisaster Management, District of Columbia, and Census\nBorder Management, Federal Workforce, and Regulatory Affairs\nHealth, Education, Labor, and Pensions\nEducation and the American Family\nPrimary Health and Retirement Security\nThe Judiciary\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:46.381599
+END:VCARD

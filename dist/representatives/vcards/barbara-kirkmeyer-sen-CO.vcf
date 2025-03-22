@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Kirkmeyer (Senate),Barbara
-    TEL;TYPE=WORK,VOICE:303-866-4876
-    NOTE:CO Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Barbara Kirkmeyer (Senate)
+N;CHARSET=UTF-8:Kirkmeyer (Senate);Barbara;;;
+TEL;TYPE=WORK,VOICE:303-866-4876
+NOTE;CHARSET=UTF-8:CO Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:17:46.699211
+END:VCARD

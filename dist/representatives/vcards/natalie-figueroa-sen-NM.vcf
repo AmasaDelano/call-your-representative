@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Figueroa (Senate),Natalie
-    TEL;TYPE=WORK,VOICE:505-986-4266
-    NOTE:NM Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Natalie Figueroa (Senate)
+N;CHARSET=UTF-8:Figueroa (Senate);Natalie;;;
+TEL;TYPE=WORK,VOICE:505-986-4266
+NOTE;CHARSET=UTF-8:NM Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:23:43.893869
+END:VCARD

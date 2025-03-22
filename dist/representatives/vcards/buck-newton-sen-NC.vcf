@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Newton (Senate),Buck
-    TEL;TYPE=WORK,VOICE:919-733-5878
-    NOTE:NC Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Buck Newton (Senate)
+N;CHARSET=UTF-8:Newton (Senate);Buck;;;
+TEL;TYPE=WORK,VOICE:919-733-5878
+NOTE;CHARSET=UTF-8:NC Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:24:10.784721
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Rizo (House),Alex
-    TEL;TYPE=WORK,VOICE:850-717-5112
-    NOTE:FL Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Alex Rizo (House)
+N;CHARSET=UTF-8:Rizo (House);Alex;;;
+TEL;TYPE=WORK,VOICE:850-717-5112
+NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:18:57.485202
+END:VCARD

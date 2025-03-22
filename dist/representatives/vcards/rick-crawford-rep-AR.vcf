@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Crawford (House),Rick
-    TEL;TYPE=WORK,VOICE:202-225-4076
-    NOTE:US Representative, AR\n\nCommittees:\nHouse Permanent Select Committee on Intelligence\nAgriculture\nGeneral Farm Commodities, Risk Management, and Credit\nTransportation and Infrastructure\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Rick Crawford (House)
+N;CHARSET=UTF-8:Crawford (House);Rick;;;
+TEL;TYPE=WORK,VOICE:202-225-4076
+NOTE;CHARSET=UTF-8:US Representative\, AR\n\nCommittees:\nHouse Permanent Select Committee on Intelligence\nAgriculture\nGeneral Farm Commodities, Risk Management, and Credit\nTransportation and Infrastructure\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:27.351979
+END:VCARD

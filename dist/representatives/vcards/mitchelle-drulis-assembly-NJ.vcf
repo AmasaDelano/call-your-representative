@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Drulis (Assembly),Mitchelle
-    TEL;TYPE=WORK,VOICE:908-829-4191
-    NOTE:NJ Assembly Member\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Mitchelle Drulis (Assembly)
+N;CHARSET=UTF-8:Drulis (Assembly);Mitchelle;;;
+TEL;TYPE=WORK,VOICE:908-829-4191
+NOTE;CHARSET=UTF-8:NJ Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:23:30.027315
+END:VCARD

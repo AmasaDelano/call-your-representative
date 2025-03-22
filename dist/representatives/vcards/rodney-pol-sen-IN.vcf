@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Pol (Senate),Rodney
-    TEL;TYPE=WORK,VOICE:317-232-9404
-    NOTE:IN Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Rodney Pol (Senate)
+N;CHARSET=UTF-8:Pol (Senate);Rodney;;;
+TEL;TYPE=WORK,VOICE:317-232-9404
+NOTE;CHARSET=UTF-8:IN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:20:27.897919
+END:VCARD

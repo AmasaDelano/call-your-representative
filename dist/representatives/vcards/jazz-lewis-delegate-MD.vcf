@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Lewis (House),Jazz
-    TEL;TYPE=WORK,VOICE:410-841-3691
-    NOTE:MD Delegate\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Jazz Lewis (House)
+N;CHARSET=UTF-8:Lewis (House);Jazz;;;
+TEL;TYPE=WORK,VOICE:410-841-3691
+NOTE;CHARSET=UTF-8:MD Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:02.451488
+END:VCARD

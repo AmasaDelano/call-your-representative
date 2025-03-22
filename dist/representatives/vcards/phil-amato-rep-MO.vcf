@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Amato (House),Phil
-    TEL;TYPE=WORK,VOICE:573-751-2504
-    NOTE:MO Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Phil Amato (House)
+N;CHARSET=UTF-8:Amato (House);Phil;;;
+TEL;TYPE=WORK,VOICE:573-751-2504
+NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:36.500445
+END:VCARD

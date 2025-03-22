@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Still (Senate),Shawn
-    TEL;TYPE=WORK,VOICE:404-656-7127
-    NOTE:GA Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Shawn Still (Senate)
+N;CHARSET=UTF-8:Still (Senate);Shawn;;;
+TEL;TYPE=WORK,VOICE:404-656-7127
+NOTE;CHARSET=UTF-8:GA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:19:47.245153
+END:VCARD

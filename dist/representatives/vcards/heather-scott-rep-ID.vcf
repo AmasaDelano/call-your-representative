@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Scott (House),Heather
-    TEL;TYPE=WORK,VOICE:208-332-1190
-    NOTE:ID Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Heather Scott (House)
+N;CHARSET=UTF-8:Scott (House);Heather;;;
+TEL;TYPE=WORK,VOICE:208-332-1190
+NOTE;CHARSET=UTF-8:ID Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:19:55.541890
+END:VCARD

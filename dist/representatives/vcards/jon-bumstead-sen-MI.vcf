@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Bumstead (Senate),Jon
-    TEL;TYPE=WORK,VOICE:517-373-1635
-    NOTE:MI Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Jon Bumstead (Senate)
+N;CHARSET=UTF-8:Bumstead (Senate);Jon;;;
+TEL;TYPE=WORK,VOICE:517-373-1635
+NOTE;CHARSET=UTF-8:MI Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:14.316537
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Fellela (House),Deb
-    TEL;TYPE=WORK,VOICE:401-470-3924
-    NOTE:RI Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Deb Fellela (House)
+N;CHARSET=UTF-8:Fellela (House);Deb;;;
+TEL;TYPE=WORK,VOICE:401-470-3924
+NOTE;CHARSET=UTF-8:RI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:25:49.386191
+END:VCARD

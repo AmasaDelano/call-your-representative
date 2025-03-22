@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Hurd (House),Jeff
-    TEL;TYPE=WORK,VOICE:202-225-4676
-    NOTE:US Representative, CO\n\nCommittees:\nNatural Resources\nEnergy and Mineral Resources\nIndian and Insular Affairs\nTransportation and Infrastructure\nScience, Space, and Technology\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Jeff Hurd (House)
+N;CHARSET=UTF-8:Hurd (House);Jeff;;;
+TEL;TYPE=WORK,VOICE:202-225-4676
+NOTE;CHARSET=UTF-8:US Representative\, CO\n\nCommittees:\nNatural Resources\nEnergy and Mineral Resources\nIndian and Insular Affairs\nTransportation and Infrastructure\nScience, Space, and Technology\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:39.993013
+END:VCARD

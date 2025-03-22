@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Watson Coleman (House),Bonnie
-    TEL;TYPE=WORK,VOICE:202-225-5801
-    NOTE:US Representative, NJ\n\nCommittees:\nAppropriations\nThe Budget\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Bonnie Watson Coleman (House)
+N;CHARSET=UTF-8:Watson Coleman (House);Bonnie;;;
+TEL;TYPE=WORK,VOICE:202-225-5801
+NOTE;CHARSET=UTF-8:US Representative\, NJ\n\nCommittees:\nAppropriations\nThe Budget\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:30.596810
+END:VCARD

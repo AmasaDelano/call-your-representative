@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Fallon (House),Pat
-    TEL;TYPE=WORK,VOICE:202-225-6673
-    NOTE:US Representative, TX\n\nCommittees:\nHouse Permanent Select Committee on Intelligence\nArmed Services\nOversight and Government Reform\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Pat Fallon (House)
+N;CHARSET=UTF-8:Fallon (House);Pat;;;
+TEL;TYPE=WORK,VOICE:202-225-6673
+NOTE;CHARSET=UTF-8:US Representative\, TX\n\nCommittees:\nHouse Permanent Select Committee on Intelligence\nArmed Services\nOversight and Government Reform\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:33.915830
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Perry (Senate),Charles
-    TEL;TYPE=WORK,VOICE:806-783-9934
-    NOTE:TX Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Charles Perry (Senate)
+N;CHARSET=UTF-8:Perry (Senate);Charles;;;
+TEL;TYPE=WORK,VOICE:806-783-9934
+NOTE;CHARSET=UTF-8:TX Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:27:15.992663
+END:VCARD

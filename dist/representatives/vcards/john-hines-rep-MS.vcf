@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Hines (House),John
-    TEL;TYPE=WORK,VOICE:601-359-3285
-    NOTE:MS Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:John Hines (House)
+N;CHARSET=UTF-8:Hines (House);John;;;
+TEL;TYPE=WORK,VOICE:601-359-3285
+NOTE;CHARSET=UTF-8:MS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:32.057528
+END:VCARD

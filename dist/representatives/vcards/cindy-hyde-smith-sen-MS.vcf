@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Hyde-Smith (Senate),Cindy
-    TEL;TYPE=WORK,VOICE:202-224-5054
-    NOTE:US Senator, MS\n\nCommittees:\nThe Library (Joint)\nAgriculture, Nutrition, and Forestry\nCommodities, Derivatives, Risk Management, and Trade\nConservation, Forestry, Natural Resources, and Biotechnology\nLivestock, Dairy, Poultry, and Food Safety\nAppropriations\nEnergy and Natural Resources\nEnergy\nPublic Lands, Forests, and Mining\nRules and Administration\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Cindy Hyde-Smith (Senate)
+N;CHARSET=UTF-8:Hyde-Smith (Senate);Cindy;;;
+TEL;TYPE=WORK,VOICE:202-224-5054
+NOTE;CHARSET=UTF-8:US Senator\, MS\n\nCommittees:\nThe Library (Joint)\nAgriculture, Nutrition, and Forestry\nCommodities, Derivatives, Risk Management, and Trade\nConservation, Forestry, Natural Resources, and Biotechnology\nLivestock, Dairy, Poultry, and Food Safety\nAppropriations\nEnergy and Natural Resources\nEnergy\nPublic Lands, Forests, and Mining\nRules and Administration\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:31.852091
+END:VCARD

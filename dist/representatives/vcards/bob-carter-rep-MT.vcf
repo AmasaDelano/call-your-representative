@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Carter (House),Bob
-    TEL;TYPE=WORK,VOICE:406-788-0089
-    NOTE:MT Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Bob Carter (House)
+N;CHARSET=UTF-8:Carter (House);Bob;;;
+TEL;TYPE=WORK,VOICE:406-788-0089
+NOTE;CHARSET=UTF-8:MT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:37.036099
+END:VCARD

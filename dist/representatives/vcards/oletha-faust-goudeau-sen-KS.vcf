@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Faust-Goudeau (Senate),Oletha
-    TEL;TYPE=WORK,VOICE:785-296-7387
-    NOTE:KS Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Oletha Faust-Goudeau (Senate)
+N;CHARSET=UTF-8:Faust-Goudeau (Senate);Oletha;;;
+TEL;TYPE=WORK,VOICE:785-296-7387
+NOTE;CHARSET=UTF-8:KS Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:21:10.638143
+END:VCARD

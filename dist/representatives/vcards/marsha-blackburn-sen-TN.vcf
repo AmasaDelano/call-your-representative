@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Blackburn (Senate),Marsha
-    TEL;TYPE=WORK,VOICE:202-224-3344
-    NOTE:US Senator, TN\n\nCommittees:\nJoint Economic Committee (Joint)\nCommerce, Science, and Transportation\nFinance\nThe Judiciary\nVeterans' Affairs\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Marsha Blackburn (Senate)
+N;CHARSET=UTF-8:Blackburn (Senate);Marsha;;;
+TEL;TYPE=WORK,VOICE:202-224-3344
+NOTE;CHARSET=UTF-8:US Senator\, TN\n\nCommittees:\nJoint Economic Committee (Joint)\nCommerce, Science, and Transportation\nFinance\nThe Judiciary\nVeterans' Affairs\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:26.962102
+END:VCARD

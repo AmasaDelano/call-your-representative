@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Tims (House),Desireè
-    TEL;TYPE=WORK,VOICE:614-466-1607
-    NOTE:OH Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Desireè Tims (House)
+N;CHARSET=UTF-8:Tims (House);Desireè;;;
+TEL;TYPE=WORK,VOICE:614-466-1607
+NOTE;CHARSET=UTF-8:OH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:24:15.704872
+END:VCARD

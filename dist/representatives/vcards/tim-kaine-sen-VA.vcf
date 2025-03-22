@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Kaine (Senate),Tim
-    TEL;TYPE=WORK,VOICE:202-224-4024
-    NOTE:US Senator, VA\n\nCommittees:\nArmed Services\nSeapower\nReadiness and Management Support\nEmerging Threats and Capabilities\nThe Budget\nForeign Relations\nHealth, Education, Labor, and Pensions\nEducation and the American Family\nEmployment and Workplace Safety\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Tim Kaine (Senate)
+N;CHARSET=UTF-8:Kaine (Senate);Tim;;;
+TEL;TYPE=WORK,VOICE:202-224-4024
+NOTE;CHARSET=UTF-8:US Senator\, VA\n\nCommittees:\nArmed Services\nSeapower\nReadiness and Management Support\nEmerging Threats and Capabilities\nThe Budget\nForeign Relations\nHealth, Education, Labor, and Pensions\nEducation and the American Family\nEmployment and Workplace Safety\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:30.062130
+END:VCARD

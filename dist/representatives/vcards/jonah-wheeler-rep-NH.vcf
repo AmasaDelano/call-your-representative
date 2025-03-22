@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Wheeler (House),Jonah
-    TEL;TYPE=WORK,VOICE:603-831-9916
-    NOTE:NH Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Jonah Wheeler (House)
+N;CHARSET=UTF-8:Wheeler (House);Jonah;;;
+TEL;TYPE=WORK,VOICE:603-831-9916
+NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:23:06.185457
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Testa (Senate),Mike
-    TEL;TYPE=WORK,VOICE:609-778-2012
-    NOTE:NJ Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Mike Testa (Senate)
+N;CHARSET=UTF-8:Testa (Senate);Mike;;;
+TEL;TYPE=WORK,VOICE:609-778-2012
+NOTE;CHARSET=UTF-8:NJ Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:23:29.586632
+END:VCARD

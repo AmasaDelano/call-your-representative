@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Sirois (House),Tyler
-    TEL;TYPE=WORK,VOICE:850-717-5031
-    NOTE:FL Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Tyler Sirois (House)
+N;CHARSET=UTF-8:Sirois (House);Tyler;;;
+TEL;TYPE=WORK,VOICE:850-717-5031
+NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:19:41.106181
+END:VCARD

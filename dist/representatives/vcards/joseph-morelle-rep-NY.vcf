@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Morelle (House),Joseph
-    TEL;TYPE=WORK,VOICE:202-225-3615
-    NOTE:US Representative, NY\n\nCommittees:\nAppropriations\nHouse Administration\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Joseph Morelle (House)
+N;CHARSET=UTF-8:Morelle (House);Joseph;;;
+TEL;TYPE=WORK,VOICE:202-225-3615
+NOTE;CHARSET=UTF-8:US Representative\, NY\n\nCommittees:\nAppropriations\nHouse Administration\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:31.938477
+END:VCARD

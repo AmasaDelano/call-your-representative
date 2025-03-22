@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Risch (Senate),James
-    TEL;TYPE=WORK,VOICE:202-224-2752
-    NOTE:US Senator, ID\n\nCommittees:\nUnited States Senate Caucus on International Narcotics Control\nSenate Select Committee on Ethics\nSenate Select Committee on Intelligence\nEnergy and Natural Resources\nEnergy\nPublic Lands, Forests, and Mining\nWater and Power\nForeign Relations\nSmall Business and Entrepreneurship\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:James Risch (Senate)
+N;CHARSET=UTF-8:Risch (Senate);James;;;
+TEL;TYPE=WORK,VOICE:202-224-2752
+NOTE;CHARSET=UTF-8:US Senator\, ID\n\nCommittees:\nUnited States Senate Caucus on International Narcotics Control\nSenate Select Committee on Ethics\nSenate Select Committee on Intelligence\nEnergy and Natural Resources\nEnergy\nPublic Lands, Forests, and Mining\nWater and Power\nForeign Relations\nSmall Business and Entrepreneurship\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:26.772066
+END:VCARD

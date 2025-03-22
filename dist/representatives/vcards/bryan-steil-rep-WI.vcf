@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Steil (House),Bryan
-    TEL;TYPE=WORK,VOICE:202-225-3031
-    NOTE:US Representative, WI\n\nCommittees:\nFinancial Services\nHouse Administration\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Bryan Steil (House)
+N;CHARSET=UTF-8:Steil (House);Bryan;;;
+TEL;TYPE=WORK,VOICE:202-225-3031
+NOTE;CHARSET=UTF-8:US Representative\, WI\n\nCommittees:\nFinancial Services\nHouse Administration\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:32.939212
+END:VCARD

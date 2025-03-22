@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Townsend (Senate),Bryan
-    TEL;TYPE=WORK,VOICE:302-744-4165
-    NOTE:DE Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Bryan Townsend (Senate)
+N;CHARSET=UTF-8:Townsend (Senate);Bryan;;;
+TEL;TYPE=WORK,VOICE:302-744-4165
+NOTE;CHARSET=UTF-8:DE Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:18:54.478657
+END:VCARD

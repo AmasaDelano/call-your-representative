@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Rader (House),Tristan
-    TEL;TYPE=WORK,VOICE:614-466-5921
-    NOTE:OH Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Tristan Rader (House)
+N;CHARSET=UTF-8:Rader (House);Tristan;;;
+TEL;TYPE=WORK,VOICE:614-466-5921
+NOTE;CHARSET=UTF-8:OH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:24:19.169736
+END:VCARD

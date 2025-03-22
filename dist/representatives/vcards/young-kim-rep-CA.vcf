@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Kim (House),Young
-    TEL;TYPE=WORK,VOICE:202-225-4111
-    NOTE:US Representative, CA\n\nCommittees:\nFinancial Services\nForeign Affairs\nHouse Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Young Kim (House)
+N;CHARSET=UTF-8:Kim (House);Young;;;
+TEL;TYPE=WORK,VOICE:202-225-4111
+NOTE;CHARSET=UTF-8:US Representative\, CA\n\nCommittees:\nFinancial Services\nForeign Affairs\nHouse Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:33.291880
+END:VCARD

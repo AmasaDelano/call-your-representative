@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Ball (Senate),Matt
-    TEL;TYPE=WORK,VOICE:303-866-4861
-    NOTE:CO Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Matt Ball (Senate)
+N;CHARSET=UTF-8:Ball (Senate);Matt;;;
+TEL;TYPE=WORK,VOICE:303-866-4861
+NOTE;CHARSET=UTF-8:CO Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:18:16.541848
+END:VCARD

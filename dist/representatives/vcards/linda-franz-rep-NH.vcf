@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Franz (House),Linda
-    TEL;TYPE=WORK,VOICE:508-341-9021
-    NOTE:NH Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Linda Franz (House)
+N;CHARSET=UTF-8:Franz (House);Linda;;;
+TEL;TYPE=WORK,VOICE:508-341-9021
+NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:23:07.755882
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:O'Malley (Senate),Debbie
-    TEL;TYPE=WORK,VOICE:505-986-4301
-    NOTE:NM Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Debbie O'Malley (Senate)
+N;CHARSET=UTF-8:O'Malley (Senate);Debbie;;;
+TEL;TYPE=WORK,VOICE:505-986-4301
+NOTE;CHARSET=UTF-8:NM Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:23:41.815014
+END:VCARD

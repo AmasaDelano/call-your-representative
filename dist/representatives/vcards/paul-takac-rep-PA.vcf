@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Takac (House),Paul
-    TEL;TYPE=WORK,VOICE:717-772-0750
-    NOTE:PA Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Paul Takac (House)
+N;CHARSET=UTF-8:Takac (House);Paul;;;
+TEL;TYPE=WORK,VOICE:717-772-0750
+NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:25:32.455915
+END:VCARD

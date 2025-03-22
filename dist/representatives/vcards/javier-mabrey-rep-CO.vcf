@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Mabrey (House),Javier
-    TEL;TYPE=WORK,VOICE:303-866-2966
-    NOTE:CO Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Javier Mabrey (House)
+N;CHARSET=UTF-8:Mabrey (House);Javier;;;
+TEL;TYPE=WORK,VOICE:303-866-2966
+NOTE;CHARSET=UTF-8:CO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:18:00.074062
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Rivas (Assembly),Robert
-    TEL;TYPE=WORK,VOICE:916-319-2029
-    NOTE:CA Assembly Member\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Robert Rivas (Assembly)
+N;CHARSET=UTF-8:Rivas (Assembly);Robert;;;
+TEL;TYPE=WORK,VOICE:916-319-2029
+NOTE;CHARSET=UTF-8:CA Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:17:43.057093
+END:VCARD

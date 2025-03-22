@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Gregory (Senate),Kurtis
-    TEL;TYPE=WORK,VOICE:573-751-4302
-    NOTE:MO Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Kurtis Gregory (Senate)
+N;CHARSET=UTF-8:Gregory (Senate);Kurtis;;;
+TEL;TYPE=WORK,VOICE:573-751-4302
+NOTE;CHARSET=UTF-8:MO Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:35.969933
+END:VCARD

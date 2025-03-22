@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Huffman (Senate),Joan
-    TEL;TYPE=WORK,VOICE:979-480-0994
-    NOTE:TX Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Joan Huffman (Senate)
+N;CHARSET=UTF-8:Huffman (Senate);Joan;;;
+TEL;TYPE=WORK,VOICE:979-480-0994
+NOTE;CHARSET=UTF-8:TX Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:27:34.195116
+END:VCARD

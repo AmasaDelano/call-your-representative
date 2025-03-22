@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Mantzavinos (Senate),Spiros
-    TEL;TYPE=WORK,VOICE:302-744-4133
-    NOTE:DE Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Spiros Mantzavinos (Senate)
+N;CHARSET=UTF-8:Mantzavinos (Senate);Spiros;;;
+TEL;TYPE=WORK,VOICE:302-744-4133
+NOTE;CHARSET=UTF-8:DE Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:18:56.273275
+END:VCARD

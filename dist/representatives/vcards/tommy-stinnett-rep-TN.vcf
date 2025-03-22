@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Stinnett (House),Tommy
-    TEL;TYPE=WORK,VOICE:615-741-3560
-    NOTE:TN Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Tommy Stinnett (House)
+N;CHARSET=UTF-8:Stinnett (House);Tommy;;;
+TEL;TYPE=WORK,VOICE:615-741-3560
+NOTE;CHARSET=UTF-8:TN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:27:04.964897
+END:VCARD

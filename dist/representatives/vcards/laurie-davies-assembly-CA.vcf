@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Davies (Assembly),Laurie
-    TEL;TYPE=WORK,VOICE:916-319-2074
-    NOTE:CA Assembly Member\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Laurie Davies (Assembly)
+N;CHARSET=UTF-8:Davies (Assembly);Laurie;;;
+TEL;TYPE=WORK,VOICE:916-319-2074
+NOTE;CHARSET=UTF-8:CA Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:17:38.931703
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Leo-Wilson (House),Terri
-    TEL;TYPE=WORK,VOICE:409-762-0202
-    NOTE:TX Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Terri Leo-Wilson (House)
+N;CHARSET=UTF-8:Leo-Wilson (House);Terri;;;
+TEL;TYPE=WORK,VOICE:409-762-0202
+NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:27:56.322538
+END:VCARD

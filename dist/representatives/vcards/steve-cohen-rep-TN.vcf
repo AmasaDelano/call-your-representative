@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Cohen (House),Steve
-    TEL;TYPE=WORK,VOICE:202-225-3265
-    NOTE:US Representative, TN\n\nCommittees:\nThe Judiciary\nTransportation and Infrastructure\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Steve Cohen (House)
+N;CHARSET=UTF-8:Cohen (House);Steve;;;
+TEL;TYPE=WORK,VOICE:202-225-3265
+NOTE;CHARSET=UTF-8:US Representative\, TN\n\nCommittees:\nThe Judiciary\nTransportation and Infrastructure\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:27.232116
+END:VCARD

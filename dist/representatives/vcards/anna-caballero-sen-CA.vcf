@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Caballero (Senate),Anna
-    TEL;TYPE=WORK,VOICE:916-651-4014
-    NOTE:CA Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Anna Caballero (Senate)
+N;CHARSET=UTF-8:Caballero (Senate);Anna;;;
+TEL;TYPE=WORK,VOICE:916-651-4014
+NOTE;CHARSET=UTF-8:CA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:17:29.850149
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Mayes (House),La'Tasha
-    TEL;TYPE=WORK,VOICE:717-783-1017
-    NOTE:PA Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:La'Tasha Mayes (House)
+N;CHARSET=UTF-8:Mayes (House);La'Tasha;;;
+TEL;TYPE=WORK,VOICE:717-783-1017
+NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:25:18.150315
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Sullivan (Senate),Dan
-    TEL;TYPE=WORK,VOICE:202-224-3004
-    NOTE:US Senator, AK\n\nCommittees:\nArmed Services\nSeapower\nAirland\nReadiness and Management Support\nCommerce, Science, and Transportation\nEnvironment and Public Works\nVeterans' Affairs\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Dan Sullivan (Senate)
+N;CHARSET=UTF-8:Sullivan (Senate);Dan;;;
+TEL;TYPE=WORK,VOICE:202-224-3004
+NOTE;CHARSET=UTF-8:US Senator\, AK\n\nCommittees:\nArmed Services\nSeapower\nAirland\nReadiness and Management Support\nCommerce, Science, and Transportation\nEnvironment and Public Works\nVeterans' Affairs\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:30.775970
+END:VCARD

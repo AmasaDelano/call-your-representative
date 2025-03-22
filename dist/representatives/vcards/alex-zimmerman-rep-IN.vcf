@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Zimmerman (House),Alex
-    TEL;TYPE=WORK,VOICE:317-234-9447
-    NOTE:IN Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Alex Zimmerman (House)
+N;CHARSET=UTF-8:Zimmerman (House);Alex;;;
+TEL;TYPE=WORK,VOICE:317-234-9447
+NOTE;CHARSET=UTF-8:IN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:19:58.397733
+END:VCARD

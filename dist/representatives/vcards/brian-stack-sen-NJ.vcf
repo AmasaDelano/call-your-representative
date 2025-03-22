@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Stack (Senate),Brian
-    TEL;TYPE=WORK,VOICE:201-721-5263
-    NOTE:NJ Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Brian Stack (Senate)
+N;CHARSET=UTF-8:Stack (Senate);Brian;;;
+TEL;TYPE=WORK,VOICE:201-721-5263
+NOTE;CHARSET=UTF-8:NJ Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:23:16.558639
+END:VCARD

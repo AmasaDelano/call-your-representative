@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Felipe (House),Antonio
-    TEL;TYPE=WORK,VOICE:860-240-8585
-    NOTE:CT Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Antonio Felipe (House)
+N;CHARSET=UTF-8:Felipe (House);Antonio;;;
+TEL;TYPE=WORK,VOICE:860-240-8585
+NOTE;CHARSET=UTF-8:CT Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:18:35.485487
+END:VCARD

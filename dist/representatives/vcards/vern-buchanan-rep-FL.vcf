@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Buchanan (House),Vern
-    TEL;TYPE=WORK,VOICE:202-225-5015
-    NOTE:US Representative, FL\n\nCommittees:\nWays and Means\nTaxation (Joint)\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Vern Buchanan (House)
+N;CHARSET=UTF-8:Buchanan (House);Vern;;;
+TEL;TYPE=WORK,VOICE:202-225-5015
+NOTE;CHARSET=UTF-8:US Representative\, FL\n\nCommittees:\nWays and Means\nTaxation (Joint)\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:27.022424
+END:VCARD

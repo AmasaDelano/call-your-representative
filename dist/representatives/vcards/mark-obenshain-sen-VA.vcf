@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Obenshain (Senate),Mark
-    TEL;TYPE=WORK,VOICE:804-698-7502
-    NOTE:VA Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Mark Obenshain (Senate)
+N;CHARSET=UTF-8:Obenshain (Senate);Mark;;;
+TEL;TYPE=WORK,VOICE:804-698-7502
+NOTE;CHARSET=UTF-8:VA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:22.552025
+END:VCARD

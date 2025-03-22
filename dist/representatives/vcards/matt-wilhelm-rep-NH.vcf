@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Wilhelm (House),Matt
-    TEL;TYPE=WORK,VOICE:603-377-6214
-    NOTE:NH Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Matt Wilhelm (House)
+N;CHARSET=UTF-8:Wilhelm (House);Matt;;;
+TEL;TYPE=WORK,VOICE:603-377-6214
+NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:23:08.415775
+END:VCARD

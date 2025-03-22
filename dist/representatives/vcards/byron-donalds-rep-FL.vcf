@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Donalds (House),Byron
-    TEL;TYPE=WORK,VOICE:202-225-2536
-    NOTE:US Representative, FL\n\nCommittees:\nFinancial Services\nOversight and Government Reform\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Byron Donalds (House)
+N;CHARSET=UTF-8:Donalds (House);Byron;;;
+TEL;TYPE=WORK,VOICE:202-225-2536
+NOTE;CHARSET=UTF-8:US Representative\, FL\n\nCommittees:\nFinancial Services\nOversight and Government Reform\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:33.391966
+END:VCARD

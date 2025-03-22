@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Cutter (Senate),Lisa
-    TEL;TYPE=WORK,VOICE:303-866-4859
-    NOTE:CO Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Lisa Cutter (Senate)
+N;CHARSET=UTF-8:Cutter (Senate);Lisa;;;
+TEL;TYPE=WORK,VOICE:303-866-4859
+NOTE;CHARSET=UTF-8:CO Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:18:10.409356
+END:VCARD

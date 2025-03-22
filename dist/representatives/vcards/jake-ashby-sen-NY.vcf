@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Ashby (Senate),Jake
-    TEL;TYPE=WORK,VOICE:518-455-2381
-    NOTE:NY Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Jake Ashby (Senate)
+N;CHARSET=UTF-8:Ashby (Senate);Jake;;;
+TEL;TYPE=WORK,VOICE:518-455-2381
+NOTE;CHARSET=UTF-8:NY Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:23:52.209151
+END:VCARD

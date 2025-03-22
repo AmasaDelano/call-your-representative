@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Longoria (House),Oscar
-    TEL;TYPE=WORK,VOICE:956-797-2101
-    NOTE:TX Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Oscar Longoria (House)
+N;CHARSET=UTF-8:Longoria (House);Oscar;;;
+TEL;TYPE=WORK,VOICE:956-797-2101
+NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:27:45.249808
+END:VCARD

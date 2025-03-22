@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Scott (House),Omeria
-    TEL;TYPE=WORK,VOICE:601-359-4084
-    NOTE:MS Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Omeria Scott (House)
+N;CHARSET=UTF-8:Scott (House);Omeria;;;
+TEL;TYPE=WORK,VOICE:601-359-4084
+NOTE;CHARSET=UTF-8:MS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:33.446379
+END:VCARD

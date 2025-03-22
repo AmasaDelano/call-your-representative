@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Reed (Senate),Jack
-    TEL;TYPE=WORK,VOICE:202-224-4642
-    NOTE:US Senator, RI\n\nCommittees:\nSenate Select Committee on Intelligence\nAppropriations\nArmed Services\nSeapower\nAirland\nReadiness and Management Support\nStrategic Forces\nPersonnel\nEmerging Threats and Capabilities\nCybersecurity\nBanking, Housing, and Urban Affairs\nSecurities, Insurance, and Investment\nFinancial Institutions and Consumer Protection\nEconomic Policy\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Jack Reed (Senate)
+N;CHARSET=UTF-8:Reed (Senate);Jack;;;
+TEL;TYPE=WORK,VOICE:202-224-4642
+NOTE;CHARSET=UTF-8:US Senator\, RI\n\nCommittees:\nSenate Select Committee on Intelligence\nAppropriations\nArmed Services\nSeapower\nAirland\nReadiness and Management Support\nStrategic Forces\nPersonnel\nEmerging Threats and Capabilities\nCybersecurity\nBanking, Housing, and Urban Affairs\nSecurities, Insurance, and Investment\nFinancial Institutions and Consumer Protection\nEconomic Policy\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:26.751980
+END:VCARD

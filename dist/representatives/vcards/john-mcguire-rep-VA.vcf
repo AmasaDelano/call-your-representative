@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:McGuire (House),John
-    TEL;TYPE=WORK,VOICE:202-225-4711
-    NOTE:US Representative, VA\n\nCommittees:\nArmed Services\nOversight and Government Reform\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:John McGuire (House)
+N;CHARSET=UTF-8:McGuire (House);John;;;
+TEL;TYPE=WORK,VOICE:202-225-4711
+NOTE;CHARSET=UTF-8:US Representative\, VA\n\nCommittees:\nArmed Services\nOversight and Government Reform\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:45.384838
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Selby (House),Stell
-    TEL;TYPE=WORK,VOICE:302-744-4351
-    NOTE:DE Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Stell Selby (House)
+N;CHARSET=UTF-8:Selby (House);Stell;;;
+TEL;TYPE=WORK,VOICE:302-744-4351
+NOTE;CHARSET=UTF-8:DE Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:18:56.289620
+END:VCARD

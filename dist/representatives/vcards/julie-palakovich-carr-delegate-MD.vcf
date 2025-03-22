@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Palakovich Carr (House),Julie
-    TEL;TYPE=WORK,VOICE:410-841-3037
-    NOTE:MD Delegate\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Julie Palakovich Carr (House)
+N;CHARSET=UTF-8:Palakovich Carr (House);Julie;;;
+TEL;TYPE=WORK,VOICE:410-841-3037
+NOTE;CHARSET=UTF-8:MD Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:02.826328
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Olsommer (House),Jeff
-    TEL;TYPE=WORK,VOICE:717-783-2037
-    NOTE:PA Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Jeff Olsommer (House)
+N;CHARSET=UTF-8:Olsommer (House);Jeff;;;
+TEL;TYPE=WORK,VOICE:717-783-2037
+NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:25:05.201250
+END:VCARD

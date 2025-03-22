@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Moss (Senate),Jeremy
-    TEL;TYPE=WORK,VOICE:517-373-7888
-    NOTE:MI Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Jeremy Moss (Senate)
+N;CHARSET=UTF-8:Moss (Senate);Jeremy;;;
+TEL;TYPE=WORK,VOICE:517-373-7888
+NOTE;CHARSET=UTF-8:MI Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:12.529429
+END:VCARD

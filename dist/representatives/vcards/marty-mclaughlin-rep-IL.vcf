@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:McLaughlin (House),Marty
-    TEL;TYPE=WORK,VOICE:217-782-1517
-    NOTE:IL Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Marty McLaughlin (House)
+N;CHARSET=UTF-8:McLaughlin (House);Marty;;;
+TEL;TYPE=WORK,VOICE:217-782-1517
+NOTE;CHARSET=UTF-8:IL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:19:57.591719
+END:VCARD

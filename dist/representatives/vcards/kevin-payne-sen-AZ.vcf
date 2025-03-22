@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Payne (Senate),Kevin
-    TEL;TYPE=WORK,VOICE:602-926-4854
-    NOTE:AZ Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Kevin Payne (Senate)
+N;CHARSET=UTF-8:Payne (Senate);Kevin;;;
+TEL;TYPE=WORK,VOICE:602-926-4854
+NOTE;CHARSET=UTF-8:AZ Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:17:24.347767
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Prince (House),Brian
-    TEL;TYPE=WORK,VOICE:404-656-0298
-    NOTE:GA Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Brian Prince (House)
+N;CHARSET=UTF-8:Prince (House);Brian;;;
+TEL;TYPE=WORK,VOICE:404-656-0298
+NOTE;CHARSET=UTF-8:GA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:19:44.219833
+END:VCARD

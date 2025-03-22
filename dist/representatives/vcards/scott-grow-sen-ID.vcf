@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Grow (Senate),Scott
-    TEL;TYPE=WORK,VOICE:208-332-1334
-    NOTE:ID Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Scott Grow (Senate)
+N;CHARSET=UTF-8:Grow (Senate);Scott;;;
+TEL;TYPE=WORK,VOICE:208-332-1334
+NOTE;CHARSET=UTF-8:ID Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:19:55.195752
+END:VCARD

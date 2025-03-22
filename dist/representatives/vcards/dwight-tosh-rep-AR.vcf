@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Tosh (House),Dwight
-    TEL;TYPE=WORK,VOICE:501-682-6211
-    NOTE:AR Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Dwight Tosh (House)
+N;CHARSET=UTF-8:Tosh (House);Dwight;;;
+TEL;TYPE=WORK,VOICE:501-682-6211
+NOTE;CHARSET=UTF-8:AR Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:17:26.513922
+END:VCARD

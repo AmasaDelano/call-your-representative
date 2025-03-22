@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Alsobrooks (Senate),Angela
-    TEL;TYPE=WORK,VOICE:202-224-4524
-    NOTE:US Senator, MD\n\nCommittees:\nSenate Special Committee on Aging\nBanking, Housing, and Urban Affairs\nSecurities, Insurance, and Investment\nFinancial Institutions and Consumer Protection\nHousing, Transportation, and Community Development\nEnvironment and Public Works\nHealth, Education, Labor, and Pensions\nEducation and the American Family\nEmployment and Workplace Safety\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Angela Alsobrooks (Senate)
+N;CHARSET=UTF-8:Alsobrooks (Senate);Angela;;;
+TEL;TYPE=WORK,VOICE:202-224-4524
+NOTE;CHARSET=UTF-8:US Senator\, MD\n\nCommittees:\nSenate Special Committee on Aging\nBanking, Housing, and Urban Affairs\nSecurities, Insurance, and Investment\nFinancial Institutions and Consumer Protection\nHousing, Transportation, and Community Development\nEnvironment and Public Works\nHealth, Education, Labor, and Pensions\nEducation and the American Family\nEmployment and Workplace Safety\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:37.934409
+END:VCARD

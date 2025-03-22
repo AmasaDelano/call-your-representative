@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Peshlakai (House),Mae
-    TEL;TYPE=WORK,VOICE:602-926-3708
-    NOTE:AZ Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Mae Peshlakai (House)
+N;CHARSET=UTF-8:Peshlakai (House);Mae;;;
+TEL;TYPE=WORK,VOICE:602-926-3708
+NOTE;CHARSET=UTF-8:AZ Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:17:24.480036
+END:VCARD

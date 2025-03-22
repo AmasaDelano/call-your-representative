@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Jech (Senate),Darcy
-    TEL;TYPE=WORK,VOICE:405-521-5545
-    NOTE:OK Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Darcy Jech (Senate)
+N;CHARSET=UTF-8:Jech (Senate);Darcy;;;
+TEL;TYPE=WORK,VOICE:405-521-5545
+NOTE;CHARSET=UTF-8:OK Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:24:23.739591
+END:VCARD

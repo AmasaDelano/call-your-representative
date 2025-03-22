@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Ward (House),Gerry
-    TEL;TYPE=WORK,VOICE:603-436-6142
-    NOTE:NH Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Gerry Ward (House)
+N;CHARSET=UTF-8:Ward (House);Gerry;;;
+TEL;TYPE=WORK,VOICE:603-436-6142
+NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:23:03.447699
+END:VCARD

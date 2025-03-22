@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Barrett (House),Brad
-    TEL;TYPE=WORK,VOICE:785-296-7557
-    NOTE:KS Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Brad Barrett (House)
+N;CHARSET=UTF-8:Barrett (House);Brad;;;
+TEL;TYPE=WORK,VOICE:785-296-7557
+NOTE;CHARSET=UTF-8:KS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:20:36.947230
+END:VCARD

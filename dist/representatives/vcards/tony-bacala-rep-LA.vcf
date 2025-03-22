@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Bacala (House),Tony
-    TEL;TYPE=WORK,VOICE:225-677-8023
-    NOTE:LA Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Tony Bacala (House)
+N;CHARSET=UTF-8:Bacala (House);Tony;;;
+TEL;TYPE=WORK,VOICE:225-677-8023
+NOTE;CHARSET=UTF-8:LA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:21:54.488265
+END:VCARD

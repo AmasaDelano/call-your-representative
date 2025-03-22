@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Stiens (House),Angela
-    TEL;TYPE=WORK,VOICE:785-296-7675
-    NOTE:KS Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Angela Stiens (House)
+N;CHARSET=UTF-8:Stiens (House);Angela;;;
+TEL;TYPE=WORK,VOICE:785-296-7675
+NOTE;CHARSET=UTF-8:KS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:20:36.157229
+END:VCARD

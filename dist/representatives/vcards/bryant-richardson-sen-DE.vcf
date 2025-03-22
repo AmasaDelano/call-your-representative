@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Richardson (Senate),Bryant
-    TEL;TYPE=WORK,VOICE:302-744-4298
-    NOTE:DE Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Bryant Richardson (Senate)
+N;CHARSET=UTF-8:Richardson (Senate);Bryant;;;
+TEL;TYPE=WORK,VOICE:302-744-4298
+NOTE;CHARSET=UTF-8:DE Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:18:55.001506
+END:VCARD

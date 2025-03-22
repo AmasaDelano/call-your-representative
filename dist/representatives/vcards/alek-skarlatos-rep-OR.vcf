@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Skarlatos (House),Alek
-    TEL;TYPE=WORK,VOICE:503-986-1404
-    NOTE:OR Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Alek Skarlatos (House)
+N;CHARSET=UTF-8:Skarlatos (House);Alek;;;
+TEL;TYPE=WORK,VOICE:503-986-1404
+NOTE;CHARSET=UTF-8:OR Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:24:36.414715
+END:VCARD

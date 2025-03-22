@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Pocan (House),Mark
-    TEL;TYPE=WORK,VOICE:202-225-2906
-    NOTE:US Representative, WI\n\nCommittees:\nAppropriations\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Mark Pocan (House)
+N;CHARSET=UTF-8:Pocan (House);Mark;;;
+TEL;TYPE=WORK,VOICE:202-225-2906
+NOTE;CHARSET=UTF-8:US Representative\, WI\n\nCommittees:\nAppropriations\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:30.086204
+END:VCARD

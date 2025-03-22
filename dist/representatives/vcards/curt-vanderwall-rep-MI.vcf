@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:VanderWall (House),Curt
-    TEL;TYPE=WORK,VOICE:517-373-1747
-    NOTE:MI Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Curt VanderWall (House)
+N;CHARSET=UTF-8:VanderWall (House);Curt;;;
+TEL;TYPE=WORK,VOICE:517-373-1747
+NOTE;CHARSET=UTF-8:MI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:11.571649
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Williams (House),Ryan
-    TEL;TYPE=WORK,VOICE:615-741-1875
-    NOTE:TN Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Ryan Williams (House)
+N;CHARSET=UTF-8:Williams (House);Ryan;;;
+TEL;TYPE=WORK,VOICE:615-741-1875
+NOTE;CHARSET=UTF-8:TN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:27:04.780083
+END:VCARD

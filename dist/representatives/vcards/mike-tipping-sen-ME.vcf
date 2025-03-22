@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Tipping (Senate),Mike
-    TEL;TYPE=WORK,VOICE:207-287-1515
-    NOTE:ME Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Mike Tipping (Senate)
+N;CHARSET=UTF-8:Tipping (Senate);Mike;;;
+TEL;TYPE=WORK,VOICE:207-287-1515
+NOTE;CHARSET=UTF-8:ME Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:21:58.590300
+END:VCARD

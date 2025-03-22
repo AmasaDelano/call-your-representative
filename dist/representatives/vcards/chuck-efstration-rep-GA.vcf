@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Efstration (House),Chuck
-    TEL;TYPE=WORK,VOICE:404-656-5052
-    NOTE:GA Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Chuck Efstration (House)
+N;CHARSET=UTF-8:Efstration (House);Chuck;;;
+TEL;TYPE=WORK,VOICE:404-656-5052
+NOTE;CHARSET=UTF-8:GA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:19:44.473398
+END:VCARD

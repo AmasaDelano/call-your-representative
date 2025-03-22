@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Jackson (House),Ronny
-    TEL;TYPE=WORK,VOICE:202-225-3706
-    NOTE:US Representative, TX\n\nCommittees:\nHouse Permanent Select Committee on Intelligence\nAgriculture\nConservation, Research, and Biotechnology\nLivestock, Dairy, and Poultry\nArmed Services\nForeign Affairs\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Ronny Jackson (House)
+N;CHARSET=UTF-8:Jackson (House);Ronny;;;
+TEL;TYPE=WORK,VOICE:202-225-3706
+NOTE;CHARSET=UTF-8:US Representative\, TX\n\nCommittees:\nHouse Permanent Select Committee on Intelligence\nAgriculture\nConservation, Research, and Biotechnology\nLivestock, Dairy, and Poultry\nArmed Services\nForeign Affairs\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:33.961953
+END:VCARD

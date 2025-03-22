@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Powell (House),Brent
-    TEL;TYPE=WORK,VOICE:601-359-3349
-    NOTE:MS Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Brent Powell (House)
+N;CHARSET=UTF-8:Powell (House);Brent;;;
+TEL;TYPE=WORK,VOICE:601-359-3349
+NOTE;CHARSET=UTF-8:MS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:30.559893
+END:VCARD

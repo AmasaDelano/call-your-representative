@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Scott (House),Austin
-    TEL;TYPE=WORK,VOICE:202-225-6531
-    NOTE:US Representative, GA\n\nCommittees:\nHouse Permanent Select Committee on Intelligence\nAgriculture\nNutrition and Foreign Agriculture\nGeneral Farm Commodities, Risk Management, and Credit\nCommodity Markets, Digital Assets, and Rural Development\nArmed Services\nRules\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Austin Scott (House)
+N;CHARSET=UTF-8:Scott (House);Austin;;;
+TEL;TYPE=WORK,VOICE:202-225-6531
+NOTE;CHARSET=UTF-8:US Representative\, GA\n\nCommittees:\nHouse Permanent Select Committee on Intelligence\nAgriculture\nNutrition and Foreign Agriculture\nGeneral Farm Commodities, Risk Management, and Credit\nCommodity Markets, Digital Assets, and Rural Development\nArmed Services\nRules\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:28.675331
+END:VCARD

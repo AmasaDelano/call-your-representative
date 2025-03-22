@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Hefner (House),Cole
-    TEL;TYPE=WORK,VOICE:903-717-8238
-    NOTE:TX Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Cole Hefner (House)
+N;CHARSET=UTF-8:Hefner (House);Cole;;;
+TEL;TYPE=WORK,VOICE:903-717-8238
+NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:27:19.468508
+END:VCARD

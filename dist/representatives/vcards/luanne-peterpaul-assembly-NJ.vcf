@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Peterpaul (Assembly),Luanne
-    TEL;TYPE=WORK,VOICE:732-695-3371
-    NOTE:NJ Assembly Member\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Luanne Peterpaul (Assembly)
+N;CHARSET=UTF-8:Peterpaul (Assembly);Luanne;;;
+TEL;TYPE=WORK,VOICE:732-695-3371
+NOTE;CHARSET=UTF-8:NJ Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:23:29.153965
+END:VCARD

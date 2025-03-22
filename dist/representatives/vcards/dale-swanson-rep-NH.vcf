@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Swanson (House),Dale
-    TEL;TYPE=WORK,VOICE:603-759-4241
-    NOTE:NH Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Dale Swanson (House)
+N;CHARSET=UTF-8:Swanson (House);Dale;;;
+TEL;TYPE=WORK,VOICE:603-759-4241
+NOTE;CHARSET=UTF-8:NH Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:40.970102
+END:VCARD

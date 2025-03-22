@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Stefano (Senate),Pat
-    TEL;TYPE=WORK,VOICE:717-787-7175
-    NOTE:PA Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Pat Stefano (Senate)
+N;CHARSET=UTF-8:Stefano (Senate);Pat;;;
+TEL;TYPE=WORK,VOICE:717-787-7175
+NOTE;CHARSET=UTF-8:PA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:25:31.572118
+END:VCARD

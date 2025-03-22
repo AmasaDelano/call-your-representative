@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Mendoza (House),Gloria
-    TEL;TYPE=WORK,VOICE:360-786-7960
-    NOTE:WA Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Gloria Mendoza (House)
+N;CHARSET=UTF-8:Mendoza (House);Gloria;;;
+TEL;TYPE=WORK,VOICE:360-786-7960
+NOTE;CHARSET=UTF-8:WA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:24.182111
+END:VCARD

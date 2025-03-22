@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:King-Hinds (House),Kimberlyn
-    TEL;TYPE=WORK,VOICE:202-225-2646
-    NOTE:US Representative, MP\n\nCommittees:\nTransportation and Infrastructure\nSmall Business\nContracting and Infrastructure\nEconomic Growth, Tax, and Capital Access\nVeterans' Affairs\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Kimberlyn King-Hinds (House)
+N;CHARSET=UTF-8:King-Hinds (House);Kimberlyn;;;
+TEL;TYPE=WORK,VOICE:202-225-2646
+NOTE;CHARSET=UTF-8:US Representative\, MP\n\nCommittees:\nTransportation and Infrastructure\nSmall Business\nContracting and Infrastructure\nEconomic Growth, Tax, and Capital Access\nVeterans' Affairs\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:42.075272
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Quick (Senate),Dan
-    TEL;TYPE=WORK,VOICE:402-471-2617
-    NOTE:NE Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Dan Quick (Senate)
+N;CHARSET=UTF-8:Quick (Senate);Dan;;;
+TEL;TYPE=WORK,VOICE:402-471-2617
+NOTE;CHARSET=UTF-8:NE Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:38.785910
+END:VCARD

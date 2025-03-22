@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Harshbarger (Senate),Bobby
-    TEL;TYPE=WORK,VOICE:615-741-5761
-    NOTE:TN Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Bobby Harshbarger (Senate)
+N;CHARSET=UTF-8:Harshbarger (Senate);Bobby;;;
+TEL;TYPE=WORK,VOICE:615-741-5761
+NOTE;CHARSET=UTF-8:TN Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:27:02.686493
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Vo (House),Hubert
-    TEL;TYPE=WORK,VOICE:281-988-0212
-    NOTE:TX Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Hubert Vo (House)
+N;CHARSET=UTF-8:Vo (House);Hubert;;;
+TEL;TYPE=WORK,VOICE:281-988-0212
+NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:27:29.632902
+END:VCARD

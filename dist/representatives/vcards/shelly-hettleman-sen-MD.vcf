@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Hettleman (Senate),Shelly
-    TEL;TYPE=WORK,VOICE:410-841-3131
-    NOTE:MD Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Shelly Hettleman (Senate)
+N;CHARSET=UTF-8:Hettleman (Senate);Shelly;;;
+TEL;TYPE=WORK,VOICE:410-841-3131
+NOTE;CHARSET=UTF-8:MD Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:03.576449
+END:VCARD

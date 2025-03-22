@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Rulli (House),Michael
-    TEL;TYPE=WORK,VOICE:202-225-5705
-    NOTE:US Representative, OH\n\nCommittees:\nEducation and Workforce\nEnergy and Commerce\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Michael Rulli (House)
+N;CHARSET=UTF-8:Rulli (House);Michael;;;
+TEL;TYPE=WORK,VOICE:202-225-5705
+NOTE;CHARSET=UTF-8:US Representative\, OH\n\nCommittees:\nEducation and Workforce\nEnergy and Commerce\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:37.387352
+END:VCARD

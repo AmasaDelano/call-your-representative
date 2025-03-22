@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Brackett (House),Robbie
-    TEL;TYPE=WORK,VOICE:850-717-5034
-    NOTE:FL Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Robbie Brackett (House)
+N;CHARSET=UTF-8:Brackett (House);Robbie;;;
+TEL;TYPE=WORK,VOICE:850-717-5034
+NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:19:33.048424
+END:VCARD

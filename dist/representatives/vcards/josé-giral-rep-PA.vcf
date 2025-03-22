@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Giral (House),José
-    TEL;TYPE=WORK,VOICE:717-787-1407
-    NOTE:PA Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:José Giral (House)
+N;CHARSET=UTF-8:Giral (House);José;;;
+TEL;TYPE=WORK,VOICE:717-787-1407
+NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:25:12.026573
+END:VCARD

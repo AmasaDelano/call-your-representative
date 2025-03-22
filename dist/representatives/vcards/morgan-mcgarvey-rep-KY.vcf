@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:McGarvey (House),Morgan
-    TEL;TYPE=WORK,VOICE:202-225-5401
-    NOTE:US Representative, KY\n\nCommittees:\nThe Budget\nSmall Business\nVeterans' Affairs\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Morgan McGarvey (House)
+N;CHARSET=UTF-8:McGarvey (House);Morgan;;;
+TEL;TYPE=WORK,VOICE:202-225-5401
+NOTE;CHARSET=UTF-8:US Representative\, KY\n\nCommittees:\nThe Budget\nSmall Business\nVeterans' Affairs\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:35.575823
+END:VCARD

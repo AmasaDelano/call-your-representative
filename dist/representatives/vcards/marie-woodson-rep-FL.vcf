@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Woodson (House),Marie
-    TEL;TYPE=WORK,VOICE:850-717-5105
-    NOTE:FL Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Marie Woodson (House)
+N;CHARSET=UTF-8:Woodson (House);Marie;;;
+TEL;TYPE=WORK,VOICE:850-717-5105
+NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:19:26.935196
+END:VCARD

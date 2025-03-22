@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Achor (House),Brandon
-    TEL;TYPE=WORK,VOICE:501-682-6211
-    NOTE:AR Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Brandon Achor (House)
+N;CHARSET=UTF-8:Achor (House);Brandon;;;
+TEL;TYPE=WORK,VOICE:501-682-6211
+NOTE;CHARSET=UTF-8:AR Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:17:25.919199
+END:VCARD

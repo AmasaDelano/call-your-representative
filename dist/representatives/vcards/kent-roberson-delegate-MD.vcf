@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Roberson (House),Kent
-    TEL;TYPE=WORK,VOICE:410-841-3557
-    NOTE:MD Delegate\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Kent Roberson (House)
+N;CHARSET=UTF-8:Roberson (House);Kent;;;
+TEL;TYPE=WORK,VOICE:410-841-3557
+NOTE;CHARSET=UTF-8:MD Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:02.936477
+END:VCARD

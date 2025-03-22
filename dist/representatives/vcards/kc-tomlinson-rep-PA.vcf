@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Tomlinson (House),K.C.
-    TEL;TYPE=WORK,VOICE:717-783-7319
-    NOTE:PA Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:K.C. Tomlinson (House)
+N;CHARSET=UTF-8:Tomlinson (House);K.C.;;;
+TEL;TYPE=WORK,VOICE:717-783-7319
+NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:25:14.740724
+END:VCARD

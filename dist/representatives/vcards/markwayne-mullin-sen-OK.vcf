@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Mullin (Senate),Markwayne
-    TEL;TYPE=WORK,VOICE:202-224-4721
-    NOTE:US Senator, OK\n\nCommittees:\nIndian Affairs\nAppropriations\nArmed Services\nSeapower\nAirland\nEmerging Threats and Capabilities\nHealth, Education, Labor, and Pensions\nEmployment and Workplace Safety\nPrimary Health and Retirement Security\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Markwayne Mullin (Senate)
+N;CHARSET=UTF-8:Mullin (Senate);Markwayne;;;
+TEL;TYPE=WORK,VOICE:202-224-4721
+NOTE;CHARSET=UTF-8:US Senator\, OK\n\nCommittees:\nIndian Affairs\nAppropriations\nArmed Services\nSeapower\nAirland\nEmerging Threats and Capabilities\nHealth, Education, Labor, and Pensions\nEmployment and Workplace Safety\nPrimary Health and Retirement Security\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:29.908235
+END:VCARD

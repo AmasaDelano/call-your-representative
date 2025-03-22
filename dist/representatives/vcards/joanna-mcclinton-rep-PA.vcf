@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:McClinton (House),Joanna
-    TEL;TYPE=WORK,VOICE:717-772-9850
-    NOTE:PA Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Joanna McClinton (House)
+N;CHARSET=UTF-8:McClinton (House);Joanna;;;
+TEL;TYPE=WORK,VOICE:717-772-9850
+NOTE;CHARSET=UTF-8:PA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:25:07.099306
+END:VCARD

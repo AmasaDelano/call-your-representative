@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Smullen (Assembly),Robert
-    TEL;TYPE=WORK,VOICE:518-455-5393
-    NOTE:NY Assembly Member\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Robert Smullen (Assembly)
+N;CHARSET=UTF-8:Smullen (Assembly);Robert;;;
+TEL;TYPE=WORK,VOICE:518-455-5393
+NOTE;CHARSET=UTF-8:NY Assembly Member\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:24:06.894881
+END:VCARD

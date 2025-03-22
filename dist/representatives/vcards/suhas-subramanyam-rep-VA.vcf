@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Subramanyam (House),Suhas
-    TEL;TYPE=WORK,VOICE:202-225-5136
-    NOTE:US Representative, VA\n\nCommittees:\nOversight and Government Reform\nScience, Space, and Technology\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Suhas Subramanyam (House)
+N;CHARSET=UTF-8:Subramanyam (House);Suhas;;;
+TEL;TYPE=WORK,VOICE:202-225-5136
+NOTE;CHARSET=UTF-8:US Representative\, VA\n\nCommittees:\nOversight and Government Reform\nScience, Space, and Technology\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:45.612072
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Cross (House),Lindsay
-    TEL;TYPE=WORK,VOICE:850-717-5060
-    NOTE:FL Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Lindsay Cross (House)
+N;CHARSET=UTF-8:Cross (House);Lindsay;;;
+TEL;TYPE=WORK,VOICE:850-717-5060
+NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:19:25.201995
+END:VCARD

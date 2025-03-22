@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Chan (Senate),Steve
-    TEL;TYPE=WORK,VOICE:518-455-3401
-    NOTE:NY Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Steve Chan (Senate)
+N;CHARSET=UTF-8:Chan (Senate);Steve;;;
+TEL;TYPE=WORK,VOICE:518-455-3401
+NOTE;CHARSET=UTF-8:NY Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:24:08.465357
+END:VCARD

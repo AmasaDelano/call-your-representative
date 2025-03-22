@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Luna (House),Anna
-    TEL;TYPE=WORK,VOICE:202-225-5961
-    NOTE:US Representative, FL\n\nCommittees:\nForeign Affairs\nOversight and Government Reform\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Anna Luna (House)
+N;CHARSET=UTF-8:Luna (House);Anna;;;
+TEL;TYPE=WORK,VOICE:202-225-5961
+NOTE;CHARSET=UTF-8:US Representative\, FL\n\nCommittees:\nForeign Affairs\nOversight and Government Reform\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:34.964009
+END:VCARD

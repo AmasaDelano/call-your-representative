@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Jordan (House),Sydney
-    TEL;TYPE=WORK,VOICE:651-296-4219
-    NOTE:MN Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Sydney Jordan (House)
+N;CHARSET=UTF-8:Jordan (House);Sydney;;;
+TEL;TYPE=WORK,VOICE:651-296-4219
+NOTE;CHARSET=UTF-8:MN Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:29.198006
+END:VCARD

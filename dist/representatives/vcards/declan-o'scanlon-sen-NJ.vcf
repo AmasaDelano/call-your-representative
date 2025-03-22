@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:O'Scanlon (Senate),Declan
-    TEL;TYPE=WORK,VOICE:732-444-1838
-    NOTE:NJ Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Declan O'Scanlon (Senate)
+N;CHARSET=UTF-8:O'Scanlon (Senate);Declan;;;
+TEL;TYPE=WORK,VOICE:732-444-1838
+NOTE;CHARSET=UTF-8:NJ Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:23:19.490468
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Moyle (House),Mike
-    TEL;TYPE=WORK,VOICE:208-332-1122
-    NOTE:ID Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Mike Moyle (House)
+N;CHARSET=UTF-8:Moyle (House);Mike;;;
+TEL;TYPE=WORK,VOICE:208-332-1122
+NOTE;CHARSET=UTF-8:ID Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:19:56.005698
+END:VCARD

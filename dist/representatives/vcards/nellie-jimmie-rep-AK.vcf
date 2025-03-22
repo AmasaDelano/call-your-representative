@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Jimmie (House),Nellie
-    TEL;TYPE=WORK,VOICE:907-465-4942
-    NOTE:AK Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Nellie Jimmie (House)
+N;CHARSET=UTF-8:Jimmie (House);Nellie;;;
+TEL;TYPE=WORK,VOICE:907-465-4942
+NOTE;CHARSET=UTF-8:AK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:17:22.178420
+END:VCARD

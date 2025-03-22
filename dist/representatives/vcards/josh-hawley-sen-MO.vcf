@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Hawley (Senate),Josh
-    TEL;TYPE=WORK,VOICE:202-224-6154
-    NOTE:US Senator, MO\n\nCommittees:\nHomeland Security and Governmental Affairs\nPermanent Subcommittee on Investigations\nDisaster Management, District of Columbia, and Census\nHealth, Education, Labor, and Pensions\nEmployment and Workplace Safety\nPrimary Health and Retirement Security\nThe Judiciary\nSmall Business and Entrepreneurship\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Josh Hawley (Senate)
+N;CHARSET=UTF-8:Hawley (Senate);Josh;;;
+TEL;TYPE=WORK,VOICE:202-224-6154
+NOTE;CHARSET=UTF-8:US Senator\, MO\n\nCommittees:\nHomeland Security and Governmental Affairs\nPermanent Subcommittee on Investigations\nDisaster Management, District of Columbia, and Census\nHealth, Education, Labor, and Pensions\nEmployment and Workplace Safety\nPrimary Health and Retirement Security\nThe Judiciary\nSmall Business and Entrepreneurship\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:33.002109
+END:VCARD

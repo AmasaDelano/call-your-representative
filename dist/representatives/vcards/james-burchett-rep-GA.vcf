@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Burchett (House),James
-    TEL;TYPE=WORK,VOICE:404-656-5024
-    NOTE:GA Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:James Burchett (House)
+N;CHARSET=UTF-8:Burchett (House);James;;;
+TEL;TYPE=WORK,VOICE:404-656-5024
+NOTE;CHARSET=UTF-8:GA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:19:45.167977
+END:VCARD

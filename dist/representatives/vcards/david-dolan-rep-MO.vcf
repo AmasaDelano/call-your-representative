@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Dolan (House),David
-    TEL;TYPE=WORK,VOICE:573-751-5471
-    NOTE:MO Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:David Dolan (House)
+N;CHARSET=UTF-8:Dolan (House);David;;;
+TEL;TYPE=WORK,VOICE:573-751-5471
+NOTE;CHARSET=UTF-8:MO Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:35.265735
+END:VCARD

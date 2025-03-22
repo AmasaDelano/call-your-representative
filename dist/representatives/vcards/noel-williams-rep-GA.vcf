@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Williams (House),Noel
-    TEL;TYPE=WORK,VOICE:404-656-5146
-    NOTE:GA Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Noel Williams (House)
+N;CHARSET=UTF-8:Williams (House);Noel;;;
+TEL;TYPE=WORK,VOICE:404-656-5146
+NOTE;CHARSET=UTF-8:GA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:19:46.169502
+END:VCARD

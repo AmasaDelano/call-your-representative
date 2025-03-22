@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Boudreaux (Senate),Gerald
-    TEL;TYPE=WORK,VOICE:337-267-7520
-    NOTE:LA Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Gerald Boudreaux (Senate)
+N;CHARSET=UTF-8:Boudreaux (Senate);Gerald;;;
+TEL;TYPE=WORK,VOICE:337-267-7520
+NOTE;CHARSET=UTF-8:LA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:21:37.216511
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Sanders (Senate),Bernie
-    TEL;TYPE=WORK,VOICE:202-224-5141
-    NOTE:US Senator, VT\n\nCommittees:\nThe Budget\nEnvironment and Public Works\nFinance\nHealth, Education, Labor, and Pensions\nEducation and the American Family\nEmployment and Workplace Safety\nPrimary Health and Retirement Security\nVeterans' Affairs\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Bernie Sanders (Senate)
+N;CHARSET=UTF-8:Sanders (Senate);Bernie;;;
+TEL;TYPE=WORK,VOICE:202-224-5141
+NOTE;CHARSET=UTF-8:US Senator\, VT\n\nCommittees:\nThe Budget\nEnvironment and Public Works\nFinance\nHealth, Education, Labor, and Pensions\nEducation and the American Family\nEmployment and Workplace Safety\nPrimary Health and Retirement Security\nVeterans' Affairs\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:26.546482
+END:VCARD

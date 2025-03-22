@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Bierlein (House),Matt
-    TEL;TYPE=WORK,VOICE:517-373-8962
-    NOTE:MI Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Matt Bierlein (House)
+N;CHARSET=UTF-8:Bierlein (House);Matt;;;
+TEL;TYPE=WORK,VOICE:517-373-8962
+NOTE;CHARSET=UTF-8:MI Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:21.097406
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Warnock (Senate),Raphael
-    TEL;TYPE=WORK,VOICE:202-224-3643
-    NOTE:US Senator, GA\n\nCommittees:\nSenate Special Committee on Aging\nAgriculture, Nutrition, and Forestry\nConservation, Forestry, Natural Resources, and Biotechnology\nRural Development, Energy, and Credit\nFood and Nutrition, Specialty Crops, Organics, and Research\nBanking, Housing, and Urban Affairs\nSecurities, Insurance, and Investment\nFinancial Institutions and Consumer Protection\nEconomic Policy\nFinance\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Raphael Warnock (Senate)
+N;CHARSET=UTF-8:Warnock (Senate);Raphael;;;
+TEL;TYPE=WORK,VOICE:202-224-3643
+NOTE;CHARSET=UTF-8:US Senator\, GA\n\nCommittees:\nSenate Special Committee on Aging\nAgriculture, Nutrition, and Forestry\nConservation, Forestry, Natural Resources, and Biotechnology\nRural Development, Energy, and Credit\nFood and Nutrition, Specialty Crops, Organics, and Research\nBanking, Housing, and Urban Affairs\nSecurities, Insurance, and Investment\nFinancial Institutions and Consumer Protection\nEconomic Policy\nFinance\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:34.194762
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Persons-Mulicka (House),Jenna
-    TEL;TYPE=WORK,VOICE:850-717-5078
-    NOTE:FL Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Jenna Persons-Mulicka (House)
+N;CHARSET=UTF-8:Persons-Mulicka (House);Jenna;;;
+TEL;TYPE=WORK,VOICE:850-717-5078
+NOTE;CHARSET=UTF-8:FL Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:19:13.308197
+END:VCARD

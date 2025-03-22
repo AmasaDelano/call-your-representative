@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Bowers (House),Rhetta
-    TEL;TYPE=WORK,VOICE:972-272-6237
-    NOTE:TX Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Rhetta Bowers (House)
+N;CHARSET=UTF-8:Bowers (House);Rhetta;;;
+TEL;TYPE=WORK,VOICE:972-272-6237
+NOTE;CHARSET=UTF-8:TX Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:27:48.327527
+END:VCARD

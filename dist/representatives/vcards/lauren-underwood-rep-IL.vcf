@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Underwood (House),Lauren
-    TEL;TYPE=WORK,VOICE:202-225-2976
-    NOTE:US Representative, IL\n\nCommittees:\nAppropriations\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Lauren Underwood (House)
+N;CHARSET=UTF-8:Underwood (House);Lauren;;;
+TEL;TYPE=WORK,VOICE:202-225-2976
+NOTE;CHARSET=UTF-8:US Representative\, IL\n\nCommittees:\nAppropriations\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:32.233506
+END:VCARD

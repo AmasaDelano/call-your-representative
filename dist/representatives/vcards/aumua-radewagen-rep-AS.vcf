@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Radewagen (House),Aumua
-    TEL;TYPE=WORK,VOICE:202-225-8577
-    NOTE:US Representative, AS\n\nCommittees:\nForeign Affairs\nNatural Resources\nWater, Wildlife and Fisheries\nIndian and Insular Affairs\nVeterans' Affairs\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Aumua Radewagen (House)
+N;CHARSET=UTF-8:Radewagen (House);Aumua;;;
+TEL;TYPE=WORK,VOICE:202-225-8577
+NOTE;CHARSET=UTF-8:US Representative\, AS\n\nCommittees:\nForeign Affairs\nNatural Resources\nWater, Wildlife and Fisheries\nIndian and Insular Affairs\nVeterans' Affairs\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:30.753870
+END:VCARD

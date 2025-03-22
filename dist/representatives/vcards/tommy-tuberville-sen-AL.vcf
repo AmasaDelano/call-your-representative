@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Tuberville (Senate),Tommy
-    TEL;TYPE=WORK,VOICE:202-224-4124
-    NOTE:US Senator, AL\n\nCommittees:\nSenate Special Committee on Aging\nAgriculture, Nutrition, and Forestry\nCommodities, Derivatives, Risk Management, and Trade\nRural Development, Energy, and Credit\nFood and Nutrition, Specialty Crops, Organics, and Research\nArmed Services\nSeapower\nStrategic Forces\nPersonnel\nHealth, Education, Labor, and Pensions\nEducation and the American Family\nEmployment and Workplace Safety\nVeterans' Affairs\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Tommy Tuberville (Senate)
+N;CHARSET=UTF-8:Tuberville (Senate);Tommy;;;
+TEL;TYPE=WORK,VOICE:202-224-4124
+NOTE;CHARSET=UTF-8:US Senator\, AL\n\nCommittees:\nSenate Special Committee on Aging\nAgriculture, Nutrition, and Forestry\nCommodities, Derivatives, Risk Management, and Trade\nRural Development, Energy, and Credit\nFood and Nutrition, Specialty Crops, Organics, and Research\nArmed Services\nSeapower\nStrategic Forces\nPersonnel\nHealth, Education, Labor, and Pensions\nEducation and the American Family\nEmployment and Workplace Safety\nVeterans' Affairs\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:33.197916
+END:VCARD

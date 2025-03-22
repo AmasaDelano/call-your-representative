@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Cherry (House),Mike
-    TEL;TYPE=WORK,VOICE:804-698-1074
-    NOTE:VA Delegate\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Mike Cherry (House)
+N;CHARSET=UTF-8:Cherry (House);Mike;;;
+TEL;TYPE=WORK,VOICE:804-698-1074
+NOTE;CHARSET=UTF-8:VA Delegate\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:22.681934
+END:VCARD

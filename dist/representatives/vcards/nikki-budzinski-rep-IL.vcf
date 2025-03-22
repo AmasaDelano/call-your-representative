@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Budzinski (House),Nikki
-    TEL;TYPE=WORK,VOICE:202-225-2371
-    NOTE:US Representative, IL\n\nCommittees:\nAgriculture\nConservation, Research, and Biotechnology\nGeneral Farm Commodities, Risk Management, and Credit\nCommodity Markets, Digital Assets, and Rural Development\nVeterans' Affairs\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Nikki Budzinski (House)
+N;CHARSET=UTF-8:Budzinski (House);Nikki;;;
+TEL;TYPE=WORK,VOICE:202-225-2371
+NOTE;CHARSET=UTF-8:US Representative\, IL\n\nCommittees:\nAgriculture\nConservation, Research, and Biotechnology\nGeneral Farm Commodities, Risk Management, and Credit\nCommodity Markets, Digital Assets, and Rural Development\nVeterans' Affairs\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:35.512011
+END:VCARD

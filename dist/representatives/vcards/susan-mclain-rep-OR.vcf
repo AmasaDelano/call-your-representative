@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:McLain (House),Susan
-    TEL;TYPE=WORK,VOICE:503-986-1429
-    NOTE:OR Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Susan McLain (House)
+N;CHARSET=UTF-8:McLain (House);Susan;;;
+TEL;TYPE=WORK,VOICE:503-986-1429
+NOTE;CHARSET=UTF-8:OR Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:24:37.534561
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Braud (House),Jacob
-    TEL;TYPE=WORK,VOICE:504-230-2360
-    NOTE:LA Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Jacob Braud (House)
+N;CHARSET=UTF-8:Braud (House);Jacob;;;
+TEL;TYPE=WORK,VOICE:504-230-2360
+NOTE;CHARSET=UTF-8:LA Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:21:38.746533
+END:VCARD

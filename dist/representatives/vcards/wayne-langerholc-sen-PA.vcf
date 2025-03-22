@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Langerholc (Senate),Wayne
-    TEL;TYPE=WORK,VOICE:717-787-5400
-    NOTE:PA Senator\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Wayne Langerholc (Senate)
+N;CHARSET=UTF-8:Langerholc (Senate);Wayne;;;
+TEL;TYPE=WORK,VOICE:717-787-5400
+NOTE;CHARSET=UTF-8:PA Senator\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:25:47.173917
+END:VCARD

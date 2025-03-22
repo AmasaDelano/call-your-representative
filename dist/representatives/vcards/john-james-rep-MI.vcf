@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:James (House),John
-    TEL;TYPE=WORK,VOICE:202-225-4961
-    NOTE:US Representative, MI\n\nCommittees:\nEnergy and Commerce\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:John James (House)
+N;CHARSET=UTF-8:James (House);John;;;
+TEL;TYPE=WORK,VOICE:202-225-4961
+NOTE;CHARSET=UTF-8:US Representative\, MI\n\nCommittees:\nEnergy and Commerce\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:35.632033
+END:VCARD

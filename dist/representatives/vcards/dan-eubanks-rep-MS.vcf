@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Eubanks (House),Dan
-    TEL;TYPE=WORK,VOICE:601-359-4082
-    NOTE:MS Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Dan Eubanks (House)
+N;CHARSET=UTF-8:Eubanks (House);Dan;;;
+TEL;TYPE=WORK,VOICE:601-359-4082
+NOTE;CHARSET=UTF-8:MS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:31.046041
+END:VCARD

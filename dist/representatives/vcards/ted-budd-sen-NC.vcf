@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Budd (Senate),Ted
-    TEL;TYPE=WORK,VOICE:202-224-3154
-    NOTE:US Senator, NC\n\nCommittees:\nJoint Economic Committee (Joint)\nSenate Select Committee on Intelligence\nArmed Services\nAirland\nPersonnel\nEmerging Threats and Capabilities\nCybersecurity\nCommerce, Science, and Transportation\nSmall Business and Entrepreneurship\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Ted Budd (Senate)
+N;CHARSET=UTF-8:Budd (Senate);Ted;;;
+TEL;TYPE=WORK,VOICE:202-224-3154
+NOTE;CHARSET=UTF-8:US Senator\, NC\n\nCommittees:\nJoint Economic Committee (Joint)\nSenate Select Committee on Intelligence\nArmed Services\nAirland\nPersonnel\nEmerging Threats and Capabilities\nCybersecurity\nCommerce, Science, and Transportation\nSmall Business and Entrepreneurship\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:28:31.532046
+END:VCARD

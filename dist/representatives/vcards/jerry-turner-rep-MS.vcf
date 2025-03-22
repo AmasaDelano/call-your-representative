@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Turner (House),Jerry
-    TEL;TYPE=WORK,VOICE:601-359-3328
-    NOTE:MS Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Jerry Turner (House)
+N;CHARSET=UTF-8:Turner (House);Jerry;;;
+TEL;TYPE=WORK,VOICE:601-359-3328
+NOTE;CHARSET=UTF-8:MS Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:22:31.882266
+END:VCARD

@@ -1,6 +1,8 @@
 BEGIN:VCARD
-    VERSION:3.0
-    N:Humphrey (House),Justin
-    TEL;TYPE=WORK,VOICE:405-557-7382
-    NOTE:OK Representative\n\n(Created 2025-03-21, update at CallYourRepresentative.us)
-    END:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Justin Humphrey (House)
+N;CHARSET=UTF-8:Humphrey (House);Justin;;;
+TEL;TYPE=WORK,VOICE:405-557-7382
+NOTE;CHARSET=UTF-8:OK Representative\n\n(Created 2025-03-22\, update at CallYourRepresentative.us)
+REV:2025-03-22T12:24:28.669770
+END:VCARD
