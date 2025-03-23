@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:John Kennedy (LA Senate)
-N;CHARSET=UTF-8:Kennedy (LA Senate);John;;;
+FN;CHARSET=UTF-8:John Kennedy (US Senate)
+N;CHARSET=UTF-8:Kennedy (US Senate);John;;;
 TEL;TYPE=WORK,VOICE:202-224-4623
 URL;CHARSET=UTF-8:https://www.kennedy.senate.gov/public/email-me
 NOTE;CHARSET=UTF-8:US Senator for LA\n\nCommittees he's on:\n- Appropriations\n- Banking, Housing, and Urban Affairs\n- Securities, Insurance, and Investment\n- Financial Institutions and Consumer Protection\n- Economic Policy\n- The Budget\n- The Judiciary\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:12.922896
+REV:2025-03-22T19:58:59.952515
 END:VCARD

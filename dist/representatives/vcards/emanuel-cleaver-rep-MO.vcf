@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Emanuel Cleaver (MO House)
-N;CHARSET=UTF-8:Cleaver (MO House);Emanuel;;;
+FN;CHARSET=UTF-8:Emanuel Cleaver (US House)
+N;CHARSET=UTF-8:Cleaver (US House);Emanuel;;;
 TEL;TYPE=WORK,VOICE:202-225-4535
 URL;CHARSET=UTF-8:https://cleaver.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from MO\, District 5\n\nCommittees he's on:\n- Financial Services\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:08.458504
+REV:2025-03-22T19:58:56.118366
 END:VCARD

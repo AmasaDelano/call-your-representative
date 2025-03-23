@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Juan Vargas (CA House)
-N;CHARSET=UTF-8:Vargas (CA House);Juan;;;
+FN;CHARSET=UTF-8:Juan Vargas (US House)
+N;CHARSET=UTF-8:Vargas (US House);Juan;;;
 TEL;TYPE=WORK,VOICE:202-225-8045
 URL;CHARSET=UTF-8:https://vargas.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from CA\, District 52\n\nCommittees he's on:\n- Financial Services\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:11.305271
+REV:2025-03-22T19:58:58.681684
 END:VCARD

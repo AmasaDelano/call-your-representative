@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Kevin Hern (OK House)
-N;CHARSET=UTF-8:Hern (OK House);Kevin;;;
+FN;CHARSET=UTF-8:Kevin Hern (US House)
+N;CHARSET=UTF-8:Hern (US House);Kevin;;;
 TEL;TYPE=WORK,VOICE:202-225-2211
 URL;CHARSET=UTF-8:https://hern.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from OK\, District 1\n\nCommittees he's on:\n- Ways and Means\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:13.902802
+REV:2025-03-22T19:59:00.764130
 END:VCARD

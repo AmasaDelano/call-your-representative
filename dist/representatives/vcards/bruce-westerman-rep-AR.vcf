@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Bruce Westerman (AR House)
-N;CHARSET=UTF-8:Westerman (AR House);Bruce;;;
+FN;CHARSET=UTF-8:Bruce Westerman (US House)
+N;CHARSET=UTF-8:Westerman (US House);Bruce;;;
 TEL;TYPE=WORK,VOICE:202-225-3772
 URL;CHARSET=UTF-8:https://westerman.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from AR\, District 4\n\nCommittees he's on:\n- Natural Resources\n- Transportation and Infrastructure\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:12.112173
+REV:2025-03-22T19:58:59.318316
 END:VCARD

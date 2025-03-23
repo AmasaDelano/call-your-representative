@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Roger Williams (TX House)
-N;CHARSET=UTF-8:Williams (TX House);Roger;;;
+FN;CHARSET=UTF-8:Roger Williams (US House)
+N;CHARSET=UTF-8:Williams (US House);Roger;;;
 TEL;TYPE=WORK,VOICE:202-225-9896
 URL;CHARSET=UTF-8:https://williams.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from TX\, District 25\n\nCommittees he's on:\n- Financial Services\n- Small Business\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:11.828684
+REV:2025-03-22T19:58:59.096674
 END:VCARD

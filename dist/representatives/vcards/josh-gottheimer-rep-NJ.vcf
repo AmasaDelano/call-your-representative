@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Josh Gottheimer (NJ House)
-N;CHARSET=UTF-8:Gottheimer (NJ House);Josh;;;
+FN;CHARSET=UTF-8:Josh Gottheimer (US House)
+N;CHARSET=UTF-8:Gottheimer (US House);Josh;;;
 TEL;TYPE=WORK,VOICE:202-225-4465
 URL;CHARSET=UTF-8:https://gottheimer.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from NJ\, District 5\n\nCommittees he's on:\n- House Permanent Select Committee on Intelligence\n- Financial Services\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:13.570574
+REV:2025-03-22T19:59:00.424777
 END:VCARD

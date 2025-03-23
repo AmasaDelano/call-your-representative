@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:George Whitesides (CA House)
-N;CHARSET=UTF-8:Whitesides (CA House);George;;;
+FN;CHARSET=UTF-8:George Whitesides (US House)
+N;CHARSET=UTF-8:Whitesides (US House);George;;;
 TEL;TYPE=WORK,VOICE:202-225-1956
 URL;CHARSET=UTF-8:https://whitesides.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from CA\, District 27\n\nCommittees he's on:\n- Armed Services\n- Science, Space, and Technology\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:21.642247
+REV:2025-03-22T19:59:09.471178
 END:VCARD

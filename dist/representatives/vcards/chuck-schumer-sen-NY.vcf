@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Chuck Schumer (NY Senate)
-N;CHARSET=UTF-8:Schumer (NY Senate);Chuck;;;
+FN;CHARSET=UTF-8:Chuck Schumer (US Senate)
+N;CHARSET=UTF-8:Schumer (US Senate);Chuck;;;
 TEL;TYPE=WORK,VOICE:202-224-6542
 URL;CHARSET=UTF-8:https://www.schumer.senate.gov/contact/email-chuck
 NOTE;CHARSET=UTF-8:US Senator for NY\n\nCommittees he's on:\n- Senate Select Committee on Intelligence\n- Rules and Administration\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:10.163274
+REV:2025-03-22T19:58:57.783217
 END:VCARD

@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Betty McCollum (MN House)
-N;CHARSET=UTF-8:McCollum (MN House);Betty;;;
+FN;CHARSET=UTF-8:Betty McCollum (US House)
+N;CHARSET=UTF-8:McCollum (US House);Betty;;;
 TEL;TYPE=WORK,VOICE:202-225-6631
 URL;CHARSET=UTF-8:https://mccollum.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from MN\, District 4\n\nCommittees she's on:\n- Appropriations\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:09.671028
+REV:2025-03-22T19:58:57.290456
 END:VCARD

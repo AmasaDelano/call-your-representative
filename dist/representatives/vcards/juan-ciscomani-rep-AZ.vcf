@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Juan Ciscomani (AZ House)
-N;CHARSET=UTF-8:Ciscomani (AZ House);Juan;;;
+FN;CHARSET=UTF-8:Juan Ciscomani (US House)
+N;CHARSET=UTF-8:Ciscomani (US House);Juan;;;
 TEL;TYPE=WORK,VOICE:202-225-2542
 URL;CHARSET=UTF-8:https://ciscomani.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from AZ\, District 6\n\nCommittees he's on:\n- Appropriations\n- Veterans' Affairs\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:17.090581
+REV:2025-03-22T19:59:03.684599
 END:VCARD

@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Abraham Hamadeh (AZ House)
-N;CHARSET=UTF-8:Hamadeh (AZ House);Abraham;;;
+FN;CHARSET=UTF-8:Abraham Hamadeh (US House)
+N;CHARSET=UTF-8:Hamadeh (US House);Abraham;;;
 TEL;TYPE=WORK,VOICE:202-225-4576
 URL;CHARSET=UTF-8:https://hamadeh.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from AZ\, District 8\n\nCommittees he's on:\n- Armed Services\n- Veterans' Affairs\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:21.192041
+REV:2025-03-22T19:59:08.705639
 END:VCARD

@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Dwight Evans (PA House)
-N;CHARSET=UTF-8:Evans (PA House);Dwight;;;
+FN;CHARSET=UTF-8:Dwight Evans (US House)
+N;CHARSET=UTF-8:Evans (US House);Dwight;;;
 TEL;TYPE=WORK,VOICE:202-225-4001
 URL;CHARSET=UTF-8:https://evans.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from PA\, District 3\n\nCommittees he's on:\n- Ways and Means\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:12.904734
+REV:2025-03-22T19:58:59.928113
 END:VCARD

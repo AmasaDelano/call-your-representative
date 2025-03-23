@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Tom Barrett (MI House)
-N;CHARSET=UTF-8:Barrett (MI House);Tom;;;
+FN;CHARSET=UTF-8:Tom Barrett (US House)
+N;CHARSET=UTF-8:Barrett (US House);Tom;;;
 TEL;TYPE=WORK,VOICE:202-225-4872
 URL;CHARSET=UTF-8:https://barrett.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from MI\, District 7\n\nCommittees he's on:\n- Transportation and Infrastructure\n- Veterans' Affairs\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:23.557395
+REV:2025-03-22T19:59:12.748711
 END:VCARD

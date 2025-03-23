@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Brian Jack (GA House)
-N;CHARSET=UTF-8:Jack (GA House);Brian;;;
+FN;CHARSET=UTF-8:Brian Jack (US House)
+N;CHARSET=UTF-8:Jack (US House);Brian;;;
 TEL;TYPE=WORK,VOICE:202-225-5901
 URL;CHARSET=UTF-8:https://jack.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from GA\, District 3\n\nCommittees he's on:\n- Oversight and Government Reform\n- Rules\n- Small Business\n- Innovation, Entrepreneurship, and Workforce Development\n- Contracting and Infrastructure\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:22.731567
+REV:2025-03-22T19:59:11.258425
 END:VCARD

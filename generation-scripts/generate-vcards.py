@@ -14,7 +14,7 @@ import yaml
 import urllib3
 from vcard.vcard_validator import VcardValidator
 
-USE_CACHED_DATA = True
+USE_CACHED_DATA = False
 OVERWRITE_IMAGES = False
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -50,14 +50,30 @@ def get_all_state_legislators():
 
     # PROCESS ALL THE LEGISLATURE PEOPLE FILES
     state_members = []
+    state_committees = {}
 
     states = {}
     with open("./generation-scripts/state-legislature.json", encoding="utf-8") as file:
         contents = file.read()
         states = json.loads(contents)
     for state in states.keys():
-        dir_path = f"{state_repo_local_path}/data/{state.lower()}/legislature/"
-        file_names = os.listdir(dir_path)
+        
+        # LOAD COMMITTEES
+        committees_dir_path = f"{state_repo_local_path}/data/{state.lower()}/committees/"
+        file_names = os.listdir(committees_dir_path)
+        state_committees[state] = []
+        for file_name in file_names:
+            file_path = os.path.join(dir_path, file_name)
+            print(file_path)
+            with open(file_path, encoding="utf-8") as file:
+                state_committee = yaml.safe_load(file)
+                state_committee = DefaultMunch.fromDict(state_committee)
+                state_committees[state].append(state_committee)
+                print(state_committee)
+
+        # LOAD LEGISLATURE
+        legislature_dir_path = f"{state_repo_local_path}/data/{state.lower()}/legislature/"
+        file_names = os.listdir(legislature_dir_path)
         for file_name in file_names:
             file_path = os.path.join(dir_path, file_name)
             print(file_path)
@@ -117,12 +133,18 @@ def create_contact_card_and_lookup_data(id, first_name, last_name, nickname, off
         rep_type_abbr = "delegate"
     else:
         raise Exception(f"New rep_type found: {rep_type}")
-    chamber = f"{state_abbr} {chamber}"
+    
+    if is_state:
+        chamber = f"{state_abbr} {chamber}"
+    else:
+        chamber = f"US {chamber}"
+    
     tagline = f"US {role} for {state_abbr}"
     if is_state:
         tagline = f"{role} in {state_abbr} Legislature\\, District {district}"
     elif rep_type != "sen":
         tagline = f"US Congress, Representative from {state_abbr}\\, District {district}"
+    
     committee_entries = ""
     possessive_subject_pronoun = "they're"
     if gender == "F":

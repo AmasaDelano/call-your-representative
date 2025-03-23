@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rick Crawford (AR House)
-N;CHARSET=UTF-8:Crawford (AR House);Rick;;;
+FN;CHARSET=UTF-8:Rick Crawford (US House)
+N;CHARSET=UTF-8:Crawford (US House);Rick;;;
 TEL;TYPE=WORK,VOICE:202-225-4076
 URL;CHARSET=UTF-8:https://crawford.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from AR\, District 1\n\nCommittees he's on:\n- House Permanent Select Committee on Intelligence\n- Agriculture\n- General Farm Commodities, Risk Management, and Credit\n- Transportation and Infrastructure\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:08.651359
+REV:2025-03-22T19:58:56.288716
 END:VCARD

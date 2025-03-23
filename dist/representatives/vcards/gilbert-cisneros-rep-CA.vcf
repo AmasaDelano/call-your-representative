@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Gilbert Cisneros (CA House)
-N;CHARSET=UTF-8:Cisneros (CA House);Gilbert;;;
+FN;CHARSET=UTF-8:Gilbert Cisneros (US House)
+N;CHARSET=UTF-8:Cisneros (US House);Gilbert;;;
 TEL;TYPE=WORK,VOICE:202-225-5256
 URL;CHARSET=UTF-8:https://cisneros.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from CA\, District 31\n\nCommittees he's on:\n- Armed Services\n- Small Business\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:20.236348
+REV:2025-03-22T19:59:07.364663
 END:VCARD

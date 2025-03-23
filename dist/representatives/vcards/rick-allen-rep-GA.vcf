@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rick Allen (GA House)
-N;CHARSET=UTF-8:Allen (GA House);Rick;;;
+FN;CHARSET=UTF-8:Rick Allen (US House)
+N;CHARSET=UTF-8:Allen (US House);Rick;;;
 TEL;TYPE=WORK,VOICE:202-225-2823
 URL;CHARSET=UTF-8:https://allen.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from GA\, District 12\n\nCommittees he's on:\n- Education and Workforce\n- Energy and Commerce\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:12.305783
+REV:2025-03-22T19:58:59.465924
 END:VCARD

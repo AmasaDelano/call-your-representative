@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Victoria Spartz (IN House)
-N;CHARSET=UTF-8:Spartz (IN House);Victoria;;;
+FN;CHARSET=UTF-8:Victoria Spartz (US House)
+N;CHARSET=UTF-8:Spartz (US House);Victoria;;;
 TEL;TYPE=WORK,VOICE:202-225-2276
 URL;CHARSET=UTF-8:https://spartz.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from IN\, District 5\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:15.929578
+REV:2025-03-22T19:59:02.544242
 END:VCARD

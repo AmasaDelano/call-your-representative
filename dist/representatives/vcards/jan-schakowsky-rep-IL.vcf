@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jan Schakowsky (IL House)
-N;CHARSET=UTF-8:Schakowsky (IL House);Jan;;;
+FN;CHARSET=UTF-8:Jan Schakowsky (US House)
+N;CHARSET=UTF-8:Schakowsky (US House);Jan;;;
 TEL;TYPE=WORK,VOICE:202-225-2111
 URL;CHARSET=UTF-8:https://schakowsky.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from IL\, District 9\n\nCommittees she's on:\n- Energy and Commerce\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:10.118897
+REV:2025-03-22T19:58:57.747255
 END:VCARD

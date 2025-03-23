@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Alexandria Ocasio-Cortez (NY House)
-N;CHARSET=UTF-8:Ocasio-Cortez (NY House);Alexandria;;;
+FN;CHARSET=UTF-8:Alexandria Ocasio-Cortez (US House)
+N;CHARSET=UTF-8:Ocasio-Cortez (US House);Alexandria;;;
 TEL;TYPE=WORK,VOICE:202-225-3965
 URL;CHARSET=UTF-8:https://ocasio-cortez.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from NY\, District 14\n\nCommittees she's on:\n- Energy and Commerce\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:14.631073
+REV:2025-03-22T19:59:01.408682
 END:VCARD

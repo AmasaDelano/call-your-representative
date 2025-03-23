@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Lloyd Smucker (PA House)
-N;CHARSET=UTF-8:Smucker (PA House);Lloyd;;;
+FN;CHARSET=UTF-8:Lloyd Smucker (US House)
+N;CHARSET=UTF-8:Smucker (US House);Lloyd;;;
 TEL;TYPE=WORK,VOICE:202-225-2411
 URL;CHARSET=UTF-8:https://smucker.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from PA\, District 11\n\nCommittees he's on:\n- The Budget\n- Ways and Means\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:13.664601
+REV:2025-03-22T19:59:00.503183
 END:VCARD

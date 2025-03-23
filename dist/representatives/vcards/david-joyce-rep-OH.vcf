@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:David Joyce (OH House)
-N;CHARSET=UTF-8:Joyce (OH House);David;;;
+FN;CHARSET=UTF-8:David Joyce (US House)
+N;CHARSET=UTF-8:Joyce (US House);David;;;
 TEL;TYPE=WORK,VOICE:202-225-5731
 URL;CHARSET=UTF-8:https://joyce.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from OH\, District 14\n\nCommittees he's on:\n- Appropriations\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:11.668825
+REV:2025-03-22T19:58:58.991278
 END:VCARD

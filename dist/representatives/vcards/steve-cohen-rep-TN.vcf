@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Steve Cohen (TN House)
-N;CHARSET=UTF-8:Cohen (TN House);Steve;;;
+FN;CHARSET=UTF-8:Steve Cohen (US House)
+N;CHARSET=UTF-8:Cohen (US House);Steve;;;
 TEL;TYPE=WORK,VOICE:202-225-3265
 URL;CHARSET=UTF-8:https://cohen.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from TN\, District 9\n\nCommittees he's on:\n- The Judiciary\n- Transportation and Infrastructure\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:08.514475
+REV:2025-03-22T19:58:56.162944
 END:VCARD

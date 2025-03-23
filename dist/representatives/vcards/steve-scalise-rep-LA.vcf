@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Steve Scalise (LA House)
-N;CHARSET=UTF-8:Scalise (LA House);Steve;;;
+FN;CHARSET=UTF-8:Steve Scalise (US House)
+N;CHARSET=UTF-8:Scalise (US House);Steve;;;
 TEL;TYPE=WORK,VOICE:202-225-3015
 URL;CHARSET=UTF-8:https://scalise.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from LA\, District 1\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:10.099763
+REV:2025-03-22T19:58:57.721068
 END:VCARD

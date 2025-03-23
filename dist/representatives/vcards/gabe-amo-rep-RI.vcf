@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Gabe Amo (RI House)
-N;CHARSET=UTF-8:Amo (RI House);Gabe;;;
+FN;CHARSET=UTF-8:Gabe Amo (US House)
+N;CHARSET=UTF-8:Amo (US House);Gabe;;;
 TEL;TYPE=WORK,VOICE:202-225-4911
 URL;CHARSET=UTF-8:https://amo.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from RI\, District 1\n\nCommittees he's on:\n- The Budget\n- Foreign Affairs\n- Science, Space, and Technology\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:19.475144
+REV:2025-03-22T19:59:06.246282
 END:VCARD

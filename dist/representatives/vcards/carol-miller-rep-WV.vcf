@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Carol Miller (WV House)
-N;CHARSET=UTF-8:Miller (WV House);Carol;;;
+FN;CHARSET=UTF-8:Carol Miller (US House)
+N;CHARSET=UTF-8:Miller (US House);Carol;;;
 TEL;TYPE=WORK,VOICE:202-225-3452
 URL;CHARSET=UTF-8:https://miller.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from WV\, District 1\n\nCommittees she's on:\n- Ways and Means\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:15.105697
+REV:2025-03-22T19:59:01.812523
 END:VCARD

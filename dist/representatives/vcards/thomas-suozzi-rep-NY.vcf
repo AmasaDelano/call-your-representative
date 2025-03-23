@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Thomas Suozzi (NY House)
-N;CHARSET=UTF-8:Suozzi (NY House);Thomas;;;
+FN;CHARSET=UTF-8:Thomas Suozzi (US House)
+N;CHARSET=UTF-8:Suozzi (US House);Thomas;;;
 TEL;TYPE=WORK,VOICE:202-225-3335
 URL;CHARSET=UTF-8:https://suozzi.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from NY\, District 3\n\nCommittees he's on:\n- Ways and Means\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:19.522715
+REV:2025-03-22T19:59:06.288526
 END:VCARD

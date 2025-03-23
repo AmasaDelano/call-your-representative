@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Sanford Bishop (GA House)
-N;CHARSET=UTF-8:Bishop (GA House);Sanford;;;
+FN;CHARSET=UTF-8:Sanford Bishop (US House)
+N;CHARSET=UTF-8:Bishop (US House);Sanford;;;
 TEL;TYPE=WORK,VOICE:202-225-3631
 URL;CHARSET=UTF-8:https://bishop.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from GA\, District 2\n\nCommittees he's on:\n- Appropriations\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:08.142880
+REV:2025-03-22T19:58:55.850297
 END:VCARD

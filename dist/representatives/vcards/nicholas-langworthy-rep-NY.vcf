@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Nicholas Langworthy (NY House)
-N;CHARSET=UTF-8:Langworthy (NY House);Nicholas;;;
+FN;CHARSET=UTF-8:Nicholas Langworthy (US House)
+N;CHARSET=UTF-8:Langworthy (US House);Nicholas;;;
 TEL;TYPE=WORK,VOICE:202-225-3161
 URL;CHARSET=UTF-8:https://langworthy.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from NY\, District 23\n\nCommittees he's on:\n- Oversight and Government Reform\n- Energy and Commerce\n- Rules\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:18.541299
+REV:2025-03-22T19:59:05.282662
 END:VCARD

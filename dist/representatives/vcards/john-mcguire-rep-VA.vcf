@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:John McGuire (VA House)
-N;CHARSET=UTF-8:McGuire (VA House);John;;;
+FN;CHARSET=UTF-8:John McGuire (US House)
+N;CHARSET=UTF-8:McGuire (US House);John;;;
 TEL;TYPE=WORK,VOICE:202-225-4711
 URL;CHARSET=UTF-8:https://mcguire.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from VA\, District 5\n\nCommittees he's on:\n- Armed Services\n- Oversight and Government Reform\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:27.026310
+REV:2025-03-22T19:59:18.440410
 END:VCARD

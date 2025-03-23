@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Adriano Espaillat (NY House)
-N;CHARSET=UTF-8:Espaillat (NY House);Adriano;;;
+FN;CHARSET=UTF-8:Adriano Espaillat (US House)
+N;CHARSET=UTF-8:Espaillat (US House);Adriano;;;
 TEL;TYPE=WORK,VOICE:202-225-4365
 URL;CHARSET=UTF-8:https://espaillat.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from NY\, District 13\n\nCommittees he's on:\n- Appropriations\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:13.623266
+REV:2025-03-22T19:59:00.467026
 END:VCARD

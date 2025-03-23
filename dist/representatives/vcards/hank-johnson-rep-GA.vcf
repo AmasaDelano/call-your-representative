@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Hank Johnson (GA House)
-N;CHARSET=UTF-8:Johnson (GA House);Hank;;;
+FN;CHARSET=UTF-8:Hank Johnson (US House)
+N;CHARSET=UTF-8:Johnson (US House);Hank;;;
 TEL;TYPE=WORK,VOICE:202-225-1605
 URL;CHARSET=UTF-8:https://hankjohnson.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from GA\, District 4\n\nCommittees he's on:\n- The Judiciary\n- Transportation and Infrastructure\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:09.243332
+REV:2025-03-22T19:58:56.766663
 END:VCARD

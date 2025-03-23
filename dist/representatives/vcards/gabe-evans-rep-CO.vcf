@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Gabe Evans (CO House)
-N;CHARSET=UTF-8:Evans (CO House);Gabe;;;
+FN;CHARSET=UTF-8:Gabe Evans (US House)
+N;CHARSET=UTF-8:Evans (US House);Gabe;;;
 TEL;TYPE=WORK,VOICE:202-225-5625
 URL;CHARSET=UTF-8:https://gabeevans.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from CO\, District 8\n\nCommittees he's on:\n- Homeland Security\n- Energy and Commerce\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:22.401718
+REV:2025-03-22T19:59:10.703943
 END:VCARD

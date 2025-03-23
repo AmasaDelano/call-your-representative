@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Warren Davidson (OH House)
-N;CHARSET=UTF-8:Davidson (OH House);Warren;;;
+FN;CHARSET=UTF-8:Warren Davidson (US House)
+N;CHARSET=UTF-8:Davidson (US House);Warren;;;
 TEL;TYPE=WORK,VOICE:202-225-6205
 URL;CHARSET=UTF-8:https://davidson.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from OH\, District 8\n\nCommittees he's on:\n- Financial Services\n- Foreign Affairs\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:12.840881
+REV:2025-03-22T19:58:59.897828
 END:VCARD

@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jack Bergman (MI House)
-N;CHARSET=UTF-8:Bergman (MI House);Jack;;;
+FN;CHARSET=UTF-8:Jack Bergman (US House)
+N;CHARSET=UTF-8:Bergman (US House);Jack;;;
 TEL;TYPE=WORK,VOICE:202-225-4735
 URL;CHARSET=UTF-8:https://bergman.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from MI\, District 1\n\nCommittees he's on:\n- Armed Services\n- The Budget\n- Veterans' Affairs\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:13.511425
+REV:2025-03-22T19:59:00.368446
 END:VCARD

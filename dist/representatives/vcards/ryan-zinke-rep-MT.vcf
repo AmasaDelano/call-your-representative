@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ryan Zinke (MT House)
-N;CHARSET=UTF-8:Zinke (MT House);Ryan;;;
+FN;CHARSET=UTF-8:Ryan Zinke (US House)
+N;CHARSET=UTF-8:Zinke (US House);Ryan;;;
 TEL;TYPE=WORK,VOICE:202-225-5628
 URL;CHARSET=UTF-8:https://zinke.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from MT\, District 1\n\nCommittees he's on:\n- Appropriations\n- Foreign Affairs\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:16.789716
+REV:2025-03-22T19:59:03.332648
 END:VCARD

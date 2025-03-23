@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Thomas Kean (NJ House)
-N;CHARSET=UTF-8:Kean (NJ House);Thomas;;;
+FN;CHARSET=UTF-8:Thomas Kean (US House)
+N;CHARSET=UTF-8:Kean (US House);Thomas;;;
 TEL;TYPE=WORK,VOICE:202-225-5361
 URL;CHARSET=UTF-8:https://kean.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from NJ\, District 7\n\nCommittees he's on:\n- Foreign Affairs\n- Energy and Commerce\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:18.287986
+REV:2025-03-22T19:59:04.979090
 END:VCARD

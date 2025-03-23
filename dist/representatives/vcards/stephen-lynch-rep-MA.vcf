@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Stephen Lynch (MA House)
-N;CHARSET=UTF-8:Lynch (MA House);Stephen;;;
+FN;CHARSET=UTF-8:Stephen Lynch (US House)
+N;CHARSET=UTF-8:Lynch (US House);Stephen;;;
 TEL;TYPE=WORK,VOICE:202-225-8273
 URL;CHARSET=UTF-8:https://lynch.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from MA\, District 8\n\nCommittees he's on:\n- Financial Services\n- Oversight and Government Reform\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:09.578371
+REV:2025-03-22T19:58:57.058344
 END:VCARD

@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Frank Mrvan (IN House)
-N;CHARSET=UTF-8:Mrvan (IN House);Frank;;;
+FN;CHARSET=UTF-8:Frank Mrvan (US House)
+N;CHARSET=UTF-8:Mrvan (US House);Frank;;;
 TEL;TYPE=WORK,VOICE:202-225-2461
 URL;CHARSET=UTF-8:https://mrvan.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from IN\, District 1\n\nCommittees he's on:\n- Appropriations\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:15.897853
+REV:2025-03-22T19:59:02.519735
 END:VCARD

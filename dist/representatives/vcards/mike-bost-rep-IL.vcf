@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Mike Bost (IL House)
-N;CHARSET=UTF-8:Bost (IL House);Mike;;;
+FN;CHARSET=UTF-8:Mike Bost (US House)
+N;CHARSET=UTF-8:Bost (US House);Mike;;;
 TEL;TYPE=WORK,VOICE:202-225-5661
 URL;CHARSET=UTF-8:https://bost.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from IL\, District 12\n\nCommittees he's on:\n- Agriculture\n- General Farm Commodities, Risk Management, and Credit\n- Transportation and Infrastructure\n- Veterans' Affairs\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:12.322104
+REV:2025-03-22T19:58:59.491045
 END:VCARD

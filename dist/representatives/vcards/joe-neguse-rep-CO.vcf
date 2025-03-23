@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Joe Neguse (CO House)
-N;CHARSET=UTF-8:Neguse (CO House);Joe;;;
+FN;CHARSET=UTF-8:Joe Neguse (US House)
+N;CHARSET=UTF-8:Neguse (US House);Joe;;;
 TEL;TYPE=WORK,VOICE:202-225-2161
 URL;CHARSET=UTF-8:https://neguse.house.gov
 NOTE;CHARSET=UTF-8:US Congress, Representative from CO\, District 2\n\nCommittees he's on:\n- Natural Resources\n- Federal Lands\n- Water, Wildlife and Fisheries\n- The Judiciary\n- Rules\n\n(Created 2025-03-22\, update info at CallYourRepresentative.us)
-REV:2025-03-22T15:09:14.060786
+REV:2025-03-22T19:59:00.918685
 END:VCARD
