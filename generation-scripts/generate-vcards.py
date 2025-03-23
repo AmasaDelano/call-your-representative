@@ -14,7 +14,7 @@ import yaml
 import urllib3
 from vcard.vcard_validator import VcardValidator
 
-USE_CACHED_DATA = False
+USE_CACHED_DATA = True
 OVERWRITE_IMAGES = False
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -39,21 +39,21 @@ def write_json_to_file(obj, path):
 def get_all_state_legislators():
     # DOWNLOAD OPENSTATES PEOPLE GIT REPO
     state_repo_local_path = "./generation-scripts/temp-data/states"
-    if os.path.exists(state_repo_local_path):
-        os.system(f"rmdir /S /Q '{state_repo_local_path}'")
-    os.mkdir(state_repo_local_path)
-    print("Cloning state member git repo...")
-    # First run these:
-    # git config --global core.longpaths true
-    git.Repo.clone_from("https://github.com/openstates/people.git", state_repo_local_path)
-    print("Done cloning state member git repo")
+    # if os.path.exists(state_repo_local_path):
+    #     os.system(f"rmdir /S /Q '{state_repo_local_path}'")
+    # os.mkdir(state_repo_local_path)
+    # print("Cloning state member git repo...")
+    # # First run these:
+    # # git config --global core.longpaths true
+    # git.Repo.clone_from("https://github.com/openstates/people.git", state_repo_local_path)
+    # print("Done cloning state member git repo")
 
     # PROCESS ALL THE LEGISLATURE PEOPLE FILES
     state_members = []
     state_committees = {}
 
     states = {}
-    with open("./generation-scripts/state-legislature.json", encoding="utf-8") as file:
+    with open("./generation-scripts/state-legislature-names.json", encoding="utf-8") as file:
         contents = file.read()
         states = json.loads(contents)
     for state in states.keys():
@@ -63,19 +63,19 @@ def get_all_state_legislators():
         file_names = os.listdir(committees_dir_path)
         state_committees[state] = []
         for file_name in file_names:
-            file_path = os.path.join(dir_path, file_name)
+            file_path = os.path.join(committees_dir_path, file_name)
             print(file_path)
             with open(file_path, encoding="utf-8") as file:
                 state_committee = yaml.safe_load(file)
                 state_committee = DefaultMunch.fromDict(state_committee)
                 state_committees[state].append(state_committee)
-                print(state_committee)
+                # print(state_committee)
 
         # LOAD LEGISLATURE
         legislature_dir_path = f"{state_repo_local_path}/data/{state.lower()}/legislature/"
         file_names = os.listdir(legislature_dir_path)
         for file_name in file_names:
-            file_path = os.path.join(dir_path, file_name)
+            file_path = os.path.join(legislature_dir_path, file_name)
             print(file_path)
             with open(file_path, encoding="utf-8") as file:
                 state_member = yaml.safe_load(file)
@@ -84,7 +84,15 @@ def get_all_state_legislators():
                 state_member = DefaultMunch.fromDict(state_member)
                 state_members.append(state_member)
 
-    return state_members
+    return (state_members, state_committees)
+
+def clean_committee_name(name, committee_type, state):
+    name = name.replace("House Committee on", "").replace("Senate Committee on", "").replace("Joint Committee on", "").replace("Committee on", "").replace("Committee", "").replace("Joint", "").replace("Legislative", "").replace("Commission on", "").replace("Permanent Subcommittee on", "").replace("House Permanent Select", "").replace("House Select", "").replace("Senate Select", "").replace("Senate Special", "").replace("United States Senate Caucus on", "").strip()
+    committee_type = committee_type
+    if committee_type == "joint" or (committee_type == "legislature" and state != "NE"):
+        name = f"{name} (Joint)"
+    name = f"{name[0].upper()}{name[1:]}"
+    return name
 
 lookup_data = {}
 missing_phone_numbers = []
@@ -234,14 +242,20 @@ if not os.path.exists(pic_directory):
 
 temp_data_dir = "./generation-scripts/temp-data/"
 state_members = []
+state_committees = {}
 if not USE_CACHED_DATA:
-    state_members = get_all_state_legislators()
-    print (f"About to write {len(state_members)} state rep records!")
+    (state_members, state_committees) = get_all_state_legislators()
+    print (f"About to write {len(state_members)} state rep and committee records!")
     if len(state_members) > 0:
         write_json_to_file(state_members, f"{temp_data_dir}state_reps.json")
+    if len(state_committees) > 0:
+        write_json_to_file(state_committees, f"{temp_data_dir}state_committees.json")
 if len(state_members) == 0:
     state_members = load_json_from_file(f"{temp_data_dir}state_reps.json")
-print(len(state_members))
+print(f"State members: {len(state_members)}")
+if len(state_committees) == 0:
+    state_committees = load_json_from_file(f"{temp_data_dir}state_committees.json")
+print(f"State committees: {len(state_committees)}")
 
 for member in state_members:
     gender = ""
@@ -260,9 +274,16 @@ for member in state_members:
     if rep_type == "lower":
         rep_type = member.lower_body.lower()
 
-    phone = None;
+    phone = None
     if member.offices is not None and len(member.offices) > 0:
         phone = member.offices[0].voice
+
+    def get_matching_committee(committee):
+        return any(m.person_id == member.id for m in committee.members)
+    matching_committees = filter(get_matching_committee, state_committees[state_abbr])
+    def get_committee_name(committee):
+        return clean_committee_name(committee.name, committee.chamber, member.state)
+    committee_names = list(map(get_committee_name, matching_committees))
 
     create_contact_card_and_lookup_data(
         id=member.id,
@@ -277,7 +298,7 @@ for member in state_members:
         district=member.roles[0].district,
         state_abbr=state_abbr,
         is_state=True,
-        committee_names=[],
+        committee_names=committee_names,
         img_url=member.image,
         website=website)
 
@@ -299,6 +320,7 @@ else:
     committees = load_json_from_file(f"{temp_data_dir}committees-current.json")
     committee_membership = load_json_from_file(f"{temp_data_dir}committee-membership-current.json")
 
+unique_committee_names = {}
 for member in members:
     current_term = member.terms[-1]
     
@@ -318,11 +340,8 @@ for member in members:
                     if matching_committee.thomas_id + subcommittee.thomas_id == committee_key:
                         return subcommittee
         matching_committee = find_matching_committee()
-        name = matching_committee.name.replace("House Committee on ", "").replace("Senate Committee on ", "").replace("Joint Committee on ", "")
-        committee_type = matching_committee.type
-        if committee_type == "joint":
-            name = f"{name} (Joint)"
-        name = f"{name[0].upper()}{name[1:]}"
+        name = clean_committee_name(matching_committee.name, matching_committee.type, member.state)
+        unique_committee_names[name] = ""
         return name
     committee_names = list(map(find_committee_name, committee_thomas_ids))
     # print(f"{member.name.last} of {current_term.state}: {committee_names}")
@@ -344,6 +363,7 @@ for member in members:
         img_url=f"https://unitedstates.github.io/images/congress/225x275/{member.id.bioguide}.jpg",
         website=current_term.contact_form or current_term.url)
 
+print("\n".join(unique_committee_names))
 
 write_json_to_file(lookup_data, f"./src/data/rep_lookup.json")
 write_json_to_file(missing_phone_numbers, f"./src/data/missing_phone_numbers.json")
