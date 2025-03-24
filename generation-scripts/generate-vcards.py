@@ -286,8 +286,8 @@ for member in state_members:
         rep_type = member.lower_body.lower()
 
     phone = None
-    offices_with_phones = list(filter(lambda o: o and o.voice, member.offices))
-    if offices_with_phones is not None and len(offices_with_phones) > 0:
+    offices_with_phones = [] if member.offices is None else list(filter(lambda o: o and o.voice, member.offices))
+    if len(offices_with_phones) > 0:
         phone = offices_with_phones[0].voice
 
     def get_matching_committee(committee):
