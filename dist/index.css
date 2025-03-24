@@ -3,19 +3,38 @@ section {
     margin-bottom: 0;
 }
 
+input {
+    outline: #b3b9c5 1px solid;
+}
+
+article {
+    border-radius: 20px;
+    background-color: rgb(36, 42, 56);
+}
+
 .rep-title > :nth-child(1) {
     align-self: end;
 }
 
 .rep-title > :nth-child(2) {
     align-self: start;
-    margin-bottom: 0;
+    margin-bottom: 5;
 }
 
-.rep-button,
-.rep-button > i {
+.rep-button > div {
+    text-align: center;
+}
+
+.rep-button > div > a,
+.rep-button > div > a > i {
     align-self: center;
     font-size: 1.25rem;
+}
+
+.rep-button > div > small {
+    display: block;
+    text-align: center;
+    padding-top: 8px;
 }
 
 section > a[role=button] > i {

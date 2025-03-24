@@ -29,7 +29,7 @@
 
 <body id="app">
     <header class="container">
-        <h1 v-cloak v-if="hasSearched"><a href="./">Home</a></h1>
+        <h1 v-cloak v-if="hasSearched"><a href="./">Back</a></h1>
     </header>
 
     <main class="container" v-bind:class="{ 'wide': hasSearched }">
@@ -39,7 +39,12 @@
             <h4>Call them when you have something to say.</h4>
             <!-- <h3>Let them know what you want.</h3> -->
             <label for="address">To start, enter your street address (US only):</label>
-            <input name="address" id="address" type="text" v-model="address" v-on:keydown.enter="searchWithAddress" />
+            <input name="address"
+                   id="address"
+                   type="text"
+                   v-model="address"
+                   v-on:keydown.enter="searchWithAddress"
+                   placeholder="Type full address..." />
             <button type="button" v-bind:class="{ 'outline': addressTooShort }" v-on:click="searchWithAddress"><i class="fa fa-search"></i> FIND REPRESENTATIVES</button>
             <article class="error" v-cloak v-if="addressInvalid || addressAccuracy < 1">
                 <span >Please enter your full address! </span>
@@ -81,13 +86,26 @@
                 <section class="rep-title">
                     <h3>{{ title(rep) }} {{ rep.first_name }} {{ rep.last_name }}</h3>
                     <p>{{ location(rep) }}</p>
+                    <small v-if="rep.contact_file"><em>Contact card contains {{ contact_contents(rep) }}.</em></small>
+                    <small v-if="!rep.contact_file"><em>Contact {{ obj_pronoun(rep) }} through {{ poss_pronoun(rep) }} website.</em></small>
                 </section>
-                <section>
-                    <a role="button" class="rep-button" v-bind:href="file('vcards', rep.contact_file, 'vcf')">
-                        <!-- <i class="fa fa-download" aria-hidden="true"></i> -->
-                        Download Contact Card 
-                        <i class="fa fa-address-card" aria-hidden="true"></i>
-                    </a>
+                <section class="rep-button">
+                    <div v-if="rep.contact_file">
+                        <a role="button"
+                           v-bind:href="file('vcards', rep.contact_file, 'vcf')">
+                            <!-- <i class="fa fa-download" aria-hidden="true"></i> -->
+                            Download Contact Card 
+                            <i class="fa fa-address-card" aria-hidden="true"></i>
+                        </a>
+                        <small><em>Secure download is encrypted.</em></small>
+                    </div>
+                    <div v-if="!rep.contact_file && rep.website">
+                        <a role="button"
+                           v-bind:href="rep.website">
+                            Visit Website 
+                            <i class="fa fa-share" aria-hidden="true"></i>
+                        </a>
+                    </div>
                 </section>
             </div>
         </div>
@@ -96,7 +114,7 @@
 
 
     <footer class="container">
-        <p>Copyright © Leone Software {{ new Date().getFullYear() }}</p>
+        <p v-cloak>An advocacy project by Alex Leone. This site is in the public domain.</p>
         <p><a href="https://www.paypal.com/donate/?hosted_button_id=555987ZW7T7WU" target="_blank">Donate</a>, if you want.</p>
         <!-- <p><a href="/by-state">Lookup representatives by state</a></p> -->
         <p><a href="https://github.com/AmasaDelano/call-your-representative/issues/new?title=I%20have%20a%20CallYourRepresentative.us%20issue" target="_blank">Report an issue</a></p>

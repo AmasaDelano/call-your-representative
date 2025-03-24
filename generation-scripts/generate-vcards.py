@@ -163,22 +163,29 @@ def create_contact_card_and_lookup_data(id, first_name, last_name, nickname, off
         committee_entries = f"\\n\\nCommittees {possessive_subject_pronoun} on:\\n- {"\\n- ".join(committee_names)}"
 
     file_name = f"{clean_for_filename(nickname)}-{clean_for_filename(last_name)}-{rep_type_abbr}-{state_abbr}"
-    if phone is None:
+    phone_found = bool(phone)
+    email_found = bool(email)
+    website_found = bool(website)
+    if not phone_found and not email_found and not website_found:
         missing_phone_numbers.append(f"{first_name} {last_name}")
-        print(f"Missing phone number for {role} {first_name} {last_name} ({id})")
+        print(f"Missing phone, email, and website for {role} {first_name} {last_name} ({id})")
         file_name = ""
     else:
+        phone_found = True
         contact_file_path = f"{representatives_directory}/{file_name}.vcf"
         with open(contact_file_path, "w", encoding="utf-8") as file:
             vcard_contents = f"""BEGIN:VCARD
 VERSION:3.0
 FN;CHARSET=UTF-8:{nickname} {last_name} ({chamber})
 N;CHARSET=UTF-8:{last_name} ({chamber});{nickname};;;
-TEL;TYPE=WORK,VOICE:{phone}
 """
-            if email:
+            if phone_found:
+                vcard_contents += f"TEL;TYPE=WORK,VOICE:{phone}\n"
+            
+            if email_found:
                 vcard_contents += f"EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:{email}"
-            elif website:
+                website_found = False
+            elif website_found:
                 vcard_contents += f"URL;CHARSET=UTF-8:{website.replace(",", "\\,").replace(";", "\\;")}"
                 
             vcard_contents += f"""
@@ -187,7 +194,8 @@ REV:{datetime.datetime.now().isoformat()}
 END:VCARD"""
             file.write(vcard_contents)
             validator = VcardValidator(contact_file_path, True)
-            # print(validator.result)
+            if validator.result:
+                print(validator.result)
 
         print(f"Created contact file {file_name} ({id})")
 
@@ -221,6 +229,9 @@ END:VCARD"""
         "district": district,
         "is_state": is_state,
         "contact_file": file_name,
+        "phone_found": phone_found,
+        "email_found": email_found,
+        "website_found": website_found,
         "img_found": img_found,
         "website": website
     }
@@ -275,8 +286,9 @@ for member in state_members:
         rep_type = member.lower_body.lower()
 
     phone = None
-    if member.offices is not None and len(member.offices) > 0:
-        phone = member.offices[0].voice
+    offices_with_phones = list(filter(lambda o: o and o.voice, member.offices))
+    if offices_with_phones is not None and len(offices_with_phones) > 0:
+        phone = offices_with_phones[0].voice
 
     def get_matching_committee(committee):
         return any(m.person_id == member.id for m in committee.members)

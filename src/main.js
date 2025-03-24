@@ -21,7 +21,8 @@ var repLookup = require("./data/rep_lookup");
                 addressAccuracy: 1,
                 state: "",
                 congressionalDistrict: "",
-                stateDistricts: [],
+                stateHouseDistrict: "",
+                stateSenateDistrict: "",
                 reps: []
             };
         },
@@ -31,9 +32,10 @@ var repLookup = require("./data/rep_lookup");
                 var districts = districtsRaw.split(",");
                 this.state = districts[0];
                 this.congressionalDistrict = districts[1];
-                this.stateDistricts = (districts.length > 2 && districts.slice(2)) || [];
+                this.stateHouseDistrict = districts[2];
+                this.stateSenateDistrict = districts[3];
 
-                this.loadReps(this.state, this.congressionalDistrict, this.stateDistricts);
+                this.loadReps(this.state, this.congressionalDistrict, this.stateHouseDistrict, this.stateSenateDistrict);
             }
         },
         computed: {
@@ -70,9 +72,8 @@ var repLookup = require("./data/rep_lookup");
                 function mapStateLegislativeDistrict(district) {
                     return district.district_number;
                 }
-                var houseDistrict = repsFromApi.fields.state_legislative_districts.house.map(mapStateLegislativeDistrict)[0];
-                var senateDistrict = repsFromApi.fields.state_legislative_districts.senate.map(mapStateLegislativeDistrict)[0];
-                this.stateDistricts = [houseDistrict, senateDistrict];
+                this.stateHouseDistrict = repsFromApi.fields.state_legislative_districts.house.map(mapStateLegislativeDistrict)[0];
+                this.stateSenateDistrict = repsFromApi.fields.state_legislative_districts.senate.map(mapStateLegislativeDistrict)[0];
 
                 var veryAccurate = ["rooftop", "point", "interpolation", "range_interpolation", "nearest_rooftop_match"];
                 // var prettyInaccurate = ["intersection", "street_center"];
@@ -85,18 +86,25 @@ var repLookup = require("./data/rep_lookup");
                 }
                 this.addressAccuracy = 1;
 
-                window.location.hash = "#" + [this.state, this.congressionalDistrict].concat(this.stateDistricts).join(",")
+                window.location.hash = "#" + [this.state, this.congressionalDistrict, this.stateHouseDistrict, this.stateSenateDistrict].join(",")
 
-                this.loadReps(this.state, this.congressionalDistrict, this.stateDistricts);
+                this.loadReps(this.state, this.congressionalDistrict, this.stateHouseDistrict, this.stateSenateDistrict);
             },
-            loadReps: function (state, congressionalDistrict, stateDistricts) {
+            loadReps: function (state, congressionalDistrict, stateHouseDistrict, stateSenateDistrict) {
+                function toString(text) {
+                    return (text || "").toString();
+                }
                 var us_reps = (function () {
                     return Object.values(repLookup).filter(function (rep) {
-                        if (rep.state === state && rep.rep_type === "sen" && !rep.is_state) {
+                        if (rep.is_state || rep.state !== state) {
+                            return false;
+                        }
+
+                        if (rep.rep_type === "sen") {
                             return true;
                         }
 
-                        if (rep.state === state && rep.rep_type === "rep" && (rep.district || "").toString() === congressionalDistrict && !rep.is_state) {
+                        if (toString(rep.district) === congressionalDistrict) {
                             return true;
                         }
 
@@ -106,11 +114,42 @@ var repLookup = require("./data/rep_lookup");
                 
                 var state_reps = (function () {
                     return Object.values(repLookup).filter(function (rep) {
-                        return rep.state === state && stateDistricts.indexOf((rep.district || "").toString()) !== -1 && rep.is_state;
+                        if (!rep.is_state || rep.state !== state) {
+                            return false;
+                        }
+                        
+                        if (rep.rep_type === "sen" && stateSenateDistrict === toString(rep.district)) {
+                            return true;
+                        }
+
+                        if (rep.rep_type !== "sen" && stateHouseDistrict === toString(rep.district)) {
+                            return true;
+                        }
+                        
+                        return false;
                     });
                 }());
                 
                 this.reps = state_reps.concat(us_reps);
+                this.reps.sort(function (a, b) {
+                    if (a.is_state && !b.is_state) {
+                        return -1; // a first
+                    }
+
+                    if (!a.is_state && b.is_state) {
+                        return 1; // b first
+                    }
+
+                    if (a.rep_type === "sen" && b.rep_type !== "sen") {
+                        return 1; // b first
+                    }
+
+                    if (a.rep_type !== "sen" && b.rep_type === "sen") {
+                        return -1; // a first
+                    }
+
+                    return 0;
+                });
                 console.log(this.reps);
 
                 this.hasSearched = true;
@@ -135,7 +174,7 @@ var repLookup = require("./data/rep_lookup");
                     return "Congress" + genderTitle;
                 } else if (rep.rep_type === "delegate") {
                     return "Delegate";
-                } else if (rep.rep_type === "assemly") {
+                } else if (rep.rep_type === "assembly") {
                     return "Assembly" + genderTitle;
                 } else {
                     return "Representative";
@@ -151,6 +190,46 @@ var repLookup = require("./data/rep_lookup");
 
                     return "US Congress, Congressional District " + rep.district + " of " + rep.state;
                 }
+            },
+            contact_contents: function (rep) {
+                parts = []
+                if (rep.phone_found) {
+                    parts.append("phone number");
+                }
+                if (rep.phone_found) {
+                    parts.append("email address");
+                }
+                if (rep.phone_found) {
+                    parts.append("submission form");
+                }
+
+                if (parts.length === 1) {
+                    return parts[0];
+                }
+                if (parts.length === 2) {
+                    return parts[0] + " and " + parts[1];
+                }
+                if (parts.length === 3) {
+                    return parts[0] + ", " + parts[1] + ", and " + parts[2];
+                }
+            },
+            obj_pronoun: function (rep) {
+                if (rep.gender === "F") {
+                    return "her";
+                }
+                if (rep.gender === "M") {
+                    return "him";
+                }
+                return "them";
+            },
+            poss_pronoun: function (rep) {
+                if (rep.gender === "F") {
+                    return "her";
+                }
+                if (rep.gender === "M") {
+                    return "his";
+                }
+                return "their";
             }
         }
     });
