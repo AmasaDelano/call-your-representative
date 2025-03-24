@@ -194,13 +194,12 @@ var repLookup = require("./data/rep_lookup");
             contact_contents: function (rep) {
                 parts = []
                 if (rep.phone_found) {
-                    parts.append("phone number");
+                    parts.push("phone number");
                 }
                 if (rep.phone_found) {
-                    parts.append("email address");
-                }
-                if (rep.phone_found) {
-                    parts.append("submission form");
+                    parts.push("email address");
+                } else if (rep.phone_found) {
+                    parts.push("submission form");
                 }
 
                 if (parts.length === 1) {
