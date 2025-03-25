@@ -68,6 +68,14 @@
             <article v-if="address">
                 <small><em>For address: <strong>{{ address }}</strong></em> <span v-if="addressAccuracy < 1">(Could be inaccurate)</span></small>
             </article>
+            <h4>How to use:</h4>
+            <ol>
+                <li>Download your representatives' contact cards below. (Scroll down!)</li>
+                <li>Open the cards to add them to your contact list.</li>
+                <li>On your contact list, search "representative" or "rep" to show all your representatives.</li>
+                <li>Next time you want something to change, or something to stay the same, give your reps a call!</li>
+                <li>Know that you are a good democratic citizen. :)</li>
+            </ol>
             <p>
                 <small>Copy and share <a v-bind:href="currentUrl">this URL</a> with others in your household. Share <a href="./">this page</a> with everyone else.</small>
             </p>
@@ -80,7 +88,8 @@
                         v-if="rep.img_found"
                         class="contact-photo"
                         v-bind:src="file('pics', rep.id, 'jpg')"
-                        alt="👤">
+                        alt="👤"
+                        height="250">
                     <p v-if="!rep.img_found" class="contact-photo">👤</p>
                 </section>
                 <section class="rep-title">
@@ -97,7 +106,7 @@
                             Download Contact Card 
                             <i class="fa fa-address-card" aria-hidden="true"></i>
                         </a>
-                        <small><em>Secure download is encrypted.</em></small>
+                        <small><em>Secure download is encrypted. <i class="fa fa-lock" aria-hidden="true"></i></em></small>
                     </div>
                     <div v-if="!rep.contact_file && rep.website">
                         <a role="button"
