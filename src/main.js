@@ -27,16 +27,12 @@ var repLookup = require("./data/rep_lookup");
             };
         },
         mounted: function () {
-            var districtsRaw = window.location.hash.substring(1);
-            if (districtsRaw) {
-                var districts = districtsRaw.split(",");
-                this.state = districts[0];
-                this.congressionalDistrict = districts[1];
-                this.stateHouseDistrict = districts[2];
-                this.stateSenateDistrict = districts[3];
+            this.loadRepsFromHash();
 
-                this.loadReps(this.state, this.congressionalDistrict, this.stateHouseDistrict, this.stateSenateDistrict);
-            }
+            var that = this;
+            window.addEventListener("hashchange", function () {
+                that.loadRepsFromHash();
+            });
         },
         computed: {
             addressTooShort: function () {
@@ -89,6 +85,22 @@ var repLookup = require("./data/rep_lookup");
                 window.location.hash = "#" + [this.state, this.congressionalDistrict, this.stateHouseDistrict, this.stateSenateDistrict].join(",")
 
                 this.loadReps(this.state, this.congressionalDistrict, this.stateHouseDistrict, this.stateSenateDistrict);
+            },
+            loadRepsFromHash: function () {
+                var districtsRaw = window.location.hash.substring(1);
+                if (districtsRaw) {
+                    var districts = districtsRaw.split(",");
+                    this.state = districts[0];
+                    this.congressionalDistrict = districts[1];
+                    this.stateHouseDistrict = districts[2];
+                    this.stateSenateDistrict = districts[3];
+    
+                    this.loadReps(this.state, this.congressionalDistrict, this.stateHouseDistrict, this.stateSenateDistrict);
+                } else {
+                    this.hasSearched = false;
+                    this.addressInvalid = false;
+                    this.addressAccuracy = 1;
+                }
             },
             loadReps: function (state, congressionalDistrict, stateHouseDistrict, stateSenateDistrict) {
                 function toString(text) {
@@ -153,7 +165,7 @@ var repLookup = require("./data/rep_lookup");
                 console.log(this.reps);
 
                 this.hasSearched = true;
-                this.addressIsInvalid = false;
+                this.addressInvalid = false;
             },
             file: function (folder, name, ext) {
                 return "./representatives/" + folder + "/" + name + "." + ext;
