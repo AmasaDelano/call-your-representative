@@ -96,3 +96,11 @@ footer p {
 h1 {
     margin-bottom: 0;
 }
+
+article ~ h4 {
+    margin-top: 0;
+}
+
+main.container {
+    padding-top: 0;
+}
