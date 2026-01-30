@@ -2,8 +2,8 @@ BEGIN:VCARD
 VERSION:3.0
 FN;CHARSET=UTF-8:Rob Leverett (GA House)
 N;CHARSET=UTF-8:Leverett (GA House);Rob;;;
-TEL;TYPE=WORK,VOICE:404-656-0213
+TEL;TYPE=WORK,VOICE:404-656-5132
 EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rob.leverett@house.ga.gov
-NOTE;CHARSET=UTF-8:Representative in GA Legislature\, District 123\n\nCommittees he's on:\n- Agriculture and Consumer Affairs\n- Governmental Affairs\n- Judiciary\n- Judiciary: Non-Civil\n- Reapportionment and Redistricting\n\n(Created 2025-03-24\, update info at CallYourRepresentative.us)
-REV:2025-03-24T16:22:15.336535
+NOTE;CHARSET=UTF-8:Representative in GA Legislature\, District 123\n\nCommittees he's on:\n- Agriculture and Consumer Affairs\n- Governmental Affairs\n- Judiciary\n- Judiciary: Non-Civil\n- Reapportionment and Redistricting\n- Rules\n\n(Created 2026-01-30\, update info at CallYourRepresentative.us)
+REV:2026-01-30T08:40:06.984325
 END:VCARD

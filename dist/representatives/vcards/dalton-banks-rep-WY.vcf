@@ -2,8 +2,8 @@ BEGIN:VCARD
 VERSION:3.0
 FN;CHARSET=UTF-8:Dalton Banks (WY House)
 N;CHARSET=UTF-8:Banks (WY House);Dalton;;;
-TEL;TYPE=WORK,VOICE:307-272-7255
+TEL;TYPE=WORK,VOICE:None
 EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:dalton.banks@wyoleg.gov
-NOTE;CHARSET=UTF-8:Representative in WY Legislature\, District 26\n\nCommittees he's on:\n- Agriculture, State and Public Lands and Water Resources (Joint)\n- Facilities, Technology and Process Select (Joint)\n- Transportation, Highways and Military Affairs (Joint)\n\n(Created 2025-03-24\, update info at CallYourRepresentative.us)
-REV:2025-03-24T16:29:23.114996
+NOTE;CHARSET=UTF-8:Representative in WY Legislature\, District 26\n\nCommittees he's on:\n- Agriculture, State and Public Lands and Water Resources (Joint)\n- Water Select (Joint)\n- Transportation, Highways and Military Affairs (Joint)\n\n(Created 2026-01-30\, update info at CallYourRepresentative.us)
+REV:2026-01-30T08:50:22.486334
 END:VCARD

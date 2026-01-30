@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Johnny DuPree (MS Senate)
+N;CHARSET=UTF-8:DuPree (MS Senate);Johnny;;;
+TEL;TYPE=WORK,VOICE:None
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jdupree@senate.ms.gov
+NOTE;CHARSET=UTF-8:Senator in MS Legislature\, District 45\n\n(Created 2026-01-30\, update info at CallYourRepresentative.us)
+REV:2026-01-30T08:42:13.853054
+END:VCARD

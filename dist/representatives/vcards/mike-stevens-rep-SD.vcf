@@ -2,8 +2,8 @@ BEGIN:VCARD
 VERSION:3.0
 FN;CHARSET=UTF-8:Mike Stevens (SD House)
 N;CHARSET=UTF-8:Stevens (SD House);Mike;;;
-TEL;TYPE=WORK,VOICE:605-773-3851
+TEL;TYPE=WORK,VOICE:None
 EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mike.stevens@sdlegislature.gov
-NOTE;CHARSET=UTF-8:Representative in SD Legislature\, District 18\n\nCommittees he's on:\n- Code Commission (Joint)\n- Education\n- Judiciary\n\n(Created 2025-03-24\, update info at CallYourRepresentative.us)
-REV:2025-03-24T16:28:07.056270
+NOTE;CHARSET=UTF-8:Representative in SD Legislature\, District 18\n\nCommittees he's on:\n- Education\n- Judiciary\n\n(Created 2026-01-30\, update info at CallYourRepresentative.us)
+REV:2026-01-30T08:48:33.050144
 END:VCARD

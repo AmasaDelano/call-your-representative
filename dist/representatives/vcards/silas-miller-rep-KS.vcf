@@ -2,8 +2,8 @@ BEGIN:VCARD
 VERSION:3.0
 FN;CHARSET=UTF-8:Silas Miller (KS House)
 N;CHARSET=UTF-8:Miller (KS House);Silas;;;
-TEL;TYPE=WORK,VOICE:785-296-7631
+TEL;TYPE=WORK,VOICE:None
 EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:silas.miller@house.ks.gov
-NOTE;CHARSET=UTF-8:Representative in KS Legislature\, District 86\n\nCommittees he's on:\n- Mental Health Special (Joint)\n- Education\n- Elections\n- Federal and State Affairs\n- Insurance\n\n(Created 2025-03-24\, update info at CallYourRepresentative.us)
-REV:2025-03-24T16:23:23.765279
+NOTE;CHARSET=UTF-8:Representative in KS Legislature\, District 86\n\nCommittees he's on:\n- Education\n- Elections\n- Federal and State Affairs\n- Insurance\n\n(Created 2026-01-30\, update info at CallYourRepresentative.us)
+REV:2026-01-30T08:41:00.142717
 END:VCARD
